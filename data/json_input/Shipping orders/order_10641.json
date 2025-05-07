@@ -1,0 +1,41 @@
+{
+  "OrderID": "10641",
+  "ShippingDetails": {
+    "ShipName": "HILARION-Abastos",
+    "ShipAddress": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "ShipCity": "San Cristóbal",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "5022",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HILAA",
+    "CustomerName": "HILARION-Abastos"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-22",
+    "ShippedDate": "2017-08-26",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 50,
+        "UnitPrice": 19.0,
+        "Total": 950.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 60,
+        "UnitPrice": 18.4,
+        "Total": 1104.0
+      }
+    ],
+    "TotalPrice": 2054.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10999",
+  "OrderDate": "2018-04-03",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 15,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 21,
+      "UnitPrice": 13.0
+    }
+  ]
+}

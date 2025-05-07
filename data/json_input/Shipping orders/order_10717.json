@@ -1,0 +1,47 @@
+{
+  "OrderID": "10717",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-24",
+    "ShippedDate": "2017-10-29",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 32,
+        "UnitPrice": 10.0,
+        "Total": 320.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 15,
+        "UnitPrice": 7.45,
+        "Total": 111.75
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 25,
+        "UnitPrice": 36.0,
+        "Total": 900.0
+      }
+    ],
+    "TotalPrice": 1331.75
+  }
+}

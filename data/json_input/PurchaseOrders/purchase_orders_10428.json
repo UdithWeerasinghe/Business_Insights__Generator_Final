@@ -1,0 +1,13 @@
+{
+  "OrderID": "10428",
+  "OrderDate": "2017-01-28",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 20,
+      "UnitPrice": 9.6
+    }
+  ]
+}

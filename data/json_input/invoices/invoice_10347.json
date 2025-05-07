@@ -1,0 +1,32 @@
+{
+  "OrderID": "10347",
+  "OrderDate": "2016-11-06",
+  "CustomerID": "FAMIA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 10,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 50,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 4,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 6,
+      "UnitPrice": 6.2
+    }
+  ]
+}

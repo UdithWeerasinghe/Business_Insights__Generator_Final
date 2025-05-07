@@ -1,0 +1,47 @@
+{
+  "OrderID": "10749",
+  "ShippingDetails": {
+    "ShipName": "Island Trading",
+    "ShipAddress": "Garden House Crowther Way",
+    "ShipCity": "Cowes",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "PO31 7PJ",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ISLAT",
+    "CustomerName": "Island Trading"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-20",
+    "ShippedDate": "2017-12-19",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 15,
+        "UnitPrice": 38.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 6,
+        "UnitPrice": 55.0,
+        "Total": 330.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 1080.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10654",
+  "OrderDate": "2017-09-02",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 12,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 6,
+      "UnitPrice": 7.45
+    }
+  ]
+}

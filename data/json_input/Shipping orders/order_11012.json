@@ -1,0 +1,47 @@
+{
+  "OrderID": "11012",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-09",
+    "ShippedDate": "2018-04-17",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 50,
+        "UnitPrice": 9.2,
+        "Total": 459.99999999999994
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 36,
+        "UnitPrice": 34.0,
+        "Total": 1224.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 60,
+        "UnitPrice": 21.5,
+        "Total": 1290.0
+      }
+    ],
+    "TotalPrice": 2974.0
+  }
+}

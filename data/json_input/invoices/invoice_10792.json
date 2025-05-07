@@ -1,0 +1,26 @@
+{
+  "OrderID": "10792",
+  "OrderDate": "2017-12-23",
+  "CustomerID": "WOLZA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 3,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    }
+  ]
+}

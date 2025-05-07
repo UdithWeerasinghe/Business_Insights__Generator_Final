@@ -1,0 +1,13 @@
+{
+  "OrderID": "10732",
+  "OrderDate": "2017-11-06",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10918",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-02",
+    "ShippedDate": "2018-03-11",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 60,
+        "UnitPrice": 18.0,
+        "Total": 1080.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 25,
+        "UnitPrice": 34.0,
+        "Total": 850.0
+      }
+    ],
+    "TotalPrice": 1930.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10682",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-25",
+    "ShippedDate": "2017-10-01",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 30,
+        "UnitPrice": 2.5,
+        "Total": 75.0
+      },
+      {
+        "Product": "Louisiana Hot Spiced Okra",
+        "Quantity": 4,
+        "UnitPrice": 17.0,
+        "Total": 68.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 30,
+        "UnitPrice": 7.75,
+        "Total": 232.5
+      }
+    ],
+    "TotalPrice": 375.5
+  }
+}

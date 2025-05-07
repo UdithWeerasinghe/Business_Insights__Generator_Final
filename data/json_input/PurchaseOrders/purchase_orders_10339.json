@@ -1,0 +1,25 @@
+{
+  "OrderID": "10339",
+  "OrderDate": "2016-10-28",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 10,
+      "UnitPrice": 17.6
+    },
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 70,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 28,
+      "UnitPrice": 39.4
+    }
+  ]
+}

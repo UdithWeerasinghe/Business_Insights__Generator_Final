@@ -1,0 +1,40 @@
+{
+  "OrderID": "10751",
+  "OrderDate": "2017-11-24",
+  "CustomerID": "RICSU",
+  "CustomerDetails": {
+    "ContactName": "Michael Holz",
+    "Address": "Grenzacherweg 237",
+    "City": "Genève",
+    "PostalCode": "1203",
+    "Country": "Switzerland",
+    "Phone": "0897-034214",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 12,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 30,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 20,
+      "UnitPrice": 16.25
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    }
+  ]
+}

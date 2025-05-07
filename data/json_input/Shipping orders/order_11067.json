@@ -1,0 +1,35 @@
+{
+  "OrderID": "11067",
+  "ShippingDetails": {
+    "ShipName": "Drachenblut Delikatessen",
+    "ShipAddress": "Walserweg 21",
+    "ShipCity": "Aachen",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "52066",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DRACD",
+    "CustomerName": "Drachenblut Delikatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-05-04",
+    "ShippedDate": "2018-05-06",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 9,
+        "UnitPrice": 9.65,
+        "Total": 86.85000000000001
+      }
+    ],
+    "TotalPrice": 86.85000000000001
+  }
+}

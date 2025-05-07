@@ -1,0 +1,47 @@
+{
+  "OrderID": "10882",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-11",
+    "ShippedDate": "2018-02-20",
+    "Products": [
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 25,
+        "UnitPrice": 14.0,
+        "Total": 350.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 20,
+        "UnitPrice": 20.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 32,
+        "UnitPrice": 7.45,
+        "Total": 238.4
+      }
+    ],
+    "TotalPrice": 988.4
+  }
+}

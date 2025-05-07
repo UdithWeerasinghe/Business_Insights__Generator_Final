@@ -1,0 +1,47 @@
+{
+  "OrderID": "10894",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-18",
+    "ShippedDate": "2018-02-20",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 28,
+        "UnitPrice": 6.0,
+        "Total": 168.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 50,
+        "UnitPrice": 36.0,
+        "Total": 1800.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 120,
+        "UnitPrice": 7.75,
+        "Total": 930.0
+      }
+    ],
+    "TotalPrice": 2898.0
+  }
+}

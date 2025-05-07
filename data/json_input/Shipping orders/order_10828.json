@@ -1,0 +1,41 @@
+{
+  "OrderID": "10828",
+  "ShippingDetails": {
+    "ShipName": "Rancho grande",
+    "ShipAddress": "Av. del Libertador 900",
+    "ShipCity": "Buenos Aires",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "1010",
+    "ShipCountry": "Argentina"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RANCH",
+    "CustomerName": "Rancho grande"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-13",
+    "ShippedDate": "2018-02-04",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 5,
+        "UnitPrice": 81.0,
+        "Total": 405.0
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 2,
+        "UnitPrice": 263.5,
+        "Total": 527.0
+      }
+    ],
+    "TotalPrice": 932.0
+  }
+}

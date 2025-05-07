@@ -1,0 +1,26 @@
+{
+  "OrderID": "10886",
+  "OrderDate": "2018-02-13",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 70,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 35,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 40,
+      "UnitPrice": 13.0
+    }
+  ]
+}

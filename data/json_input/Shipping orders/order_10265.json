@@ -1,0 +1,41 @@
+{
+  "OrderID": "10265",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-25",
+    "ShippedDate": "2016-08-12",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 30,
+        "UnitPrice": 31.2,
+        "Total": 936.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 20,
+        "UnitPrice": 12.0,
+        "Total": 240.0
+      }
+    ],
+    "TotalPrice": 1176.0
+  }
+}

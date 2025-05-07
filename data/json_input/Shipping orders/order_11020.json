@@ -1,0 +1,35 @@
+{
+  "OrderID": "11020",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-14",
+    "ShippedDate": "2018-04-16",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 24,
+        "UnitPrice": 31.0,
+        "Total": 744.0
+      }
+    ],
+    "TotalPrice": 744.0
+  }
+}

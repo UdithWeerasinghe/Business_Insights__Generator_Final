@@ -1,0 +1,47 @@
+{
+  "OrderID": "10564",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-10",
+    "ShippedDate": "2017-06-16",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 16,
+        "UnitPrice": 39.0,
+        "Total": 624.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 6,
+        "UnitPrice": 12.5,
+        "Total": 75.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 25,
+        "UnitPrice": 24.0,
+        "Total": 600.0
+      }
+    ],
+    "TotalPrice": 1299.0
+  }
+}

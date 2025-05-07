@@ -1,0 +1,34 @@
+{
+  "OrderID": "10461",
+  "OrderDate": "2017-02-28",
+  "CustomerID": "LILAS",
+  "CustomerDetails": {
+    "ContactName": "Carlos González",
+    "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "City": "Barquisimeto",
+    "PostalCode": "3508",
+    "Country": "Venezuela",
+    "Phone": "(9) 331-6954",
+    "Fax": "(9) 331-7256"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 28,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 60,
+      "UnitPrice": 19.2
+    }
+  ]
+}

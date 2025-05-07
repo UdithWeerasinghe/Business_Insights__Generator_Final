@@ -1,0 +1,35 @@
+{
+  "OrderID": "10914",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-27",
+    "ShippedDate": "2018-03-02",
+    "Products": [
+      {
+        "Product": "Flotemysost",
+        "Quantity": 25,
+        "UnitPrice": 21.5,
+        "Total": 537.5
+      }
+    ],
+    "TotalPrice": 537.5
+  }
+}

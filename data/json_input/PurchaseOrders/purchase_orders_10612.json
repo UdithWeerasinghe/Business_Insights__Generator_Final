@@ -1,0 +1,37 @@
+{
+  "OrderID": "10612",
+  "OrderDate": "2017-07-28",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 70,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 55,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 18,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 40,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 80,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10932",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-06",
+    "ShippedDate": "2018-03-24",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 30,
+        "UnitPrice": 17.45,
+        "Total": 523.5
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 14,
+        "UnitPrice": 49.3,
+        "Total": 690.1999999999999
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 16,
+        "UnitPrice": 34.8,
+        "Total": 556.8
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 20,
+        "UnitPrice": 7.75,
+        "Total": 155.0
+      }
+    ],
+    "TotalPrice": 1925.5
+  }
+}

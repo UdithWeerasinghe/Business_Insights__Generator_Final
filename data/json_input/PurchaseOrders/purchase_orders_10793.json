@@ -1,0 +1,19 @@
+{
+  "OrderID": "10793",
+  "OrderDate": "2017-12-24",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 14,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 8,
+      "UnitPrice": 7.0
+    }
+  ]
+}

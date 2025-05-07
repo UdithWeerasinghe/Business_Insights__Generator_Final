@@ -1,0 +1,19 @@
+{
+  "OrderID": "10835",
+  "OrderDate": "2018-01-15",
+  "CustomerName": "Maria Anders",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 15,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 2,
+      "UnitPrice": 13.0
+    }
+  ]
+}

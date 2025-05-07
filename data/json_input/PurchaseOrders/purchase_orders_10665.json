@@ -1,0 +1,25 @@
+{
+  "OrderID": "10665",
+  "OrderDate": "2017-09-11",
+  "CustomerName": "Fran Wilson",
+  "Products": [
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 1,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

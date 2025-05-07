@@ -1,0 +1,40 @@
+{
+  "OrderID": "10718",
+  "OrderDate": "2017-10-27",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "12",
+      "ProductName": "Queso Manchego La Pastora",
+      "Quantity": 36,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 20,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    }
+  ]
+}

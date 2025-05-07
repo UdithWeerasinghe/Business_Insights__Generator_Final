@@ -1,0 +1,35 @@
+{
+  "OrderID": "10617",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-31",
+    "ShippedDate": "2017-08-04",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 30,
+        "UnitPrice": 55.0,
+        "Total": 1650.0
+      }
+    ],
+    "TotalPrice": 1650.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10734",
+  "ShippingDetails": {
+    "ShipName": "Gourmet Lanchonetes",
+    "ShipAddress": "Av. Brasil, 442",
+    "ShipCity": "Campinas",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "04876-786",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GOURL",
+    "CustomerName": "Gourmet Lanchonetes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-07",
+    "ShippedDate": "2017-11-12",
+    "Products": [
+      {
+        "Product": "Grandma's Boysenberry Spread",
+        "Quantity": 30,
+        "UnitPrice": 25.0,
+        "Total": 750.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 15,
+        "UnitPrice": 25.89,
+        "Total": 388.35
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 1498.35
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10425",
+  "OrderDate": "2017-01-24",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 10,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

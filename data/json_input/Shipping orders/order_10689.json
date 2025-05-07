@@ -1,0 +1,35 @@
+{
+  "OrderID": "10689",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-01",
+    "ShippedDate": "2017-10-07",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 35,
+        "UnitPrice": 18.0,
+        "Total": 630.0
+      }
+    ],
+    "TotalPrice": 630.0
+  }
+}

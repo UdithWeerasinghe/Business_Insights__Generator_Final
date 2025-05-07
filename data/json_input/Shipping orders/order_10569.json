@@ -1,0 +1,41 @@
+{
+  "OrderID": "10569",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-16",
+    "ShippedDate": "2017-07-11",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 35,
+        "UnitPrice": 12.5,
+        "Total": 437.5
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      }
+    ],
+    "TotalPrice": 977.5
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10906",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-25",
+    "ShippedDate": "2018-03-03",
+    "Products": [
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 15,
+        "UnitPrice": 28.5,
+        "Total": 427.5
+      }
+    ],
+    "TotalPrice": 427.5
+  }
+}

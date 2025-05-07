@@ -1,0 +1,35 @@
+{
+  "OrderID": "10898",
+  "ShippingDetails": {
+    "ShipName": "Océano Atlántico Ltda.",
+    "ShipAddress": "Ing. Gustavo Moncada 8585 Piso 20-A",
+    "ShipCity": "Buenos Aires",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "1010",
+    "ShipCountry": "Argentina"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OCEAN",
+    "CustomerName": "Océano Atlántico Ltda."
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-20",
+    "ShippedDate": "2018-03-06",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 5,
+        "UnitPrice": 6.0,
+        "Total": 30.0
+      }
+    ],
+    "TotalPrice": 30.0
+  }
+}

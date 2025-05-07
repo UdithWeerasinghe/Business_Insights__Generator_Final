@@ -1,0 +1,47 @@
+{
+  "OrderID": "10857",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-28",
+    "ShippedDate": "2018-02-06",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 30,
+        "UnitPrice": 10.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 35,
+        "UnitPrice": 31.23,
+        "Total": 1093.05
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 10,
+        "UnitPrice": 123.79,
+        "Total": 1237.9
+      }
+    ],
+    "TotalPrice": 2630.95
+  }
+}

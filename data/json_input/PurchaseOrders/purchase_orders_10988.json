@@ -1,0 +1,19 @@
+{
+  "OrderID": "10988",
+  "OrderDate": "2018-03-31",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 60,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 40,
+      "UnitPrice": 49.3
+    }
+  ]
+}

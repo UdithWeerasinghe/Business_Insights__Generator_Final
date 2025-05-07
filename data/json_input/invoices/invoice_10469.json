@@ -1,0 +1,34 @@
+{
+  "OrderID": "10469",
+  "OrderDate": "2017-03-10",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 35,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 2,
+      "UnitPrice": 15.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10707",
+  "OrderDate": "2017-10-16",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 21,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 40,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 28,
+      "UnitPrice": 15.0
+    }
+  ]
+}

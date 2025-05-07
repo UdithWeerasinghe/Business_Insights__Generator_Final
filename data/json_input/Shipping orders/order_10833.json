@@ -1,0 +1,47 @@
+{
+  "OrderID": "10833",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-15",
+    "ShippedDate": "2018-01-23",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 20,
+        "UnitPrice": 30.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 9,
+        "UnitPrice": 12.5,
+        "Total": 112.5
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 9,
+        "UnitPrice": 32.8,
+        "Total": 295.2
+      }
+    ],
+    "TotalPrice": 1007.7
+  }
+}

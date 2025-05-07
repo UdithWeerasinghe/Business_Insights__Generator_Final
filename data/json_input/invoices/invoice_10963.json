@@ -1,0 +1,22 @@
+{
+  "OrderID": "10963",
+  "OrderDate": "2018-03-19",
+  "CustomerID": "FURIB",
+  "CustomerDetails": {
+    "ContactName": "Lino Rodriguez",
+    "Address": "Jardim das rosas n. 32",
+    "City": "Lisboa",
+    "PostalCode": "1675",
+    "Country": "Portugal",
+    "Phone": "(1) 354-2534",
+    "Fax": "(1) 354-2535"
+  },
+  "Products": [
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 2,
+      "UnitPrice": 34.0
+    }
+  ]
+}

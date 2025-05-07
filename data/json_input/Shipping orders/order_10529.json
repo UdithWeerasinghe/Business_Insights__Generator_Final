@@ -1,0 +1,47 @@
+{
+  "OrderID": "10529",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-07",
+    "ShippedDate": "2017-05-09",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 14,
+        "UnitPrice": 24.0,
+        "Total": 336.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 20,
+        "UnitPrice": 12.5,
+        "Total": 250.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 10,
+        "UnitPrice": 36.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 946.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10667",
+  "OrderDate": "2017-09-12",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 45,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 14,
+      "UnitPrice": 21.5
+    }
+  ]
+}

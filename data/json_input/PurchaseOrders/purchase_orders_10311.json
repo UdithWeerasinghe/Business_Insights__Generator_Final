@@ -1,0 +1,19 @@
+{
+  "OrderID": "10311",
+  "OrderDate": "2016-09-20",
+  "CustomerName": "Janine Labrune",
+  "Products": [
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 6,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 7,
+      "UnitPrice": 28.8
+    }
+  ]
+}

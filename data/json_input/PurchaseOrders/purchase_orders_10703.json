@@ -1,0 +1,25 @@
+{
+  "OrderID": "10703",
+  "OrderDate": "2017-10-14",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 5,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 35,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 35,
+      "UnitPrice": 15.0
+    }
+  ]
+}

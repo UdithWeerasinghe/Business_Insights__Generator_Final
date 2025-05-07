@@ -1,0 +1,19 @@
+{
+  "OrderID": "11049",
+  "OrderDate": "2018-04-24",
+  "CustomerName": "André Fonseca",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 4,
+      "UnitPrice": 38.0
+    }
+  ]
+}

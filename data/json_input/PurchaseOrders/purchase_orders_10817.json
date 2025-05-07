@@ -1,0 +1,31 @@
+{
+  "OrderID": "10817",
+  "OrderDate": "2018-01-06",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 40,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 30,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 60,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 25,
+      "UnitPrice": 49.3
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10720",
+  "OrderDate": "2017-10-28",
+  "CustomerID": "QUEDE",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 8,
+      "UnitPrice": 21.5
+    }
+  ]
+}

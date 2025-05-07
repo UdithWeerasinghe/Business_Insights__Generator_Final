@@ -1,0 +1,26 @@
+{
+  "OrderID": "10749",
+  "OrderDate": "2017-11-20",
+  "CustomerID": "ISLAT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 15,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 6,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10816",
+  "OrderDate": "2018-01-06",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 30,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    }
+  ]
+}

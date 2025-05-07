@@ -1,0 +1,31 @@
+{
+  "OrderID": "10312",
+  "OrderDate": "2016-09-23",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 4,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 36.8
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 6.2
+    }
+  ]
+}

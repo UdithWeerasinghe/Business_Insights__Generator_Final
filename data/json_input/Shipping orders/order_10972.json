@@ -1,0 +1,41 @@
+{
+  "OrderID": "10972",
+  "ShippingDetails": {
+    "ShipName": "La corne d-abondance",
+    "ShipAddress": "67, avenue de l-Europe",
+    "ShipCity": "Versailles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "78000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LACOR",
+    "CustomerName": "La corne d'abondance"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-24",
+    "ShippedDate": "2018-03-26",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 6,
+        "UnitPrice": 39.0,
+        "Total": 234.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 7,
+        "UnitPrice": 2.5,
+        "Total": 17.5
+      }
+    ],
+    "TotalPrice": 251.5
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "OrderID": "10553",
+  "OrderDate": "2017-05-30",
+  "CustomerID": "WARTH",
+  "CustomerDetails": {
+    "ContactName": "Pirkko Koskitalo",
+    "Address": "Torikatu 38",
+    "City": "Oulu",
+    "PostalCode": "90110",
+    "Country": "Finland",
+    "Phone": "981-443655",
+    "Fax": "981-443655"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 14,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 24,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 30,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 6,
+      "UnitPrice": 18.0
+    }
+  ]
+}

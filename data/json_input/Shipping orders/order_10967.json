@@ -1,0 +1,41 @@
+{
+  "OrderID": "10967",
+  "ShippingDetails": {
+    "ShipName": "Toms Spezialitäten",
+    "ShipAddress": "Luisenstr. 48",
+    "ShipCity": "Münster",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44087",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TOMSP",
+    "CustomerName": "Toms Spezialitäten"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-23",
+    "ShippedDate": "2018-04-02",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 12,
+        "UnitPrice": 9.2,
+        "Total": 110.39999999999999
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 40,
+        "UnitPrice": 20.0,
+        "Total": 800.0
+      }
+    ],
+    "TotalPrice": 910.4
+  }
+}

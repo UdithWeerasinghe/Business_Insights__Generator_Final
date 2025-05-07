@@ -1,0 +1,32 @@
+{
+  "OrderID": "10444",
+  "OrderDate": "2017-02-12",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 10,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 15,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 8,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 30,
+      "UnitPrice": 7.7
+    }
+  ]
+}

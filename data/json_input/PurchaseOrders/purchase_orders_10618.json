@@ -1,0 +1,25 @@
+{
+  "OrderID": "10618",
+  "OrderDate": "2017-08-01",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "6",
+      "Product": "Grandma's Boysenberry Spread",
+      "Quantity": 70,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    }
+  ]
+}

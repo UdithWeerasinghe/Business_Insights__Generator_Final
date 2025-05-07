@@ -1,0 +1,25 @@
+{
+  "OrderID": "10875",
+  "OrderDate": "2018-02-06",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 25,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 21,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 15,
+      "UnitPrice": 20.0
+    }
+  ]
+}

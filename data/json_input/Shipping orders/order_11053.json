@@ -1,0 +1,47 @@
+{
+  "OrderID": "11053",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-27",
+    "ShippedDate": "2018-04-29",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 35,
+        "UnitPrice": 62.5,
+        "Total": 2187.5
+      },
+      {
+        "Product": "Mascarpone Fabioli",
+        "Quantity": 20,
+        "UnitPrice": 32.0,
+        "Total": 640.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 25,
+        "UnitPrice": 33.25,
+        "Total": 831.25
+      }
+    ],
+    "TotalPrice": 3658.75
+  }
+}

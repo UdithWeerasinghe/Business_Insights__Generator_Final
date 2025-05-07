@@ -1,0 +1,25 @@
+{
+  "OrderID": "10956",
+  "OrderDate": "2018-03-17",
+  "CustomerName": "Hanna Moos",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 12,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 14,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 8,
+      "UnitPrice": 53.0
+    }
+  ]
+}

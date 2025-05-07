@@ -1,0 +1,35 @@
+{
+  "OrderID": "10505",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-14",
+    "ShippedDate": "2017-04-21",
+    "Products": [
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 3,
+        "UnitPrice": 49.3,
+        "Total": 147.89999999999998
+      }
+    ],
+    "TotalPrice": 147.89999999999998
+  }
+}

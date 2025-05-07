@@ -1,0 +1,31 @@
+{
+  "OrderID": "10455",
+  "OrderDate": "2017-02-24",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 50,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 25,
+      "UnitPrice": 22.8
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 17.2
+    }
+  ]
+}

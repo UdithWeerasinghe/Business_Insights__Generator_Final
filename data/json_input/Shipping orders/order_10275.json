@@ -1,0 +1,41 @@
+{
+  "OrderID": "10275",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-07",
+    "ShippedDate": "2016-08-09",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 12,
+        "UnitPrice": 3.6,
+        "Total": 43.2
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 6,
+        "UnitPrice": 44.0,
+        "Total": 264.0
+      }
+    ],
+    "TotalPrice": 307.2
+  }
+}

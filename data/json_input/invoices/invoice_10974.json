@@ -1,0 +1,22 @@
+{
+  "OrderID": "10974",
+  "OrderDate": "2018-03-25",
+  "CustomerID": "SPLIR",
+  "CustomerDetails": {
+    "ContactName": "Art Braunschweiger",
+    "Address": "P.O. Box 555",
+    "City": "Lander",
+    "PostalCode": "82520",
+    "Country": "USA",
+    "Phone": "(307) 555-4680",
+    "Fax": "(307) 555-6525"
+  },
+  "Products": [
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 10,
+      "UnitPrice": 43.9
+    }
+  ]
+}

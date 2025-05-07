@@ -1,0 +1,13 @@
+{
+  "OrderID": "10322",
+  "OrderDate": "2016-10-04",
+  "CustomerName": "Guillermo Fernández",
+  "Products": [
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 20,
+      "UnitPrice": 5.6
+    }
+  ]
+}

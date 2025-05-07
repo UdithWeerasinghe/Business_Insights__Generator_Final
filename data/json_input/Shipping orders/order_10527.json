@@ -1,0 +1,41 @@
+{
+  "OrderID": "10527",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-05",
+    "ShippedDate": "2017-05-07",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 50,
+        "UnitPrice": 22.0,
+        "Total": 1100.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      }
+    ],
+    "TotalPrice": 1670.0
+  }
+}

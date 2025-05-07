@@ -1,0 +1,47 @@
+{
+  "OrderID": "10356",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-18",
+    "ShippedDate": "2016-11-27",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 30,
+        "UnitPrice": 10.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 12,
+        "UnitPrice": 19.2,
+        "Total": 230.39999999999998
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 20,
+        "UnitPrice": 28.8,
+        "Total": 576.0
+      }
+    ],
+    "TotalPrice": 1106.4
+  }
+}

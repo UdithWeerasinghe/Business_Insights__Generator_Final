@@ -1,0 +1,32 @@
+{
+  "OrderID": "11001",
+  "OrderDate": "2018-04-06",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 60,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 25,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 25,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 6,
+      "UnitPrice": 24.0
+    }
+  ]
+}

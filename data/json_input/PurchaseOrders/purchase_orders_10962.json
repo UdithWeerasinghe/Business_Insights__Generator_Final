@@ -1,0 +1,37 @@
+{
+  "OrderID": "10962",
+  "OrderDate": "2018-03-19",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 45,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 77,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 9,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 44,
+      "UnitPrice": 18.0
+    }
+  ]
+}

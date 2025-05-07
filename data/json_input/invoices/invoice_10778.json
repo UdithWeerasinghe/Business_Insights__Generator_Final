@@ -1,0 +1,14 @@
+{
+  "OrderID": "10778",
+  "OrderDate": "2017-12-16",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 10,
+      "UnitPrice": 9.65
+    }
+  ]
+}

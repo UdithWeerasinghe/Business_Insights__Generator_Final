@@ -1,0 +1,31 @@
+{
+  "OrderID": "10832",
+  "OrderDate": "2018-01-14",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 3,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 16,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 3,
+      "UnitPrice": 33.25
+    }
+  ]
+}

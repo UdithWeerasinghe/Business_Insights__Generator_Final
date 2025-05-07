@@ -1,0 +1,53 @@
+{
+  "OrderID": "10605",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-21",
+    "ShippedDate": "2017-07-29",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 30,
+        "UnitPrice": 17.45,
+        "Total": 523.5
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 20,
+        "UnitPrice": 55.0,
+        "Total": 1100.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 70,
+        "UnitPrice": 34.0,
+        "Total": 2380.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 15,
+        "UnitPrice": 21.5,
+        "Total": 322.5
+      }
+    ],
+    "TotalPrice": 4326.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10815",
+  "OrderDate": "2018-01-05",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 16,
+      "UnitPrice": 2.5
+    }
+  ]
+}

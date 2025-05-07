@@ -1,0 +1,37 @@
+{
+  "OrderID": "10273",
+  "OrderDate": "2016-08-05",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 24,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 15,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 20,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 60,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 33,
+      "UnitPrice": 14.4
+    }
+  ]
+}

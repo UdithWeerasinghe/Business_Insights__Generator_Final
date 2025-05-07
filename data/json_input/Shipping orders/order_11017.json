@@ -1,0 +1,47 @@
+{
+  "OrderID": "11017",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-13",
+    "ShippedDate": "2018-04-20",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 25,
+        "UnitPrice": 10.0,
+        "Total": 250.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 110,
+        "UnitPrice": 55.0,
+        "Total": 6050.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 30,
+        "UnitPrice": 15.0,
+        "Total": 450.0
+      }
+    ],
+    "TotalPrice": 6750.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10935",
+  "OrderDate": "2018-03-09",
+  "CustomerID": "WELLI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 4,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 8,
+      "UnitPrice": 9.0
+    }
+  ]
+}

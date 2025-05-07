@@ -1,0 +1,53 @@
+{
+  "OrderID": "10700",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-10",
+    "ShippedDate": "2017-10-16",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 5,
+        "UnitPrice": 18.0,
+        "Total": 90.0
+      },
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 12,
+        "UnitPrice": 14.0,
+        "Total": 168.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 40,
+        "UnitPrice": 12.5,
+        "Total": 500.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 60,
+        "UnitPrice": 21.5,
+        "Total": 1290.0
+      }
+    ],
+    "TotalPrice": 2048.0
+  }
+}

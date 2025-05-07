@@ -1,0 +1,35 @@
+{
+  "OrderID": "10907",
+  "ShippingDetails": {
+    "ShipName": "Spécialités du monde",
+    "ShipAddress": "25, rue Lauriston",
+    "ShipCity": "Paris",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "75016",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPECD",
+    "CustomerName": "Spécialités du monde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-25",
+    "ShippedDate": "2018-02-27",
+    "Products": [
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 14,
+        "UnitPrice": 7.75,
+        "Total": 108.5
+      }
+    ],
+    "TotalPrice": 108.5
+  }
+}

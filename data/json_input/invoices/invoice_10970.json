@@ -1,0 +1,22 @@
+{
+  "OrderID": "10970",
+  "OrderDate": "2018-03-24",
+  "CustomerID": "BOLID",
+  "CustomerDetails": {
+    "ContactName": "Martín Sommer",
+    "Address": "C/ Araquil, 67",
+    "City": "Madrid",
+    "PostalCode": "28023",
+    "Country": "Spain",
+    "Phone": "(91) 555 22 82",
+    "Fax": "(91) 555 91 99"
+  },
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 40,
+      "UnitPrice": 7.0
+    }
+  ]
+}

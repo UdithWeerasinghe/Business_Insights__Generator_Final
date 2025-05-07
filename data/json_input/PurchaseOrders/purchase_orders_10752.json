@@ -1,0 +1,19 @@
+{
+  "OrderID": "10752",
+  "OrderDate": "2017-11-24",
+  "CustomerName": "Simon Crowther",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 8,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 3,
+      "UnitPrice": 36.0
+    }
+  ]
+}

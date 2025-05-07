@@ -1,0 +1,19 @@
+{
+  "OrderID": "10715",
+  "OrderDate": "2017-10-23",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 21,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 21.5
+    }
+  ]
+}

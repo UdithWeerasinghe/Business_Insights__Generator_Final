@@ -1,0 +1,47 @@
+{
+  "OrderID": "10618",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-01",
+    "ShippedDate": "2017-08-08",
+    "Products": [
+      {
+        "Product": "Grandma's Boysenberry Spread",
+        "Quantity": 70,
+        "UnitPrice": 25.0,
+        "Total": 1750.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 38.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 15,
+        "UnitPrice": 12.5,
+        "Total": 187.5
+      }
+    ],
+    "TotalPrice": 2697.5
+  }
+}

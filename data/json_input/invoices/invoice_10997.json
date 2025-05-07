@@ -1,0 +1,34 @@
+{
+  "OrderID": "10997",
+  "OrderDate": "2018-04-03",
+  "CustomerID": "LILAS",
+  "CustomerDetails": {
+    "ContactName": "Carlos González",
+    "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "City": "Barquisimeto",
+    "PostalCode": "3508",
+    "Country": "Venezuela",
+    "Phone": "(9) 331-6954",
+    "Fax": "(9) 331-7256"
+  },
+  "Products": [
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 50,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 20,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 20,
+      "UnitPrice": 7.0
+    }
+  ]
+}

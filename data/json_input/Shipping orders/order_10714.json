@@ -1,0 +1,59 @@
+{
+  "OrderID": "10714",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-22",
+    "ShippedDate": "2017-10-27",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 27,
+        "UnitPrice": 39.0,
+        "Total": 1053.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 50,
+        "UnitPrice": 9.5,
+        "Total": 475.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 18,
+        "UnitPrice": 38.0,
+        "Total": 684.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 12,
+        "UnitPrice": 13.25,
+        "Total": 159.0
+      }
+    ],
+    "TotalPrice": 2941.0
+  }
+}

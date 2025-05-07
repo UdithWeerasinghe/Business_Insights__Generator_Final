@@ -1,0 +1,41 @@
+{
+  "OrderID": "10471",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-11",
+    "ShippedDate": "2017-03-18",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 30,
+        "UnitPrice": 24.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 30.4,
+        "Total": 608.0
+      }
+    ],
+    "TotalPrice": 1328.0
+  }
+}

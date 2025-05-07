@@ -1,0 +1,28 @@
+{
+  "OrderID": "10785",
+  "OrderDate": "2017-12-18",
+  "CustomerID": "GROSR",
+  "CustomerDetails": {
+    "ContactName": "Manuel Pereira",
+    "Address": "5ª Ave. Los Palos Grandes",
+    "City": "Caracas",
+    "PostalCode": "1081",
+    "Country": "Venezuela",
+    "Phone": "(2) 283-2951",
+    "Fax": "(2) 283-3397"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 10,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 7.75
+    }
+  ]
+}

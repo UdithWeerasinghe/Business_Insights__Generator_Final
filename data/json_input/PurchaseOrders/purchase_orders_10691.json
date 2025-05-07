@@ -1,0 +1,37 @@
+{
+  "OrderID": "10691",
+  "OrderDate": "2017-10-03",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 40,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 40,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 24,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 48,
+      "UnitPrice": 49.3
+    }
+  ]
+}

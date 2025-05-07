@@ -1,0 +1,41 @@
+{
+  "OrderID": "10525",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-02",
+    "ShippedDate": "2017-05-23",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 15,
+        "UnitPrice": 18.4,
+        "Total": 276.0
+      }
+    ],
+    "TotalPrice": 846.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10736",
+  "OrderDate": "2017-11-11",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 40,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    }
+  ]
+}

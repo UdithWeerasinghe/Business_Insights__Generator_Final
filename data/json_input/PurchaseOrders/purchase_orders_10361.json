@@ -1,0 +1,19 @@
+{
+  "OrderID": "10361",
+  "OrderDate": "2016-11-22",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 54,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 55,
+      "UnitPrice": 27.2
+    }
+  ]
+}

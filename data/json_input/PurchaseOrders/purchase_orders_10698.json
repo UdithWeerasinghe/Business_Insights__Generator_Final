@@ -1,0 +1,37 @@
+{
+  "OrderID": "10698",
+  "OrderDate": "2017-10-09",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 8,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 12,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 65,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 8,
+      "UnitPrice": 15.0
+    }
+  ]
+}

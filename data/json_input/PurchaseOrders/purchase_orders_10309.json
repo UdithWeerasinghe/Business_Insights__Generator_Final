@@ -1,0 +1,37 @@
+{
+  "OrderID": "10309",
+  "OrderDate": "2016-09-19",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 20,
+      "UnitPrice": 17.6
+    },
+    {
+      "ProductID": "6",
+      "Product": "Grandma's Boysenberry Spread",
+      "Quantity": 30,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 2,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 20,
+      "UnitPrice": 36.8
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 3,
+      "UnitPrice": 17.2
+    }
+  ]
+}

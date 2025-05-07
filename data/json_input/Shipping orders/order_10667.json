@@ -1,0 +1,41 @@
+{
+  "OrderID": "10667",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-12",
+    "ShippedDate": "2017-09-19",
+    "Products": [
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 45,
+        "UnitPrice": 36.0,
+        "Total": 1620.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 14,
+        "UnitPrice": 21.5,
+        "Total": 301.0
+      }
+    ],
+    "TotalPrice": 1921.0
+  }
+}

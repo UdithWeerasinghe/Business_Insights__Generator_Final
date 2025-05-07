@@ -1,0 +1,47 @@
+{
+  "OrderID": "10727",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-03",
+    "ShippedDate": "2017-12-05",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 20,
+        "UnitPrice": 39.0,
+        "Total": 780.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 10,
+        "UnitPrice": 38.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 10,
+        "UnitPrice": 55.0,
+        "Total": 550.0
+      }
+    ],
+    "TotalPrice": 1710.0
+  }
+}

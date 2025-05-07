@@ -1,0 +1,20 @@
+{
+  "OrderID": "10961",
+  "OrderDate": "2018-03-19",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 6,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 60,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10734",
+  "OrderDate": "2017-11-07",
+  "CustomerName": "André Fonseca",
+  "Products": [
+    {
+      "ProductID": "6",
+      "Product": "Grandma's Boysenberry Spread",
+      "Quantity": 30,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

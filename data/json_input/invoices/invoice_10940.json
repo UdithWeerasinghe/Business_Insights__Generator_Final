@@ -1,0 +1,28 @@
+{
+  "OrderID": "10940",
+  "OrderDate": "2018-03-11",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 8,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    }
+  ]
+}

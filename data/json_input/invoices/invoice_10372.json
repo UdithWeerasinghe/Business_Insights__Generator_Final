@@ -1,0 +1,32 @@
+{
+  "OrderID": "10372",
+  "OrderDate": "2016-12-04",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 12,
+      "UnitPrice": 64.8
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 40,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 70,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 42,
+      "UnitPrice": 27.8
+    }
+  ]
+}

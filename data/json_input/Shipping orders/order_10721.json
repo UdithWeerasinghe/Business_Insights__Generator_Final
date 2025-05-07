@@ -1,0 +1,35 @@
+{
+  "OrderID": "10721",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-29",
+    "ShippedDate": "2017-10-31",
+    "Products": [
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 50,
+        "UnitPrice": 19.45,
+        "Total": 972.5
+      }
+    ],
+    "TotalPrice": 972.5
+  }
+}

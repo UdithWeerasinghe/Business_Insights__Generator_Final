@@ -1,0 +1,20 @@
+{
+  "OrderID": "10712",
+  "OrderDate": "2017-10-21",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 3,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10880",
+  "OrderDate": "2018-02-10",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 30,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 30,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 50,
+      "UnitPrice": 15.0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10877",
+  "OrderDate": "2018-02-09",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 25,
+      "UnitPrice": 62.5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10929",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-05",
+    "ShippedDate": "2018-03-12",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 60,
+        "UnitPrice": 10.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 49,
+        "UnitPrice": 7.75,
+        "Total": 379.75
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 15,
+        "UnitPrice": 13.0,
+        "Total": 195.0
+      }
+    ],
+    "TotalPrice": 1174.75
+  }
+}

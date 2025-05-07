@@ -1,0 +1,28 @@
+{
+  "OrderID": "10735",
+  "OrderDate": "2017-11-10",
+  "CustomerID": "LETSS",
+  "CustomerDetails": {
+    "ContactName": "Jaime Yorres",
+    "Address": "87 Polk St. Suite 5",
+    "City": "San Francisco",
+    "PostalCode": "94117",
+    "Country": "USA",
+    "Phone": "(415) 555-5938",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 2,
+      "UnitPrice": 13.0
+    }
+  ]
+}

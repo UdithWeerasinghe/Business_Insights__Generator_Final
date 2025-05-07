@@ -1,0 +1,34 @@
+{
+  "OrderID": "10910",
+  "OrderDate": "2018-02-26",
+  "CustomerID": "WILMK",
+  "CustomerDetails": {
+    "ContactName": "Matti Karttunen",
+    "Address": "Keskuskatu 45",
+    "City": "Helsinki",
+    "PostalCode": "21240",
+    "Country": "Finland",
+    "Phone": "90-224 8858",
+    "Fax": "90-224 8858"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 10,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 5,
+      "UnitPrice": 28.5
+    }
+  ]
+}

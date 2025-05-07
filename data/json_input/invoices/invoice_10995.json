@@ -1,0 +1,28 @@
+{
+  "OrderID": "10995",
+  "OrderDate": "2018-04-02",
+  "CustomerID": "PERIC",
+  "CustomerDetails": {
+    "ContactName": "Guillermo Fernández",
+    "Address": "Calle Dr. Jorge Cash 321",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 552-3745",
+    "Fax": "(5) 545-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 4,
+      "UnitPrice": 34.0
+    }
+  ]
+}

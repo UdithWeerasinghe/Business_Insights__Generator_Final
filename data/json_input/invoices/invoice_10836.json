@@ -1,0 +1,46 @@
+{
+  "OrderID": "10836",
+  "OrderDate": "2018-01-16",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 52,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 6,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 24,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 60,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 33.25
+    }
+  ]
+}

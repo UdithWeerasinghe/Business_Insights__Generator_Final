@@ -1,0 +1,31 @@
+{
+  "OrderID": "10823",
+  "OrderDate": "2018-01-09",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 20,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 15,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 40,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    }
+  ]
+}

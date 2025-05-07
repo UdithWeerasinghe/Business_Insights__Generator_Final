@@ -1,0 +1,28 @@
+{
+  "OrderID": "10520",
+  "OrderDate": "2017-04-29",
+  "CustomerID": "SANTG",
+  "CustomerDetails": {
+    "ContactName": "Jonas Bergulfsen",
+    "Address": "Erling Skakkes gate 78",
+    "City": "Stavern",
+    "PostalCode": "4110",
+    "Country": "Norway",
+    "Phone": "07-98 92 35",
+    "Fax": "07-98 92 47"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 8,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 5,
+      "UnitPrice": 32.8
+    }
+  ]
+}

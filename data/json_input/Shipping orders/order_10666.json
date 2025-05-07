@@ -1,0 +1,41 @@
+{
+  "OrderID": "10666",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-12",
+    "ShippedDate": "2017-09-22",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 36,
+        "UnitPrice": 123.79,
+        "Total": 4456.4400000000005
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 10,
+        "UnitPrice": 21.05,
+        "Total": 210.5
+      }
+    ],
+    "TotalPrice": 4666.9400000000005
+  }
+}

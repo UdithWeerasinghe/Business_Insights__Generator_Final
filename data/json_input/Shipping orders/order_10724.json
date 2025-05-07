@@ -1,0 +1,41 @@
+{
+  "OrderID": "10724",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-30",
+    "ShippedDate": "2017-11-05",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 16,
+        "UnitPrice": 31.0,
+        "Total": 496.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 5,
+        "UnitPrice": 28.5,
+        "Total": 142.5
+      }
+    ],
+    "TotalPrice": 638.5
+  }
+}

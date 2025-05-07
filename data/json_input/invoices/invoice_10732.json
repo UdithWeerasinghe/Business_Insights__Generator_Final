@@ -1,0 +1,22 @@
+{
+  "OrderID": "10732",
+  "OrderDate": "2017-11-06",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

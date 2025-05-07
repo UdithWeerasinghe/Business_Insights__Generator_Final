@@ -1,0 +1,34 @@
+{
+  "OrderID": "10706",
+  "OrderDate": "2017-10-16",
+  "CustomerID": "OLDWO",
+  "CustomerDetails": {
+    "ContactName": "Rene Phillips",
+    "Address": "2743 Bering St.",
+    "City": "Anchorage",
+    "PostalCode": "99508",
+    "Country": "USA",
+    "Phone": "(907) 555-7584",
+    "Fax": "(907) 555-2880"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 20,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 8,
+      "UnitPrice": 55.0
+    }
+  ]
+}

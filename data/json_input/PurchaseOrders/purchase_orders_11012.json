@@ -1,0 +1,25 @@
+{
+  "OrderID": "11012",
+  "OrderDate": "2018-04-09",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 50,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 36,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 60,
+      "UnitPrice": 21.5
+    }
+  ]
+}

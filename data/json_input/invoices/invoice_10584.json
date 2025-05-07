@@ -1,0 +1,22 @@
+{
+  "OrderID": "10584",
+  "OrderDate": "2017-06-30",
+  "CustomerID": "BLONP",
+  "CustomerDetails": {
+    "ContactName": "Frédérique Citeaux",
+    "Address": "24, place Kléber",
+    "City": "Strasbourg",
+    "PostalCode": "67000",
+    "Country": "France",
+    "Phone": "88.60.15.31",
+    "Fax": "88.60.15.32"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 50,
+      "UnitPrice": 12.5
+    }
+  ]
+}

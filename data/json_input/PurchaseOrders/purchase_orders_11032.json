@@ -1,0 +1,25 @@
+{
+  "OrderID": "11032",
+  "OrderDate": "2018-04-17",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 35,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 25,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 55.0
+    }
+  ]
+}

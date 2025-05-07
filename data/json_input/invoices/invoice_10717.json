@@ -1,0 +1,34 @@
+{
+  "OrderID": "10717",
+  "OrderDate": "2017-10-24",
+  "CustomerID": "FRANK",
+  "CustomerDetails": {
+    "ContactName": "Peter Franken",
+    "Address": "Berliner Platz 43",
+    "City": "München",
+    "PostalCode": "80805",
+    "Country": "Germany",
+    "Phone": "089-0877310",
+    "Fax": "089-0877451"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 32,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 15,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 25,
+      "UnitPrice": 36.0
+    }
+  ]
+}

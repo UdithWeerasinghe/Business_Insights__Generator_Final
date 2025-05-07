@@ -1,0 +1,40 @@
+{
+  "OrderID": "10342",
+  "OrderDate": "2016-10-30",
+  "CustomerID": "FRANK",
+  "CustomerDetails": {
+    "ContactName": "Peter Franken",
+    "Address": "Berliner Platz 43",
+    "City": "München",
+    "PostalCode": "80805",
+    "Country": "Germany",
+    "Phone": "089-0877310",
+    "Fax": "089-0877451"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 24,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 56,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 40,
+      "UnitPrice": 19.2
+    }
+  ]
+}

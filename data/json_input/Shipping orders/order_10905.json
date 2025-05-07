@@ -1,0 +1,35 @@
+{
+  "OrderID": "10905",
+  "ShippingDetails": {
+    "ShipName": "Wellington Importadora",
+    "ShipAddress": "Rua do Mercado, 12",
+    "ShipCity": "Resende",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "08737-363",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WELLI",
+    "CustomerName": "Wellington Importadora"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-24",
+    "ShippedDate": "2018-03-06",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 360.0
+  }
+}

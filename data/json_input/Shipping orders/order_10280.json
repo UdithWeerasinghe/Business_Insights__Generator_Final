@@ -1,0 +1,47 @@
+{
+  "OrderID": "10280",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-14",
+    "ShippedDate": "2016-09-12",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 12,
+        "UnitPrice": 3.6,
+        "Total": 43.2
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 20,
+        "UnitPrice": 19.2,
+        "Total": 384.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 30,
+        "UnitPrice": 6.2,
+        "Total": 186.0
+      }
+    ],
+    "TotalPrice": 613.2
+  }
+}

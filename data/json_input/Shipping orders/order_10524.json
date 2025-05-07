@@ -1,0 +1,53 @@
+{
+  "OrderID": "10524",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-01",
+    "ShippedDate": "2017-05-07",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 2,
+        "UnitPrice": 31.0,
+        "Total": 62.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 10,
+        "UnitPrice": 25.89,
+        "Total": 258.9
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 60,
+        "UnitPrice": 46.0,
+        "Total": 2760.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 15,
+        "UnitPrice": 7.45,
+        "Total": 111.75
+      }
+    ],
+    "TotalPrice": 3192.65
+  }
+}

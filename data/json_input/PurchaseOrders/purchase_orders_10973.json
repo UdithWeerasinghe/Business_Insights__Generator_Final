@@ -1,0 +1,25 @@
+{
+  "OrderID": "10973",
+  "OrderDate": "2018-03-24",
+  "CustomerName": "Daniel Tonini",
+  "Products": [
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 5,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 6,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 7.75
+    }
+  ]
+}

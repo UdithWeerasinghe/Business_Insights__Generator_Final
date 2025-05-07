@@ -1,0 +1,19 @@
+{
+  "OrderID": "10500",
+  "OrderDate": "2017-04-09",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "15",
+      "Product": "Genen Shouyu",
+      "Quantity": 12,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 8,
+      "UnitPrice": 45.6
+    }
+  ]
+}

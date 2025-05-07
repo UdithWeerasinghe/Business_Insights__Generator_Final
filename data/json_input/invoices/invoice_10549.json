@@ -1,0 +1,34 @@
+{
+  "OrderID": "10549",
+  "OrderDate": "2017-05-27",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 55,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 100,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 48,
+      "UnitPrice": 53.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10886",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-13",
+    "ShippedDate": "2018-03-02",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 70,
+        "UnitPrice": 31.0,
+        "Total": 2170.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 35,
+        "UnitPrice": 12.5,
+        "Total": 437.5
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 40,
+        "UnitPrice": 13.0,
+        "Total": 520.0
+      }
+    ],
+    "TotalPrice": 3127.5
+  }
+}

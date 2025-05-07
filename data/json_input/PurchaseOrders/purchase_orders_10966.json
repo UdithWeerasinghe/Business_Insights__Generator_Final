@@ -1,0 +1,25 @@
+{
+  "OrderID": "10966",
+  "OrderDate": "2018-03-20",
+  "CustomerName": "Yang Wang",
+  "Products": [
+    {
+      "ProductID": "37",
+      "Product": "Gravad lax",
+      "Quantity": 8,
+      "UnitPrice": 26.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 12,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 12,
+      "UnitPrice": 49.3
+    }
+  ]
+}

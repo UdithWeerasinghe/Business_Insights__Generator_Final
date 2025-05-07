@@ -1,0 +1,26 @@
+{
+  "OrderID": "10383",
+  "OrderDate": "2016-12-16",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 4.8
+    },
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 30.4
+    }
+  ]
+}

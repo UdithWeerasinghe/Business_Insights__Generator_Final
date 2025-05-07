@@ -1,0 +1,28 @@
+{
+  "OrderID": "10275",
+  "OrderDate": "2016-08-07",
+  "CustomerID": "MAGAA",
+  "CustomerDetails": {
+    "ContactName": "Giovanni Rovelli",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 6,
+      "UnitPrice": 44.0
+    }
+  ]
+}

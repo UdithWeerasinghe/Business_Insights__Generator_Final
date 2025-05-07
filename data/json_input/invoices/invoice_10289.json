@@ -1,0 +1,20 @@
+{
+  "OrderID": "10289",
+  "OrderDate": "2016-08-26",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "3",
+      "ProductName": "Aniseed Syrup",
+      "Quantity": 30,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 9,
+      "UnitPrice": 26.6
+    }
+  ]
+}

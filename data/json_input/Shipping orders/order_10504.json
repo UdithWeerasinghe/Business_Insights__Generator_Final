@@ -1,0 +1,53 @@
+{
+  "OrderID": "10504",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-11",
+    "ShippedDate": "2017-04-18",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 12,
+        "UnitPrice": 19.0,
+        "Total": 228.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 12,
+        "UnitPrice": 10.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 10,
+        "UnitPrice": 32.8,
+        "Total": 328.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 25,
+        "UnitPrice": 28.5,
+        "Total": 712.5
+      }
+    ],
+    "TotalPrice": 1388.5
+  }
+}

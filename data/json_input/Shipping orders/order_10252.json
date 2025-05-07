@@ -1,0 +1,47 @@
+{
+  "OrderID": "10252",
+  "ShippingDetails": {
+    "ShipName": "Suprêmes délices",
+    "ShipAddress": "Boulevard Tirou, 255",
+    "ShipCity": "Charleroi",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-6000",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SUPRD",
+    "CustomerName": "Suprêmes délices"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-09",
+    "ShippedDate": "2016-07-11",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 40,
+        "UnitPrice": 64.8,
+        "Total": 2592.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 25,
+        "UnitPrice": 2.0,
+        "Total": 50.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 40,
+        "UnitPrice": 27.2,
+        "Total": 1088.0
+      }
+    ],
+    "TotalPrice": 3730.0
+  }
+}

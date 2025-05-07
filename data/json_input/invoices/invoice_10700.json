@@ -1,0 +1,40 @@
+{
+  "OrderID": "10700",
+  "OrderDate": "2017-10-10",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 5,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 12,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 40,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 60,
+      "UnitPrice": 21.5
+    }
+  ]
+}

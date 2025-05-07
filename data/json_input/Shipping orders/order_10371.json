@@ -1,0 +1,35 @@
+{
+  "OrderID": "10371",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-03",
+    "ShippedDate": "2016-12-24",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 6,
+        "UnitPrice": 15.2,
+        "Total": 91.19999999999999
+      }
+    ],
+    "TotalPrice": 91.19999999999999
+  }
+}

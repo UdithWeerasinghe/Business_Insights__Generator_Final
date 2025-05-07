@@ -1,0 +1,34 @@
+{
+  "OrderID": "10882",
+  "OrderDate": "2018-02-11",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 25,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 20,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 32,
+      "UnitPrice": 7.45
+    }
+  ]
+}

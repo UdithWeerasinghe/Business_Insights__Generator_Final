@@ -1,0 +1,34 @@
+{
+  "OrderID": "10591",
+  "OrderDate": "2017-07-07",
+  "CustomerID": "VAFFE",
+  "CustomerDetails": {
+    "ContactName": "Palle Ibsen",
+    "Address": "Smagsloget 45",
+    "City": "Århus",
+    "PostalCode": "8200",
+    "Country": "Denmark",
+    "Phone": "86 21 32 43",
+    "Fax": "86 22 33 44"
+  },
+  "Products": [
+    {
+      "ProductID": "3",
+      "ProductName": "Aniseed Syrup",
+      "Quantity": 14,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 10,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 50,
+      "UnitPrice": 7.45
+    }
+  ]
+}

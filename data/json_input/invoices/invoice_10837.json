@@ -1,0 +1,32 @@
+{
+  "OrderID": "10837",
+  "OrderDate": "2018-01-16",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 6,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 25,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10575",
+  "OrderDate": "2017-06-20",
+  "CustomerID": "MORGK",
+  "CustomerDetails": {
+    "ContactName": "Alexander Feuer",
+    "Address": "Heerstr. 22",
+    "City": "Leipzig",
+    "PostalCode": "04179",
+    "Country": "Germany",
+    "Phone": "0342-023176",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 6,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 30,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

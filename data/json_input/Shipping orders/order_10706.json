@@ -1,0 +1,47 @@
+{
+  "OrderID": "10706",
+  "ShippingDetails": {
+    "ShipName": "Old World Delicatessen",
+    "ShipAddress": "2743 Bering St.",
+    "ShipCity": "Anchorage",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99508",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OLDWO",
+    "CustomerName": "Old World Delicatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-16",
+    "ShippedDate": "2017-10-21",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 20,
+        "UnitPrice": 17.45,
+        "Total": 349.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 24,
+        "UnitPrice": 46.0,
+        "Total": 1104.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 8,
+        "UnitPrice": 55.0,
+        "Total": 440.0
+      }
+    ],
+    "TotalPrice": 1893.0
+  }
+}

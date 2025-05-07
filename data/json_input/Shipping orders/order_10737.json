@@ -1,0 +1,41 @@
+{
+  "OrderID": "10737",
+  "ShippingDetails": {
+    "ShipName": "Vins et alcools Chevalier",
+    "ShipAddress": "59 rue de l-Abbaye",
+    "ShipCity": "Reims",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "51100",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VINET",
+    "CustomerName": "Vins et alcools Chevalier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-11",
+    "ShippedDate": "2017-11-18",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 4,
+        "UnitPrice": 6.0,
+        "Total": 24.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 9.65,
+        "Total": 115.80000000000001
+      }
+    ],
+    "TotalPrice": 139.8
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10855",
+  "OrderDate": "2018-01-27",
+  "CustomerID": "OLDWO",
+  "CustomerDetails": {
+    "ContactName": "Rene Phillips",
+    "Address": "2743 Bering St.",
+    "City": "Anchorage",
+    "PostalCode": "99508",
+    "Country": "USA",
+    "Phone": "(907) 555-7584",
+    "Fax": "(907) 555-2880"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 50,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 14,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 24,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 15,
+      "UnitPrice": 21.05
+    }
+  ]
+}

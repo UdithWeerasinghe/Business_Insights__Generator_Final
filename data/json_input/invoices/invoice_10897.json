@@ -1,0 +1,20 @@
+{
+  "OrderID": "10897",
+  "OrderDate": "2018-02-19",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 80,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 36,
+      "UnitPrice": 25.89
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "OrderID": "10458",
+  "OrderDate": "2017-02-26",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 30,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 20,
+      "UnitPrice": 36.8
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 15,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 50,
+      "UnitPrice": 17.2
+    }
+  ]
+}

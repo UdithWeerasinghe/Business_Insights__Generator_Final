@@ -1,0 +1,25 @@
+{
+  "OrderID": "10676",
+  "OrderDate": "2017-09-22",
+  "CustomerName": "Miguel Angel Paolino",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 2,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 7,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 21,
+      "UnitPrice": 19.45
+    }
+  ]
+}

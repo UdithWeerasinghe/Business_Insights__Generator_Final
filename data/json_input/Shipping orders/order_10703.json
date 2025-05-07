@@ -1,0 +1,47 @@
+{
+  "OrderID": "10703",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-14",
+    "ShippedDate": "2017-10-20",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 5,
+        "UnitPrice": 19.0,
+        "Total": 95.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 35,
+        "UnitPrice": 55.0,
+        "Total": 1925.0
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 35,
+        "UnitPrice": 15.0,
+        "Total": 525.0
+      }
+    ],
+    "TotalPrice": 2545.0
+  }
+}

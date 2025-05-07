@@ -1,0 +1,14 @@
+{
+  "OrderID": "10920",
+  "OrderDate": "2018-03-03",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 24,
+      "UnitPrice": 16.25
+    }
+  ]
+}

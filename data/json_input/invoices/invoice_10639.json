@@ -1,0 +1,22 @@
+{
+  "OrderID": "10639",
+  "OrderDate": "2017-08-20",
+  "CustomerID": "SANTG",
+  "CustomerDetails": {
+    "ContactName": "Jonas Bergulfsen",
+    "Address": "Erling Skakkes gate 78",
+    "City": "Stavern",
+    "PostalCode": "4110",
+    "Country": "Norway",
+    "Phone": "07-98 92 35",
+    "Fax": "07-98 92 47"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 8,
+      "UnitPrice": 62.5
+    }
+  ]
+}

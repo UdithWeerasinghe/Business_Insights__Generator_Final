@@ -1,0 +1,41 @@
+{
+  "OrderID": "10274",
+  "ShippingDetails": {
+    "ShipName": "Vins et alcools Chevalier",
+    "ShipAddress": "59 rue de l-Abbaye",
+    "ShipCity": "Reims",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "51100",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VINET",
+    "CustomerName": "Vins et alcools Chevalier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-06",
+    "ShippedDate": "2016-08-16",
+    "Products": [
+      {
+        "Product": "Flotemysost",
+        "Quantity": 20,
+        "UnitPrice": 17.2,
+        "Total": 344.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 7,
+        "UnitPrice": 27.8,
+        "Total": 194.6
+      }
+    ],
+    "TotalPrice": 538.6
+  }
+}

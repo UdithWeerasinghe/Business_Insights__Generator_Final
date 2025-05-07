@@ -1,0 +1,34 @@
+{
+  "OrderID": "10513",
+  "OrderDate": "2017-04-22",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 50,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 15,
+      "UnitPrice": 28.5
+    }
+  ]
+}

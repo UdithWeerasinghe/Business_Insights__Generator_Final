@@ -1,0 +1,13 @@
+{
+  "OrderID": "10320",
+  "OrderDate": "2016-10-03",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 17.2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "11024",
+  "ShippingDetails": {
+    "ShipName": "Eastern Connection",
+    "ShipAddress": "35 King George",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "WX3 6FW",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "EASTC",
+    "CustomerName": "Eastern Connection"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-15",
+    "ShippedDate": "2018-04-20",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 12,
+        "UnitPrice": 31.23,
+        "Total": 374.76
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 30,
+        "UnitPrice": 2.5,
+        "Total": 75.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 21,
+        "UnitPrice": 21.05,
+        "Total": 442.05
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 50,
+        "UnitPrice": 21.5,
+        "Total": 1075.0
+      }
+    ],
+    "TotalPrice": 1966.81
+  }
+}

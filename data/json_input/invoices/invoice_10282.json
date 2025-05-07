@@ -1,0 +1,28 @@
+{
+  "OrderID": "10282",
+  "OrderDate": "2016-08-15",
+  "CustomerID": "ROMEY",
+  "CustomerDetails": {
+    "ContactName": "Alejandra Camino",
+    "Address": "Gran Vía, 1",
+    "City": "Madrid",
+    "PostalCode": "28001",
+    "Country": "Spain",
+    "Phone": "(91) 745 6200",
+    "Fax": "(91) 745 6210"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 6,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 2,
+      "UnitPrice": 15.6
+    }
+  ]
+}

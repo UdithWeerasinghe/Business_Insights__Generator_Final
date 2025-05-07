@@ -1,0 +1,37 @@
+{
+  "OrderID": "10623",
+  "OrderDate": "2017-08-07",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 21,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 15,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 25,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 3,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    }
+  ]
+}

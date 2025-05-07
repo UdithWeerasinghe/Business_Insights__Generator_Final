@@ -1,0 +1,53 @@
+{
+  "OrderID": "10728",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-04",
+    "ShippedDate": "2017-11-11",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 15,
+        "UnitPrice": 25.89,
+        "Total": 388.35
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 6,
+        "UnitPrice": 18.4,
+        "Total": 110.39999999999999
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 12,
+        "UnitPrice": 24.0,
+        "Total": 288.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 15,
+        "UnitPrice": 34.0,
+        "Total": 510.0
+      }
+    ],
+    "TotalPrice": 1296.75
+  }
+}

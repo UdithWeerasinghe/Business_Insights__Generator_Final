@@ -1,0 +1,19 @@
+{
+  "OrderID": "10525",
+  "OrderDate": "2017-05-02",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 15,
+      "UnitPrice": 18.4
+    }
+  ]
+}

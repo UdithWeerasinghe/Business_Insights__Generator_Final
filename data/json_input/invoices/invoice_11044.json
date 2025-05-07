@@ -1,0 +1,14 @@
+{
+  "OrderID": "11044",
+  "OrderDate": "2018-04-23",
+  "CustomerID": "WOLZA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 12,
+      "UnitPrice": 49.3
+    }
+  ]
+}

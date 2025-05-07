@@ -1,0 +1,19 @@
+{
+  "OrderID": "10818",
+  "OrderDate": "2018-01-07",
+  "CustomerName": "Giovanni Rovelli",
+  "Products": [
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 20,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 9.65
+    }
+  ]
+}

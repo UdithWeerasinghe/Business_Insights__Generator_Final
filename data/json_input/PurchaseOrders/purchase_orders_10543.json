@@ -1,0 +1,19 @@
+{
+  "OrderID": "10543",
+  "OrderDate": "2017-05-21",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 70,
+      "UnitPrice": 9.0
+    }
+  ]
+}

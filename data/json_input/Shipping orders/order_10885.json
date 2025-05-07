@@ -1,0 +1,53 @@
+{
+  "OrderID": "10885",
+  "ShippingDetails": {
+    "ShipName": "Suprêmes délices",
+    "ShipAddress": "Boulevard Tirou, 255",
+    "ShipCity": "Charleroi",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-6000",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SUPRD",
+    "CustomerName": "Suprêmes délices"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-12",
+    "ShippedDate": "2018-02-18",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 12,
+        "UnitPrice": 4.5,
+        "Total": 54.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 30,
+        "UnitPrice": 15.0,
+        "Total": 450.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 25,
+        "UnitPrice": 13.0,
+        "Total": 325.0
+      }
+    ],
+    "TotalPrice": 1209.0
+  }
+}

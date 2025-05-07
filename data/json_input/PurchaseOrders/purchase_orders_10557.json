@@ -1,0 +1,19 @@
+{
+  "OrderID": "10557",
+  "OrderDate": "2017-06-03",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 33.25
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    }
+  ]
+}

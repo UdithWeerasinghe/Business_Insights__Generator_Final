@@ -1,0 +1,25 @@
+{
+  "OrderID": "10957",
+  "OrderDate": "2018-03-18",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 30,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 40,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 8,
+      "UnitPrice": 33.25
+    }
+  ]
+}

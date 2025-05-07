@@ -1,0 +1,26 @@
+{
+  "OrderID": "11056",
+  "OrderDate": "2018-04-28",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 40,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 35,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 50,
+      "UnitPrice": 34.0
+    }
+  ]
+}

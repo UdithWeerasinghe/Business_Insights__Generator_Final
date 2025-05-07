@@ -1,0 +1,13 @@
+{
+  "OrderID": "10441",
+  "OrderDate": "2017-02-10",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "27",
+      "Product": "Schoggi Schokolade",
+      "Quantity": 50,
+      "UnitPrice": 35.1
+    }
+  ]
+}

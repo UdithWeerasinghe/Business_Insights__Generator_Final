@@ -1,0 +1,47 @@
+{
+  "OrderID": "10267",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-29",
+    "ShippedDate": "2016-08-06",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 50,
+        "UnitPrice": 14.7,
+        "Total": 735.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 70,
+        "UnitPrice": 44.0,
+        "Total": 3080.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 15,
+        "UnitPrice": 14.4,
+        "Total": 216.0
+      }
+    ],
+    "TotalPrice": 4031.0
+  }
+}

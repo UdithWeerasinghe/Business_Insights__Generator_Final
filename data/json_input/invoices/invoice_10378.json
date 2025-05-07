@@ -1,0 +1,14 @@
+{
+  "OrderID": "10378",
+  "OrderDate": "2016-12-10",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 6,
+      "UnitPrice": 17.2
+    }
+  ]
+}

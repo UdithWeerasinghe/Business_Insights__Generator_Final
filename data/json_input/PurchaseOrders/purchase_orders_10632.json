@@ -1,0 +1,19 @@
+{
+  "OrderID": "10632",
+  "OrderDate": "2017-08-14",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 20,
+      "UnitPrice": 2.5
+    }
+  ]
+}

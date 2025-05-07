@@ -1,0 +1,31 @@
+{
+  "OrderID": "10524",
+  "OrderDate": "2017-05-01",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 2,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 60,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 15,
+      "UnitPrice": 7.45
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10868",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-04",
+    "ShippedDate": "2018-02-23",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 20,
+        "UnitPrice": 31.23,
+        "Total": 624.6
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 42,
+        "UnitPrice": 20.0,
+        "Total": 840.0
+      }
+    ],
+    "TotalPrice": 2004.6
+  }
+}

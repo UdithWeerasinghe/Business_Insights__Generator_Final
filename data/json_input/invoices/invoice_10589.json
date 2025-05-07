@@ -1,0 +1,22 @@
+{
+  "OrderID": "10589",
+  "OrderDate": "2017-07-04",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 4,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10888",
+  "OrderDate": "2018-02-16",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 18,
+      "UnitPrice": 12.5
+    }
+  ]
+}

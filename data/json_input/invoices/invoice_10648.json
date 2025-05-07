@@ -1,0 +1,20 @@
+{
+  "OrderID": "10648",
+  "OrderDate": "2017-08-28",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 15,
+      "UnitPrice": 4.5
+    }
+  ]
+}

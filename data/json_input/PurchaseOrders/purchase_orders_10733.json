@@ -1,0 +1,25 @@
+{
+  "OrderID": "10733",
+  "OrderDate": "2017-11-07",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 16,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 25,
+      "UnitPrice": 7.0
+    }
+  ]
+}

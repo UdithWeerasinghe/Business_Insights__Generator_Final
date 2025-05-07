@@ -1,0 +1,47 @@
+{
+  "OrderID": "10673",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-18",
+    "ShippedDate": "2017-09-19",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 3,
+        "UnitPrice": 17.45,
+        "Total": 52.349999999999994
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 6,
+        "UnitPrice": 14.0,
+        "Total": 84.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 6,
+        "UnitPrice": 46.0,
+        "Total": 276.0
+      }
+    ],
+    "TotalPrice": 412.35
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10310",
+  "ShippingDetails": {
+    "ShipName": "The Big Cheese",
+    "ShipAddress": "89 Jefferson Way Suite 2",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97201",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "THEBI",
+    "CustomerName": "The Big Cheese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-20",
+    "ShippedDate": "2016-09-27",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 10,
+        "UnitPrice": 13.9,
+        "Total": 139.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 5,
+        "UnitPrice": 39.4,
+        "Total": 197.0
+      }
+    ],
+    "TotalPrice": 336.0
+  }
+}

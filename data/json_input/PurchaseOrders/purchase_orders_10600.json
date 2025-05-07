@@ -1,0 +1,19 @@
+{
+  "OrderID": "10600",
+  "OrderDate": "2017-07-16",
+  "CustomerName": "Yoshi Latimer",
+  "Products": [
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 4,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

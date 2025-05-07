@@ -1,0 +1,47 @@
+{
+  "OrderID": "10287",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-22",
+    "ShippedDate": "2016-08-28",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 40,
+        "UnitPrice": 13.9,
+        "Total": 556.0
+      },
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 20,
+        "UnitPrice": 11.2,
+        "Total": 224.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 15,
+        "UnitPrice": 9.6,
+        "Total": 144.0
+      }
+    ],
+    "TotalPrice": 924.0
+  }
+}

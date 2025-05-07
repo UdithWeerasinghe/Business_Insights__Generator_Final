@@ -1,0 +1,53 @@
+{
+  "OrderID": "10347",
+  "ShippingDetails": {
+    "ShipName": "Familia Arquibaldo",
+    "ShipAddress": "Rua Orós, 92",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05442-030",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FAMIA",
+    "CustomerName": "Familia Arquibaldo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-06",
+    "ShippedDate": "2016-11-08",
+    "Products": [
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 10,
+        "UnitPrice": 11.2,
+        "Total": 112.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 50,
+        "UnitPrice": 14.4,
+        "Total": 720.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 4,
+        "UnitPrice": 14.7,
+        "Total": 58.8
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 6,
+        "UnitPrice": 6.2,
+        "Total": 37.2
+      }
+    ],
+    "TotalPrice": 928.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10631",
+  "OrderDate": "2017-08-14",
+  "CustomerID": "LAMAI",
+  "CustomerDetails": {
+    "ContactName": "Annette Roulet",
+    "Address": "1 rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "PostalCode": "31000",
+    "Country": "France",
+    "Phone": "61.77.61.10",
+    "Fax": "61.77.61.11"
+  },
+  "Products": [
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 8,
+      "UnitPrice": 7.75
+    }
+  ]
+}

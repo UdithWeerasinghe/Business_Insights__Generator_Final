@@ -1,0 +1,19 @@
+{
+  "OrderID": "10491",
+  "OrderDate": "2017-03-31",
+  "CustomerName": "Lino Rodriguez",
+  "Products": [
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 15,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 7,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10818",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-07",
+    "ShippedDate": "2018-01-12",
+    "Products": [
+      {
+        "Product": "Mascarpone Fabioli",
+        "Quantity": 20,
+        "UnitPrice": 32.0,
+        "Total": 640.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 9.65,
+        "Total": 193.0
+      }
+    ],
+    "TotalPrice": 833.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10431",
+  "OrderDate": "2017-01-30",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 50,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 50,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 30,
+      "UnitPrice": 7.6
+    }
+  ]
+}

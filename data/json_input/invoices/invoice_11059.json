@@ -1,0 +1,26 @@
+{
+  "OrderID": "11059",
+  "OrderDate": "2018-04-29",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 30,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 12,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 35,
+      "UnitPrice": 34.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10710",
+  "ShippingDetails": {
+    "ShipName": "Franchi S.p.A.",
+    "ShipAddress": "Via Monte Bianco 34",
+    "ShipCity": "Torino",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "10100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANS",
+    "CustomerName": "Franchi S.p.A."
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-20",
+    "ShippedDate": "2017-10-23",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 5,
+        "UnitPrice": 9.2,
+        "Total": 46.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 5,
+        "UnitPrice": 9.5,
+        "Total": 47.5
+      }
+    ],
+    "TotalPrice": 93.5
+  }
+}

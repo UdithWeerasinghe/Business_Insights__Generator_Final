@@ -1,0 +1,28 @@
+{
+  "OrderID": "10353",
+  "OrderDate": "2016-11-13",
+  "CustomerID": "PICCO",
+  "CustomerDetails": {
+    "ContactName": "Georg Pipps",
+    "Address": "Geislweg 14",
+    "City": "Salzburg",
+    "PostalCode": "5020",
+    "Country": "Austria",
+    "Phone": "6562-9722",
+    "Fax": "6562-9723"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 12,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 50,
+      "UnitPrice": 210.8
+    }
+  ]
+}

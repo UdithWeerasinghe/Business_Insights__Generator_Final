@@ -1,0 +1,35 @@
+{
+  "OrderID": "10899",
+  "ShippingDetails": {
+    "ShipName": "LILA-Supermercado",
+    "ShipAddress": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "ShipCity": "Barquisimeto",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "3508",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LILAS",
+    "CustomerName": "LILA-Supermercado"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-20",
+    "ShippedDate": "2018-02-26",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 8,
+        "UnitPrice": 18.0,
+        "Total": 144.0
+      }
+    ],
+    "TotalPrice": 144.0
+  }
+}

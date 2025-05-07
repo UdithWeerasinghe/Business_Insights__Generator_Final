@@ -1,0 +1,31 @@
+{
+  "OrderID": "11072",
+  "OrderDate": "2018-05-05",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 8,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 40,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 22,
+      "UnitPrice": 16.25
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 130,
+      "UnitPrice": 33.25
+    }
+  ]
+}

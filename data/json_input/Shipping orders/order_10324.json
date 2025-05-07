@@ -1,0 +1,59 @@
+{
+  "OrderID": "10324",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-08",
+    "ShippedDate": "2016-10-10",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 21,
+        "UnitPrice": 13.9,
+        "Total": 291.90000000000003
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 70,
+        "UnitPrice": 14.4,
+        "Total": 1008.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 30,
+        "UnitPrice": 9.6,
+        "Total": 288.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 40,
+        "UnitPrice": 44.0,
+        "Total": 1760.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 80,
+        "UnitPrice": 35.1,
+        "Total": 2808.0
+      }
+    ],
+    "TotalPrice": 6155.9
+  }
+}

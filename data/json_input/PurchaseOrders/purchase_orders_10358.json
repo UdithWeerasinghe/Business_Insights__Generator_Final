@@ -1,0 +1,25 @@
+{
+  "OrderID": "10358",
+  "OrderDate": "2016-11-20",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    }
+  ]
+}

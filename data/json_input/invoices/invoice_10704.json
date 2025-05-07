@@ -1,0 +1,26 @@
+{
+  "OrderID": "10704",
+  "OrderDate": "2017-10-14",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 6,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 35,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "48",
+      "ProductName": "Chocolade",
+      "Quantity": 24,
+      "UnitPrice": 12.75
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10497",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-04",
+    "ShippedDate": "2017-04-07",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 14,
+        "UnitPrice": 30.4,
+        "Total": 425.59999999999997
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 25,
+        "UnitPrice": 27.8,
+        "Total": 695.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 25,
+        "UnitPrice": 10.4,
+        "Total": 260.0
+      }
+    ],
+    "TotalPrice": 1380.6
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10417",
+  "OrderDate": "2017-01-16",
+  "CustomerID": "SIMOB",
+  "CustomerDetails": {
+    "ContactName": "Jytte Petersen",
+    "Address": "Vinbæltet 34",
+    "City": "Kobenhavn",
+    "PostalCode": "1734",
+    "Country": "Denmark",
+    "Phone": "31 12 34 56",
+    "Fax": "31 13 35 57"
+  },
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 50,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 2,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 36,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 35,
+      "UnitPrice": 10.4
+    }
+  ]
+}

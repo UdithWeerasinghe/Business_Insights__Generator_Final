@@ -1,0 +1,41 @@
+{
+  "OrderID": "10975",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-25",
+    "ShippedDate": "2018-03-27",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 16,
+        "UnitPrice": 40.0,
+        "Total": 640.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 10,
+        "UnitPrice": 7.75,
+        "Total": 77.5
+      }
+    ],
+    "TotalPrice": 717.5
+  }
+}

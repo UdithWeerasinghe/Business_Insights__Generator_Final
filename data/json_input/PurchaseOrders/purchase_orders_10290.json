@@ -1,0 +1,31 @@
+{
+  "OrderID": "10290",
+  "OrderDate": "2016-08-27",
+  "CustomerName": "Pedro Afonso",
+  "Products": [
+    {
+      "ProductID": "5",
+      "Product": "Chef Anton's Gumbo Mix",
+      "Quantity": 20,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 15,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 15,
+      "UnitPrice": 16.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 10.4
+    }
+  ]
+}

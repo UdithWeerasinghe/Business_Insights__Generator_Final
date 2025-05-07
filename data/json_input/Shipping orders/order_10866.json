@@ -1,0 +1,47 @@
+{
+  "OrderID": "10866",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-03",
+    "ShippedDate": "2018-02-12",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 21,
+        "UnitPrice": 19.0,
+        "Total": 399.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 6,
+        "UnitPrice": 4.5,
+        "Total": 27.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 40,
+        "UnitPrice": 25.89,
+        "Total": 1035.6
+      }
+    ],
+    "TotalPrice": 1461.6
+  }
+}

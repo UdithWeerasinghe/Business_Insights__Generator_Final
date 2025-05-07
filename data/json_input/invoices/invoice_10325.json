@@ -1,0 +1,46 @@
+{
+  "OrderID": "10325",
+  "OrderDate": "2016-10-09",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "6",
+      "ProductName": "Grandma's Boysenberry Spread",
+      "Quantity": 6,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 12,
+      "UnitPrice": 4.8
+    },
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 9,
+      "UnitPrice": 18.6
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 4,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 40,
+      "UnitPrice": 27.8
+    }
+  ]
+}

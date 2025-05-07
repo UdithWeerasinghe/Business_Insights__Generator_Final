@@ -1,0 +1,53 @@
+{
+  "OrderID": "10284",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-19",
+    "ShippedDate": "2016-08-27",
+    "Products": [
+      {
+        "Product": "Schoggi Schokolade",
+        "Quantity": 15,
+        "UnitPrice": 35.1,
+        "Total": 526.5
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 21,
+        "UnitPrice": 15.5,
+        "Total": 325.5
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 20,
+        "UnitPrice": 27.2,
+        "Total": 544.0
+      },
+      {
+        "Product": "Laughing Lumberjack Lager",
+        "Quantity": 5,
+        "UnitPrice": 11.2,
+        "Total": 56.0
+      }
+    ],
+    "TotalPrice": 1452.0
+  }
+}

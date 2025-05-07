@@ -1,0 +1,22 @@
+{
+  "OrderID": "10807",
+  "OrderDate": "2017-12-31",
+  "CustomerID": "FRANS",
+  "CustomerDetails": {
+    "ContactName": "Paolo Accorti",
+    "Address": "Via Monte Bianco 34",
+    "City": "Torino",
+    "PostalCode": "10100",
+    "Country": "Italy",
+    "Phone": "011-4988260",
+    "Fax": "011-4988261"
+  },
+  "Products": [
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 1,
+      "UnitPrice": 18.4
+    }
+  ]
+}

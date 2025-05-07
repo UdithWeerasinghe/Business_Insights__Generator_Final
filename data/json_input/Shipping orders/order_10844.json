@@ -1,0 +1,35 @@
+{
+  "OrderID": "10844",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-21",
+    "ShippedDate": "2018-01-26",
+    "Products": [
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 35,
+        "UnitPrice": 21.0,
+        "Total": 735.0
+      }
+    ],
+    "TotalPrice": 735.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10498",
+  "OrderDate": "2017-04-07",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 14,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 5,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10740",
+  "OrderDate": "2017-11-13",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 5,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 14,
+      "UnitPrice": 38.0
+    }
+  ]
+}

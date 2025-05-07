@@ -1,0 +1,19 @@
+{
+  "OrderID": "11011",
+  "OrderDate": "2018-04-09",
+  "CustomerName": "Maria Anders",
+  "Products": [
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 40,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 20,
+      "UnitPrice": 21.5
+    }
+  ]
+}

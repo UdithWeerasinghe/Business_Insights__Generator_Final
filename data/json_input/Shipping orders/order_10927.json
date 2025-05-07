@@ -1,0 +1,47 @@
+{
+  "OrderID": "10927",
+  "ShippingDetails": {
+    "ShipName": "La corne d-abondance",
+    "ShipAddress": "67, avenue de l-Europe",
+    "ShipCity": "Versailles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "78000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LACOR",
+    "CustomerName": "La corne d'abondance"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-05",
+    "ShippedDate": "2018-04-08",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 5,
+        "UnitPrice": 81.0,
+        "Total": 405.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 5,
+        "UnitPrice": 7.0,
+        "Total": 35.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 800.0
+  }
+}

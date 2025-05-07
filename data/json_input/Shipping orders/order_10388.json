@@ -1,0 +1,47 @@
+{
+  "OrderID": "10388",
+  "ShippingDetails": {
+    "ShipName": "Seven Seas Imports",
+    "ShipAddress": "90 Wadhurst Rd.",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "OX15 4NB",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SEVES",
+    "CustomerName": "Seven Seas Imports"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-19",
+    "ShippedDate": "2016-12-20",
+    "Products": [
+      {
+        "Product": "Rogede sild",
+        "Quantity": 15,
+        "UnitPrice": 7.6,
+        "Total": 114.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 20,
+        "UnitPrice": 5.6,
+        "Total": 112.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 40,
+        "UnitPrice": 26.2,
+        "Total": 1048.0
+      }
+    ],
+    "TotalPrice": 1274.0
+  }
+}

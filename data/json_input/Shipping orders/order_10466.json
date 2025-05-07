@@ -1,0 +1,41 @@
+{
+  "OrderID": "10466",
+  "ShippingDetails": {
+    "ShipName": "Comércio Mineiro",
+    "ShipAddress": "Av. dos Lusíadas, 23",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05432-043",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "COMMI",
+    "CustomerName": "Comércio Mineiro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-06",
+    "ShippedDate": "2017-03-13",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 10,
+        "UnitPrice": 16.8,
+        "Total": 168.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 5,
+        "UnitPrice": 9.6,
+        "Total": 48.0
+      }
+    ],
+    "TotalPrice": 216.0
+  }
+}

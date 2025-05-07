@@ -1,0 +1,19 @@
+{
+  "OrderID": "11025",
+  "OrderDate": "2018-04-15",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10949",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-13",
+    "ShippedDate": "2018-03-17",
+    "Products": [
+      {
+        "Product": "Grandma's Boysenberry Spread",
+        "Quantity": 12,
+        "UnitPrice": 25.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Ikura",
+        "Quantity": 30,
+        "UnitPrice": 31.0,
+        "Total": 930.0
+      },
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 6,
+        "UnitPrice": 39.0,
+        "Total": 234.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 60,
+        "UnitPrice": 49.3,
+        "Total": 2958.0
+      }
+    ],
+    "TotalPrice": 4422.0
+  }
+}

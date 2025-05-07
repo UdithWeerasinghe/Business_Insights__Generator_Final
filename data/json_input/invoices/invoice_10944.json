@@ -1,0 +1,26 @@
+{
+  "OrderID": "10944",
+  "OrderDate": "2018-03-12",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 5,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 18,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 18,
+      "UnitPrice": 38.0
+    }
+  ]
+}

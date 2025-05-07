@@ -1,0 +1,13 @@
+{
+  "OrderID": "10427",
+  "OrderDate": "2017-01-27",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 35,
+      "UnitPrice": 18.6
+    }
+  ]
+}

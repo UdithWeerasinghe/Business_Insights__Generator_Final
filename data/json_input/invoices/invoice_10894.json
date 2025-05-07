@@ -1,0 +1,34 @@
+{
+  "OrderID": "10894",
+  "OrderDate": "2018-02-18",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 28,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 50,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 120,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10642",
+  "OrderDate": "2017-08-22",
+  "CustomerID": "SIMOB",
+  "CustomerDetails": {
+    "ContactName": "Jytte Petersen",
+    "Address": "Vinbæltet 34",
+    "City": "Kobenhavn",
+    "PostalCode": "1734",
+    "Country": "Denmark",
+    "Phone": "31 12 34 56",
+    "Fax": "31 13 35 57"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    }
+  ]
+}

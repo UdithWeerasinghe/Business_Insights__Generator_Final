@@ -1,0 +1,26 @@
+{
+  "OrderID": "10253",
+  "OrderDate": "2016-07-10",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 42,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 40,
+      "UnitPrice": 16.0
+    }
+  ]
+}

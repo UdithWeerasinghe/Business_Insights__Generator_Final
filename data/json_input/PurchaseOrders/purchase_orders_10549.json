@@ -1,0 +1,25 @@
+{
+  "OrderID": "10549",
+  "OrderDate": "2017-05-27",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 55,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 100,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 48,
+      "UnitPrice": 53.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10633",
+  "OrderDate": "2017-08-15",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "12",
+      "ProductName": "Queso Manchego La Pastora",
+      "Quantity": 36,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 13,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 35,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 80,
+      "UnitPrice": 49.3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10987",
+  "OrderDate": "2018-03-31",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 60,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 6,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 20,
+      "UnitPrice": 34.8
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10697",
+  "OrderDate": "2017-10-08",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 7,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 9,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

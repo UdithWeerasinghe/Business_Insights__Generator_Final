@@ -1,0 +1,28 @@
+{
+  "OrderID": "10450",
+  "OrderDate": "2017-02-19",
+  "CustomerID": "VICTE",
+  "CustomerDetails": {
+    "ContactName": "Mary Saveley",
+    "Address": "2, rue du Commerce",
+    "City": "Lyon",
+    "PostalCode": "69004",
+    "Country": "France",
+    "Phone": "78.32.54.86",
+    "Fax": "78.32.54.87"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 20,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 6,
+      "UnitPrice": 5.9
+    }
+  ]
+}

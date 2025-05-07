@@ -1,0 +1,19 @@
+{
+  "OrderID": "10570",
+  "OrderDate": "2017-06-17",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 60,
+      "UnitPrice": 38.0
+    }
+  ]
+}

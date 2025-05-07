@@ -1,0 +1,19 @@
+{
+  "OrderID": "10902",
+  "OrderDate": "2018-02-23",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 30,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 6,
+      "UnitPrice": 49.3
+    }
+  ]
+}

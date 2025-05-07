@@ -1,0 +1,26 @@
+{
+  "OrderID": "10339",
+  "OrderDate": "2016-10-28",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 10,
+      "UnitPrice": 17.6
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 70,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 28,
+      "UnitPrice": 39.4
+    }
+  ]
+}

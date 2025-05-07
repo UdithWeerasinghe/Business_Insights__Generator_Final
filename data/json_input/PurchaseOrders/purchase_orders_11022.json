@@ -1,0 +1,19 @@
+{
+  "OrderID": "11022",
+  "OrderDate": "2018-04-14",
+  "CustomerName": "Mario Pontes",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 35,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 36.0
+    }
+  ]
+}

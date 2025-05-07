@@ -1,0 +1,32 @@
+{
+  "OrderID": "10572",
+  "OrderDate": "2017-06-18",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 12,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 10,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 50,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 15,
+      "UnitPrice": 7.75
+    }
+  ]
+}

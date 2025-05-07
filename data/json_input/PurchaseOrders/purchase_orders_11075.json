@@ -1,0 +1,25 @@
+{
+  "OrderID": "11075",
+  "OrderDate": "2018-05-06",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 2,
+      "UnitPrice": 18.0
+    }
+  ]
+}

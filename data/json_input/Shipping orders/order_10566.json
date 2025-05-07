@@ -1,0 +1,47 @@
+{
+  "OrderID": "10566",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-12",
+    "ShippedDate": "2017-06-18",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 35,
+        "UnitPrice": 21.0,
+        "Total": 735.0
+      },
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 18,
+        "UnitPrice": 62.5,
+        "Total": 1125.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 2040.0
+  }
+}

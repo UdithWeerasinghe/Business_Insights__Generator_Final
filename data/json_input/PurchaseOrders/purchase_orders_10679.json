@@ -1,0 +1,13 @@
+{
+  "OrderID": "10679",
+  "OrderDate": "2017-09-23",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 55.0
+    }
+  ]
+}

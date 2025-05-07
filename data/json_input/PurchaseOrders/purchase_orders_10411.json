@@ -1,0 +1,25 @@
+{
+  "OrderID": "10411",
+  "OrderDate": "2017-01-10",
+  "CustomerName": "Elizabeth Lincoln",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 25,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 40,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 9,
+      "UnitPrice": 44.0
+    }
+  ]
+}

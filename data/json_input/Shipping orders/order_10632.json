@@ -1,0 +1,41 @@
+{
+  "OrderID": "10632",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-14",
+    "ShippedDate": "2017-08-19",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 20,
+        "UnitPrice": 2.5,
+        "Total": 50.0
+      }
+    ],
+    "TotalPrice": 620.0
+  }
+}

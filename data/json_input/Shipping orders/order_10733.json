@@ -1,0 +1,47 @@
+{
+  "OrderID": "10733",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-07",
+    "ShippedDate": "2017-11-10",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 16,
+        "UnitPrice": 23.25,
+        "Total": 372.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 20,
+        "UnitPrice": 45.6,
+        "Total": 912.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 25,
+        "UnitPrice": 7.0,
+        "Total": 175.0
+      }
+    ],
+    "TotalPrice": 1459.0
+  }
+}

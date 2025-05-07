@@ -1,0 +1,40 @@
+{
+  "OrderID": "10255",
+  "OrderDate": "2016-07-12",
+  "CustomerID": "RICSU",
+  "CustomerDetails": {
+    "ContactName": "Michael Holz",
+    "Address": "Grenzacherweg 237",
+    "City": "Genève",
+    "PostalCode": "1203",
+    "Country": "Switzerland",
+    "Phone": "0897-034214",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 35,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 25,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 44.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10566",
+  "OrderDate": "2017-06-12",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 35,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 18,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

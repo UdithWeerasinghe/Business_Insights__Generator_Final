@@ -1,0 +1,22 @@
+{
+  "OrderID": "11037",
+  "OrderDate": "2018-04-21",
+  "CustomerID": "GODOS",
+  "CustomerDetails": {
+    "ContactName": "José Pedro Freyre",
+    "Address": "C/ Romero, 33",
+    "City": "Sevilla",
+    "PostalCode": "41101",
+    "Country": "Spain",
+    "Phone": "(95) 555 82 82",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 4,
+      "UnitPrice": 15.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10396",
+  "OrderDate": "2016-12-27",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 40,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 60,
+      "UnitPrice": 17.2
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 21,
+      "UnitPrice": 27.8
+    }
+  ]
+}

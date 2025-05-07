@@ -1,0 +1,41 @@
+{
+  "OrderID": "10301",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-09",
+    "ShippedDate": "2016-09-17",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 10,
+        "UnitPrice": 14.7,
+        "Total": 147.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 30.4,
+        "Total": 608.0
+      }
+    ],
+    "TotalPrice": 755.0
+  }
+}

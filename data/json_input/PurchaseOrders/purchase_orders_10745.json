@@ -1,0 +1,31 @@
+{
+  "OrderID": "10745",
+  "OrderDate": "2017-11-18",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 24,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 16,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 45,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 7,
+      "UnitPrice": 34.8
+    }
+  ]
+}

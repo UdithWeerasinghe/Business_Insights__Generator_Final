@@ -1,0 +1,38 @@
+{
+  "OrderID": "10406",
+  "OrderDate": "2017-01-07",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 10,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 30,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 42,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 5,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 2,
+      "UnitPrice": 14.7
+    }
+  ]
+}

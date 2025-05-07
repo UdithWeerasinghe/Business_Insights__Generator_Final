@@ -1,0 +1,19 @@
+{
+  "OrderID": "10429",
+  "OrderDate": "2017-01-29",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 40,
+      "UnitPrice": 13.0
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 35,
+      "UnitPrice": 35.1
+    }
+  ]
+}

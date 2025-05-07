@@ -1,0 +1,32 @@
+{
+  "OrderID": "10298",
+  "OrderDate": "2016-09-05",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 39.4
+    }
+  ]
+}

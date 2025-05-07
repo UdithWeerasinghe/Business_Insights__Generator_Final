@@ -1,0 +1,19 @@
+{
+  "OrderID": "11073",
+  "OrderDate": "2018-05-05",
+  "CustomerName": "Guillermo Fernández",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 20,
+      "UnitPrice": 4.5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10385",
+  "OrderDate": "2016-12-17",
+  "CustomerID": "SPLIR",
+  "CustomerDetails": {
+    "ContactName": "Art Braunschweiger",
+    "Address": "P.O. Box 555",
+    "City": "Lander",
+    "PostalCode": "82520",
+    "Country": "USA",
+    "Phone": "(307) 555-4680",
+    "Fax": "(307) 555-6525"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 10,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 20,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 8,
+      "UnitPrice": 10.0
+    }
+  ]
+}

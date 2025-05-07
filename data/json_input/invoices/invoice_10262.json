@@ -1,0 +1,34 @@
+{
+  "OrderID": "10262",
+  "OrderDate": "2016-07-22",
+  "CustomerID": "RATTC",
+  "CustomerDetails": {
+    "ContactName": "Paula Wilson",
+    "Address": "2817 Milton Dr.",
+    "City": "Albuquerque",
+    "PostalCode": "87110",
+    "Country": "USA",
+    "Phone": "(505) 555-5939",
+    "Fax": "(505) 555-3620"
+  },
+  "Products": [
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 12,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 15,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 2,
+      "UnitPrice": 30.4
+    }
+  ]
+}

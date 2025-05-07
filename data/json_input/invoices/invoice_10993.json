@@ -1,0 +1,20 @@
+{
+  "OrderID": "10993",
+  "OrderDate": "2018-04-01",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 50,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 35,
+      "UnitPrice": 9.65
+    }
+  ]
+}

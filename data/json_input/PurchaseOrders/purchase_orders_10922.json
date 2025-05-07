@@ -1,0 +1,19 @@
+{
+  "OrderID": "10922",
+  "OrderDate": "2018-03-03",
+  "CustomerName": "Mario Pontes",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 15,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 35,
+      "UnitPrice": 4.5
+    }
+  ]
+}

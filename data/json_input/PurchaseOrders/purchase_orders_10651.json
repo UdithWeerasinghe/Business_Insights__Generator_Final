@@ -1,0 +1,19 @@
+{
+  "OrderID": "10651",
+  "OrderDate": "2017-09-01",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 20,
+      "UnitPrice": 21.0
+    }
+  ]
+}

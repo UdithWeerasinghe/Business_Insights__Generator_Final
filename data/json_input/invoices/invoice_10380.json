@@ -1,0 +1,32 @@
+{
+  "OrderID": "10380",
+  "OrderDate": "2016-12-12",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 18,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 6,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    }
+  ]
+}

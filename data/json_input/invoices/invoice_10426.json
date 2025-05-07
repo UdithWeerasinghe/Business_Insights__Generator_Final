@@ -1,0 +1,28 @@
+{
+  "OrderID": "10426",
+  "OrderDate": "2017-01-27",
+  "CustomerID": "GALED",
+  "CustomerDetails": {
+    "ContactName": "Eduardo Saavedra",
+    "Address": "Rambla de Cataluña, 23",
+    "City": "Barcelona",
+    "PostalCode": "08022",
+    "Country": "Spain",
+    "Phone": "(93) 203 4560",
+    "Fax": "(93) 203 4561"
+  },
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 5,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 7,
+      "UnitPrice": 26.6
+    }
+  ]
+}

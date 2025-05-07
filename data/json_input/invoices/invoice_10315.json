@@ -1,0 +1,20 @@
+{
+  "OrderID": "10315",
+  "OrderDate": "2016-09-26",
+  "CustomerID": "ISLAT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 14,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    }
+  ]
+}

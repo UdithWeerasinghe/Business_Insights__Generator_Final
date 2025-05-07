@@ -1,0 +1,25 @@
+{
+  "OrderID": "10490",
+  "OrderDate": "2017-03-31",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 60,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 36,
+      "UnitPrice": 6.2
+    }
+  ]
+}

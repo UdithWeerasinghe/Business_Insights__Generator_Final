@@ -1,0 +1,47 @@
+{
+  "OrderID": "10362",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-25",
+    "ShippedDate": "2016-11-28",
+    "Products": [
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 50,
+        "UnitPrice": 11.2,
+        "Total": 560.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 20,
+        "UnitPrice": 42.4,
+        "Total": 848.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 24,
+        "UnitPrice": 5.9,
+        "Total": 141.60000000000002
+      }
+    ],
+    "TotalPrice": 1549.6
+  }
+}

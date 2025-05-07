@@ -1,0 +1,41 @@
+{
+  "OrderID": "10578",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-24",
+    "ShippedDate": "2017-07-25",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 6,
+        "UnitPrice": 19.5,
+        "Total": 117.0
+      }
+    ],
+    "TotalPrice": 477.0
+  }
+}

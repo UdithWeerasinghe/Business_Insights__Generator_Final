@@ -1,0 +1,41 @@
+{
+  "OrderID": "10708",
+  "ShippingDetails": {
+    "ShipName": "The Big Cheese",
+    "ShipAddress": "89 Jefferson Way Suite 2",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97201",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "THEBI",
+    "CustomerName": "The Big Cheese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-17",
+    "ShippedDate": "2017-11-05",
+    "Products": [
+      {
+        "Product": "Chef Anton's Gumbo Mix",
+        "Quantity": 4,
+        "UnitPrice": 21.35,
+        "Total": 85.4
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 5,
+        "UnitPrice": 19.0,
+        "Total": 95.0
+      }
+    ],
+    "TotalPrice": 180.4
+  }
+}

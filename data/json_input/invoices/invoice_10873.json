@@ -1,0 +1,28 @@
+{
+  "OrderID": "10873",
+  "OrderDate": "2018-02-06",
+  "CustomerID": "WILMK",
+  "CustomerDetails": {
+    "ContactName": "Matti Karttunen",
+    "Address": "Keskuskatu 45",
+    "City": "Helsinki",
+    "PostalCode": "21240",
+    "Country": "Finland",
+    "Phone": "90-224 8858",
+    "Fax": "90-224 8858"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 3,
+      "UnitPrice": 45.6
+    }
+  ]
+}

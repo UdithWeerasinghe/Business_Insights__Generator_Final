@@ -1,0 +1,13 @@
+{
+  "OrderID": "10994",
+  "OrderDate": "2018-04-02",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 18,
+      "UnitPrice": 55.0
+    }
+  ]
+}

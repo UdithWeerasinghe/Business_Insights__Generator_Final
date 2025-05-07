@@ -1,0 +1,22 @@
+{
+  "OrderID": "10765",
+  "OrderDate": "2017-12-04",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 80,
+      "UnitPrice": 21.05
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "11060",
+  "OrderDate": "2018-04-30",
+  "CustomerID": "FRANS",
+  "CustomerDetails": {
+    "ContactName": "Paolo Accorti",
+    "Address": "Via Monte Bianco 34",
+    "City": "Torino",
+    "PostalCode": "10100",
+    "Country": "Italy",
+    "Phone": "011-4988260",
+    "Fax": "011-4988261"
+  },
+  "Products": [
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 4,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 13.0
+    }
+  ]
+}

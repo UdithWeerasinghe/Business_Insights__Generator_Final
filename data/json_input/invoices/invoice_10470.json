@@ -1,0 +1,34 @@
+{
+  "OrderID": "10470",
+  "OrderDate": "2017-03-11",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 30,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 15,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 8,
+      "UnitPrice": 26.6
+    }
+  ]
+}

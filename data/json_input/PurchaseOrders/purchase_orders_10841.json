@@ -1,0 +1,31 @@
+{
+  "OrderID": "10841",
+  "OrderDate": "2018-01-20",
+  "CustomerName": "Pascale Cartrain",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 16,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 50,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    }
+  ]
+}

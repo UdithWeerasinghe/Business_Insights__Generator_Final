@@ -1,0 +1,25 @@
+{
+  "OrderID": "10758",
+  "OrderDate": "2017-11-28",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 20,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 60,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 40,
+      "UnitPrice": 15.0
+    }
+  ]
+}

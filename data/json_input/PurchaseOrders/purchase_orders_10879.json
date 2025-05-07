@@ -1,0 +1,25 @@
+{
+  "OrderID": "10879",
+  "OrderDate": "2018-02-10",
+  "CustomerName": "Matti Karttunen",
+  "Products": [
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 12,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 10,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

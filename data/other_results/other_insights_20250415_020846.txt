@@ -1,0 +1,4 @@
+User Query: Exchange Rates for USD,GBP and EUR
+
+Generated Insights:
+<module 'src.insights_other' from 'C:\\GITHUB\\IntelliScript-2.0_Business_Insights_Generator\\src\\insights_other.py'>

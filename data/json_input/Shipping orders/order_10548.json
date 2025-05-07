@@ -1,0 +1,41 @@
+{
+  "OrderID": "10548",
+  "ShippingDetails": {
+    "ShipName": "Toms Spezialitäten",
+    "ShipAddress": "Luisenstr. 48",
+    "ShipCity": "Münster",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44087",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TOMSP",
+    "CustomerName": "Toms Spezialitäten"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-26",
+    "ShippedDate": "2017-06-02",
+    "Products": [
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 10,
+        "UnitPrice": 14.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 14,
+        "UnitPrice": 9.65,
+        "Total": 135.1
+      }
+    ],
+    "TotalPrice": 275.1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10774",
+  "OrderDate": "2017-12-11",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 2,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "66",
+      "Product": "Louisiana Hot Spiced Okra",
+      "Quantity": 50,
+      "UnitPrice": 17.0
+    }
+  ]
+}

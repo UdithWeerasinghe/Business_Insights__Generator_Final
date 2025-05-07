@@ -1,0 +1,20 @@
+{
+  "OrderID": "10563",
+  "OrderDate": "2017-06-10",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 25,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 70,
+      "UnitPrice": 7.0
+    }
+  ]
+}

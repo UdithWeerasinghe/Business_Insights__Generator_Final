@@ -1,0 +1,25 @@
+{
+  "OrderID": "10534",
+  "OrderDate": "2017-05-12",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 10,
+      "UnitPrice": 7.45
+    }
+  ]
+}

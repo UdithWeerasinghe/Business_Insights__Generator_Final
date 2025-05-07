@@ -1,0 +1,59 @@
+{
+  "OrderID": "10836",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-16",
+    "ShippedDate": "2018-01-21",
+    "Products": [
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 52,
+        "UnitPrice": 21.0,
+        "Total": 1092.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 6,
+        "UnitPrice": 18.0,
+        "Total": 108.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 24,
+        "UnitPrice": 19.5,
+        "Total": 468.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 60,
+        "UnitPrice": 34.0,
+        "Total": 2040.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 30,
+        "UnitPrice": 33.25,
+        "Total": 997.5
+      }
+    ],
+    "TotalPrice": 4705.5
+  }
+}

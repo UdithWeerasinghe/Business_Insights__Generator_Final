@@ -1,0 +1,13 @@
+{
+  "OrderID": "11050",
+  "OrderDate": "2018-04-27",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 50,
+      "UnitPrice": 18.0
+    }
+  ]
+}

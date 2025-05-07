@@ -1,0 +1,19 @@
+{
+  "OrderID": "11054",
+  "OrderDate": "2018-04-28",
+  "CustomerName": "Patricio Simpson",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 10,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

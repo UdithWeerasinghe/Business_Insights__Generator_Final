@@ -1,0 +1,22 @@
+{
+  "OrderID": "10545",
+  "OrderDate": "2017-05-22",
+  "CustomerID": "LAZYK",
+  "CustomerDetails": {
+    "ContactName": "John Steel",
+    "Address": "12 Orchestra Terrace",
+    "City": "Walla Walla",
+    "PostalCode": "99362",
+    "Country": "USA",
+    "Phone": "(509) 555-7969",
+    "Fax": "(509) 555-6221"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    }
+  ]
+}

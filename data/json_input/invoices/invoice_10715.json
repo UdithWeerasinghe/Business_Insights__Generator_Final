@@ -1,0 +1,28 @@
+{
+  "OrderID": "10715",
+  "OrderDate": "2017-10-23",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 21,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 21.5
+    }
+  ]
+}

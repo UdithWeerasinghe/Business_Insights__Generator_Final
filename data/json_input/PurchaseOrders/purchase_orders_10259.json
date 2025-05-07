@@ -1,0 +1,19 @@
+{
+  "OrderID": "10259",
+  "OrderDate": "2016-07-18",
+  "CustomerName": "Francisco Chang",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 10,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "37",
+      "Product": "Gravad lax",
+      "Quantity": 1,
+      "UnitPrice": 20.8
+    }
+  ]
+}

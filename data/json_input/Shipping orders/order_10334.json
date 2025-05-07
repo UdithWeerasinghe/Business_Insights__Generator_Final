@@ -1,0 +1,41 @@
+{
+  "OrderID": "10334",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-21",
+    "ShippedDate": "2016-10-28",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 8,
+        "UnitPrice": 5.6,
+        "Total": 44.8
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 10,
+        "UnitPrice": 10.0,
+        "Total": 100.0
+      }
+    ],
+    "TotalPrice": 144.8
+  }
+}

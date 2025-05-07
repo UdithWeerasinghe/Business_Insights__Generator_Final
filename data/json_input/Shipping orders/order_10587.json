@@ -1,0 +1,47 @@
+{
+  "OrderID": "10587",
+  "ShippingDetails": {
+    "ShipName": "Que Delícia",
+    "ShipAddress": "Rua da Panificadora, 12",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-673",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEDE",
+    "CustomerName": "Que Delícia"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-02",
+    "ShippedDate": "2017-07-09",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 6,
+        "UnitPrice": 31.23,
+        "Total": 187.38
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 20,
+        "UnitPrice": 13.0,
+        "Total": 260.0
+      }
+    ],
+    "TotalPrice": 807.38
+  }
+}

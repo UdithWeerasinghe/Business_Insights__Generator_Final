@@ -1,0 +1,19 @@
+{
+  "OrderID": "10297",
+  "OrderDate": "2016-09-04",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 60,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 20,
+      "UnitPrice": 27.8
+    }
+  ]
+}

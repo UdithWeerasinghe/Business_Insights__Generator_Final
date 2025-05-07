@@ -1,0 +1,53 @@
+{
+  "OrderID": "10418",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-17",
+    "ShippedDate": "2017-01-24",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 60,
+        "UnitPrice": 15.2,
+        "Total": 912.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 55,
+        "UnitPrice": 7.6,
+        "Total": 418.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 16,
+        "UnitPrice": 22.8,
+        "Total": 364.8
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 15,
+        "UnitPrice": 8.0,
+        "Total": 120.0
+      }
+    ],
+    "TotalPrice": 1814.8
+  }
+}

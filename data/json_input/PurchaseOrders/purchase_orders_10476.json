@@ -1,0 +1,19 @@
+{
+  "OrderID": "10476",
+  "OrderDate": "2017-03-17",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 2,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 12,
+      "UnitPrice": 12.0
+    }
+  ]
+}

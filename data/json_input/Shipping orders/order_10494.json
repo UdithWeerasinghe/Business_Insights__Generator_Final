@@ -1,0 +1,35 @@
+{
+  "OrderID": "10494",
+  "ShippingDetails": {
+    "ShipName": "Comércio Mineiro",
+    "ShipAddress": "Av. dos Lusíadas, 23",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05432-043",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "COMMI",
+    "CustomerName": "Comércio Mineiro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-02",
+    "ShippedDate": "2017-04-09",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 30,
+        "UnitPrice": 30.4,
+        "Total": 912.0
+      }
+    ],
+    "TotalPrice": 912.0
+  }
+}

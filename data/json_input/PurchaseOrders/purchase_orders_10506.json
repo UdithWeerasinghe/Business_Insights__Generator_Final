@@ -1,0 +1,19 @@
+{
+  "OrderID": "10506",
+  "OrderDate": "2017-04-15",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 18,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 14,
+      "UnitPrice": 15.0
+    }
+  ]
+}

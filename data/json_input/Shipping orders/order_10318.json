@@ -1,0 +1,41 @@
+{
+  "OrderID": "10318",
+  "ShippingDetails": {
+    "ShipName": "Island Trading",
+    "ShipAddress": "Garden House Crowther Way",
+    "ShipCity": "Cowes",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "PO31 7PJ",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ISLAT",
+    "CustomerName": "Island Trading"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-01",
+    "ShippedDate": "2016-10-04",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 7.7,
+        "Total": 154.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 6,
+        "UnitPrice": 14.4,
+        "Total": 86.4
+      }
+    ],
+    "TotalPrice": 240.4
+  }
+}

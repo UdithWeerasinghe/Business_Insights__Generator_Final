@@ -1,0 +1,31 @@
+{
+  "OrderID": "10298",
+  "OrderDate": "2016-09-05",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 39.4
+    }
+  ]
+}

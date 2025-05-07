@@ -1,0 +1,25 @@
+{
+  "OrderID": "10894",
+  "OrderDate": "2018-02-18",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 28,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 50,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 120,
+      "UnitPrice": 7.75
+    }
+  ]
+}

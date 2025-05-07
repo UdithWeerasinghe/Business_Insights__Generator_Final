@@ -1,0 +1,46 @@
+{
+  "OrderID": "10555",
+  "OrderDate": "2017-06-02",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 30,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 35,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 18,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 40,
+      "UnitPrice": 38.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "11044",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-23",
+    "ShippedDate": "2018-05-01",
+    "Products": [
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 12,
+        "UnitPrice": 49.3,
+        "Total": 591.5999999999999
+      }
+    ],
+    "TotalPrice": 591.5999999999999
+  }
+}

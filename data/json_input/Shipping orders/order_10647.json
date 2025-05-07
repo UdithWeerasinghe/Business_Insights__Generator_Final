@@ -1,0 +1,41 @@
+{
+  "OrderID": "10647",
+  "ShippingDetails": {
+    "ShipName": "Que Delícia",
+    "ShipAddress": "Rua da Panificadora, 12",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-673",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEDE",
+    "CustomerName": "Que Delícia"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-27",
+    "ShippedDate": "2017-09-03",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 30,
+        "UnitPrice": 9.2,
+        "Total": 276.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 636.0
+  }
+}

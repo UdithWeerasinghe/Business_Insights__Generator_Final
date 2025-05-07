@@ -1,0 +1,41 @@
+{
+  "OrderID": "11006",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-07",
+    "ShippedDate": "2018-04-15",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 8,
+        "UnitPrice": 18.0,
+        "Total": 144.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 2,
+        "UnitPrice": 123.79,
+        "Total": 247.58
+      }
+    ],
+    "TotalPrice": 391.58000000000004
+  }
+}

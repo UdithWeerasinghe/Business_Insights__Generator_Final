@@ -1,0 +1,47 @@
+{
+  "OrderID": "10880",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-10",
+    "ShippedDate": "2018-02-18",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 30,
+        "UnitPrice": 9.0,
+        "Total": 270.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 30,
+        "UnitPrice": 28.5,
+        "Total": 855.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 50,
+        "UnitPrice": 15.0,
+        "Total": 750.0
+      }
+    ],
+    "TotalPrice": 1875.0
+  }
+}

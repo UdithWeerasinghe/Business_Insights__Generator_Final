@@ -1,0 +1,41 @@
+{
+  "OrderID": "10592",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-08",
+    "ShippedDate": "2017-07-16",
+    "Products": [
+      {
+        "Product": "Genen Shouyu",
+        "Quantity": 25,
+        "UnitPrice": 15.5,
+        "Total": 387.5
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 5,
+        "UnitPrice": 31.23,
+        "Total": 156.15
+      }
+    ],
+    "TotalPrice": 543.65
+  }
+}

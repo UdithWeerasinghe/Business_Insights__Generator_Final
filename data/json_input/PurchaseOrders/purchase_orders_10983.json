@@ -1,0 +1,19 @@
+{
+  "OrderID": "10983",
+  "OrderDate": "2018-03-27",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 84,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 15,
+      "UnitPrice": 19.5
+    }
+  ]
+}

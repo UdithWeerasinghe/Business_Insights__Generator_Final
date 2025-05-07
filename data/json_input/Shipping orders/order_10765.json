@@ -1,0 +1,35 @@
+{
+  "OrderID": "10765",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-04",
+    "ShippedDate": "2017-12-09",
+    "Products": [
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 80,
+        "UnitPrice": 21.05,
+        "Total": 1684.0
+      }
+    ],
+    "TotalPrice": 1684.0
+  }
+}

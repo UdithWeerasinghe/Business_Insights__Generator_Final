@@ -1,0 +1,37 @@
+{
+  "OrderID": "10607",
+  "OrderDate": "2017-07-22",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 45,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 100,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 14,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 42,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 12,
+      "UnitPrice": 34.8
+    }
+  ]
+}

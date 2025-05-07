@@ -1,0 +1,13 @@
+{
+  "OrderID": "10674",
+  "OrderDate": "2017-09-18",
+  "CustomerName": "Helen Bennett",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 5,
+      "UnitPrice": 9.0
+    }
+  ]
+}

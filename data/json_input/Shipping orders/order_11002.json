@@ -1,0 +1,53 @@
+{
+  "OrderID": "11002",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-06",
+    "ShippedDate": "2018-04-16",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 56,
+        "UnitPrice": 6.0,
+        "Total": 336.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 15,
+        "UnitPrice": 18.0,
+        "Total": 270.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 24,
+        "UnitPrice": 14.0,
+        "Total": 336.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 40,
+        "UnitPrice": 24.0,
+        "Total": 960.0
+      }
+    ],
+    "TotalPrice": 1902.0
+  }
+}

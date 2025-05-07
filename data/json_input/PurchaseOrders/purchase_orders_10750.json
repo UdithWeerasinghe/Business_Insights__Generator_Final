@@ -1,0 +1,25 @@
+{
+  "OrderID": "10750",
+  "OrderDate": "2017-11-21",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 5,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 25,
+      "UnitPrice": 55.0
+    }
+  ]
+}

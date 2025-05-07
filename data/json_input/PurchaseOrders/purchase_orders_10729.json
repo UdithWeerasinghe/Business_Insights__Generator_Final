@@ -1,0 +1,25 @@
+{
+  "OrderID": "10729",
+  "OrderDate": "2017-11-04",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 50,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 40,
+      "UnitPrice": 16.25
+    }
+  ]
+}

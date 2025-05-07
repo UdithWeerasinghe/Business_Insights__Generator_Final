@@ -1,0 +1,40 @@
+{
+  "OrderID": "10616",
+  "OrderDate": "2017-07-31",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 15,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 14,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 21.5
+    }
+  ]
+}

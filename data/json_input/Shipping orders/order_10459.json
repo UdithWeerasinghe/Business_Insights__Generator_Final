@@ -1,0 +1,47 @@
+{
+  "OrderID": "10459",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-27",
+    "ShippedDate": "2017-02-28",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 16,
+        "UnitPrice": 24.0,
+        "Total": 384.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 20,
+        "UnitPrice": 9.6,
+        "Total": 192.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 40,
+        "UnitPrice": 27.8,
+        "Total": 1112.0
+      }
+    ],
+    "TotalPrice": 1688.0
+  }
+}

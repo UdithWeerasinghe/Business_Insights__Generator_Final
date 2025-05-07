@@ -1,0 +1,34 @@
+{
+  "OrderID": "11053",
+  "OrderDate": "2018-04-27",
+  "CustomerID": "PICCO",
+  "CustomerDetails": {
+    "ContactName": "Georg Pipps",
+    "Address": "Geislweg 14",
+    "City": "Salzburg",
+    "PostalCode": "5020",
+    "Country": "Austria",
+    "Phone": "6562-9722",
+    "Fax": "6562-9723"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 35,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 20,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 25,
+      "UnitPrice": 33.25
+    }
+  ]
+}

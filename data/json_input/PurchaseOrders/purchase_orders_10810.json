@@ -1,0 +1,25 @@
+{
+  "OrderID": "10810",
+  "OrderDate": "2018-01-01",
+  "CustomerName": "Yoshi Tannamuri",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 7,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 5,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 5,
+      "UnitPrice": 15.0
+    }
+  ]
+}

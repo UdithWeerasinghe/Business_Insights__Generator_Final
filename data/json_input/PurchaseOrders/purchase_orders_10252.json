@@ -1,0 +1,25 @@
+{
+  "OrderID": "10252",
+  "OrderDate": "2016-07-09",
+  "CustomerName": "Pascale Cartrain",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 40,
+      "UnitPrice": 64.8
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 25,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 40,
+      "UnitPrice": 27.2
+    }
+  ]
+}

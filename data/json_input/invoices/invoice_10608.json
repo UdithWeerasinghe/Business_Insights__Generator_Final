@@ -1,0 +1,22 @@
+{
+  "OrderID": "10608",
+  "OrderDate": "2017-07-23",
+  "CustomerID": "TOMSP",
+  "CustomerDetails": {
+    "ContactName": "Karin Josephs",
+    "Address": "Luisenstr. 48",
+    "City": "Münster",
+    "PostalCode": "44087",
+    "Country": "Germany",
+    "Phone": "0251-031259",
+    "Fax": "0251-035695"
+  },
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 28,
+      "UnitPrice": 38.0
+    }
+  ]
+}

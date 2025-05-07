@@ -1,0 +1,41 @@
+{
+  "OrderID": "10961",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-19",
+    "ShippedDate": "2018-03-30",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 6,
+        "UnitPrice": 7.0,
+        "Total": 42.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 60,
+        "UnitPrice": 18.0,
+        "Total": 1080.0
+      }
+    ],
+    "TotalPrice": 1122.0
+  }
+}

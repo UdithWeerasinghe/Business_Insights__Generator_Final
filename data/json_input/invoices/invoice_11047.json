@@ -1,0 +1,20 @@
+{
+  "OrderID": "11047",
+  "OrderDate": "2018-04-24",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 25,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 30,
+      "UnitPrice": 21.35
+    }
+  ]
+}

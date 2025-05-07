@@ -1,0 +1,34 @@
+{
+  "OrderID": "11058",
+  "OrderDate": "2018-04-29",
+  "CustomerID": "BLAUS",
+  "CustomerDetails": {
+    "ContactName": "Hanna Moos",
+    "Address": "Forsterstr. 57",
+    "City": "Mannheim",
+    "PostalCode": "68306",
+    "Country": "Germany",
+    "Phone": "0621-08460",
+    "Fax": "0621-08924"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 3,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 21,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 4,
+      "UnitPrice": 28.5
+    }
+  ]
+}

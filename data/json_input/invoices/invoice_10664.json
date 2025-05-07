@@ -1,0 +1,34 @@
+{
+  "OrderID": "10664",
+  "OrderDate": "2017-09-10",
+  "CustomerID": "FURIB",
+  "CustomerDetails": {
+    "ContactName": "Lino Rodriguez",
+    "Address": "Jardim das rosas n. 32",
+    "City": "Lisboa",
+    "PostalCode": "1675",
+    "Country": "Portugal",
+    "Phone": "(1) 354-2534",
+    "Fax": "(1) 354-2535"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 24,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 12,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 15,
+      "UnitPrice": 21.05
+    }
+  ]
+}

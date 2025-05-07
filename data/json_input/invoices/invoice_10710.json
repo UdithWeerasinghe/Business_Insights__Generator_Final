@@ -1,0 +1,28 @@
+{
+  "OrderID": "10710",
+  "OrderDate": "2017-10-20",
+  "CustomerID": "FRANS",
+  "CustomerDetails": {
+    "ContactName": "Paolo Accorti",
+    "Address": "Via Monte Bianco 34",
+    "City": "Torino",
+    "PostalCode": "10100",
+    "Country": "Italy",
+    "Phone": "011-4988260",
+    "Fax": "011-4988261"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 5,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 5,
+      "UnitPrice": 9.5
+    }
+  ]
+}

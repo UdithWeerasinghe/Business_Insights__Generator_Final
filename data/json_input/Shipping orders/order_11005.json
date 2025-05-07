@@ -1,0 +1,41 @@
+{
+  "OrderID": "11005",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-07",
+    "ShippedDate": "2018-04-10",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 2,
+        "UnitPrice": 18.0,
+        "Total": 36.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 10,
+        "UnitPrice": 55.0,
+        "Total": 550.0
+      }
+    ],
+    "TotalPrice": 586.0
+  }
+}

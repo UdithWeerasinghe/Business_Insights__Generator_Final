@@ -1,0 +1,35 @@
+{
+  "OrderID": "10457",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-25",
+    "ShippedDate": "2017-03-03",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 36,
+        "UnitPrice": 44.0,
+        "Total": 1584.0
+      }
+    ],
+    "TotalPrice": 1584.0
+  }
+}

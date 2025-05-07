@@ -1,0 +1,47 @@
+{
+  "OrderID": "10973",
+  "ShippingDetails": {
+    "ShipName": "La corne d-abondance",
+    "ShipAddress": "67, avenue de l-Europe",
+    "ShipCity": "Versailles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "78000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LACOR",
+    "CustomerName": "La corne d'abondance"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-24",
+    "ShippedDate": "2018-03-27",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 5,
+        "UnitPrice": 31.23,
+        "Total": 156.15
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 6,
+        "UnitPrice": 9.65,
+        "Total": 57.900000000000006
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 10,
+        "UnitPrice": 7.75,
+        "Total": 77.5
+      }
+    ],
+    "TotalPrice": 291.55
+  }
+}

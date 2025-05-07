@@ -1,0 +1,28 @@
+{
+  "OrderID": "10805",
+  "OrderDate": "2017-12-30",
+  "CustomerID": "THEBI",
+  "CustomerDetails": {
+    "ContactName": "Liz Nixon",
+    "Address": "89 Jefferson Way Suite 2",
+    "City": "Portland",
+    "PostalCode": "97201",
+    "Country": "USA",
+    "Phone": "(503) 555-3612",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 10,
+      "UnitPrice": 263.5
+    }
+  ]
+}

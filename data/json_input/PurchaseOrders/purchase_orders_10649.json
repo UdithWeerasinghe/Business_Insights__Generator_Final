@@ -1,0 +1,19 @@
+{
+  "OrderID": "10649",
+  "OrderDate": "2017-08-28",
+  "CustomerName": "Catherine Dewey",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 15,
+      "UnitPrice": 34.8
+    }
+  ]
+}

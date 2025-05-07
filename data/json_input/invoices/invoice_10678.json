@@ -1,0 +1,40 @@
+{
+  "OrderID": "10678",
+  "OrderDate": "2017-09-23",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "12",
+      "ProductName": "Queso Manchego La Pastora",
+      "Quantity": 100,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 120,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 30,
+      "UnitPrice": 7.45
+    }
+  ]
+}

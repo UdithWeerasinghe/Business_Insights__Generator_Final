@@ -1,0 +1,41 @@
+{
+  "OrderID": "10661",
+  "ShippingDetails": {
+    "ShipName": "Hungry Owl All-Night Grocers",
+    "ShipAddress": "8 Johnstown Road",
+    "ShipCity": "Cork",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "None",
+    "ShipCountry": "Ireland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGO",
+    "CustomerName": "Hungry Owl All-Night Grocers"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-09",
+    "ShippedDate": "2017-09-15",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 3,
+        "UnitPrice": 18.0,
+        "Total": 54.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 49,
+        "UnitPrice": 13.25,
+        "Total": 649.25
+      }
+    ],
+    "TotalPrice": 703.25
+  }
+}

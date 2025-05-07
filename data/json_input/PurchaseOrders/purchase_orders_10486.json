@@ -1,0 +1,25 @@
+{
+  "OrderID": "10486",
+  "OrderDate": "2017-03-26",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 5,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 25,
+      "UnitPrice": 42.4
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 16,
+      "UnitPrice": 8.0
+    }
+  ]
+}

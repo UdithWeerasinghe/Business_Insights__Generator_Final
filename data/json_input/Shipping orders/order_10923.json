@@ -1,0 +1,47 @@
+{
+  "OrderID": "10923",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-03",
+    "ShippedDate": "2018-03-13",
+    "Products": [
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 10,
+        "UnitPrice": 14.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 10,
+        "UnitPrice": 46.0,
+        "Total": 460.0
+      },
+      {
+        "Product": "Laughing Lumberjack Lager",
+        "Quantity": 24,
+        "UnitPrice": 14.0,
+        "Total": 336.0
+      }
+    ],
+    "TotalPrice": 936.0
+  }
+}

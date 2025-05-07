@@ -1,0 +1,25 @@
+{
+  "OrderID": "10668",
+  "OrderDate": "2017-09-15",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 8,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 4,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 15,
+      "UnitPrice": 33.25
+    }
+  ]
+}

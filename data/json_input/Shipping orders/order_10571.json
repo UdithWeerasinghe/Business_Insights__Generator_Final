@@ -1,0 +1,41 @@
+{
+  "OrderID": "10571",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-17",
+    "ShippedDate": "2017-07-04",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 11,
+        "UnitPrice": 23.25,
+        "Total": 255.75
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 28,
+        "UnitPrice": 14.0,
+        "Total": 392.0
+      }
+    ],
+    "TotalPrice": 647.75
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10972",
+  "OrderDate": "2018-03-24",
+  "CustomerID": "LACOR",
+  "CustomerDetails": {
+    "ContactName": "Daniel Tonini",
+    "Address": "67, avenue de l'Europe",
+    "City": "Versailles",
+    "PostalCode": "78000",
+    "Country": "France",
+    "Phone": "30.59.84.10",
+    "Fax": "30.59.85.11"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 6,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 7,
+      "UnitPrice": 2.5
+    }
+  ]
+}

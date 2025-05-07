@@ -1,0 +1,41 @@
+{
+  "OrderID": "11036",
+  "ShippingDetails": {
+    "ShipName": "Drachenblut Delikatessen",
+    "ShipAddress": "Walserweg 21",
+    "ShipCity": "Aachen",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "52066",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DRACD",
+    "CustomerName": "Drachenblut Delikatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-20",
+    "ShippedDate": "2018-04-22",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 7,
+        "UnitPrice": 6.0,
+        "Total": 42.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 30,
+        "UnitPrice": 55.0,
+        "Total": 1650.0
+      }
+    ],
+    "TotalPrice": 1692.0
+  }
+}

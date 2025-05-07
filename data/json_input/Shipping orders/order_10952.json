@@ -1,0 +1,41 @@
+{
+  "OrderID": "10952",
+  "ShippingDetails": {
+    "ShipName": "Alfred-s Futterkiste",
+    "ShipAddress": "Obere Str. 57",
+    "ShipCity": "Berlin",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "12209",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ALFKI",
+    "CustomerName": "Alfreds Futterkiste"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-16",
+    "ShippedDate": "2018-03-24",
+    "Products": [
+      {
+        "Product": "Grandma's Boysenberry Spread",
+        "Quantity": 16,
+        "UnitPrice": 25.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 2,
+        "UnitPrice": 45.6,
+        "Total": 91.2
+      }
+    ],
+    "TotalPrice": 491.2
+  }
+}

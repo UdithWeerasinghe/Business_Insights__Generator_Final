@@ -1,0 +1,22 @@
+{
+  "OrderID": "10669",
+  "OrderDate": "2017-09-15",
+  "CustomerID": "SIMOB",
+  "CustomerDetails": {
+    "ContactName": "Jytte Petersen",
+    "Address": "Vinbæltet 34",
+    "City": "Kobenhavn",
+    "PostalCode": "1734",
+    "Country": "Denmark",
+    "Phone": "31 12 34 56",
+    "Fax": "31 13 35 57"
+  },
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    }
+  ]
+}

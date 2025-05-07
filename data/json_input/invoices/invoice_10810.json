@@ -1,0 +1,26 @@
+{
+  "OrderID": "10810",
+  "OrderDate": "2018-01-01",
+  "CustomerID": "LAUGB",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 7,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 5,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 5,
+      "UnitPrice": 15.0
+    }
+  ]
+}

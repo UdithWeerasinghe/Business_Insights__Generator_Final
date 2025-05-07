@@ -1,0 +1,25 @@
+{
+  "OrderID": "10370",
+  "OrderDate": "2016-12-03",
+  "CustomerName": "Yang Wang",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 15,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 26.6
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 20,
+      "UnitPrice": 8.0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10256",
+  "OrderDate": "2016-07-15",
+  "CustomerID": "WELLI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 15,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 12,
+      "UnitPrice": 10.4
+    }
+  ]
+}

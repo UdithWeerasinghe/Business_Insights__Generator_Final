@@ -1,0 +1,53 @@
+{
+  "OrderID": "11035",
+  "ShippingDetails": {
+    "ShipName": "Suprêmes délices",
+    "ShipAddress": "Boulevard Tirou, 255",
+    "ShipCity": "Charleroi",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-6000",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SUPRD",
+    "CustomerName": "Suprêmes délices"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-20",
+    "ShippedDate": "2018-04-24",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 60,
+        "UnitPrice": 18.0,
+        "Total": 1080.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 30,
+        "UnitPrice": 14.0,
+        "Total": 420.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 10,
+        "UnitPrice": 7.45,
+        "Total": 74.5
+      }
+    ],
+    "TotalPrice": 1754.5
+  }
+}

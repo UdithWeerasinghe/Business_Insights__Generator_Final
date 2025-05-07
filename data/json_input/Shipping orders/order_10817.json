@@ -1,0 +1,53 @@
+{
+  "OrderID": "10817",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-06",
+    "ShippedDate": "2018-01-13",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 40,
+        "UnitPrice": 31.23,
+        "Total": 1249.2
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 30,
+        "UnitPrice": 263.5,
+        "Total": 7905.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 60,
+        "UnitPrice": 18.4,
+        "Total": 1104.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 25,
+        "UnitPrice": 49.3,
+        "Total": 1232.5
+      }
+    ],
+    "TotalPrice": 11490.7
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10874",
+  "OrderDate": "2018-02-06",
+  "CustomerID": "GODOS",
+  "CustomerDetails": {
+    "ContactName": "José Pedro Freyre",
+    "Address": "C/ Romero, 33",
+    "City": "Sevilla",
+    "PostalCode": "41101",
+    "Country": "Spain",
+    "Phone": "(95) 555 82 82",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 10,
+      "UnitPrice": 31.0
+    }
+  ]
+}

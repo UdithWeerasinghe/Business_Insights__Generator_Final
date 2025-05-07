@@ -1,0 +1,28 @@
+{
+  "OrderID": "10827",
+  "OrderDate": "2018-01-12",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 15,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    }
+  ]
+}

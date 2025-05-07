@@ -1,0 +1,40 @@
+{
+  "OrderID": "10329",
+  "OrderDate": "2016-10-15",
+  "CustomerID": "SPLIR",
+  "CustomerDetails": {
+    "ContactName": "Art Braunschweiger",
+    "Address": "P.O. Box 555",
+    "City": "Lander",
+    "PostalCode": "82520",
+    "Country": "USA",
+    "Phone": "(307) 555-4680",
+    "Fax": "(307) 555-6525"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 10,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 8,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 20,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 12,
+      "UnitPrice": 30.4
+    }
+  ]
+}

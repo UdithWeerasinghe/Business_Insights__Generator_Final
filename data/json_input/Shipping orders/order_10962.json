@@ -1,0 +1,59 @@
+{
+  "OrderID": "10962",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-19",
+    "ShippedDate": "2018-03-23",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 45,
+        "UnitPrice": 30.0,
+        "Total": 1350.0
+      },
+      {
+        "Product": "Konbu",
+        "Quantity": 77,
+        "UnitPrice": 6.0,
+        "Total": 462.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 20,
+        "UnitPrice": 32.8,
+        "Total": 656.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 9,
+        "UnitPrice": 36.0,
+        "Total": 324.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 44,
+        "UnitPrice": 18.0,
+        "Total": 792.0
+      }
+    ],
+    "TotalPrice": 3584.0
+  }
+}

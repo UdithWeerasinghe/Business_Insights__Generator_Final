@@ -1,0 +1,25 @@
+{
+  "OrderID": "10609",
+  "OrderDate": "2017-07-24",
+  "CustomerName": "Janine Labrune",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 3,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 10,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 6,
+      "UnitPrice": 10.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10307",
+  "OrderDate": "2016-09-17",
+  "CustomerName": "Fran Wilson",
+  "Products": [
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 39.4
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 3,
+      "UnitPrice": 10.0
+    }
+  ]
+}

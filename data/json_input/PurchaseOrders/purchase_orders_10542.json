@@ -1,0 +1,19 @@
+{
+  "OrderID": "10542",
+  "OrderDate": "2017-05-20",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 24,
+      "UnitPrice": 7.45
+    }
+  ]
+}

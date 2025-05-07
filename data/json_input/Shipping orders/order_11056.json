@@ -1,0 +1,47 @@
+{
+  "OrderID": "11056",
+  "ShippingDetails": {
+    "ShipName": "Eastern Connection",
+    "ShipAddress": "35 King George",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "WX3 6FW",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "EASTC",
+    "CustomerName": "Eastern Connection"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-28",
+    "ShippedDate": "2018-05-01",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 40,
+        "UnitPrice": 30.0,
+        "Total": 1200.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 35,
+        "UnitPrice": 24.0,
+        "Total": 840.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 50,
+        "UnitPrice": 34.0,
+        "Total": 1700.0
+      }
+    ],
+    "TotalPrice": 3740.0
+  }
+}

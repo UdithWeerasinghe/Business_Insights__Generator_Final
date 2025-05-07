@@ -1,0 +1,59 @@
+{
+  "OrderID": "10393",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-25",
+    "ShippedDate": "2017-01-03",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 25,
+        "UnitPrice": 15.2,
+        "Total": 380.0
+      },
+      {
+        "Product": "Tofu",
+        "Quantity": 42,
+        "UnitPrice": 18.6,
+        "Total": 781.2
+      },
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 7,
+        "UnitPrice": 11.2,
+        "Total": 78.39999999999999
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 70,
+        "UnitPrice": 24.9,
+        "Total": 1743.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 32,
+        "UnitPrice": 10.0,
+        "Total": 320.0
+      }
+    ],
+    "TotalPrice": 3302.6000000000004
+  }
+}

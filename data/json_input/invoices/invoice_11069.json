@@ -1,0 +1,22 @@
+{
+  "OrderID": "11069",
+  "OrderDate": "2018-05-04",
+  "CustomerID": "TORTU",
+  "CustomerDetails": {
+    "ContactName": "Miguel Angel Paolino",
+    "Address": "Avda. Azteca 123",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 555-2933",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

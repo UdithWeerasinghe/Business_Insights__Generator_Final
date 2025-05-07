@@ -1,0 +1,41 @@
+{
+  "OrderID": "10481",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-20",
+    "ShippedDate": "2017-03-25",
+    "Products": [
+      {
+        "Product": "Maxilaku",
+        "Quantity": 24,
+        "UnitPrice": 16.0,
+        "Total": 384.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 40,
+        "UnitPrice": 27.2,
+        "Total": 1088.0
+      }
+    ],
+    "TotalPrice": 1472.0
+  }
+}

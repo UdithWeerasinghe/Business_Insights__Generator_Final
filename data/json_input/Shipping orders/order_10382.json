@@ -1,0 +1,59 @@
+{
+  "OrderID": "10382",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-13",
+    "ShippedDate": "2016-12-16",
+    "Products": [
+      {
+        "Product": "Chef Anton's Gumbo Mix",
+        "Quantity": 32,
+        "UnitPrice": 17.0,
+        "Total": 544.0
+      },
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 9,
+        "UnitPrice": 50.0,
+        "Total": 450.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 14,
+        "UnitPrice": 99.0,
+        "Total": 1386.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 60,
+        "UnitPrice": 2.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 50,
+        "UnitPrice": 8.0,
+        "Total": 400.0
+      }
+    ],
+    "TotalPrice": 2900.0
+  }
+}

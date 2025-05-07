@@ -1,0 +1,32 @@
+{
+  "OrderID": "11035",
+  "OrderDate": "2018-04-20",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 60,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 10,
+      "UnitPrice": 7.45
+    }
+  ]
+}

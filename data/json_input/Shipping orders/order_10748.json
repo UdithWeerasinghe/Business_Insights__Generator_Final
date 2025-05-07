@@ -1,0 +1,47 @@
+{
+  "OrderID": "10748",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-20",
+    "ShippedDate": "2017-11-28",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 44,
+        "UnitPrice": 9.0,
+        "Total": 396.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 40,
+        "UnitPrice": 18.4,
+        "Total": 736.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 28,
+        "UnitPrice": 38.0,
+        "Total": 1064.0
+      }
+    ],
+    "TotalPrice": 2196.0
+  }
+}

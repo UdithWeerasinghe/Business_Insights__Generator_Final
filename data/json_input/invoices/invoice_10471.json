@@ -1,0 +1,20 @@
+{
+  "OrderID": "10471",
+  "OrderDate": "2017-03-11",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 30,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 30.4
+    }
+  ]
+}

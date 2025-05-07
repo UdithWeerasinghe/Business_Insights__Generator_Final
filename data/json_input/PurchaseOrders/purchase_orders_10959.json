@@ -1,0 +1,13 @@
+{
+  "OrderID": "10959",
+  "OrderDate": "2018-03-18",
+  "CustomerName": "André Fonseca",
+  "Products": [
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    }
+  ]
+}

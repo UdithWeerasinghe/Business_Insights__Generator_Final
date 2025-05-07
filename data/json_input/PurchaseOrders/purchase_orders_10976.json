@@ -1,0 +1,13 @@
+{
+  "OrderID": "10976",
+  "OrderDate": "2018-03-25",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 45.6
+    }
+  ]
+}

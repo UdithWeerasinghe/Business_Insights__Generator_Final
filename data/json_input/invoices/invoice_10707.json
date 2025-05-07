@@ -1,0 +1,26 @@
+{
+  "OrderID": "10707",
+  "OrderDate": "2017-10-16",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 21,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 40,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 28,
+      "UnitPrice": 15.0
+    }
+  ]
+}

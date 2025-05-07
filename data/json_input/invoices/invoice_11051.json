@@ -1,0 +1,22 @@
+{
+  "OrderID": "11051",
+  "OrderDate": "2018-04-27",
+  "CustomerID": "LAMAI",
+  "CustomerDetails": {
+    "ContactName": "Annette Roulet",
+    "Address": "1 rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "PostalCode": "31000",
+    "Country": "France",
+    "Phone": "61.77.61.10",
+    "Fax": "61.77.61.11"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    }
+  ]
+}

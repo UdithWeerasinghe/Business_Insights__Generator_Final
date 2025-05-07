@@ -1,0 +1,13 @@
+{
+  "OrderID": "10266",
+  "OrderDate": "2016-07-26",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 12,
+      "UnitPrice": 30.4
+    }
+  ]
+}

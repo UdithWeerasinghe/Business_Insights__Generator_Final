@@ -1,0 +1,41 @@
+{
+  "OrderID": "10423",
+  "ShippingDetails": {
+    "ShipName": "Gourmet Lanchonetes",
+    "ShipAddress": "Av. Brasil, 442",
+    "ShipCity": "Campinas",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "04876-786",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GOURL",
+    "CustomerName": "Gourmet Lanchonetes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-23",
+    "ShippedDate": "2017-02-24",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 14,
+        "UnitPrice": 10.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 20,
+        "UnitPrice": 44.0,
+        "Total": 880.0
+      }
+    ],
+    "TotalPrice": 1020.0
+  }
+}

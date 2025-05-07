@@ -1,0 +1,25 @@
+{
+  "OrderID": "10577",
+  "OrderDate": "2017-06-23",
+  "CustomerName": "Helvetius Nagy",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 18,
+      "UnitPrice": 13.0
+    }
+  ]
+}

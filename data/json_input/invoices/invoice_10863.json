@@ -1,0 +1,28 @@
+{
+  "OrderID": "10863",
+  "OrderDate": "2018-02-02",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 12,
+      "UnitPrice": 13.25
+    }
+  ]
+}

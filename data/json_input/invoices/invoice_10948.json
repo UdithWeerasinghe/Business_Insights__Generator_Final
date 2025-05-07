@@ -1,0 +1,34 @@
+{
+  "OrderID": "10948",
+  "OrderDate": "2018-03-13",
+  "CustomerID": "GODOS",
+  "CustomerDetails": {
+    "ContactName": "José Pedro Freyre",
+    "Address": "C/ Romero, 33",
+    "City": "Sevilla",
+    "PostalCode": "41101",
+    "Country": "Spain",
+    "Phone": "(95) 555 82 82",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 9,
+      "UnitPrice": 16.25
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 40,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 4,
+      "UnitPrice": 24.0
+    }
+  ]
+}

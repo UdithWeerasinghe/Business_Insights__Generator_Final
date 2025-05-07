@@ -1,0 +1,47 @@
+{
+  "OrderID": "10580",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-26",
+    "ShippedDate": "2017-07-01",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 15,
+        "UnitPrice": 23.25,
+        "Total": 348.75
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 9,
+        "UnitPrice": 9.65,
+        "Total": 86.85000000000001
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 30,
+        "UnitPrice": 21.05,
+        "Total": 631.5
+      }
+    ],
+    "TotalPrice": 1067.1
+  }
+}

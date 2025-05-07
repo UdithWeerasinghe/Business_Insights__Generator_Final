@@ -1,0 +1,41 @@
+{
+  "OrderID": "10542",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-20",
+    "ShippedDate": "2017-05-26",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 15,
+        "UnitPrice": 21.0,
+        "Total": 315.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 24,
+        "UnitPrice": 7.45,
+        "Total": 178.8
+      }
+    ],
+    "TotalPrice": 493.8
+  }
+}

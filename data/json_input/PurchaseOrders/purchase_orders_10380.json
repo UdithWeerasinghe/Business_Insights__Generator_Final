@@ -1,0 +1,31 @@
+{
+  "OrderID": "10380",
+  "OrderDate": "2016-12-12",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 18,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 6,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    }
+  ]
+}

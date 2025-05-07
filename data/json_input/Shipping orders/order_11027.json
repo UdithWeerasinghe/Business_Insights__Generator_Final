@@ -1,0 +1,41 @@
+{
+  "OrderID": "11027",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-16",
+    "ShippedDate": "2018-04-20",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 30,
+        "UnitPrice": 4.5,
+        "Total": 135.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 21,
+        "UnitPrice": 49.3,
+        "Total": 1035.3
+      }
+    ],
+    "TotalPrice": 1170.3
+  }
+}

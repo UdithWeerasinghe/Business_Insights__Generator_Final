@@ -1,0 +1,59 @@
+{
+  "OrderID": "10845",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-21",
+    "ShippedDate": "2018-01-30",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 70,
+        "UnitPrice": 9.0,
+        "Total": 630.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 25,
+        "UnitPrice": 18.0,
+        "Total": 450.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 42,
+        "UnitPrice": 14.0,
+        "Total": 588.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 60,
+        "UnitPrice": 13.25,
+        "Total": 795.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 48,
+        "UnitPrice": 33.25,
+        "Total": 1596.0
+      }
+    ],
+    "TotalPrice": 4059.0
+  }
+}

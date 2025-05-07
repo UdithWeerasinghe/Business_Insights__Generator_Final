@@ -1,0 +1,20 @@
+{
+  "OrderID": "10261",
+  "OrderDate": "2016-07-19",
+  "CustomerID": "QUEDE",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 20,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

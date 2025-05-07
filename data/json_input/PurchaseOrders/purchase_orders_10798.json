@@ -1,0 +1,19 @@
+{
+  "OrderID": "10798",
+  "OrderDate": "2017-12-26",
+  "CustomerName": "Helen Bennett",
+  "Products": [
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 2,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 10,
+      "UnitPrice": 34.8
+    }
+  ]
+}

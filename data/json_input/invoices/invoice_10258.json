@@ -1,0 +1,34 @@
+{
+  "OrderID": "10258",
+  "OrderDate": "2016-07-17",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 50,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 65,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 6,
+      "UnitPrice": 25.6
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "11007",
+  "OrderDate": "2018-04-08",
+  "CustomerID": "PRINI",
+  "CustomerDetails": {
+    "ContactName": "Isabel de Castro",
+    "Address": "Estrada da saúde n. 58",
+    "City": "Lisboa",
+    "PostalCode": "1756",
+    "Country": "Portugal",
+    "Phone": "(1) 356-5634",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 30,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 14,
+      "UnitPrice": 14.0
+    }
+  ]
+}

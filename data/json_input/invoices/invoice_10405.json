@@ -1,0 +1,22 @@
+{
+  "OrderID": "10405",
+  "OrderDate": "2017-01-06",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "3",
+      "ProductName": "Aniseed Syrup",
+      "Quantity": 50,
+      "UnitPrice": 8.0
+    }
+  ]
+}

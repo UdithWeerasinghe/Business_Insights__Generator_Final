@@ -1,0 +1,26 @@
+{
+  "OrderID": "10517",
+  "OrderDate": "2017-04-24",
+  "CustomerID": "NORTS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 6,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 4,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 6,
+      "UnitPrice": 15.0
+    }
+  ]
+}

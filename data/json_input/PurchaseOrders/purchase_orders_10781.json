@@ -1,0 +1,25 @@
+{
+  "OrderID": "10781",
+  "OrderDate": "2017-12-17",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 3,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 35,
+      "UnitPrice": 10.0
+    }
+  ]
+}

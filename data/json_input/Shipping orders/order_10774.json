@@ -1,0 +1,41 @@
+{
+  "OrderID": "10774",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-11",
+    "ShippedDate": "2017-12-12",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 2,
+        "UnitPrice": 12.5,
+        "Total": 25.0
+      },
+      {
+        "Product": "Louisiana Hot Spiced Okra",
+        "Quantity": 50,
+        "UnitPrice": 17.0,
+        "Total": 850.0
+      }
+    ],
+    "TotalPrice": 875.0
+  }
+}

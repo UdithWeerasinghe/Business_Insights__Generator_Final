@@ -1,0 +1,40 @@
+{
+  "OrderID": "11055",
+  "OrderDate": "2018-04-28",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 15,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 15,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 20,
+      "UnitPrice": 19.5
+    }
+  ]
+}

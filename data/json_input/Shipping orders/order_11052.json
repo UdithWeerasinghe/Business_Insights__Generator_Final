@@ -1,0 +1,41 @@
+{
+  "OrderID": "11052",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-27",
+    "ShippedDate": "2018-05-01",
+    "Products": [
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 30,
+        "UnitPrice": 46.0,
+        "Total": 1380.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 10,
+        "UnitPrice": 28.5,
+        "Total": 285.0
+      }
+    ],
+    "TotalPrice": 1665.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10361",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-22",
+    "ShippedDate": "2016-12-03",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 54,
+        "UnitPrice": 14.4,
+        "Total": 777.6
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 55,
+        "UnitPrice": 27.2,
+        "Total": 1496.0
+      }
+    ],
+    "TotalPrice": 2273.6
+  }
+}

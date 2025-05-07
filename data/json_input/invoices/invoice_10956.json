@@ -1,0 +1,34 @@
+{
+  "OrderID": "10956",
+  "OrderDate": "2018-03-17",
+  "CustomerID": "BLAUS",
+  "CustomerDetails": {
+    "ContactName": "Hanna Moos",
+    "Address": "Forsterstr. 57",
+    "City": "Mannheim",
+    "PostalCode": "68306",
+    "Country": "Germany",
+    "Phone": "0621-08460",
+    "Fax": "0621-08924"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 12,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 14,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 8,
+      "UnitPrice": 53.0
+    }
+  ]
+}

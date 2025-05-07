@@ -1,0 +1,28 @@
+{
+  "OrderID": "10346",
+  "OrderDate": "2016-11-05",
+  "CustomerID": "RATTC",
+  "CustomerDetails": {
+    "ContactName": "Paula Wilson",
+    "Address": "2817 Milton Dr.",
+    "City": "Albuquerque",
+    "PostalCode": "87110",
+    "Country": "USA",
+    "Phone": "(505) 555-5939",
+    "Fax": "(505) 555-3620"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 36,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 30.4
+    }
+  ]
+}

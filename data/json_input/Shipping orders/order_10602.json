@@ -1,0 +1,35 @@
+{
+  "OrderID": "10602",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-17",
+    "ShippedDate": "2017-07-22",
+    "Products": [
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 5,
+        "UnitPrice": 13.0,
+        "Total": 65.0
+      }
+    ],
+    "TotalPrice": 65.0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10327",
+  "OrderDate": "2016-10-11",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 25,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 50,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 35,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 10.6
+    }
+  ]
+}

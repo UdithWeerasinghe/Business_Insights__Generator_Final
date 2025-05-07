@@ -1,0 +1,41 @@
+{
+  "OrderID": "10824",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-09",
+    "ShippedDate": "2018-01-30",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 9.65,
+        "Total": 115.80000000000001
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 9,
+        "UnitPrice": 15.0,
+        "Total": 135.0
+      }
+    ],
+    "TotalPrice": 250.8
+  }
+}

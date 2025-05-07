@@ -1,0 +1,47 @@
+{
+  "OrderID": "10625",
+  "ShippingDetails": {
+    "ShipName": "Ana Trujillo Emparedados y helados",
+    "ShipAddress": "Avda. de la Constitución 2222",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5021",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANATR",
+    "CustomerName": "Ana Trujillo Emparedados y helados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-08",
+    "ShippedDate": "2017-08-14",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 3,
+        "UnitPrice": 23.25,
+        "Total": 69.75
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 5,
+        "UnitPrice": 14.0,
+        "Total": 70.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 10,
+        "UnitPrice": 34.0,
+        "Total": 340.0
+      }
+    ],
+    "TotalPrice": 479.75
+  }
+}

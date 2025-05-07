@@ -1,0 +1,47 @@
+{
+  "OrderID": "10943",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-11",
+    "ShippedDate": "2018-03-19",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 15,
+        "UnitPrice": 6.0,
+        "Total": 90.0
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 21,
+        "UnitPrice": 21.0,
+        "Total": 441.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 15,
+        "UnitPrice": 12.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 711.0
+  }
+}

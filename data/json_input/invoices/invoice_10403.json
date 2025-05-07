@@ -1,0 +1,28 @@
+{
+  "OrderID": "10403",
+  "OrderDate": "2017-01-03",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 21,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "48",
+      "ProductName": "Chocolade",
+      "Quantity": 70,
+      "UnitPrice": 10.2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10565",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-11",
+    "ShippedDate": "2017-06-18",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 25,
+        "UnitPrice": 4.5,
+        "Total": 112.5
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 18,
+        "UnitPrice": 33.25,
+        "Total": 598.5
+      }
+    ],
+    "TotalPrice": 711.0
+  }
+}

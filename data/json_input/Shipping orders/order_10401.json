@@ -1,0 +1,53 @@
+{
+  "OrderID": "10401",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-01",
+    "ShippedDate": "2017-01-10",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 18,
+        "UnitPrice": 20.7,
+        "Total": 372.59999999999997
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 70,
+        "UnitPrice": 30.4,
+        "Total": 2128.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 20,
+        "UnitPrice": 16.8,
+        "Total": 336.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 60,
+        "UnitPrice": 17.2,
+        "Total": 1032.0
+      }
+    ],
+    "TotalPrice": 3868.6
+  }
+}

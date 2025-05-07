@@ -1,0 +1,40 @@
+{
+  "OrderID": "10740",
+  "OrderDate": "2017-11-13",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 5,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 14,
+      "UnitPrice": 38.0
+    }
+  ]
+}

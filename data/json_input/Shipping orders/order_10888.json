@@ -1,0 +1,41 @@
+{
+  "OrderID": "10888",
+  "ShippingDetails": {
+    "ShipName": "Godos Cocina Típica",
+    "ShipAddress": "C/ Romero, 33",
+    "ShipCity": "Sevilla",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "41101",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GODOS",
+    "CustomerName": "Godos Cocina Típica"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-16",
+    "ShippedDate": "2018-02-23",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 18,
+        "UnitPrice": 12.5,
+        "Total": 225.0
+      }
+    ],
+    "TotalPrice": 605.0
+  }
+}

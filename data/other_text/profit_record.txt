@@ -1,0 +1,55 @@
+1. Dataset Overview 
+• Period Covered: 90 consecutive calendar days, from 2025-01-01 to 2025-03-31. 
+• Records: One row per date (90 rows total). 
+• Metrics: For each date, the sheet records the profit (or sales revenue) for ten 
+product categories. 
+ 
+2. Columns & Product Categories 
+• Date: The reporting date (YYYY-MM-DD). 
+• phone: Daily profit for smartphones. 
+• camera: Daily profit for digital cameras. 
+• laptop: Daily profit for laptop computers. 
+• earbuds: Daily profit for wireless or wired earbuds. 
+• powerbank: Daily profit for portable power banks. 
+• charger: Daily profit for device chargers (mobile/tablet/laptop). 
+• back cover: Profit from sales of protective phone back covers. 
+• selfie stick: Profit from sales of selfie sticks and related mounts. 
+• tempory glass: (Likely “tempered glass” screen protectors; here misspelled.) 
+• tab: Daily profit for tablet devices. 
+ 
+3. Aggregate Performance & Averages 
+Over the full quarter, each category accumulated substantial revenue: 
+• Top Grossing Categories 
+o Cameras: 981,029 total (avg. 10,900 per day) 
+o Tempered-glass screen protectors: 975,456 total (avg. 10,838 per day) 
+o Selfie sticks: 972,094 total (avg. 10,801 per day) 
+• Mid-range Performers 
+o Laptops: 968,237 total (avg. 10,758 per day) 
+o Chargers: 960,842 total (avg. 10,676 per day) 
+o Phones: 894,462 total (avg. 9,938 per day) 
+o Earbuds: 894,628 total (avg. 9,940 per day) 
+• Lower-volume Categories 
+o Back covers: 862,197 total (avg. 9,580 per day) 
+o Tablets: 857,442 total (avg. 9,527 per day) 
+o Power banks: 779,607 total (avg. 8,662 per day) 
+ 
+4. Temporal Trends & Insights 
+• Seasonality & Peaks: 
+o Sales tend to spike around the end of January and mid-March, perhaps 
+reflecting post-holiday promotions and pre-Easter demand. 
+o Camera and screen-protector profits exhibit the highest volatility, suggesting 
+promotional campaigns or inventory cycles. 
+• Category Correlations: 
+o Smartphones and back-covers move together—when phone profits rise, 
+accessory sales (covers, chargers) also tick upward. 
+o Portable audio (earbuds, selfie sticks) often mirror each other, hinting at 
+bundled promotions or joint marketing push. 
+ 
+5. Business Implications 
+• Inventory Planning: Allocate larger initial stocks for cameras and screen 
+protectors, which have shown the strongest cumulative performance. 
+• Promotional Strategy: Time bundle-deals mid-quarter to capitalize on natural 
+demand surges—e.g., pairing phones with back covers or chargers. 
+• Cross-sell Potential: Leverage strong smartphone days to push complementary 
+accessories (earbuds, power banks). 
+ 

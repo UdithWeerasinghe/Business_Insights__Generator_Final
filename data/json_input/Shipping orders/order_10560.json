@@ -1,0 +1,41 @@
+{
+  "OrderID": "10560",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-06",
+    "ShippedDate": "2017-06-09",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 20,
+        "UnitPrice": 25.89,
+        "Total": 517.8
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 15,
+        "UnitPrice": 49.3,
+        "Total": 739.5
+      }
+    ],
+    "TotalPrice": 1257.3
+  }
+}

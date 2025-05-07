@@ -1,0 +1,31 @@
+{
+  "OrderID": "10504",
+  "OrderDate": "2017-04-11",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 12,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 12,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 10,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 25,
+      "UnitPrice": 28.5
+    }
+  ]
+}

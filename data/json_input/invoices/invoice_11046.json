@@ -1,0 +1,34 @@
+{
+  "OrderID": "11046",
+  "OrderDate": "2018-04-23",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "12",
+      "ProductName": "Queso Manchego La Pastora",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 15,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 18,
+      "UnitPrice": 18.0
+    }
+  ]
+}

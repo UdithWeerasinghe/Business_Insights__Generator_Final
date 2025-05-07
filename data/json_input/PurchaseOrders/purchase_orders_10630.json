@@ -1,0 +1,19 @@
+{
+  "OrderID": "10630",
+  "OrderDate": "2017-08-13",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 12,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    }
+  ]
+}

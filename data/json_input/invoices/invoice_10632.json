@@ -1,0 +1,28 @@
+{
+  "OrderID": "10632",
+  "OrderDate": "2017-08-14",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 20,
+      "UnitPrice": 2.5
+    }
+  ]
+}

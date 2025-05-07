@@ -1,0 +1,13 @@
+{
+  "OrderID": "10610",
+  "OrderDate": "2017-07-25",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 21,
+      "UnitPrice": 19.0
+    }
+  ]
+}

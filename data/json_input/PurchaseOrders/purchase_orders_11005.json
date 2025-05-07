@@ -1,0 +1,19 @@
+{
+  "OrderID": "11005",
+  "OrderDate": "2018-04-07",
+  "CustomerName": "Matti Karttunen",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 2,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 10,
+      "UnitPrice": 55.0
+    }
+  ]
+}

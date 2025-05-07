@@ -1,0 +1,46 @@
+{
+  "OrderID": "10714",
+  "OrderDate": "2017-10-22",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 27,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 50,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 18,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 12,
+      "UnitPrice": 13.25
+    }
+  ]
+}

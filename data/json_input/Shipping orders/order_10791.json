@@ -1,0 +1,41 @@
+{
+  "OrderID": "10791",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-23",
+    "ShippedDate": "2018-01-01",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 14,
+        "UnitPrice": 123.79,
+        "Total": 1733.0600000000002
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 9.65,
+        "Total": 193.0
+      }
+    ],
+    "TotalPrice": 1926.0600000000002
+  }
+}

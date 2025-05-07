@@ -1,0 +1,59 @@
+{
+  "OrderID": "10558",
+  "ShippingDetails": {
+    "ShipName": "Around the Horn",
+    "ShipAddress": "Brook Farm Stratford St. Mary",
+    "ShipCity": "Colchester",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "CO7 6JX",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "AROUT",
+    "CustomerName": "Around the Horn"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-04",
+    "ShippedDate": "2017-06-10",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 25,
+        "UnitPrice": 9.5,
+        "Total": 237.5
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 20,
+        "UnitPrice": 53.0,
+        "Total": 1060.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 30,
+        "UnitPrice": 7.0,
+        "Total": 210.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 18,
+        "UnitPrice": 32.8,
+        "Total": 590.4
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 3,
+        "UnitPrice": 15.0,
+        "Total": 45.0
+      }
+    ],
+    "TotalPrice": 2142.9
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10993",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-01",
+    "ShippedDate": "2018-04-10",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 50,
+        "UnitPrice": 123.79,
+        "Total": 6189.5
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 35,
+        "UnitPrice": 9.65,
+        "Total": 337.75
+      }
+    ],
+    "TotalPrice": 6527.25
+  }
+}

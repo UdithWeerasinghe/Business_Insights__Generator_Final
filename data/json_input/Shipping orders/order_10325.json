@@ -1,0 +1,59 @@
+{
+  "OrderID": "10325",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-09",
+    "ShippedDate": "2016-10-14",
+    "Products": [
+      {
+        "Product": "Grandma's Boysenberry Spread",
+        "Quantity": 6,
+        "UnitPrice": 20.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Konbu",
+        "Quantity": 12,
+        "UnitPrice": 4.8,
+        "Total": 57.599999999999994
+      },
+      {
+        "Product": "Tofu",
+        "Quantity": 9,
+        "UnitPrice": 18.6,
+        "Total": 167.4
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 4,
+        "UnitPrice": 10.0,
+        "Total": 40.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 40,
+        "UnitPrice": 27.8,
+        "Total": 1112.0
+      }
+    ],
+    "TotalPrice": 1497.0
+  }
+}

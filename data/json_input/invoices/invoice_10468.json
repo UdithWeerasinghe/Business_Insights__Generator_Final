@@ -1,0 +1,28 @@
+{
+  "OrderID": "10468",
+  "OrderDate": "2017-03-07",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 8,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 15,
+      "UnitPrice": 36.8
+    }
+  ]
+}

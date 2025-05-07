@@ -1,0 +1,25 @@
+{
+  "OrderID": "10528",
+  "OrderDate": "2017-05-06",
+  "CustomerName": "Howard Snyder",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 3,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 8,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 9,
+      "UnitPrice": 34.8
+    }
+  ]
+}

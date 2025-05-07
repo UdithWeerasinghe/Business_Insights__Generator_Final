@@ -1,0 +1,25 @@
+{
+  "OrderID": "10717",
+  "OrderDate": "2017-10-24",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 32,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 15,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 25,
+      "UnitPrice": 36.0
+    }
+  ]
+}

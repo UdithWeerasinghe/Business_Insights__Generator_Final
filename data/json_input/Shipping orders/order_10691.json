@@ -1,0 +1,59 @@
+{
+  "OrderID": "10691",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-03",
+    "ShippedDate": "2017-10-22",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 40,
+        "UnitPrice": 123.79,
+        "Total": 4951.6
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 40,
+        "UnitPrice": 46.0,
+        "Total": 1840.0
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 24,
+        "UnitPrice": 19.45,
+        "Total": 466.79999999999995
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 48,
+        "UnitPrice": 49.3,
+        "Total": 2366.3999999999996
+      }
+    ],
+    "TotalPrice": 10164.8
+  }
+}

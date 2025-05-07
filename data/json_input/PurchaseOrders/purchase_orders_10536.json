@@ -1,0 +1,31 @@
+{
+  "OrderID": "10536",
+  "OrderDate": "2017-05-14",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 15,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 35,
+      "UnitPrice": 34.0
+    }
+  ]
+}

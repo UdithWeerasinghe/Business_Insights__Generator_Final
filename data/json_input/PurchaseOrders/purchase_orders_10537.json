@@ -1,0 +1,37 @@
+{
+  "OrderID": "10537",
+  "OrderDate": "2017-05-14",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 30,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 6,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 20,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 21,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 9,
+      "UnitPrice": 15.0
+    }
+  ]
+}

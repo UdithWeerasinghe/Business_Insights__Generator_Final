@@ -1,0 +1,28 @@
+{
+  "OrderID": "10330",
+  "OrderDate": "2016-10-16",
+  "CustomerID": "LILAS",
+  "CustomerDetails": {
+    "ContactName": "Carlos González",
+    "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "City": "Barquisimeto",
+    "PostalCode": "3508",
+    "Country": "Venezuela",
+    "Phone": "(9) 331-6954",
+    "Fax": "(9) 331-7256"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 50,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 25,
+      "UnitPrice": 27.8
+    }
+  ]
+}

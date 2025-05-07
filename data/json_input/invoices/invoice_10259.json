@@ -1,0 +1,28 @@
+{
+  "OrderID": "10259",
+  "OrderDate": "2016-07-18",
+  "CustomerID": "CENTC",
+  "CustomerDetails": {
+    "ContactName": "Francisco Chang",
+    "Address": "Sierras de Granada 9993",
+    "City": "México D.F.",
+    "PostalCode": "05022",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3392",
+    "Fax": "(5) 555-7293"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 10,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "37",
+      "ProductName": "Gravad lax",
+      "Quantity": 1,
+      "UnitPrice": 20.8
+    }
+  ]
+}

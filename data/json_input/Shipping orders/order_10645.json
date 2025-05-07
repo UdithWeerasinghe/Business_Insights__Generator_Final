@@ -1,0 +1,41 @@
+{
+  "OrderID": "10645",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-26",
+    "ShippedDate": "2017-09-02",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 20,
+        "UnitPrice": 62.5,
+        "Total": 1250.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 15,
+        "UnitPrice": 19.0,
+        "Total": 285.0
+      }
+    ],
+    "TotalPrice": 1535.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10346",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-05",
+    "ShippedDate": "2016-11-08",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 36,
+        "UnitPrice": 31.2,
+        "Total": 1123.2
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 30.4,
+        "Total": 608.0
+      }
+    ],
+    "TotalPrice": 1731.2
+  }
+}

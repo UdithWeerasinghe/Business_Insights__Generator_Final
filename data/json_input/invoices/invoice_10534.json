@@ -1,0 +1,34 @@
+{
+  "OrderID": "10534",
+  "OrderDate": "2017-05-12",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 10,
+      "UnitPrice": 7.45
+    }
+  ]
+}

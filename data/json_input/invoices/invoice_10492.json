@@ -1,0 +1,20 @@
+{
+  "OrderID": "10492",
+  "OrderDate": "2017-04-01",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 60,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 20,
+      "UnitPrice": 11.2
+    }
+  ]
+}

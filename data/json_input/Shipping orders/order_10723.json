@@ -1,0 +1,35 @@
+{
+  "OrderID": "10723",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-30",
+    "ShippedDate": "2017-11-25",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 15,
+        "UnitPrice": 31.23,
+        "Total": 468.45
+      }
+    ],
+    "TotalPrice": 468.45
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10532",
+  "OrderDate": "2017-05-09",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "66",
+      "ProductName": "Louisiana Hot Spiced Okra",
+      "Quantity": 24,
+      "UnitPrice": 17.0
+    }
+  ]
+}

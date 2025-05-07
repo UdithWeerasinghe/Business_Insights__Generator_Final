@@ -1,0 +1,35 @@
+{
+  "OrderID": "10674",
+  "ShippingDetails": {
+    "ShipName": "Island Trading",
+    "ShipAddress": "Garden House Crowther Way",
+    "ShipCity": "Cowes",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "PO31 7PJ",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ISLAT",
+    "CustomerName": "Island Trading"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-18",
+    "ShippedDate": "2017-09-30",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 5,
+        "UnitPrice": 9.0,
+        "Total": 45.0
+      }
+    ],
+    "TotalPrice": 45.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10272",
+  "OrderDate": "2016-08-02",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 6,
+      "UnitPrice": 64.8
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 24,
+      "UnitPrice": 27.8
+    }
+  ]
+}

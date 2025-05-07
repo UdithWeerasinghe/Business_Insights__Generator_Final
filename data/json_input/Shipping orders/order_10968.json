@@ -1,0 +1,47 @@
+{
+  "OrderID": "10968",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-23",
+    "ShippedDate": "2018-04-01",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 30,
+        "UnitPrice": 38.0,
+        "Total": 1140.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 30,
+        "UnitPrice": 4.5,
+        "Total": 135.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 4,
+        "UnitPrice": 33.25,
+        "Total": 133.0
+      }
+    ],
+    "TotalPrice": 1408.0
+  }
+}

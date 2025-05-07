@@ -1,0 +1,34 @@
+{
+  "OrderID": "10681",
+  "OrderDate": "2017-09-25",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 30,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 12,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 28,
+      "UnitPrice": 33.25
+    }
+  ]
+}

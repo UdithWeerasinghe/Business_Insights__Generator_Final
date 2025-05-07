@@ -1,0 +1,22 @@
+{
+  "OrderID": "10996",
+  "OrderDate": "2018-04-02",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 40,
+      "UnitPrice": 14.0
+    }
+  ]
+}

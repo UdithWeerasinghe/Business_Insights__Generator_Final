@@ -1,0 +1,46 @@
+{
+  "OrderID": "10861",
+  "OrderDate": "2018-01-30",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 42,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 20,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 35,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10339",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-28",
+    "ShippedDate": "2016-11-04",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 10,
+        "UnitPrice": 17.6,
+        "Total": 176.0
+      },
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 70,
+        "UnitPrice": 31.2,
+        "Total": 2184.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 28,
+        "UnitPrice": 39.4,
+        "Total": 1103.2
+      }
+    ],
+    "TotalPrice": 3463.2
+  }
+}

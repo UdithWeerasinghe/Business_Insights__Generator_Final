@@ -1,0 +1,41 @@
+{
+  "OrderID": "10649",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-28",
+    "ShippedDate": "2017-08-29",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 20,
+        "UnitPrice": 45.6,
+        "Total": 912.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 15,
+        "UnitPrice": 34.8,
+        "Total": 522.0
+      }
+    ],
+    "TotalPrice": 1434.0
+  }
+}

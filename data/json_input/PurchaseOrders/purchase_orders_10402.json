@@ -1,0 +1,19 @@
+{
+  "OrderID": "10402",
+  "OrderDate": "2017-01-02",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 60,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 65,
+      "UnitPrice": 35.1
+    }
+  ]
+}

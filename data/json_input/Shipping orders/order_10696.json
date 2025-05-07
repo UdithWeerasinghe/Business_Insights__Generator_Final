@@ -1,0 +1,41 @@
+{
+  "OrderID": "10696",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-08",
+    "ShippedDate": "2017-10-14",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 20,
+        "UnitPrice": 39.0,
+        "Total": 780.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 18,
+        "UnitPrice": 12.0,
+        "Total": 216.0
+      }
+    ],
+    "TotalPrice": 996.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10951",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-16",
+    "ShippedDate": "2018-04-07",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 15,
+        "UnitPrice": 2.5,
+        "Total": 37.5
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 6,
+        "UnitPrice": 9.65,
+        "Total": 57.900000000000006
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 50,
+        "UnitPrice": 7.75,
+        "Total": 387.5
+      }
+    ],
+    "TotalPrice": 482.9
+  }
+}

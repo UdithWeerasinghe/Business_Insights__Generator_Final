@@ -1,0 +1,47 @@
+{
+  "OrderID": "10859",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-29",
+    "ShippedDate": "2018-02-02",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 40,
+        "UnitPrice": 4.5,
+        "Total": 180.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 35,
+        "UnitPrice": 7.45,
+        "Total": 260.75
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 30,
+        "UnitPrice": 33.25,
+        "Total": 997.5
+      }
+    ],
+    "TotalPrice": 1438.25
+  }
+}

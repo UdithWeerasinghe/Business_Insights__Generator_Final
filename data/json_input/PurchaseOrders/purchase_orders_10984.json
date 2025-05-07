@@ -1,0 +1,25 @@
+{
+  "OrderID": "10984",
+  "OrderDate": "2018-03-30",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 55,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 20,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 19.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10269",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-31",
+    "ShippedDate": "2016-08-09",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 60,
+        "UnitPrice": 2.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 20,
+        "UnitPrice": 27.8,
+        "Total": 556.0
+      }
+    ],
+    "TotalPrice": 676.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10323",
+  "OrderDate": "2016-10-07",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "15",
+      "Product": "Genen Shouyu",
+      "Quantity": 5,
+      "UnitPrice": 12.4
+    },
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 4,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 4,
+      "UnitPrice": 14.4
+    }
+  ]
+}

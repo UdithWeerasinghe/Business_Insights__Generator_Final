@@ -1,0 +1,28 @@
+{
+  "OrderID": "10560",
+  "OrderDate": "2017-06-06",
+  "CustomerID": "FRANK",
+  "CustomerDetails": {
+    "ContactName": "Peter Franken",
+    "Address": "Berliner Platz 43",
+    "City": "München",
+    "PostalCode": "80805",
+    "Country": "Germany",
+    "Phone": "089-0877310",
+    "Fax": "089-0877451"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 20,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 49.3
+    }
+  ]
+}

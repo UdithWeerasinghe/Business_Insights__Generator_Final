@@ -1,0 +1,28 @@
+{
+  "OrderID": "10480",
+  "OrderDate": "2017-03-20",
+  "CustomerID": "FOLIG",
+  "CustomerDetails": {
+    "ContactName": "Martine Rancé",
+    "Address": "184, chaussée de Tournai",
+    "City": "Lille",
+    "PostalCode": "59000",
+    "Country": "France",
+    "Phone": "20.16.10.16",
+    "Fax": "20.16.10.17"
+  },
+  "Products": [
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 30,
+      "UnitPrice": 7.6
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 44.0
+    }
+  ]
+}

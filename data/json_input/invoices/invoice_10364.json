@@ -1,0 +1,20 @@
+{
+  "OrderID": "10364",
+  "OrderDate": "2016-11-26",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 5,
+      "UnitPrice": 17.2
+    }
+  ]
+}

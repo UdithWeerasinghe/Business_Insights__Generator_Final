@@ -1,0 +1,22 @@
+{
+  "OrderID": "10782",
+  "OrderDate": "2017-12-17",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 1,
+      "UnitPrice": 12.5
+    }
+  ]
+}

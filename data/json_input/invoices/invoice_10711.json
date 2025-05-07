@@ -1,0 +1,34 @@
+{
+  "OrderID": "10711",
+  "OrderDate": "2017-10-21",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 42,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 120,
+      "UnitPrice": 32.8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10923",
+  "OrderDate": "2018-03-03",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 10,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 24,
+      "UnitPrice": 14.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10973",
+  "OrderDate": "2018-03-24",
+  "CustomerID": "LACOR",
+  "CustomerDetails": {
+    "ContactName": "Daniel Tonini",
+    "Address": "67, avenue de l'Europe",
+    "City": "Versailles",
+    "PostalCode": "78000",
+    "Country": "France",
+    "Phone": "30.59.84.10",
+    "Fax": "30.59.85.11"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 5,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 6,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 7.75
+    }
+  ]
+}

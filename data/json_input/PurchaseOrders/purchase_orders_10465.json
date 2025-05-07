@@ -1,0 +1,37 @@
+{
+  "OrderID": "10465",
+  "OrderDate": "2017-03-05",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 25,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 18,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 20,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 30,
+      "UnitPrice": 7.6
+    },
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 25,
+      "UnitPrice": 13.0
+    }
+  ]
+}

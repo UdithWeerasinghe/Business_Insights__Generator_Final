@@ -1,0 +1,35 @@
+{
+  "OrderID": "10660",
+  "ShippingDetails": {
+    "ShipName": "Hungry Coyote Import Store",
+    "ShipAddress": "City Center Plaza 516 Main St.",
+    "ShipCity": "Elgin",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97827",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGC",
+    "CustomerName": "Hungry Coyote Import Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-08",
+    "ShippedDate": "2017-10-15",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 21,
+        "UnitPrice": 81.0,
+        "Total": 1701.0
+      }
+    ],
+    "TotalPrice": 1701.0
+  }
+}

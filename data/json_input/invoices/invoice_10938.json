@@ -1,0 +1,40 @@
+{
+  "OrderID": "10938",
+  "OrderDate": "2018-03-10",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 49,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 35,
+      "UnitPrice": 21.5
+    }
+  ]
+}

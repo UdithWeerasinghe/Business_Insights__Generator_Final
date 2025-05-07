@@ -1,0 +1,28 @@
+{
+  "OrderID": "10753",
+  "OrderDate": "2017-11-25",
+  "CustomerID": "FRANS",
+  "CustomerDetails": {
+    "ContactName": "Paolo Accorti",
+    "Address": "Via Monte Bianco 34",
+    "City": "Torino",
+    "PostalCode": "10100",
+    "Country": "Italy",
+    "Phone": "011-4988260",
+    "Fax": "011-4988261"
+  },
+  "Products": [
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 4,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "74",
+      "ProductName": "Longlife Tofu",
+      "Quantity": 5,
+      "UnitPrice": 10.0
+    }
+  ]
+}

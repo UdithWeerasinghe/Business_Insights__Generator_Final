@@ -1,0 +1,20 @@
+{
+  "OrderID": "10726",
+  "OrderDate": "2017-11-03",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 25,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 5,
+      "UnitPrice": 21.0
+    }
+  ]
+}

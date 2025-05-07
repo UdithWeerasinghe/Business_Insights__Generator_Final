@@ -1,0 +1,19 @@
+{
+  "OrderID": "10364",
+  "OrderDate": "2016-11-26",
+  "CustomerName": "Ann Devon",
+  "Products": [
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 5,
+      "UnitPrice": 17.2
+    }
+  ]
+}

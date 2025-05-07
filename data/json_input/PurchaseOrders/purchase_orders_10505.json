@@ -1,0 +1,13 @@
+{
+  "OrderID": "10505",
+  "OrderDate": "2017-04-14",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    }
+  ]
+}

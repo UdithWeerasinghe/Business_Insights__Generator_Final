@@ -1,0 +1,34 @@
+{
+  "OrderID": "10521",
+  "OrderDate": "2017-04-29",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 3,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 10,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 6,
+      "UnitPrice": 12.5
+    }
+  ]
+}

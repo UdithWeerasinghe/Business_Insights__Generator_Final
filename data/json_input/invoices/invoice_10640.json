@@ -1,0 +1,28 @@
+{
+  "OrderID": "10640",
+  "OrderDate": "2017-08-21",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 20,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    }
+  ]
+}

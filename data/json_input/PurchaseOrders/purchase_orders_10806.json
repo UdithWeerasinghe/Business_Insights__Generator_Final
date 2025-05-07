@@ -1,0 +1,25 @@
+{
+  "OrderID": "10806",
+  "OrderDate": "2017-12-31",
+  "CustomerName": "Mary Saveley",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 2,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 15,
+      "UnitPrice": 10.0
+    }
+  ]
+}

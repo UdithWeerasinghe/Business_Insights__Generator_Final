@@ -1,0 +1,53 @@
+{
+  "OrderID": "10421",
+  "ShippingDetails": {
+    "ShipName": "Que Delícia",
+    "ShipAddress": "Rua da Panificadora, 12",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-673",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEDE",
+    "CustomerName": "Que Delícia"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-21",
+    "ShippedDate": "2017-01-27",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 4,
+        "UnitPrice": 7.3,
+        "Total": 29.2
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 30,
+        "UnitPrice": 24.9,
+        "Total": 747.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 15,
+        "UnitPrice": 26.2,
+        "Total": 393.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 10,
+        "UnitPrice": 10.4,
+        "Total": 104.0
+      }
+    ],
+    "TotalPrice": 1273.2
+  }
+}

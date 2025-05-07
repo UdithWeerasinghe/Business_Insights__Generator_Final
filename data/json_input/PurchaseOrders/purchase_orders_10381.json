@@ -1,0 +1,13 @@
+{
+  "OrderID": "10381",
+  "OrderDate": "2016-12-12",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 14,
+      "UnitPrice": 8.0
+    }
+  ]
+}

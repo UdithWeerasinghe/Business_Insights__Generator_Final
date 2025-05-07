@@ -1,0 +1,35 @@
+{
+  "OrderID": "10920",
+  "ShippingDetails": {
+    "ShipName": "Around the Horn",
+    "ShipAddress": "Brook Farm Stratford St. Mary",
+    "ShipCity": "Colchester",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "CO7 6JX",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "AROUT",
+    "CustomerName": "Around the Horn"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-03",
+    "ShippedDate": "2018-03-09",
+    "Products": [
+      {
+        "Product": "Valkoinen suklaa",
+        "Quantity": 24,
+        "UnitPrice": 16.25,
+        "Total": 390.0
+      }
+    ],
+    "TotalPrice": 390.0
+  }
+}

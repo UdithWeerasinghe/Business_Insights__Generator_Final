@@ -1,0 +1,40 @@
+{
+  "OrderID": "10387",
+  "OrderDate": "2016-12-18",
+  "CustomerID": "SANTG",
+  "CustomerDetails": {
+    "ContactName": "Jonas Bergulfsen",
+    "Address": "Erling Skakkes gate 78",
+    "City": "Stavern",
+    "PostalCode": "4110",
+    "Country": "Norway",
+    "Phone": "07-98 92 35",
+    "Fax": "07-98 92 47"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 15,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 6,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 17.2
+    }
+  ]
+}

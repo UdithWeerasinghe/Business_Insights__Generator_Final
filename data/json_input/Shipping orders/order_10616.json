@@ -1,0 +1,53 @@
+{
+  "OrderID": "10616",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-31",
+    "ShippedDate": "2017-08-05",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 15,
+        "UnitPrice": 263.5,
+        "Total": 3952.5
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 14,
+        "UnitPrice": 38.0,
+        "Total": 532.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 15,
+        "UnitPrice": 15.0,
+        "Total": 225.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 15,
+        "UnitPrice": 21.5,
+        "Total": 322.5
+      }
+    ],
+    "TotalPrice": 5032.0
+  }
+}

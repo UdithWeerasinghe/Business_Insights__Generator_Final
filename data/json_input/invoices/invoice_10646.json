@@ -1,0 +1,32 @@
+{
+  "OrderID": "10646",
+  "OrderDate": "2017-08-27",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 15,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 18,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 21.5
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 35,
+      "UnitPrice": 13.0
+    }
+  ]
+}

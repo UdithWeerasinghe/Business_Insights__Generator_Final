@@ -1,0 +1,14 @@
+{
+  "OrderID": "10585",
+  "OrderDate": "2017-07-01",
+  "CustomerID": "WELLI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 15,
+      "UnitPrice": 9.5
+    }
+  ]
+}

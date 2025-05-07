@@ -1,0 +1,20 @@
+{
+  "OrderID": "10463",
+  "OrderDate": "2017-03-04",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 21,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 50,
+      "UnitPrice": 11.2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10621",
+  "OrderDate": "2017-08-05",
+  "CustomerName": "Helen Bennett",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 5,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 10,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 20,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 21.5
+    }
+  ]
+}

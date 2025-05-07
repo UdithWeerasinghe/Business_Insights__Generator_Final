@@ -1,0 +1,31 @@
+{
+  "OrderID": "10768",
+  "OrderDate": "2017-12-08",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 4,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 50,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 15,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 12,
+      "UnitPrice": 21.5
+    }
+  ]
+}

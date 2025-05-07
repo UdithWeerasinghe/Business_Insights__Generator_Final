@@ -1,0 +1,31 @@
+{
+  "OrderID": "10368",
+  "OrderDate": "2016-11-29",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 5,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 13,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 25,
+      "UnitPrice": 15.6
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 35,
+      "UnitPrice": 26.6
+    }
+  ]
+}

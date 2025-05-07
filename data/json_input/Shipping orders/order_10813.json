@@ -1,0 +1,41 @@
+{
+  "OrderID": "10813",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-05",
+    "ShippedDate": "2018-01-09",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 12,
+        "UnitPrice": 19.0,
+        "Total": 228.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 35,
+        "UnitPrice": 12.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 648.0
+  }
+}

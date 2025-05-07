@@ -1,0 +1,46 @@
+{
+  "OrderID": "10324",
+  "OrderDate": "2016-10-08",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 21,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 70,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 30,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 40,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 80,
+      "UnitPrice": 35.1
+    }
+  ]
+}

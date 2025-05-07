@@ -1,0 +1,47 @@
+{
+  "OrderID": "10858",
+  "ShippingDetails": {
+    "ShipName": "La corne d-abondance",
+    "ShipAddress": "67, avenue de l-Europe",
+    "ShipCity": "Versailles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "78000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LACOR",
+    "CustomerName": "La corne d'abondance"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-29",
+    "ShippedDate": "2018-02-03",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 5,
+        "UnitPrice": 30.0,
+        "Total": 150.0
+      },
+      {
+        "Product": "Schoggi Schokolade",
+        "Quantity": 10,
+        "UnitPrice": 43.9,
+        "Total": 439.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 4,
+        "UnitPrice": 15.0,
+        "Total": 60.0
+      }
+    ],
+    "TotalPrice": 649.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10927",
+  "OrderDate": "2018-03-05",
+  "CustomerID": "LACOR",
+  "CustomerDetails": {
+    "ContactName": "Daniel Tonini",
+    "Address": "67, avenue de l'Europe",
+    "City": "Versailles",
+    "PostalCode": "78000",
+    "Country": "France",
+    "Phone": "30.59.84.10",
+    "Fax": "30.59.85.11"
+  },
+  "Products": [
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 5,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 5,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "OrderID": "10537",
+  "OrderDate": "2017-05-14",
+  "CustomerID": "RICSU",
+  "CustomerDetails": {
+    "ContactName": "Michael Holz",
+    "Address": "Grenzacherweg 237",
+    "City": "Genève",
+    "PostalCode": "1203",
+    "Country": "Switzerland",
+    "Phone": "0897-034214",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 30,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 6,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 20,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 21,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 9,
+      "UnitPrice": 15.0
+    }
+  ]
+}

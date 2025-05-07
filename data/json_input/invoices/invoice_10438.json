@@ -1,0 +1,34 @@
+{
+  "OrderID": "10438",
+  "OrderDate": "2017-02-06",
+  "CustomerID": "TOMSP",
+  "CustomerDetails": {
+    "ContactName": "Karin Josephs",
+    "Address": "Luisenstr. 48",
+    "City": "Münster",
+    "PostalCode": "44087",
+    "Country": "Germany",
+    "Phone": "0251-031259",
+    "Fax": "0251-035695"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 15,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 20,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 15,
+      "UnitPrice": 15.6
+    }
+  ]
+}

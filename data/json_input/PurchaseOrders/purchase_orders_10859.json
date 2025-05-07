@@ -1,0 +1,25 @@
+{
+  "OrderID": "10859",
+  "OrderDate": "2018-01-29",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 40,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 35,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 33.25
+    }
+  ]
+}

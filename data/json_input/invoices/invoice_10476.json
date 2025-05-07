@@ -1,0 +1,28 @@
+{
+  "OrderID": "10476",
+  "OrderDate": "2017-03-17",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 2,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 12,
+      "UnitPrice": 12.0
+    }
+  ]
+}

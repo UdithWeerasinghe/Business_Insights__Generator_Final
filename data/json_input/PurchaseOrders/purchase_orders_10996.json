@@ -1,0 +1,13 @@
+{
+  "OrderID": "10996",
+  "OrderDate": "2018-04-02",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 40,
+      "UnitPrice": 14.0
+    }
+  ]
+}

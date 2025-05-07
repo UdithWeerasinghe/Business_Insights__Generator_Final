@@ -1,0 +1,20 @@
+{
+  "OrderID": "10414",
+  "OrderDate": "2017-01-14",
+  "CustomerID": "FAMIA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 18,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 50,
+      "UnitPrice": 2.0
+    }
+  ]
+}

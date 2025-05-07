@@ -1,0 +1,34 @@
+{
+  "OrderID": "10551",
+  "OrderDate": "2017-05-28",
+  "CustomerID": "FURIB",
+  "CustomerDetails": {
+    "ContactName": "Lino Rodriguez",
+    "Address": "Jardim das rosas n. 32",
+    "City": "Lisboa",
+    "PostalCode": "1675",
+    "Country": "Portugal",
+    "Phone": "(1) 354-2534",
+    "Fax": "(1) 354-2535"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 40,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 40,
+      "UnitPrice": 19.45
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10422",
+  "OrderDate": "2017-01-22",
+  "CustomerID": "FRANS",
+  "CustomerDetails": {
+    "ContactName": "Paolo Accorti",
+    "Address": "Via Monte Bianco 34",
+    "City": "Torino",
+    "PostalCode": "10100",
+    "Country": "Italy",
+    "Phone": "011-4988260",
+    "Fax": "011-4988261"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 2,
+      "UnitPrice": 24.9
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10652",
+  "ShippingDetails": {
+    "ShipName": "Gourmet Lanchonetes",
+    "ShipAddress": "Av. Brasil, 442",
+    "ShipCity": "Campinas",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "04876-786",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GOURL",
+    "CustomerName": "Gourmet Lanchonetes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-01",
+    "ShippedDate": "2017-09-08",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 2,
+        "UnitPrice": 25.89,
+        "Total": 51.78
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 20,
+        "UnitPrice": 14.0,
+        "Total": 280.0
+      }
+    ],
+    "TotalPrice": 331.78
+  }
+}

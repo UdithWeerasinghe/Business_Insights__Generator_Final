@@ -1,0 +1,53 @@
+{
+  "OrderID": "10713",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-22",
+    "ShippedDate": "2017-10-24",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 18,
+        "UnitPrice": 31.0,
+        "Total": 558.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 30,
+        "UnitPrice": 31.23,
+        "Total": 936.9
+      },
+      {
+        "Product": "Rogede sild",
+        "Quantity": 110,
+        "UnitPrice": 9.5,
+        "Total": 1045.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 24,
+        "UnitPrice": 12.0,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 2827.9
+  }
+}

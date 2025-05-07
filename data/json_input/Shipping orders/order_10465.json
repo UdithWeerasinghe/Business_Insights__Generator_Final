@@ -1,0 +1,59 @@
+{
+  "OrderID": "10465",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-05",
+    "ShippedDate": "2017-03-14",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 25,
+        "UnitPrice": 3.6,
+        "Total": 90.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 18,
+        "UnitPrice": 99.0,
+        "Total": 1782.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 20,
+        "UnitPrice": 14.7,
+        "Total": 294.0
+      },
+      {
+        "Product": "Rogede sild",
+        "Quantity": 30,
+        "UnitPrice": 7.6,
+        "Total": 228.0
+      },
+      {
+        "Product": "Valkoinen suklaa",
+        "Quantity": 25,
+        "UnitPrice": 13.0,
+        "Total": 325.0
+      }
+    ],
+    "TotalPrice": 2719.0
+  }
+}

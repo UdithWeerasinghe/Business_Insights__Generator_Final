@@ -1,0 +1,40 @@
+{
+  "OrderID": "10757",
+  "OrderDate": "2017-11-27",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 7,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 30,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 24,
+      "UnitPrice": 33.25
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10731",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-06",
+    "ShippedDate": "2017-11-14",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 40,
+        "UnitPrice": 10.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 30,
+        "UnitPrice": 53.0,
+        "Total": 1590.0
+      }
+    ],
+    "TotalPrice": 1990.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10684",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-26",
+    "ShippedDate": "2017-09-30",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 20,
+        "UnitPrice": 18.4,
+        "Total": 368.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 40,
+        "UnitPrice": 9.5,
+        "Total": 380.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 30,
+        "UnitPrice": 34.0,
+        "Total": 1020.0
+      }
+    ],
+    "TotalPrice": 1768.0
+  }
+}

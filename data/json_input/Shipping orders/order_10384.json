@@ -1,0 +1,41 @@
+{
+  "OrderID": "10384",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-16",
+    "ShippedDate": "2016-12-20",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 28,
+        "UnitPrice": 64.8,
+        "Total": 1814.3999999999999
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 15,
+        "UnitPrice": 27.2,
+        "Total": 408.0
+      }
+    ],
+    "TotalPrice": 2222.3999999999996
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10964",
+  "ShippingDetails": {
+    "ShipName": "Spécialités du monde",
+    "ShipAddress": "25, rue Lauriston",
+    "ShipCity": "Paris",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "75016",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPECD",
+    "CustomerName": "Spécialités du monde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-20",
+    "ShippedDate": "2018-03-24",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 6,
+        "UnitPrice": 62.5,
+        "Total": 375.0
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 5,
+        "UnitPrice": 263.5,
+        "Total": 1317.5
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 10,
+        "UnitPrice": 36.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 2052.5
+  }
+}

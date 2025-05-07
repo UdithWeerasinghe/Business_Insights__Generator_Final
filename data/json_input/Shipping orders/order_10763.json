@@ -1,0 +1,47 @@
+{
+  "OrderID": "10763",
+  "ShippingDetails": {
+    "ShipName": "Folies gourmandes",
+    "ShipAddress": "184, chaussée de Tournai",
+    "ShipCity": "Lille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "59000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLIG",
+    "CustomerName": "Folies gourmandes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-03",
+    "ShippedDate": "2017-12-08",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 40,
+        "UnitPrice": 10.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 6,
+        "UnitPrice": 21.0,
+        "Total": 126.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 20,
+        "UnitPrice": 4.5,
+        "Total": 90.0
+      }
+    ],
+    "TotalPrice": 616.0
+  }
+}

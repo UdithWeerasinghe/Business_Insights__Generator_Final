@@ -1,0 +1,25 @@
+{
+  "OrderID": "10866",
+  "OrderDate": "2018-02-03",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 21,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 6,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 40,
+      "UnitPrice": 25.89
+    }
+  ]
+}

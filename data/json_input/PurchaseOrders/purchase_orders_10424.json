@@ -1,0 +1,25 @@
+{
+  "OrderID": "10424",
+  "OrderDate": "2017-01-23",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 60,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 49,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    }
+  ]
+}

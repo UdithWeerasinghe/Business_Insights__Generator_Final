@@ -1,0 +1,53 @@
+{
+  "OrderID": "10740",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-13",
+    "ShippedDate": "2017-11-25",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 5,
+        "UnitPrice": 45.6,
+        "Total": 228.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 35,
+        "UnitPrice": 18.0,
+        "Total": 630.0
+      },
+      {
+        "Product": "Rogede sild",
+        "Quantity": 40,
+        "UnitPrice": 9.5,
+        "Total": 380.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 14,
+        "UnitPrice": 38.0,
+        "Total": 532.0
+      }
+    ],
+    "TotalPrice": 1770.0
+  }
+}

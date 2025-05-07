@@ -1,0 +1,41 @@
+{
+  "OrderID": "10594",
+  "ShippingDetails": {
+    "ShipName": "Old World Delicatessen",
+    "ShipAddress": "2743 Bering St.",
+    "ShipCity": "Anchorage",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99508",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OLDWO",
+    "CustomerName": "Old World Delicatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-09",
+    "ShippedDate": "2017-07-16",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 24,
+        "UnitPrice": 7.0,
+        "Total": 168.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 30,
+        "UnitPrice": 13.25,
+        "Total": 397.5
+      }
+    ],
+    "TotalPrice": 565.5
+  }
+}

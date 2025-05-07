@@ -1,0 +1,28 @@
+{
+  "OrderID": "10677",
+  "OrderDate": "2017-09-22",
+  "CustomerID": "ANTON",
+  "CustomerDetails": {
+    "ContactName": "Antonio Moreno",
+    "Address": "Mataderos 2312",
+    "City": "México D.F.",
+    "PostalCode": "05023",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 8,
+      "UnitPrice": 2.5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10685",
+  "ShippingDetails": {
+    "ShipName": "Gourmet Lanchonetes",
+    "ShipAddress": "Av. Brasil, 442",
+    "ShipCity": "Campinas",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "04876-786",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GOURL",
+    "CustomerName": "Gourmet Lanchonetes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-29",
+    "ShippedDate": "2017-10-03",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 20,
+        "UnitPrice": 31.0,
+        "Total": 620.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 4,
+        "UnitPrice": 9.65,
+        "Total": 38.6
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 15,
+        "UnitPrice": 9.5,
+        "Total": 142.5
+      }
+    ],
+    "TotalPrice": 801.1
+  }
+}

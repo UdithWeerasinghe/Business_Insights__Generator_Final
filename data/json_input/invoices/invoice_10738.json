@@ -1,0 +1,22 @@
+{
+  "OrderID": "10738",
+  "OrderDate": "2017-11-12",
+  "CustomerID": "SPECD",
+  "CustomerDetails": {
+    "ContactName": "Dominique Perrier",
+    "Address": "25, rue Lauriston",
+    "City": "Paris",
+    "PostalCode": "75016",
+    "Country": "France",
+    "Phone": "(1) 47.55.60.10",
+    "Fax": "(1) 47.55.60.20"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 3,
+      "UnitPrice": 17.45
+    }
+  ]
+}

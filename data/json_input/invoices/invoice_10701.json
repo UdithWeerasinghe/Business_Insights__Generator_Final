@@ -1,0 +1,26 @@
+{
+  "OrderID": "10701",
+  "OrderDate": "2017-10-13",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 42,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 20,
+      "UnitPrice": 21.5
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    }
+  ]
+}

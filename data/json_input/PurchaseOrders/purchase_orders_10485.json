@@ -1,0 +1,31 @@
+{
+  "OrderID": "10485",
+  "OrderDate": "2017-03-25",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 20,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 30,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 60,
+      "UnitPrice": 12.0
+    }
+  ]
+}

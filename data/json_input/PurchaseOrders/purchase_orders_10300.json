@@ -1,0 +1,19 @@
+{
+  "OrderID": "10300",
+  "OrderDate": "2016-09-09",
+  "CustomerName": "Giovanni Rovelli",
+  "Products": [
+    {
+      "ProductID": "66",
+      "Product": "Louisiana Hot Spiced Okra",
+      "Quantity": 30,
+      "UnitPrice": 13.6
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    }
+  ]
+}

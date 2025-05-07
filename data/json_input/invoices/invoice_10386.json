@@ -1,0 +1,20 @@
+{
+  "OrderID": "10386",
+  "OrderDate": "2016-12-18",
+  "CustomerID": "FAMIA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 15,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 11.2
+    }
+  ]
+}

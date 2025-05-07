@@ -1,0 +1,47 @@
+{
+  "OrderID": "10695",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-07",
+    "ShippedDate": "2017-10-14",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 10,
+        "UnitPrice": 40.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 4,
+        "UnitPrice": 38.0,
+        "Total": 152.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 20,
+        "UnitPrice": 4.5,
+        "Total": 90.0
+      }
+    ],
+    "TotalPrice": 642.0
+  }
+}

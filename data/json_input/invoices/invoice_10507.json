@@ -1,0 +1,28 @@
+{
+  "OrderID": "10507",
+  "OrderDate": "2017-04-15",
+  "CustomerID": "ANTON",
+  "CustomerDetails": {
+    "ContactName": "Antonio Moreno",
+    "Address": "Mataderos 2312",
+    "City": "México D.F.",
+    "PostalCode": "05023",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 15,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "48",
+      "ProductName": "Chocolade",
+      "Quantity": 15,
+      "UnitPrice": 12.75
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "11017",
+  "OrderDate": "2018-04-13",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 25,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 110,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

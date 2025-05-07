@@ -1,0 +1,28 @@
+{
+  "OrderID": "10627",
+  "OrderDate": "2017-08-11",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 35,
+      "UnitPrice": 15.0
+    }
+  ]
+}

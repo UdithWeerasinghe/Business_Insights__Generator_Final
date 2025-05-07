@@ -1,0 +1,25 @@
+{
+  "OrderID": "10711",
+  "OrderDate": "2017-10-21",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 42,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 120,
+      "UnitPrice": 32.8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10996",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-02",
+    "ShippedDate": "2018-04-10",
+    "Products": [
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 40,
+        "UnitPrice": 14.0,
+        "Total": 560.0
+      }
+    ],
+    "TotalPrice": 560.0
+  }
+}

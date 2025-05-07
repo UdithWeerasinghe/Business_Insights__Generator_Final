@@ -1,0 +1,19 @@
+{
+  "OrderID": "10308",
+  "OrderDate": "2016-09-18",
+  "CustomerName": "Ana Trujillo",
+  "Products": [
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 1,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 5,
+      "UnitPrice": 12.0
+    }
+  ]
+}

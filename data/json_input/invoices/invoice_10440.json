@@ -1,0 +1,40 @@
+{
+  "OrderID": "10440",
+  "OrderDate": "2017-02-10",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 45,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 49,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 24,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 90,
+      "UnitPrice": 22.8
+    }
+  ]
+}

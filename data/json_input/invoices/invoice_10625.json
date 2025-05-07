@@ -1,0 +1,34 @@
+{
+  "OrderID": "10625",
+  "OrderDate": "2017-08-08",
+  "CustomerID": "ANATR",
+  "CustomerDetails": {
+    "ContactName": "Ana Trujillo",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "PostalCode": "05021",
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 3,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 5,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 10,
+      "UnitPrice": 34.0
+    }
+  ]
+}

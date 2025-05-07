@@ -1,0 +1,28 @@
+{
+  "OrderID": "10775",
+  "OrderDate": "2017-12-12",
+  "CustomerID": "THECR",
+  "CustomerDetails": {
+    "ContactName": "Liu Wong",
+    "Address": "55 Grizzly Peak Rd.",
+    "City": "Butte",
+    "PostalCode": "59801",
+    "Country": "USA",
+    "Phone": "(406) 555-5834",
+    "Fax": "(406) 555-8083"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 6,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "67",
+      "ProductName": "Laughing Lumberjack Lager",
+      "Quantity": 3,
+      "UnitPrice": 14.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10401",
+  "OrderDate": "2017-01-01",
+  "CustomerID": "RATTC",
+  "CustomerDetails": {
+    "ContactName": "Paula Wilson",
+    "Address": "2817 Milton Dr.",
+    "City": "Albuquerque",
+    "PostalCode": "87110",
+    "Country": "USA",
+    "Phone": "(505) 555-5939",
+    "Fax": "(505) 555-3620"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 18,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 70,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 20,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 60,
+      "UnitPrice": 17.2
+    }
+  ]
+}

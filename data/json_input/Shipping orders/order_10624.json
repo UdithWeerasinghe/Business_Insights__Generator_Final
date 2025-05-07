@@ -1,0 +1,47 @@
+{
+  "OrderID": "10624",
+  "ShippingDetails": {
+    "ShipName": "The Cracker Box",
+    "ShipAddress": "55 Grizzly Peak Rd.",
+    "ShipCity": "Butte",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "59801",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "THECR",
+    "CustomerName": "The Cracker Box"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-07",
+    "ShippedDate": "2017-08-19",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 10,
+        "UnitPrice": 45.6,
+        "Total": 456.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 6,
+        "UnitPrice": 123.79,
+        "Total": 742.74
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 10,
+        "UnitPrice": 19.45,
+        "Total": 194.5
+      }
+    ],
+    "TotalPrice": 1393.24
+  }
+}

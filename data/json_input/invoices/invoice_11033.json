@@ -1,0 +1,28 @@
+{
+  "OrderID": "11033",
+  "OrderDate": "2018-04-17",
+  "CustomerID": "RICSU",
+  "CustomerDetails": {
+    "ContactName": "Michael Holz",
+    "Address": "Grenzacherweg 237",
+    "City": "Genève",
+    "PostalCode": "1203",
+    "Country": "Switzerland",
+    "Phone": "0897-034214",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 70,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 36,
+      "UnitPrice": 36.0
+    }
+  ]
+}

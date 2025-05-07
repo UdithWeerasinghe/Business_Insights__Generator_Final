@@ -1,0 +1,25 @@
+{
+  "OrderID": "10719",
+  "OrderDate": "2017-10-27",
+  "CustomerName": "Jaime Yorres",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 12,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 3,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 40,
+      "UnitPrice": 7.45
+    }
+  ]
+}

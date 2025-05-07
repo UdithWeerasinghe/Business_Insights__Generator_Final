@@ -1,0 +1,31 @@
+{
+  "OrderID": "10605",
+  "OrderDate": "2017-07-21",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 20,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 70,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 21.5
+    }
+  ]
+}

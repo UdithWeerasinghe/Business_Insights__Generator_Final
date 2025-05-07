@@ -1,0 +1,41 @@
+{
+  "OrderID": "11022",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-14",
+    "ShippedDate": "2018-05-04",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 35,
+        "UnitPrice": 9.2,
+        "Total": 322.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 30,
+        "UnitPrice": 36.0,
+        "Total": 1080.0
+      }
+    ],
+    "TotalPrice": 1402.0
+  }
+}

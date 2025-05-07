@@ -1,0 +1,47 @@
+{
+  "OrderID": "10659",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-05",
+    "ShippedDate": "2017-09-10",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 20,
+        "UnitPrice": 12.5,
+        "Total": 250.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 24,
+        "UnitPrice": 18.4,
+        "Total": 441.59999999999997
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 40,
+        "UnitPrice": 15.0,
+        "Total": 600.0
+      }
+    ],
+    "TotalPrice": 1291.6
+  }
+}

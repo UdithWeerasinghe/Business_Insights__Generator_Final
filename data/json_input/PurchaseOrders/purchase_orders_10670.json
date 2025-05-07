@@ -1,0 +1,37 @@
+{
+  "OrderID": "10670",
+  "OrderDate": "2017-09-16",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 32,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 60,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 25,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 50,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 25,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10687",
+  "OrderDate": "2017-09-30",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "9",
+      "ProductName": "Mishi Kobe Niku",
+      "Quantity": 50,
+      "UnitPrice": 97.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 6,
+      "UnitPrice": 19.0
+    }
+  ]
+}

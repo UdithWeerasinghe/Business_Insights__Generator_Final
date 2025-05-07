@@ -1,0 +1,47 @@
+{
+  "OrderID": "10424",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-23",
+    "ShippedDate": "2017-01-27",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 60,
+        "UnitPrice": 14.4,
+        "Total": 864.0
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 49,
+        "UnitPrice": 210.8,
+        "Total": 10329.2
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 30,
+        "UnitPrice": 10.0,
+        "Total": 300.0
+      }
+    ],
+    "TotalPrice": 11493.2
+  }
+}

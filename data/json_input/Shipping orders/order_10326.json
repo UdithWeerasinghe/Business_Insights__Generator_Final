@@ -1,0 +1,47 @@
+{
+  "OrderID": "10326",
+  "ShippingDetails": {
+    "ShipName": "Bólido Comidas preparadas",
+    "ShipAddress": "C/ Araquil, 67",
+    "ShipCity": "Madrid",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "28023",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOLID",
+    "CustomerName": "Bólido Comidas preparadas"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-10",
+    "ShippedDate": "2016-10-14",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 24,
+        "UnitPrice": 17.6,
+        "Total": 422.40000000000003
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 16,
+        "UnitPrice": 15.6,
+        "Total": 249.6
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 50,
+        "UnitPrice": 6.2,
+        "Total": 310.0
+      }
+    ],
+    "TotalPrice": 982.0
+  }
+}

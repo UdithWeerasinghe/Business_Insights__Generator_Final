@@ -1,0 +1,40 @@
+{
+  "OrderID": "10399",
+  "OrderDate": "2016-12-31",
+  "CustomerID": "VAFFE",
+  "CustomerDetails": {
+    "ContactName": "Palle Ibsen",
+    "Address": "Smagsloget 45",
+    "City": "Århus",
+    "PostalCode": "8200",
+    "Country": "Denmark",
+    "Phone": "86 21 32 43",
+    "Fax": "86 22 33 44"
+  },
+  "Products": [
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 17.2
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 35,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 14,
+      "UnitPrice": 10.4
+    }
+  ]
+}

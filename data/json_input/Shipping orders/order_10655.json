@@ -1,0 +1,35 @@
+{
+  "OrderID": "10655",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-03",
+    "ShippedDate": "2017-09-11",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 9.65,
+        "Total": 193.0
+      }
+    ],
+    "TotalPrice": 193.0
+  }
+}

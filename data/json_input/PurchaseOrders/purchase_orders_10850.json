@@ -1,0 +1,25 @@
+{
+  "OrderID": "10850",
+  "OrderDate": "2018-01-23",
+  "CustomerName": "Mary Saveley",
+  "Products": [
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 4,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

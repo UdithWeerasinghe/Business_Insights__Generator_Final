@@ -1,0 +1,31 @@
+{
+  "OrderID": "10756",
+  "OrderDate": "2017-11-27",
+  "CustomerName": "Art Braunschweiger",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 21,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 6,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 20,
+      "UnitPrice": 36.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10791",
+  "OrderDate": "2017-12-23",
+  "CustomerID": "FRANK",
+  "CustomerDetails": {
+    "ContactName": "Peter Franken",
+    "Address": "Berliner Platz 43",
+    "City": "München",
+    "PostalCode": "80805",
+    "Country": "Germany",
+    "Phone": "089-0877310",
+    "Fax": "089-0877451"
+  },
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 14,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 9.65
+    }
+  ]
+}

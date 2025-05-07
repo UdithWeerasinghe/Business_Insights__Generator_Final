@@ -1,0 +1,35 @@
+{
+  "OrderID": "10778",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-16",
+    "ShippedDate": "2017-12-24",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 10,
+        "UnitPrice": 9.65,
+        "Total": 96.5
+      }
+    ],
+    "TotalPrice": 96.5
+  }
+}

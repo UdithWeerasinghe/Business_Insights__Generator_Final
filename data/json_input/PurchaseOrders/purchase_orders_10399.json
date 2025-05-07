@@ -1,0 +1,31 @@
+{
+  "OrderID": "10399",
+  "OrderDate": "2016-12-31",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 17.2
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 35,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 14,
+      "UnitPrice": 10.4
+    }
+  ]
+}

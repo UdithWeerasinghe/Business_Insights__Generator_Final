@@ -1,0 +1,35 @@
+{
+  "OrderID": "10441",
+  "ShippingDetails": {
+    "ShipName": "Old World Delicatessen",
+    "ShipAddress": "2743 Bering St.",
+    "ShipCity": "Anchorage",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99508",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OLDWO",
+    "CustomerName": "Old World Delicatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-10",
+    "ShippedDate": "2017-03-14",
+    "Products": [
+      {
+        "Product": "Schoggi Schokolade",
+        "Quantity": 50,
+        "UnitPrice": 35.1,
+        "Total": 1755.0
+      }
+    ],
+    "TotalPrice": 1755.0
+  }
+}

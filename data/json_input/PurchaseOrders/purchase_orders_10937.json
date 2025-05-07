@@ -1,0 +1,19 @@
+{
+  "OrderID": "10937",
+  "OrderDate": "2018-03-10",
+  "CustomerName": "Patricio Simpson",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 8,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

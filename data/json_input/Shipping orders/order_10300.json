@@ -1,0 +1,41 @@
+{
+  "OrderID": "10300",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-09",
+    "ShippedDate": "2016-09-18",
+    "Products": [
+      {
+        "Product": "Louisiana Hot Spiced Okra",
+        "Quantity": 30,
+        "UnitPrice": 13.6,
+        "Total": 408.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      }
+    ],
+    "TotalPrice": 608.0
+  }
+}

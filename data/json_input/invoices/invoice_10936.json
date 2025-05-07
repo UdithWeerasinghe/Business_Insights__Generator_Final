@@ -1,0 +1,22 @@
+{
+  "OrderID": "10936",
+  "OrderDate": "2018-03-09",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    }
+  ]
+}

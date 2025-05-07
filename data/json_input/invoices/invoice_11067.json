@@ -1,0 +1,22 @@
+{
+  "OrderID": "11067",
+  "OrderDate": "2018-05-04",
+  "CustomerID": "DRACD",
+  "CustomerDetails": {
+    "ContactName": "Sven Ottlieb",
+    "Address": "Walserweg 21",
+    "City": "Aachen",
+    "PostalCode": "52066",
+    "Country": "Germany",
+    "Phone": "0241-039123",
+    "Fax": "0241-059428"
+  },
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 9,
+      "UnitPrice": 9.65
+    }
+  ]
+}

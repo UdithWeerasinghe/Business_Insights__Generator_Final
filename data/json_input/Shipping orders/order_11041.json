@@ -1,0 +1,41 @@
+{
+  "OrderID": "11041",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-22",
+    "ShippedDate": "2018-04-28",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 30,
+        "UnitPrice": 43.9,
+        "Total": 1317.0
+      }
+    ],
+    "TotalPrice": 1887.0
+  }
+}

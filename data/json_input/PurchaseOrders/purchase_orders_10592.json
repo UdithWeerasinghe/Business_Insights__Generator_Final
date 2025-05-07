@@ -1,0 +1,19 @@
+{
+  "OrderID": "10592",
+  "OrderDate": "2017-07-08",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "15",
+      "Product": "Genen Shouyu",
+      "Quantity": 25,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 5,
+      "UnitPrice": 31.23
+    }
+  ]
+}

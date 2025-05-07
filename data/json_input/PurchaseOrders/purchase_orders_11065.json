@@ -1,0 +1,19 @@
+{
+  "OrderID": "11065",
+  "OrderDate": "2018-05-01",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 4,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 20,
+      "UnitPrice": 7.45
+    }
+  ]
+}

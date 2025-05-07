@@ -1,0 +1,20 @@
+{
+  "OrderID": "10647",
+  "OrderDate": "2017-08-27",
+  "CustomerID": "QUEDE",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 30,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

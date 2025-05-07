@@ -1,0 +1,41 @@
+{
+  "OrderID": "10764",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-03",
+    "ShippedDate": "2017-12-08",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 130,
+        "UnitPrice": 18.0,
+        "Total": 2340.0
+      }
+    ],
+    "TotalPrice": 2540.0
+  }
+}

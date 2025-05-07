@@ -1,0 +1,47 @@
+{
+  "OrderID": "10396",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-27",
+    "ShippedDate": "2017-01-06",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 40,
+        "UnitPrice": 7.2,
+        "Total": 288.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 60,
+        "UnitPrice": 17.2,
+        "Total": 1032.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 21,
+        "UnitPrice": 27.8,
+        "Total": 583.8000000000001
+      }
+    ],
+    "TotalPrice": 1903.8000000000002
+  }
+}

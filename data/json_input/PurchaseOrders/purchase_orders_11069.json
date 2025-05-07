@@ -1,0 +1,13 @@
+{
+  "OrderID": "11069",
+  "OrderDate": "2018-05-04",
+  "CustomerName": "Miguel Angel Paolino",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10860",
+  "OrderDate": "2018-01-29",
+  "CustomerID": "FRANR",
+  "CustomerDetails": {
+    "ContactName": "Carine Schmitt",
+    "Address": "54, rue Royale",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.32.21.21",
+    "Fax": "40.32.21.20"
+  },
+  "Products": [
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 3,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

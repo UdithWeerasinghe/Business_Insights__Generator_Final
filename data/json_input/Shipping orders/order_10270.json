@@ -1,0 +1,41 @@
+{
+  "OrderID": "10270",
+  "ShippingDetails": {
+    "ShipName": "Wartian Herkku",
+    "ShipAddress": "Torikatu 38",
+    "ShipCity": "Oulu",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "90110",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WARTH",
+    "CustomerName": "Wartian Herkku"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-01",
+    "ShippedDate": "2016-08-02",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 15.2,
+        "Total": 456.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 25,
+        "UnitPrice": 36.8,
+        "Total": 919.9999999999999
+      }
+    ],
+    "TotalPrice": 1376.0
+  }
+}

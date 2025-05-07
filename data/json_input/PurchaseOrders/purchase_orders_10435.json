@@ -1,0 +1,25 @@
+{
+  "OrderID": "10435",
+  "OrderDate": "2017-02-04",
+  "CustomerName": "Elizabeth Brown",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 12,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 10,
+      "UnitPrice": 27.8
+    }
+  ]
+}

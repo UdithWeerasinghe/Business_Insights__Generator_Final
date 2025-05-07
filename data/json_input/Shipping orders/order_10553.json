@@ -1,0 +1,59 @@
+{
+  "OrderID": "10553",
+  "ShippingDetails": {
+    "ShipName": "Wartian Herkku",
+    "ShipAddress": "Torikatu 38",
+    "ShipCity": "Oulu",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "90110",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WARTH",
+    "CustomerName": "Wartian Herkku"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-30",
+    "ShippedDate": "2017-06-03",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 15,
+        "UnitPrice": 21.0,
+        "Total": 315.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 14,
+        "UnitPrice": 17.45,
+        "Total": 244.29999999999998
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 24,
+        "UnitPrice": 21.0,
+        "Total": 504.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 30,
+        "UnitPrice": 12.5,
+        "Total": 375.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 6,
+        "UnitPrice": 18.0,
+        "Total": 108.0
+      }
+    ],
+    "TotalPrice": 1546.3
+  }
+}

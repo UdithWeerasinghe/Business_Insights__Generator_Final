@@ -1,0 +1,25 @@
+{
+  "OrderID": "10643",
+  "OrderDate": "2017-08-25",
+  "CustomerName": "Maria Anders",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 15,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 2,
+      "UnitPrice": 12.0
+    }
+  ]
+}

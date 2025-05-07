@@ -1,0 +1,19 @@
+{
+  "OrderID": "10588",
+  "OrderDate": "2017-07-03",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 40,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 100,
+      "UnitPrice": 14.0
+    }
+  ]
+}

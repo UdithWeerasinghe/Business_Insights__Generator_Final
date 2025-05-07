@@ -1,0 +1,19 @@
+{
+  "OrderID": "10705",
+  "OrderDate": "2017-10-15",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 4,
+      "UnitPrice": 32.0
+    }
+  ]
+}

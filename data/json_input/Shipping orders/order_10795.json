@@ -1,0 +1,41 @@
+{
+  "OrderID": "10795",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-24",
+    "ShippedDate": "2018-01-20",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 65,
+        "UnitPrice": 17.45,
+        "Total": 1134.25
+      },
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 35,
+        "UnitPrice": 39.0,
+        "Total": 1365.0
+      }
+    ],
+    "TotalPrice": 2499.25
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10421",
+  "OrderDate": "2017-01-21",
+  "CustomerName": "Bernardo Batista",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 4,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 15,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10718",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-27",
+    "ShippedDate": "2017-10-29",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 36,
+        "UnitPrice": 38.0,
+        "Total": 1368.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 20,
+        "UnitPrice": 17.45,
+        "Total": 349.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 40,
+        "UnitPrice": 19.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 20,
+        "UnitPrice": 49.3,
+        "Total": 986.0
+      }
+    ],
+    "TotalPrice": 3463.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10502",
+  "OrderDate": "2017-04-10",
+  "CustomerID": "PERIC",
+  "CustomerDetails": {
+    "ContactName": "Guillermo Fernández",
+    "Address": "Calle Dr. Jorge Cash 321",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 552-3745",
+    "Fax": "(5) 545-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 21,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 6,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "67",
+      "ProductName": "Laughing Lumberjack Lager",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    }
+  ]
+}

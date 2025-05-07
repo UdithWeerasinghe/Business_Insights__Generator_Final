@@ -1,0 +1,46 @@
+{
+  "OrderID": "11064",
+  "OrderDate": "2018-05-01",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 77,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 25,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 4,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 55,
+      "UnitPrice": 12.5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10394",
+  "ShippingDetails": {
+    "ShipName": "Hungry Coyote Import Store",
+    "ShipAddress": "City Center Plaza 516 Main St.",
+    "ShipCity": "Elgin",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97827",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGC",
+    "CustomerName": "Hungry Coyote Import Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-25",
+    "ShippedDate": "2017-01-03",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 10,
+        "UnitPrice": 4.8,
+        "Total": 48.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 10,
+        "UnitPrice": 39.4,
+        "Total": 394.0
+      }
+    ],
+    "TotalPrice": 442.0
+  }
+}

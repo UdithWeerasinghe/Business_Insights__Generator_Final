@@ -1,0 +1,25 @@
+{
+  "OrderID": "10280",
+  "OrderDate": "2016-08-14",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 20,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 6.2
+    }
+  ]
+}

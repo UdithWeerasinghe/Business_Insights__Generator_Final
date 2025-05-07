@@ -1,0 +1,28 @@
+{
+  "OrderID": "10277",
+  "OrderDate": "2016-08-09",
+  "CustomerID": "MORGK",
+  "CustomerDetails": {
+    "ContactName": "Alexander Feuer",
+    "Address": "Heerstr. 22",
+    "City": "Leipzig",
+    "PostalCode": "04179",
+    "Country": "Germany",
+    "Phone": "0342-023176",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 12,
+      "UnitPrice": 39.4
+    }
+  ]
+}

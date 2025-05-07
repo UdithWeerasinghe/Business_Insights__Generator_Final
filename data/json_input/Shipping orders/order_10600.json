@@ -1,0 +1,41 @@
+{
+  "OrderID": "10600",
+  "ShippingDetails": {
+    "ShipName": "Hungry Coyote Import Store",
+    "ShipAddress": "City Center Plaza 516 Main St.",
+    "ShipCity": "Elgin",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97827",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGC",
+    "CustomerName": "Hungry Coyote Import Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-16",
+    "ShippedDate": "2017-07-21",
+    "Products": [
+      {
+        "Product": "Tourtière",
+        "Quantity": 4,
+        "UnitPrice": 7.45,
+        "Total": 29.8
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 30,
+        "UnitPrice": 15.0,
+        "Total": 450.0
+      }
+    ],
+    "TotalPrice": 479.8
+  }
+}

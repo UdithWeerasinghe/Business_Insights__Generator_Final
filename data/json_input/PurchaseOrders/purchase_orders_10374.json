@@ -1,0 +1,19 @@
+{
+  "OrderID": "10374",
+  "OrderDate": "2016-12-05",
+  "CustomerName": "Zbyszek Piestrzeniewicz",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 15,
+      "UnitPrice": 10.6
+    }
+  ]
+}

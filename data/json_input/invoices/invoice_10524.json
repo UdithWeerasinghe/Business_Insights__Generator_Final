@@ -1,0 +1,32 @@
+{
+  "OrderID": "10524",
+  "OrderDate": "2017-05-01",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 2,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 60,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 15,
+      "UnitPrice": 7.45
+    }
+  ]
+}

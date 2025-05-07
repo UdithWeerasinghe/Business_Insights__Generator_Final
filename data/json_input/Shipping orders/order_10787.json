@@ -1,0 +1,41 @@
+{
+  "OrderID": "10787",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-19",
+    "ShippedDate": "2017-12-26",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 15,
+        "UnitPrice": 19.0,
+        "Total": 285.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 20,
+        "UnitPrice": 123.79,
+        "Total": 2475.8
+      }
+    ],
+    "TotalPrice": 2760.8
+  }
+}

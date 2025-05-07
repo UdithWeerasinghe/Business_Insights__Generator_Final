@@ -1,0 +1,41 @@
+{
+  "OrderID": "10562",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-09",
+    "ShippedDate": "2017-06-12",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 20,
+        "UnitPrice": 2.5,
+        "Total": 50.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 10,
+        "UnitPrice": 49.3,
+        "Total": 493.0
+      }
+    ],
+    "TotalPrice": 543.0
+  }
+}

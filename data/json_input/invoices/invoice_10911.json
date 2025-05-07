@@ -1,0 +1,34 @@
+{
+  "OrderID": "10911",
+  "OrderDate": "2018-02-26",
+  "CustomerID": "GODOS",
+  "CustomerDetails": {
+    "ContactName": "José Pedro Freyre",
+    "Address": "C/ Romero, 33",
+    "City": "Sevilla",
+    "PostalCode": "41101",
+    "Country": "Spain",
+    "Phone": "(95) 555 82 82",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 12,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "67",
+      "ProductName": "Laughing Lumberjack Lager",
+      "Quantity": 15,
+      "UnitPrice": 14.0
+    }
+  ]
+}

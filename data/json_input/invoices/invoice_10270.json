@@ -1,0 +1,28 @@
+{
+  "OrderID": "10270",
+  "OrderDate": "2016-08-01",
+  "CustomerID": "WARTH",
+  "CustomerDetails": {
+    "ContactName": "Pirkko Koskitalo",
+    "Address": "Torikatu 38",
+    "City": "Oulu",
+    "PostalCode": "90110",
+    "Country": "Finland",
+    "Phone": "981-443655",
+    "Fax": "981-443655"
+  },
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 25,
+      "UnitPrice": 36.8
+    }
+  ]
+}

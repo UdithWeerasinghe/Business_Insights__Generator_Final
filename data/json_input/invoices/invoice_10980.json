@@ -1,0 +1,14 @@
+{
+  "OrderID": "10980",
+  "OrderDate": "2018-03-27",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 40,
+      "UnitPrice": 7.75
+    }
+  ]
+}

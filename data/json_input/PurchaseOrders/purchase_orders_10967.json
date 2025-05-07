@@ -1,0 +1,19 @@
+{
+  "OrderID": "10967",
+  "OrderDate": "2018-03-23",
+  "CustomerName": "Karin Josephs",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 40,
+      "UnitPrice": 20.0
+    }
+  ]
+}

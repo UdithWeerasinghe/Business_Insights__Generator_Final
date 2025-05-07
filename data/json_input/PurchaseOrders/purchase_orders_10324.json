@@ -1,0 +1,37 @@
+{
+  "OrderID": "10324",
+  "OrderDate": "2016-10-08",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 21,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 70,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 30,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 40,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 80,
+      "UnitPrice": 35.1
+    }
+  ]
+}

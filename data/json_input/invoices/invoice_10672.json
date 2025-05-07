@@ -1,0 +1,20 @@
+{
+  "OrderID": "10672",
+  "OrderDate": "2017-09-17",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 15,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 12,
+      "UnitPrice": 21.5
+    }
+  ]
+}

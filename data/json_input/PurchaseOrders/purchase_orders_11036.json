@@ -1,0 +1,19 @@
+{
+  "OrderID": "11036",
+  "OrderDate": "2018-04-20",
+  "CustomerName": "Sven Ottlieb",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 7,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 55.0
+    }
+  ]
+}

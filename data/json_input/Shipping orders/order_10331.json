@@ -1,0 +1,35 @@
+{
+  "OrderID": "10331",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-16",
+    "ShippedDate": "2016-10-21",
+    "Products": [
+      {
+        "Product": "Tourtière",
+        "Quantity": 15,
+        "UnitPrice": 5.9,
+        "Total": 88.5
+      }
+    ],
+    "TotalPrice": 88.5
+  }
+}

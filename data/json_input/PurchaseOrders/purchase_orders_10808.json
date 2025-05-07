@@ -1,0 +1,19 @@
+{
+  "OrderID": "10808",
+  "OrderDate": "2018-01-01",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 50,
+      "UnitPrice": 18.0
+    }
+  ]
+}

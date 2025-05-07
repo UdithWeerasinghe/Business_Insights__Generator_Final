@@ -1,0 +1,41 @@
+{
+  "OrderID": "10547",
+  "ShippingDetails": {
+    "ShipName": "Seven Seas Imports",
+    "ShipAddress": "90 Wadhurst Rd.",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "OX15 4NB",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SEVES",
+    "CustomerName": "Seven Seas Imports"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-23",
+    "ShippedDate": "2017-06-02",
+    "Products": [
+      {
+        "Product": "Mascarpone Fabioli",
+        "Quantity": 24,
+        "UnitPrice": 32.0,
+        "Total": 768.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 60,
+        "UnitPrice": 19.0,
+        "Total": 1140.0
+      }
+    ],
+    "TotalPrice": 1908.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10289",
+  "OrderDate": "2016-08-26",
+  "CustomerName": "Victoria Ashworth",
+  "Products": [
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 30,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 9,
+      "UnitPrice": 26.6
+    }
+  ]
+}

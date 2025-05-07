@@ -1,0 +1,25 @@
+{
+  "OrderID": "10395",
+  "OrderDate": "2016-12-26",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 28,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 70,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 8,
+      "UnitPrice": 28.8
+    }
+  ]
+}

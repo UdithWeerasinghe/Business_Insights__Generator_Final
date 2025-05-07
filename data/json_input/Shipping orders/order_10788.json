@@ -1,0 +1,41 @@
+{
+  "OrderID": "10788",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-22",
+    "ShippedDate": "2018-01-19",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 50,
+        "UnitPrice": 9.2,
+        "Total": 459.99999999999994
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 40,
+        "UnitPrice": 7.75,
+        "Total": 310.0
+      }
+    ],
+    "TotalPrice": 770.0
+  }
+}

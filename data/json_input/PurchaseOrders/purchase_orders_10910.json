@@ -1,0 +1,25 @@
+{
+  "OrderID": "10910",
+  "OrderDate": "2018-02-26",
+  "CustomerName": "Matti Karttunen",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 10,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 5,
+      "UnitPrice": 28.5
+    }
+  ]
+}

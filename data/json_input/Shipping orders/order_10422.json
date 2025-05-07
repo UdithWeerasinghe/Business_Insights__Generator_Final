@@ -1,0 +1,35 @@
+{
+  "OrderID": "10422",
+  "ShippingDetails": {
+    "ShipName": "Franchi S.p.A.",
+    "ShipAddress": "Via Monte Bianco 34",
+    "ShipCity": "Torino",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "10100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANS",
+    "CustomerName": "Franchi S.p.A."
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-22",
+    "ShippedDate": "2017-01-31",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 2,
+        "UnitPrice": 24.9,
+        "Total": 49.8
+      }
+    ],
+    "TotalPrice": 49.8
+  }
+}

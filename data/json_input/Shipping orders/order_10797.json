@@ -1,0 +1,35 @@
+{
+  "OrderID": "10797",
+  "ShippingDetails": {
+    "ShipName": "Drachenblut Delikatessen",
+    "ShipAddress": "Walserweg 21",
+    "ShipCity": "Aachen",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "52066",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DRACD",
+    "CustomerName": "Drachenblut Delikatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-25",
+    "ShippedDate": "2018-01-05",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 20,
+        "UnitPrice": 21.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 420.0
+  }
+}

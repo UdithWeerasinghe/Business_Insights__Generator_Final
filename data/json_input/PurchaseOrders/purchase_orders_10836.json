@@ -1,0 +1,37 @@
+{
+  "OrderID": "10836",
+  "OrderDate": "2018-01-16",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 52,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 6,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 24,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 60,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 33.25
+    }
+  ]
+}

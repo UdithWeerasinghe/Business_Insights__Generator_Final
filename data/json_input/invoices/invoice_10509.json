@@ -1,0 +1,22 @@
+{
+  "OrderID": "10509",
+  "OrderDate": "2017-04-17",
+  "CustomerID": "BLAUS",
+  "CustomerDetails": {
+    "ContactName": "Hanna Moos",
+    "Address": "Forsterstr. 57",
+    "City": "Mannheim",
+    "PostalCode": "68306",
+    "Country": "Germany",
+    "Phone": "0621-08460",
+    "Fax": "0621-08924"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 3,
+      "UnitPrice": 45.6
+    }
+  ]
+}

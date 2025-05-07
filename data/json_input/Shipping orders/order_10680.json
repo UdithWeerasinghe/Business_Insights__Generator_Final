@@ -1,0 +1,47 @@
+{
+  "OrderID": "10680",
+  "ShippingDetails": {
+    "ShipName": "Old World Delicatessen",
+    "ShipAddress": "2743 Bering St.",
+    "ShipCity": "Anchorage",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99508",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OLDWO",
+    "CustomerName": "Old World Delicatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-24",
+    "ShippedDate": "2017-09-26",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 50,
+        "UnitPrice": 17.45,
+        "Total": 872.5
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 20,
+        "UnitPrice": 12.5,
+        "Total": 250.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 40,
+        "UnitPrice": 14.0,
+        "Total": 560.0
+      }
+    ],
+    "TotalPrice": 1682.5
+  }
+}

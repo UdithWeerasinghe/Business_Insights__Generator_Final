@@ -1,0 +1,26 @@
+{
+  "OrderID": "10400",
+  "OrderDate": "2017-01-01",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 21,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 35,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 30,
+      "UnitPrice": 16.0
+    }
+  ]
+}

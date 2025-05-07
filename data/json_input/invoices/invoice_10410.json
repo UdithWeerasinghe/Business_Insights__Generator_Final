@@ -1,0 +1,20 @@
+{
+  "OrderID": "10410",
+  "OrderDate": "2017-01-10",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 49,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 16,
+      "UnitPrice": 44.0
+    }
+  ]
+}

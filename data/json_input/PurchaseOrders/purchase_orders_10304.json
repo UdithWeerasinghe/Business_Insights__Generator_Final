@@ -1,0 +1,25 @@
+{
+  "OrderID": "10304",
+  "OrderDate": "2016-09-12",
+  "CustomerName": "Miguel Angel Paolino",
+  "Products": [
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 30,
+      "UnitPrice": 16.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 10,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 2,
+      "UnitPrice": 17.2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10536",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-14",
+    "ShippedDate": "2017-06-06",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 15,
+        "UnitPrice": 38.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 20,
+        "UnitPrice": 12.5,
+        "Total": 250.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 30,
+        "UnitPrice": 2.5,
+        "Total": 75.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 35,
+        "UnitPrice": 34.0,
+        "Total": 1190.0
+      }
+    ],
+    "TotalPrice": 2085.0
+  }
+}

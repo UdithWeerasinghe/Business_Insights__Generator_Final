@@ -1,0 +1,22 @@
+{
+  "OrderID": "10679",
+  "OrderDate": "2017-09-23",
+  "CustomerID": "BLONP",
+  "CustomerDetails": {
+    "ContactName": "Frédérique Citeaux",
+    "Address": "24, place Kléber",
+    "City": "Strasbourg",
+    "PostalCode": "67000",
+    "Country": "France",
+    "Phone": "88.60.15.31",
+    "Fax": "88.60.15.32"
+  },
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 55.0
+    }
+  ]
+}

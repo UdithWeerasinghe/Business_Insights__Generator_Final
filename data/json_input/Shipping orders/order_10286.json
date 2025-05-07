@@ -1,0 +1,41 @@
+{
+  "OrderID": "10286",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-21",
+    "ShippedDate": "2016-08-30",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 100,
+        "UnitPrice": 14.4,
+        "Total": 1440.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 40,
+        "UnitPrice": 39.4,
+        "Total": 1576.0
+      }
+    ],
+    "TotalPrice": 3016.0
+  }
+}

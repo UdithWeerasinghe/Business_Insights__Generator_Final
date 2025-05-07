@@ -1,0 +1,31 @@
+{
+  "OrderID": "10389",
+  "OrderDate": "2016-12-20",
+  "CustomerName": "Elizabeth Lincoln",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 16,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 15,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 39.4
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    }
+  ]
+}

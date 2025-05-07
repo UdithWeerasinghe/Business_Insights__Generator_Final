@@ -1,0 +1,40 @@
+{
+  "OrderID": "11013",
+  "OrderDate": "2018-04-09",
+  "CustomerID": "ROMEY",
+  "CustomerDetails": {
+    "ContactName": "Alejandra Camino",
+    "Address": "Gran Vía, 1",
+    "City": "Madrid",
+    "PostalCode": "28001",
+    "Country": "Spain",
+    "Phone": "(91) 745 6200",
+    "Fax": "(91) 745 6210"
+  },
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 10,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 4,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 20,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 2,
+      "UnitPrice": 12.5
+    }
+  ]
+}

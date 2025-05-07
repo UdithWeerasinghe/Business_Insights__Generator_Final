@@ -1,0 +1,34 @@
+{
+  "OrderID": "10833",
+  "OrderDate": "2018-01-15",
+  "CustomerID": "OTTIK",
+  "CustomerDetails": {
+    "ContactName": "Henriette Pfalzheim",
+    "Address": "Mehrheimerstr. 369",
+    "City": "Köln",
+    "PostalCode": "50739",
+    "Country": "Germany",
+    "Phone": "0221-0644327",
+    "Fax": "0221-0765721"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 20,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 9,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 9,
+      "UnitPrice": 32.8
+    }
+  ]
+}

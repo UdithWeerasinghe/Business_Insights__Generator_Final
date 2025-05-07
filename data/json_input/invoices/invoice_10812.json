@@ -1,0 +1,34 @@
+{
+  "OrderID": "10812",
+  "OrderDate": "2018-01-02",
+  "CustomerID": "REGGC",
+  "CustomerDetails": {
+    "ContactName": "Maurizio Moroni",
+    "Address": "Strada Provinciale 124",
+    "City": "Reggio Emilia",
+    "PostalCode": "42100",
+    "Country": "Italy",
+    "Phone": "0522-556721",
+    "Fax": "0522-556722"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 16,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 40,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 20,
+      "UnitPrice": 13.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10254",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-11",
+    "ShippedDate": "2016-07-23",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 15,
+        "UnitPrice": 3.6,
+        "Total": 54.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 21,
+        "UnitPrice": 19.2,
+        "Total": 403.2
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 21,
+        "UnitPrice": 8.0,
+        "Total": 168.0
+      }
+    ],
+    "TotalPrice": 625.2
+  }
+}

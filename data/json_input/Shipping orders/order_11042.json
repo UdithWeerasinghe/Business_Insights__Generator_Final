@@ -1,0 +1,41 @@
+{
+  "OrderID": "11042",
+  "ShippingDetails": {
+    "ShipName": "Comércio Mineiro",
+    "ShipAddress": "Av. dos Lusíadas, 23",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05432-043",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "COMMI",
+    "CustomerName": "Comércio Mineiro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-22",
+    "ShippedDate": "2018-05-01",
+    "Products": [
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 15,
+        "UnitPrice": 19.45,
+        "Total": 291.75
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 4,
+        "UnitPrice": 28.5,
+        "Total": 114.0
+      }
+    ],
+    "TotalPrice": 405.75
+  }
+}

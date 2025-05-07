@@ -1,0 +1,28 @@
+{
+  "OrderID": "10588",
+  "OrderDate": "2017-07-03",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 40,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 100,
+      "UnitPrice": 14.0
+    }
+  ]
+}

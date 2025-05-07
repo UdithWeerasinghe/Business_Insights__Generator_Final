@@ -1,0 +1,19 @@
+{
+  "OrderID": "10788",
+  "OrderDate": "2017-12-22",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 50,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 40,
+      "UnitPrice": 7.75
+    }
+  ]
+}

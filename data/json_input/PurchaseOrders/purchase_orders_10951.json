@@ -1,0 +1,25 @@
+{
+  "OrderID": "10951",
+  "OrderDate": "2018-03-16",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 15,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 6,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 50,
+      "UnitPrice": 7.75
+    }
+  ]
+}

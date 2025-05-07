@@ -1,0 +1,35 @@
+{
+  "OrderID": "10376",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-09",
+    "ShippedDate": "2016-12-13",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 42,
+        "UnitPrice": 10.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 420.0
+  }
+}

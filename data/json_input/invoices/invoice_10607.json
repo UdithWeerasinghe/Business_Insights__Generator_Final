@@ -1,0 +1,46 @@
+{
+  "OrderID": "10607",
+  "OrderDate": "2017-07-22",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 45,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 100,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 14,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 42,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 12,
+      "UnitPrice": 34.8
+    }
+  ]
+}

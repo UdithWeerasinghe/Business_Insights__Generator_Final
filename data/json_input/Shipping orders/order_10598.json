@@ -1,0 +1,41 @@
+{
+  "OrderID": "10598",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-14",
+    "ShippedDate": "2017-07-18",
+    "Products": [
+      {
+        "Product": "Schoggi Schokolade",
+        "Quantity": 50,
+        "UnitPrice": 43.9,
+        "Total": 2195.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 9,
+        "UnitPrice": 21.5,
+        "Total": 193.5
+      }
+    ],
+    "TotalPrice": 2388.5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10971",
+  "OrderDate": "2018-03-24",
+  "CustomerID": "FRANR",
+  "CustomerDetails": {
+    "ContactName": "Carine Schmitt",
+    "Address": "54, rue Royale",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.32.21.21",
+    "Fax": "40.32.21.20"
+  },
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 14,
+      "UnitPrice": 123.79
+    }
+  ]
+}

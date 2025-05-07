@@ -1,0 +1,32 @@
+{
+  "OrderID": "10541",
+  "OrderDate": "2017-05-19",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 35,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 4,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 36,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 9,
+      "UnitPrice": 21.5
+    }
+  ]
+}

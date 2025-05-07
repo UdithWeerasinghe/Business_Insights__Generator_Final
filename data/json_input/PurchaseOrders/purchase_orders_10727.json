@@ -1,0 +1,25 @@
+{
+  "OrderID": "10727",
+  "OrderDate": "2017-11-03",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 20,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 10,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 10,
+      "UnitPrice": 55.0
+    }
+  ]
+}

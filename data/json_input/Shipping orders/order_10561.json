@@ -1,0 +1,41 @@
+{
+  "OrderID": "10561",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-06",
+    "ShippedDate": "2017-06-09",
+    "Products": [
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 10,
+        "UnitPrice": 19.45,
+        "Total": 194.5
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 50,
+        "UnitPrice": 53.0,
+        "Total": 2650.0
+      }
+    ],
+    "TotalPrice": 2844.5
+  }
+}

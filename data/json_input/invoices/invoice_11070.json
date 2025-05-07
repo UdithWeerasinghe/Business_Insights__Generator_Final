@@ -1,0 +1,40 @@
+{
+  "OrderID": "11070",
+  "OrderDate": "2018-05-05",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 40,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    }
+  ]
+}

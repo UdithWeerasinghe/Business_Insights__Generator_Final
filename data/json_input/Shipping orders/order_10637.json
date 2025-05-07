@@ -1,0 +1,47 @@
+{
+  "OrderID": "10637",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-19",
+    "ShippedDate": "2017-08-26",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 10,
+        "UnitPrice": 21.0,
+        "Total": 210.0
+      },
+      {
+        "Product": "Valkoinen suklaa",
+        "Quantity": 25,
+        "UnitPrice": 16.25,
+        "Total": 406.25
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 60,
+        "UnitPrice": 38.0,
+        "Total": 2280.0
+      }
+    ],
+    "TotalPrice": 2896.25
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "OrderID": "10514",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-22",
+    "ShippedDate": "2017-05-16",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 39,
+        "UnitPrice": 81.0,
+        "Total": 3159.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 35,
+        "UnitPrice": 45.6,
+        "Total": 1596.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 70,
+        "UnitPrice": 38.0,
+        "Total": 2660.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 39,
+        "UnitPrice": 21.05,
+        "Total": 820.95
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 50,
+        "UnitPrice": 7.75,
+        "Total": 387.5
+      }
+    ],
+    "TotalPrice": 8623.45
+  }
+}

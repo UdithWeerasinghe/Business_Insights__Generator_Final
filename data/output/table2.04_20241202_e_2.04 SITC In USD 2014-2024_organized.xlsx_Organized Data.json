@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "file_name": "table2.04_20241202_e_2.04 SITC In USD 2014-2024_organized.xlsx",
+        "sheet_name": "Organized Data"
+    },
+    "data": {
+        "2.04: Import Performance based on Standard International Trade Classification (SITC) Monthly 2014-2024 (a)": [],
+        "Table 2.04.3: Imports (US$ Million)": [],
+        "Total Imports": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 1724.503244115229
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 1667.453467597941
+            }
+        ],
+        "(a)  The latest version of SITC Revision 4 published in 2006": [],
+        "(b) Provisional": [],
+        "Sources: Ceylon Petroleum Corporation and Other Exporters of Petroleum": [],
+        "                National Gem and Jewellery Authority": [],
+        "               Sri Lanka Customs": [],
+        "              Central Bank of Sri Lanka": [],
+        "Food and Live Animals": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 182.2038834075206
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 204.8992895236852
+            }
+        ],
+        "Beverages and Tobacco": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 9.521437169949728
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 8.26234063280887
+            }
+        ],
+        "Crude Materials, Inedible, except Fuels": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 38.41580267074281
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 35.96248088253923
+            }
+        ],
+        "Mineral Fuels, Lubricants and Related Materials": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 472.0029153611532
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 295.3340419009725
+            }
+        ],
+        "Animal and Vegetable Oils, Fats and Waxes": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 7.61119196395995
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 15.58655392079717
+            }
+        ],
+        "Chemicals and Related Products, n.e.s.": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 162.5158485119653
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 160.5036619619915
+            }
+        ],
+        "Manufactured Goods Classified Chiefly by Material": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 443.068813366772
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 423.2183113760502
+            }
+        ],
+        "Machinery and  Transport Equipment": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 334.6864123328865
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 440.256548754227
+            }
+        ],
+        "Miscellaneous Manufactured Articles": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 73.22405789297827
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 79.41861957385392
+            }
+        ],
+        "Commodities and Transactions Not Classified Elsewhere in  the SITC": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 1.25288143730053
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 4.011619071015388
+            }
+        ]
+    }
+}

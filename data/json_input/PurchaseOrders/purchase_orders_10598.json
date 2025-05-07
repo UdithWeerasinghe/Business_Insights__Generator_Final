@@ -1,0 +1,19 @@
+{
+  "OrderID": "10598",
+  "OrderDate": "2017-07-14",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "27",
+      "Product": "Schoggi Schokolade",
+      "Quantity": 50,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 9,
+      "UnitPrice": 21.5
+    }
+  ]
+}

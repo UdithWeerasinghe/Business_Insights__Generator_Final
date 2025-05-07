@@ -1,0 +1,34 @@
+{
+  "OrderID": "10345",
+  "OrderDate": "2016-11-04",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 70,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 80,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 9,
+      "UnitPrice": 11.2
+    }
+  ]
+}

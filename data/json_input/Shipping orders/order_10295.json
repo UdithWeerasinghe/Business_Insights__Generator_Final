@@ -1,0 +1,35 @@
+{
+  "OrderID": "10295",
+  "ShippingDetails": {
+    "ShipName": "Vins et alcools Chevalier",
+    "ShipAddress": "59 rue de l-Abbaye",
+    "ShipCity": "Reims",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "51100",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VINET",
+    "CustomerName": "Vins et alcools Chevalier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-02",
+    "ShippedDate": "2016-09-10",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 4,
+        "UnitPrice": 30.4,
+        "Total": 121.6
+      }
+    ],
+    "TotalPrice": 121.6
+  }
+}

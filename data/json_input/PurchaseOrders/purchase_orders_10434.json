@@ -1,0 +1,19 @@
+{
+  "OrderID": "10434",
+  "OrderDate": "2017-02-03",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 6,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 18,
+      "UnitPrice": 14.4
+    }
+  ]
+}

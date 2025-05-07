@@ -1,0 +1,25 @@
+{
+  "OrderID": "10675",
+  "OrderDate": "2017-09-19",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 30,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 10,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    }
+  ]
+}

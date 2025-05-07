@@ -1,0 +1,22 @@
+{
+  "OrderID": "10441",
+  "OrderDate": "2017-02-10",
+  "CustomerID": "OLDWO",
+  "CustomerDetails": {
+    "ContactName": "Rene Phillips",
+    "Address": "2743 Bering St.",
+    "City": "Anchorage",
+    "PostalCode": "99508",
+    "Country": "USA",
+    "Phone": "(907) 555-7584",
+    "Fax": "(907) 555-2880"
+  },
+  "Products": [
+    {
+      "ProductID": "27",
+      "ProductName": "Schoggi Schokolade",
+      "Quantity": 50,
+      "UnitPrice": 35.1
+    }
+  ]
+}

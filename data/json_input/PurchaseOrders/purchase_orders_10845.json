@@ -1,0 +1,37 @@
+{
+  "OrderID": "10845",
+  "OrderDate": "2018-01-21",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 70,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 25,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 42,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 60,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 48,
+      "UnitPrice": 33.25
+    }
+  ]
+}

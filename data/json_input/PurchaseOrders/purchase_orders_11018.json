@@ -1,0 +1,25 @@
+{
+  "OrderID": "11018",
+  "OrderDate": "2018-04-13",
+  "CustomerName": "Fran Wilson",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 10,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 5,
+      "UnitPrice": 38.0
+    }
+  ]
+}

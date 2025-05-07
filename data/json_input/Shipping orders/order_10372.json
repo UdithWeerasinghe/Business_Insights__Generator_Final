@@ -1,0 +1,53 @@
+{
+  "OrderID": "10372",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-04",
+    "ShippedDate": "2016-12-09",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 12,
+        "UnitPrice": 64.8,
+        "Total": 777.5999999999999
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 40,
+        "UnitPrice": 210.8,
+        "Total": 8432.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 70,
+        "UnitPrice": 27.2,
+        "Total": 1904.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 42,
+        "UnitPrice": 27.8,
+        "Total": 1167.6000000000001
+      }
+    ],
+    "TotalPrice": 12281.2
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10684",
+  "OrderDate": "2017-09-26",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 20,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 30,
+      "UnitPrice": 34.0
+    }
+  ]
+}

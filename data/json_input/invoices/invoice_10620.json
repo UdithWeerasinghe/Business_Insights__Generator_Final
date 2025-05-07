@@ -1,0 +1,20 @@
+{
+  "OrderID": "10620",
+  "OrderDate": "2017-08-05",
+  "CustomerID": "LAUGB",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 5,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 5,
+      "UnitPrice": 7.0
+    }
+  ]
+}

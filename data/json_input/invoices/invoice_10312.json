@@ -1,0 +1,40 @@
+{
+  "OrderID": "10312",
+  "OrderDate": "2016-09-23",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 4,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 36.8
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 6.2
+    }
+  ]
+}

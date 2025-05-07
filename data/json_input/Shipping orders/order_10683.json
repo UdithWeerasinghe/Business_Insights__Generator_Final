@@ -1,0 +1,35 @@
+{
+  "OrderID": "10683",
+  "ShippingDetails": {
+    "ShipName": "Du monde entier",
+    "ShipAddress": "67, rue des Cinquante Otages",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DUMON",
+    "CustomerName": "Du monde entier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-26",
+    "ShippedDate": "2017-10-01",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 9,
+        "UnitPrice": 7.0,
+        "Total": 63.0
+      }
+    ],
+    "TotalPrice": 63.0
+  }
+}

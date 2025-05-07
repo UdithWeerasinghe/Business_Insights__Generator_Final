@@ -1,0 +1,25 @@
+{
+  "OrderID": "10682",
+  "OrderDate": "2017-09-25",
+  "CustomerName": "Antonio Moreno",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "66",
+      "Product": "Louisiana Hot Spiced Okra",
+      "Quantity": 4,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10540",
+  "OrderDate": "2017-05-19",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "3",
+      "ProductName": "Aniseed Syrup",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 40,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 30,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 35,
+      "UnitPrice": 12.5
+    }
+  ]
+}

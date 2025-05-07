@@ -1,0 +1,41 @@
+{
+  "OrderID": "10264",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-24",
+    "ShippedDate": "2016-08-23",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 35,
+        "UnitPrice": 15.2,
+        "Total": 532.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 25,
+        "UnitPrice": 7.7,
+        "Total": 192.5
+      }
+    ],
+    "TotalPrice": 724.5
+  }
+}

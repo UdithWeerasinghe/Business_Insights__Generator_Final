@@ -1,0 +1,47 @@
+{
+  "OrderID": "10484",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-24",
+    "ShippedDate": "2017-04-01",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 14,
+        "UnitPrice": 8.0,
+        "Total": 112.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 10,
+        "UnitPrice": 14.7,
+        "Total": 147.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 3,
+        "UnitPrice": 42.4,
+        "Total": 127.19999999999999
+      }
+    ],
+    "TotalPrice": 386.2
+  }
+}

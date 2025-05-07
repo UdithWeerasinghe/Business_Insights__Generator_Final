@@ -1,0 +1,47 @@
+{
+  "OrderID": "10577",
+  "ShippingDetails": {
+    "ShipName": "Trail-s Head Gourmet Provisioners",
+    "ShipAddress": "722 DaVinci Blvd.",
+    "ShipCity": "Kirkland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98034",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TRAIH",
+    "CustomerName": "Trail's Head Gourmet Provisioners"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-23",
+    "ShippedDate": "2017-06-30",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 20,
+        "UnitPrice": 7.75,
+        "Total": 155.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 18,
+        "UnitPrice": 13.0,
+        "Total": 234.0
+      }
+    ],
+    "TotalPrice": 569.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10601",
+  "ShippingDetails": {
+    "ShipName": "HILARION-Abastos",
+    "ShipAddress": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "ShipCity": "San Cristóbal",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "5022",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HILAA",
+    "CustomerName": "HILARION-Abastos"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-16",
+    "ShippedDate": "2017-07-22",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 60,
+        "UnitPrice": 6.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 35,
+        "UnitPrice": 55.0,
+        "Total": 1925.0
+      }
+    ],
+    "TotalPrice": 2285.0
+  }
+}

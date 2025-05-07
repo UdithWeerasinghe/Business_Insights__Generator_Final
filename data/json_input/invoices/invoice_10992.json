@@ -1,0 +1,22 @@
+{
+  "OrderID": "10992",
+  "OrderDate": "2018-04-01",
+  "CustomerID": "THEBI",
+  "CustomerDetails": {
+    "ContactName": "Liz Nixon",
+    "Address": "89 Jefferson Way Suite 2",
+    "City": "Portland",
+    "PostalCode": "97201",
+    "Country": "USA",
+    "Phone": "(503) 555-3612",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 2,
+      "UnitPrice": 34.8
+    }
+  ]
+}

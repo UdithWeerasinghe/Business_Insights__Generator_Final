@@ -1,0 +1,28 @@
+{
+  "OrderID": "10821",
+  "OrderDate": "2018-01-08",
+  "CustomerID": "SPLIR",
+  "CustomerDetails": {
+    "ContactName": "Art Braunschweiger",
+    "Address": "P.O. Box 555",
+    "City": "Lander",
+    "PostalCode": "82520",
+    "Country": "USA",
+    "Phone": "(307) 555-4680",
+    "Fax": "(307) 555-6525"
+  },
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 6,
+      "UnitPrice": 53.0
+    }
+  ]
+}

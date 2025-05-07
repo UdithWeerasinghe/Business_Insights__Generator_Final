@@ -1,0 +1,32 @@
+{
+  "OrderID": "11024",
+  "OrderDate": "2018-04-15",
+  "CustomerID": "EASTC",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 12,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 21,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 50,
+      "UnitPrice": 21.5
+    }
+  ]
+}

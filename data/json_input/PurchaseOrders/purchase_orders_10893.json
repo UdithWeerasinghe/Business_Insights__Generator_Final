@@ -1,0 +1,37 @@
+{
+  "OrderID": "10893",
+  "OrderDate": "2018-02-18",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "8",
+      "Product": "Northwoods Cranberry Sauce",
+      "Quantity": 30,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 24,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 35,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    }
+  ]
+}

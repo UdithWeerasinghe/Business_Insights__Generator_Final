@@ -1,0 +1,13 @@
+{
+  "OrderID": "10874",
+  "OrderDate": "2018-02-06",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 10,
+      "UnitPrice": 31.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10718",
+  "OrderDate": "2017-10-27",
+  "CustomerName": "Philip Cramer",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 36,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 20,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    }
+  ]
+}

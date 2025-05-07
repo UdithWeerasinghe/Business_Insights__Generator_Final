@@ -1,0 +1,41 @@
+{
+  "OrderID": "11028",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-16",
+    "ShippedDate": "2018-04-22",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 35,
+        "UnitPrice": 24.0,
+        "Total": 840.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 24,
+        "UnitPrice": 55.0,
+        "Total": 1320.0
+      }
+    ],
+    "TotalPrice": 2160.0
+  }
+}

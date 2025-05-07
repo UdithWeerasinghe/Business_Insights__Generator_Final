@@ -1,0 +1,41 @@
+{
+  "OrderID": "11023",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-14",
+    "ShippedDate": "2018-04-24",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 4,
+        "UnitPrice": 30.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 30,
+        "UnitPrice": 46.0,
+        "Total": 1380.0
+      }
+    ],
+    "TotalPrice": 1500.0
+  }
+}

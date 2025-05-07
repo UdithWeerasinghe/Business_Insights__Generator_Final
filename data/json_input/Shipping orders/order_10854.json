@@ -1,0 +1,41 @@
+{
+  "OrderID": "10854",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-27",
+    "ShippedDate": "2018-02-05",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 100,
+        "UnitPrice": 31.0,
+        "Total": 3100.0
+      },
+      {
+        "Product": "Konbu",
+        "Quantity": 65,
+        "UnitPrice": 6.0,
+        "Total": 390.0
+      }
+    ],
+    "TotalPrice": 3490.0
+  }
+}

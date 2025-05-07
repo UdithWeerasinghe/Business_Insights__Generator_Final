@@ -1,0 +1,7 @@
+        Total profit over the period: 9,145,994 LKR 
+      Average daily profit: 101,622.16 LKR 
+          Highest profit day: 2025-02-13 with 140,841 LKR 
+      Lowest profit day: 2025-01-13 with 55,055 LKR 
+     Top 3 most profitable products overall: camera, tempory glass, selfie stick 
+      Least contributing product: powerbank 
+ 

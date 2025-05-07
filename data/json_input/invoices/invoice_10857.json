@@ -1,0 +1,26 @@
+{
+  "OrderID": "10857",
+  "OrderDate": "2018-01-28",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "3",
+      "ProductName": "Aniseed Syrup",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 35,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    }
+  ]
+}

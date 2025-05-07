@@ -1,0 +1,47 @@
+{
+  "OrderID": "10665",
+  "ShippingDetails": {
+    "ShipName": "Lonesome Pine Restaurant",
+    "ShipAddress": "89 Chiaroscuro Rd.",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97219",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LONEP",
+    "CustomerName": "Lonesome Pine Restaurant"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-11",
+    "ShippedDate": "2017-09-17",
+    "Products": [
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 20,
+        "UnitPrice": 53.0,
+        "Total": 1060.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 1,
+        "UnitPrice": 55.0,
+        "Total": 55.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 1295.0
+  }
+}

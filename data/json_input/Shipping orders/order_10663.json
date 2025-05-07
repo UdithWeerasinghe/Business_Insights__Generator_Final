@@ -1,0 +1,47 @@
+{
+  "OrderID": "10663",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-10",
+    "ShippedDate": "2017-10-03",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 30,
+        "UnitPrice": 18.4,
+        "Total": 552.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 30,
+        "UnitPrice": 14.0,
+        "Total": 420.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 20,
+        "UnitPrice": 53.0,
+        "Total": 1060.0
+      }
+    ],
+    "TotalPrice": 2032.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10365",
+  "OrderDate": "2016-11-27",
+  "CustomerID": "ANTON",
+  "CustomerDetails": {
+    "ContactName": "Antonio Moreno",
+    "Address": "Mataderos 2312",
+    "City": "México D.F.",
+    "PostalCode": "05023",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 24,
+      "UnitPrice": 16.8
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10554",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-30",
+    "ShippedDate": "2017-06-05",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 30,
+        "UnitPrice": 17.45,
+        "Total": 523.5
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 20,
+        "UnitPrice": 9.0,
+        "Total": 180.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 20,
+        "UnitPrice": 49.3,
+        "Total": 986.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 10,
+        "UnitPrice": 13.0,
+        "Total": 130.0
+      }
+    ],
+    "TotalPrice": 1819.5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10288",
+  "OrderDate": "2016-08-23",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 10,
+      "UnitPrice": 5.9
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 3,
+      "UnitPrice": 10.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10470",
+  "OrderDate": "2017-03-11",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 30,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 15,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 8,
+      "UnitPrice": 26.6
+    }
+  ]
+}

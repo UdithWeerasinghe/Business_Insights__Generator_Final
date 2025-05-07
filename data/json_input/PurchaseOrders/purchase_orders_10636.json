@@ -1,0 +1,19 @@
+{
+  "OrderID": "10636",
+  "OrderDate": "2017-08-19",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 25,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 6,
+      "UnitPrice": 13.25
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10759",
+  "OrderDate": "2017-11-28",
+  "CustomerID": "ANATR",
+  "CustomerDetails": {
+    "ContactName": "Ana Trujillo",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "PostalCode": "05021",
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 10,
+      "UnitPrice": 32.0
+    }
+  ]
+}

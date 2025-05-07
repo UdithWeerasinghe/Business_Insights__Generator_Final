@@ -1,0 +1,19 @@
+{
+  "OrderID": "10952",
+  "OrderDate": "2018-03-16",
+  "CustomerName": "Maria Anders",
+  "Products": [
+    {
+      "ProductID": "6",
+      "Product": "Grandma's Boysenberry Spread",
+      "Quantity": 16,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 2,
+      "UnitPrice": 45.6
+    }
+  ]
+}

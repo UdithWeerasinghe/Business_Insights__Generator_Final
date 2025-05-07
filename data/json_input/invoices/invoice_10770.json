@@ -1,0 +1,14 @@
+{
+  "OrderID": "10770",
+  "OrderDate": "2017-12-09",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    }
+  ]
+}

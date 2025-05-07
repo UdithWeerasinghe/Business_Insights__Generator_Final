@@ -1,0 +1,41 @@
+{
+  "OrderID": "10873",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-06",
+    "ShippedDate": "2018-02-09",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 3,
+        "UnitPrice": 45.6,
+        "Total": 136.8
+      }
+    ],
+    "TotalPrice": 336.8
+  }
+}

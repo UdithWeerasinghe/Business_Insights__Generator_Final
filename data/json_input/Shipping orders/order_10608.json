@@ -1,0 +1,35 @@
+{
+  "OrderID": "10608",
+  "ShippingDetails": {
+    "ShipName": "Toms Spezialitäten",
+    "ShipAddress": "Luisenstr. 48",
+    "ShipCity": "Münster",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44087",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TOMSP",
+    "CustomerName": "Toms Spezialitäten"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-23",
+    "ShippedDate": "2017-08-01",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 28,
+        "UnitPrice": 38.0,
+        "Total": 1064.0
+      }
+    ],
+    "TotalPrice": 1064.0
+  }
+}

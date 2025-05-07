@@ -1,0 +1,25 @@
+{
+  "OrderID": "10792",
+  "OrderDate": "2017-12-23",
+  "CustomerName": "Zbyszek Piestrzeniewicz",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 3,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    }
+  ]
+}

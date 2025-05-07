@@ -1,0 +1,41 @@
+{
+  "OrderID": "10939",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-10",
+    "ShippedDate": "2018-03-13",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 10,
+        "UnitPrice": 19.0,
+        "Total": 190.0
+      },
+      {
+        "Product": "Laughing Lumberjack Lager",
+        "Quantity": 40,
+        "UnitPrice": 14.0,
+        "Total": 560.0
+      }
+    ],
+    "TotalPrice": 750.0
+  }
+}

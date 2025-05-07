@@ -1,0 +1,19 @@
+{
+  "OrderID": "10708",
+  "OrderDate": "2017-10-17",
+  "CustomerName": "Liz Nixon",
+  "Products": [
+    {
+      "ProductID": "5",
+      "Product": "Chef Anton's Gumbo Mix",
+      "Quantity": 4,
+      "UnitPrice": 21.35
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 5,
+      "UnitPrice": 19.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10869",
+  "ShippingDetails": {
+    "ShipName": "Seven Seas Imports",
+    "ShipAddress": "90 Wadhurst Rd.",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "OX15 4NB",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SEVES",
+    "CustomerName": "Seven Seas Imports"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-04",
+    "ShippedDate": "2018-02-09",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 40,
+        "UnitPrice": 18.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 10,
+        "UnitPrice": 21.0,
+        "Total": 210.0
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 50,
+        "UnitPrice": 9.0,
+        "Total": 450.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 20,
+        "UnitPrice": 12.5,
+        "Total": 250.0
+      }
+    ],
+    "TotalPrice": 1630.0
+  }
+}

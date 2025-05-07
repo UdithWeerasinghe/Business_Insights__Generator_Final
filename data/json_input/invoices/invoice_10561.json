@@ -1,0 +1,20 @@
+{
+  "OrderID": "10561",
+  "OrderDate": "2017-06-06",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 10,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 50,
+      "UnitPrice": 53.0
+    }
+  ]
+}

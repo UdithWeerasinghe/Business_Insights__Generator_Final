@@ -1,0 +1,47 @@
+{
+  "OrderID": "10916",
+  "ShippingDetails": {
+    "ShipName": "Rancho grande",
+    "ShipAddress": "Av. del Libertador 900",
+    "ShipCity": "Buenos Aires",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "1010",
+    "ShipCountry": "Argentina"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RANCH",
+    "CustomerName": "Rancho grande"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-27",
+    "ShippedDate": "2018-03-09",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 6,
+        "UnitPrice": 17.45,
+        "Total": 104.69999999999999
+      },
+      {
+        "Product": "Mascarpone Fabioli",
+        "Quantity": 6,
+        "UnitPrice": 32.0,
+        "Total": 192.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 20,
+        "UnitPrice": 19.5,
+        "Total": 390.0
+      }
+    ],
+    "TotalPrice": 686.7
+  }
+}

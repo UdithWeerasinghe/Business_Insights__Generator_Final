@@ -1,0 +1,35 @@
+{
+  "OrderID": "10349",
+  "ShippingDetails": {
+    "ShipName": "Split Rail Beer & Ale",
+    "ShipAddress": "P.O. Box 555",
+    "ShipCity": "Lander",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "82520",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPLIR",
+    "CustomerName": "Split Rail Beer & Ale"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-08",
+    "ShippedDate": "2016-11-15",
+    "Products": [
+      {
+        "Product": "Tourtière",
+        "Quantity": 24,
+        "UnitPrice": 5.9,
+        "Total": 141.60000000000002
+      }
+    ],
+    "TotalPrice": 141.60000000000002
+  }
+}

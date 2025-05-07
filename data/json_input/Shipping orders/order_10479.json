@@ -1,0 +1,53 @@
+{
+  "OrderID": "10479",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-19",
+    "ShippedDate": "2017-03-21",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 30,
+        "UnitPrice": 210.8,
+        "Total": 6324.0
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 28,
+        "UnitPrice": 26.2,
+        "Total": 733.6
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 60,
+        "UnitPrice": 44.0,
+        "Total": 2640.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 30,
+        "UnitPrice": 26.6,
+        "Total": 798.0
+      }
+    ],
+    "TotalPrice": 10495.6
+  }
+}

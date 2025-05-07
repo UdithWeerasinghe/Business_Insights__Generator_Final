@@ -1,0 +1,25 @@
+{
+  "OrderID": "10469",
+  "OrderDate": "2017-03-10",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 35,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 2,
+      "UnitPrice": 15.5
+    }
+  ]
+}

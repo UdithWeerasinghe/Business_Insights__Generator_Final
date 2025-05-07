@@ -1,0 +1,25 @@
+{
+  "OrderID": "11007",
+  "OrderDate": "2018-04-08",
+  "CustomerName": "Isabel de Castro",
+  "Products": [
+    {
+      "ProductID": "8",
+      "Product": "Northwoods Cranberry Sauce",
+      "Quantity": 30,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 14,
+      "UnitPrice": 14.0
+    }
+  ]
+}

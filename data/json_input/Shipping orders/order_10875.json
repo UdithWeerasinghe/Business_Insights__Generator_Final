@@ -1,0 +1,47 @@
+{
+  "OrderID": "10875",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-06",
+    "ShippedDate": "2018-03-03",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 25,
+        "UnitPrice": 9.2,
+        "Total": 229.99999999999997
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 21,
+        "UnitPrice": 9.5,
+        "Total": 199.5
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 15,
+        "UnitPrice": 20.0,
+        "Total": 300.0
+      }
+    ],
+    "TotalPrice": 729.5
+  }
+}

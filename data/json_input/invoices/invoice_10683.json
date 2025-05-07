@@ -1,0 +1,22 @@
+{
+  "OrderID": "10683",
+  "OrderDate": "2017-09-26",
+  "CustomerID": "DUMON",
+  "CustomerDetails": {
+    "ContactName": "Janine Labrune",
+    "Address": "67, rue des Cinquante Otages",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.67.88.88",
+    "Fax": "40.67.89.89"
+  },
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 9,
+      "UnitPrice": 7.0
+    }
+  ]
+}

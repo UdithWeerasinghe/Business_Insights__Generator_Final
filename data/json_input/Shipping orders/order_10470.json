@@ -1,0 +1,47 @@
+{
+  "OrderID": "10470",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-11",
+    "ShippedDate": "2017-03-14",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 30,
+        "UnitPrice": 50.0,
+        "Total": 1500.0
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 15,
+        "UnitPrice": 7.2,
+        "Total": 108.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 8,
+        "UnitPrice": 26.6,
+        "Total": 212.8
+      }
+    ],
+    "TotalPrice": 1820.8
+  }
+}

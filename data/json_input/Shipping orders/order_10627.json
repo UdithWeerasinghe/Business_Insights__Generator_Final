@@ -1,0 +1,41 @@
+{
+  "OrderID": "10627",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-11",
+    "ShippedDate": "2017-08-21",
+    "Products": [
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 15,
+        "UnitPrice": 49.3,
+        "Total": 739.5
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 35,
+        "UnitPrice": 15.0,
+        "Total": 525.0
+      }
+    ],
+    "TotalPrice": 1264.5
+  }
+}

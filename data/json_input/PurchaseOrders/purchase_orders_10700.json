@@ -1,0 +1,31 @@
+{
+  "OrderID": "10700",
+  "OrderDate": "2017-10-10",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 5,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 12,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 40,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 60,
+      "UnitPrice": 21.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10763",
+  "OrderDate": "2017-12-03",
+  "CustomerName": "Martine Rancé",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 6,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 20,
+      "UnitPrice": 4.5
+    }
+  ]
+}

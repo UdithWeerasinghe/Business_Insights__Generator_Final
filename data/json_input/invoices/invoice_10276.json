@@ -1,0 +1,28 @@
+{
+  "OrderID": "10276",
+  "OrderDate": "2016-08-08",
+  "CustomerID": "TORTU",
+  "CustomerDetails": {
+    "ContactName": "Miguel Angel Paolino",
+    "Address": "Avda. Azteca 123",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 555-2933",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 15,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 4.8
+    }
+  ]
+}

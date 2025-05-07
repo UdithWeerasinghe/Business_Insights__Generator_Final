@@ -1,0 +1,19 @@
+{
+  "OrderID": "10993",
+  "OrderDate": "2018-04-01",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 50,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 35,
+      "UnitPrice": 9.65
+    }
+  ]
+}

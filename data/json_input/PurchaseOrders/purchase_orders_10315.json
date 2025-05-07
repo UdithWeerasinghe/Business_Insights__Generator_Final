@@ -1,0 +1,19 @@
+{
+  "OrderID": "10315",
+  "OrderDate": "2016-09-26",
+  "CustomerName": "Helen Bennett",
+  "Products": [
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 14,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 12.0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10615",
+  "OrderDate": "2017-07-30",
+  "CustomerID": "WILMK",
+  "CustomerDetails": {
+    "ContactName": "Matti Karttunen",
+    "Address": "Keskuskatu 45",
+    "City": "Helsinki",
+    "PostalCode": "21240",
+    "Country": "Finland",
+    "Phone": "90-224 8858",
+    "Fax": "90-224 8858"
+  },
+  "Products": [
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 5,
+      "UnitPrice": 24.0
+    }
+  ]
+}

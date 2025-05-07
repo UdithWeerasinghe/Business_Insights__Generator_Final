@@ -1,0 +1,26 @@
+{
+  "OrderID": "10913",
+  "OrderDate": "2018-02-26",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 30,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 40,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 15,
+      "UnitPrice": 13.25
+    }
+  ]
+}

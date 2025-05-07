@@ -1,0 +1,40 @@
+{
+  "OrderID": "10926",
+  "OrderDate": "2018-03-04",
+  "CustomerID": "ANATR",
+  "CustomerDetails": {
+    "ContactName": "Ana Trujillo",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "PostalCode": "05021",
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 2,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 7,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 10,
+      "UnitPrice": 34.8
+    }
+  ]
+}

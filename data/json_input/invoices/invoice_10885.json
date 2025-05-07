@@ -1,0 +1,32 @@
+{
+  "OrderID": "10885",
+  "OrderDate": "2018-02-12",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 25,
+      "UnitPrice": 13.0
+    }
+  ]
+}

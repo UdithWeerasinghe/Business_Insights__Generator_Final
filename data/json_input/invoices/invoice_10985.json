@@ -1,0 +1,26 @@
+{
+  "OrderID": "10985",
+  "OrderDate": "2018-03-30",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 36,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 8,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 35,
+      "UnitPrice": 32.0
+    }
+  ]
+}

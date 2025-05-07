@@ -1,0 +1,47 @@
+{
+  "OrderID": "10766",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-05",
+    "ShippedDate": "2017-12-09",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 40,
+        "UnitPrice": 19.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 35,
+        "UnitPrice": 30.0,
+        "Total": 1050.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 40,
+        "UnitPrice": 12.5,
+        "Total": 500.0
+      }
+    ],
+    "TotalPrice": 2310.0
+  }
+}

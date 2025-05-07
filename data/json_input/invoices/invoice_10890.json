@@ -1,0 +1,34 @@
+{
+  "OrderID": "10890",
+  "OrderDate": "2018-02-16",
+  "CustomerID": "DUMON",
+  "CustomerDetails": {
+    "ContactName": "Janine Labrune",
+    "Address": "67, rue des Cinquante Otages",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.67.88.88",
+    "Fax": "40.67.89.89"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 15,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 14,
+      "UnitPrice": 9.65
+    }
+  ]
+}

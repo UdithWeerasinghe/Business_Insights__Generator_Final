@@ -1,0 +1,40 @@
+{
+  "OrderID": "10574",
+  "OrderDate": "2017-06-19",
+  "CustomerID": "TRAIH",
+  "CustomerDetails": {
+    "ContactName": "Helvetius Nagy",
+    "Address": "722 DaVinci Blvd.",
+    "City": "Kirkland",
+    "PostalCode": "98034",
+    "Country": "USA",
+    "Phone": "(206) 555-8257",
+    "Fax": "(206) 555-2174"
+  },
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 14,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 2,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 6,
+      "UnitPrice": 33.25
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10610",
+  "OrderDate": "2017-07-25",
+  "CustomerID": "LAMAI",
+  "CustomerDetails": {
+    "ContactName": "Annette Roulet",
+    "Address": "1 rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "PostalCode": "31000",
+    "Country": "France",
+    "Phone": "61.77.61.10",
+    "Fax": "61.77.61.11"
+  },
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 21,
+      "UnitPrice": 19.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10945",
+  "OrderDate": "2018-03-12",
+  "CustomerID": "MORGK",
+  "CustomerDetails": {
+    "ContactName": "Alexander Feuer",
+    "Address": "Heerstr. 22",
+    "City": "Leipzig",
+    "PostalCode": "04179",
+    "Country": "Germany",
+    "Phone": "0342-023176",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 10,
+      "UnitPrice": 12.5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10978",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-26",
+    "ShippedDate": "2018-04-23",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 20,
+        "UnitPrice": 40.0,
+        "Total": 800.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 40,
+        "UnitPrice": 10.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 10,
+        "UnitPrice": 18.4,
+        "Total": 184.0
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 6,
+        "UnitPrice": 19.45,
+        "Total": 116.69999999999999
+      }
+    ],
+    "TotalPrice": 1500.7
+  }
+}

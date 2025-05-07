@@ -1,0 +1,22 @@
+{
+  "OrderID": "10965",
+  "OrderDate": "2018-03-20",
+  "CustomerID": "OLDWO",
+  "CustomerDetails": {
+    "ContactName": "Rene Phillips",
+    "Address": "2743 Bering St.",
+    "City": "Anchorage",
+    "PostalCode": "99508",
+    "Country": "USA",
+    "Phone": "(907) 555-7584",
+    "Fax": "(907) 555-2880"
+  },
+  "Products": [
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 16,
+      "UnitPrice": 53.0
+    }
+  ]
+}

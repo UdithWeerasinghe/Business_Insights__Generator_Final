@@ -1,0 +1,40 @@
+{
+  "OrderID": "10831",
+  "OrderDate": "2018-01-14",
+  "CustomerID": "SANTG",
+  "CustomerDetails": {
+    "ContactName": "Jonas Bergulfsen",
+    "Address": "Erling Skakkes gate 78",
+    "City": "Stavern",
+    "PostalCode": "4110",
+    "Country": "Norway",
+    "Phone": "07-98 92 35",
+    "Fax": "07-98 92 47"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 2,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 8,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 8,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 9,
+      "UnitPrice": 46.0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "OrderID": "11021",
+  "OrderDate": "2018-04-14",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 11,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 15,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 63,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 44,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 35,
+      "UnitPrice": 34.8
+    }
+  ]
+}

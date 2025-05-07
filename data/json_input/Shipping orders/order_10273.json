@@ -1,0 +1,59 @@
+{
+  "OrderID": "10273",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-05",
+    "ShippedDate": "2016-08-12",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 24,
+        "UnitPrice": 24.8,
+        "Total": 595.2
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 15,
+        "UnitPrice": 10.0,
+        "Total": 150.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 20,
+        "UnitPrice": 2.0,
+        "Total": 40.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 60,
+        "UnitPrice": 14.7,
+        "Total": 882.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 33,
+        "UnitPrice": 14.4,
+        "Total": 475.2
+      }
+    ],
+    "TotalPrice": 2142.4
+  }
+}

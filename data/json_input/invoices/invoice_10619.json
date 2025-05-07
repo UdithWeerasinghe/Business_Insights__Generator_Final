@@ -1,0 +1,20 @@
+{
+  "OrderID": "10619",
+  "OrderDate": "2017-08-04",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 42,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 40,
+      "UnitPrice": 21.0
+    }
+  ]
+}

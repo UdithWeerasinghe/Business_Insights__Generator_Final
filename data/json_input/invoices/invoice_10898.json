@@ -1,0 +1,22 @@
+{
+  "OrderID": "10898",
+  "OrderDate": "2018-02-20",
+  "CustomerID": "OCEAN",
+  "CustomerDetails": {
+    "ContactName": "Yvonne Moncada",
+    "Address": "Ing. Gustavo Moncada 8585 Piso 20-A",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5333",
+    "Fax": "(1) 135-5535"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 5,
+      "UnitPrice": 6.0
+    }
+  ]
+}

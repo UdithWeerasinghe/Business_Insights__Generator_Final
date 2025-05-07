@@ -1,0 +1,47 @@
+{
+  "OrderID": "10253",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-10",
+    "ShippedDate": "2016-07-16",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 42,
+        "UnitPrice": 14.4,
+        "Total": 604.8000000000001
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 40,
+        "UnitPrice": 16.0,
+        "Total": 640.0
+      }
+    ],
+    "TotalPrice": 1444.8000000000002
+  }
+}

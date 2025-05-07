@@ -1,0 +1,19 @@
+{
+  "OrderID": "10510",
+  "OrderDate": "2017-04-18",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 36,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 36,
+      "UnitPrice": 7.75
+    }
+  ]
+}

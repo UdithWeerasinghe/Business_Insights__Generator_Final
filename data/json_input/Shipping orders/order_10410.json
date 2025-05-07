@@ -1,0 +1,41 @@
+{
+  "OrderID": "10410",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-10",
+    "ShippedDate": "2017-01-15",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 49,
+        "UnitPrice": 2.0,
+        "Total": 98.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 16,
+        "UnitPrice": 44.0,
+        "Total": 704.0
+      }
+    ],
+    "TotalPrice": 802.0
+  }
+}

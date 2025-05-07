@@ -1,0 +1,35 @@
+{
+  "OrderID": "10770",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-09",
+    "ShippedDate": "2017-12-17",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 15,
+        "UnitPrice": 21.0,
+        "Total": 315.0
+      }
+    ],
+    "TotalPrice": 315.0
+  }
+}

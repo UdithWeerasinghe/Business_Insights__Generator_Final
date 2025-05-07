@@ -1,0 +1,41 @@
+{
+  "OrderID": "10402",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-02",
+    "ShippedDate": "2017-01-10",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 60,
+        "UnitPrice": 7.2,
+        "Total": 432.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 65,
+        "UnitPrice": 35.1,
+        "Total": 2281.5
+      }
+    ],
+    "TotalPrice": 2713.5
+  }
+}

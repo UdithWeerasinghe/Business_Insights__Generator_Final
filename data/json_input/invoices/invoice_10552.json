@@ -1,0 +1,28 @@
+{
+  "OrderID": "10552",
+  "OrderDate": "2017-05-29",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 18,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 7.75
+    }
+  ]
+}

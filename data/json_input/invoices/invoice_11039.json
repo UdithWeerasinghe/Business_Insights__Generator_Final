@@ -1,0 +1,40 @@
+{
+  "OrderID": "11039",
+  "OrderDate": "2018-04-21",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 24,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 60,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 28,
+      "UnitPrice": 19.5
+    }
+  ]
+}

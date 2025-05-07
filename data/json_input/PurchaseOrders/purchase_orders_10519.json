@@ -1,0 +1,25 @@
+{
+  "OrderID": "10519",
+  "OrderDate": "2017-04-28",
+  "CustomerName": "Yang Wang",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 16,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 40,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 10,
+      "UnitPrice": 34.0
+    }
+  ]
+}

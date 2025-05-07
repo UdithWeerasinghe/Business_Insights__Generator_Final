@@ -1,0 +1,19 @@
+{
+  "OrderID": "10652",
+  "OrderDate": "2017-09-01",
+  "CustomerName": "André Fonseca",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 2,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

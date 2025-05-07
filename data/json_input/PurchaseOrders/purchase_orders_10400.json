@@ -1,0 +1,25 @@
+{
+  "OrderID": "10400",
+  "OrderDate": "2017-01-01",
+  "CustomerName": "Ann Devon",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 21,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 35,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 30,
+      "UnitPrice": 16.0
+    }
+  ]
+}

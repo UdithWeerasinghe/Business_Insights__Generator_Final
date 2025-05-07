@@ -1,0 +1,28 @@
+{
+  "OrderID": "10737",
+  "OrderDate": "2017-11-11",
+  "CustomerID": "VINET",
+  "CustomerDetails": {
+    "ContactName": "Paul Henriot",
+    "Address": "59 rue de l'Abbaye",
+    "City": "Reims",
+    "PostalCode": "51100",
+    "Country": "France",
+    "Phone": "26.47.15.10",
+    "Fax": "26.47.15.11"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 4,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    }
+  ]
+}

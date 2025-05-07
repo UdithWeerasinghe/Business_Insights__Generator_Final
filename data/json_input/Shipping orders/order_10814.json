@@ -1,0 +1,53 @@
+{
+  "OrderID": "10814",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-05",
+    "ShippedDate": "2018-01-14",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 9.65,
+        "Total": 193.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 20,
+        "UnitPrice": 46.0,
+        "Total": 920.0
+      },
+      {
+        "Product": "Chocolade",
+        "Quantity": 8,
+        "UnitPrice": 12.75,
+        "Total": 102.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 30,
+        "UnitPrice": 28.5,
+        "Total": 855.0
+      }
+    ],
+    "TotalPrice": 2070.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10279",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-13",
+    "ShippedDate": "2016-08-16",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 15,
+        "UnitPrice": 31.2,
+        "Total": 468.0
+      }
+    ],
+    "TotalPrice": 468.0
+  }
+}

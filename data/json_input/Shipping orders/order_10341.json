@@ -1,0 +1,41 @@
+{
+  "OrderID": "10341",
+  "ShippingDetails": {
+    "ShipName": "Simons bistro",
+    "ShipAddress": "Vinbæltet 34",
+    "ShipCity": "Kobenhavn",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "1734",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SIMOB",
+    "CustomerName": "Simons bistro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-29",
+    "ShippedDate": "2016-11-05",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 8,
+        "UnitPrice": 2.0,
+        "Total": 16.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 9,
+        "UnitPrice": 44.0,
+        "Total": 396.0
+      }
+    ],
+    "TotalPrice": 412.0
+  }
+}

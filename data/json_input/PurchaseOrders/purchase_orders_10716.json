@@ -1,0 +1,25 @@
+{
+  "OrderID": "10716",
+  "OrderDate": "2017-10-24",
+  "CustomerName": "Sergio Gutiérrez",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 5,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 7,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 10,
+      "UnitPrice": 28.5
+    }
+  ]
+}

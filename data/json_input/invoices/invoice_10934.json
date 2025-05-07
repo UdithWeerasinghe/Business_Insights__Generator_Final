@@ -1,0 +1,22 @@
+{
+  "OrderID": "10934",
+  "OrderDate": "2018-03-09",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "6",
+      "ProductName": "Grandma's Boysenberry Spread",
+      "Quantity": 20,
+      "UnitPrice": 25.0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "OrderID": "10844",
+  "OrderDate": "2018-01-21",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 35,
+      "UnitPrice": 21.0
+    }
+  ]
+}

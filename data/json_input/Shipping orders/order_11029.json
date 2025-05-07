@@ -1,0 +1,41 @@
+{
+  "OrderID": "11029",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-16",
+    "ShippedDate": "2018-04-27",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 38.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 12,
+        "UnitPrice": 43.9,
+        "Total": 526.8
+      }
+    ],
+    "TotalPrice": 1286.8
+  }
+}

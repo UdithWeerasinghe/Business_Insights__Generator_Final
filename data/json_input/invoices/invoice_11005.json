@@ -1,0 +1,28 @@
+{
+  "OrderID": "11005",
+  "OrderDate": "2018-04-07",
+  "CustomerID": "WILMK",
+  "CustomerDetails": {
+    "ContactName": "Matti Karttunen",
+    "Address": "Keskuskatu 45",
+    "City": "Helsinki",
+    "PostalCode": "21240",
+    "Country": "Finland",
+    "Phone": "90-224 8858",
+    "Fax": "90-224 8858"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 2,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 10,
+      "UnitPrice": 55.0
+    }
+  ]
+}

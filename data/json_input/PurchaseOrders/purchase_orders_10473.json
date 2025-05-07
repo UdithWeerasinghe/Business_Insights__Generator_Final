@@ -1,0 +1,19 @@
+{
+  "OrderID": "10473",
+  "OrderDate": "2017-03-13",
+  "CustomerName": "Helen Bennett",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 12,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 12,
+      "UnitPrice": 17.2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10654",
+  "OrderDate": "2017-09-02",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 12,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 6,
+      "UnitPrice": 7.45
+    }
+  ]
+}

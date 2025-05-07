@@ -1,0 +1,19 @@
+{
+  "OrderID": "10690",
+  "OrderDate": "2017-10-02",
+  "CustomerName": "Mario Pontes",
+  "Products": [
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 30,
+      "UnitPrice": 13.0
+    }
+  ]
+}

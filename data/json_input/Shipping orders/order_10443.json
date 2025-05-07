@@ -1,0 +1,41 @@
+{
+  "OrderID": "10443",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-12",
+    "ShippedDate": "2017-02-14",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 6,
+        "UnitPrice": 16.8,
+        "Total": 100.80000000000001
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 12,
+        "UnitPrice": 36.4,
+        "Total": 436.79999999999995
+      }
+    ],
+    "TotalPrice": 537.5999999999999
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10902",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-23",
+    "ShippedDate": "2018-03-03",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 30,
+        "UnitPrice": 24.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 6,
+        "UnitPrice": 49.3,
+        "Total": 295.79999999999995
+      }
+    ],
+    "TotalPrice": 1015.8
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10269",
+  "OrderDate": "2016-07-31",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 60,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 20,
+      "UnitPrice": 27.8
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "OrderID": "10558",
+  "OrderDate": "2017-06-04",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 25,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 30,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 18,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 3,
+      "UnitPrice": 15.0
+    }
+  ]
+}

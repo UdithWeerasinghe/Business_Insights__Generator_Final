@@ -1,0 +1,59 @@
+{
+  "OrderID": "10515",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-23",
+    "ShippedDate": "2017-05-23",
+    "Products": [
+      {
+        "Product": "Mishi Kobe Niku",
+        "Quantity": 16,
+        "UnitPrice": 97.0,
+        "Total": 1552.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 50,
+        "UnitPrice": 17.45,
+        "Total": 872.5
+      },
+      {
+        "Product": "Schoggi Schokolade",
+        "Quantity": 120,
+        "UnitPrice": 43.9,
+        "Total": 5268.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 16,
+        "UnitPrice": 2.5,
+        "Total": 40.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 84,
+        "UnitPrice": 34.0,
+        "Total": 2856.0
+      }
+    ],
+    "TotalPrice": 10588.5
+  }
+}

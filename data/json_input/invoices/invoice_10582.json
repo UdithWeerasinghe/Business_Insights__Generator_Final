@@ -1,0 +1,28 @@
+{
+  "OrderID": "10582",
+  "OrderDate": "2017-06-27",
+  "CustomerID": "BLAUS",
+  "CustomerDetails": {
+    "ContactName": "Hanna Moos",
+    "Address": "Forsterstr. 57",
+    "City": "Mannheim",
+    "PostalCode": "68306",
+    "Country": "Germany",
+    "Phone": "0621-08460",
+    "Fax": "0621-08924"
+  },
+  "Products": [
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 4,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 14,
+      "UnitPrice": 18.0
+    }
+  ]
+}

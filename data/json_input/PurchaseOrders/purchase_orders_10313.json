@@ -1,0 +1,13 @@
+{
+  "OrderID": "10313",
+  "OrderDate": "2016-09-24",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 12,
+      "UnitPrice": 15.2
+    }
+  ]
+}

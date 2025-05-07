@@ -1,0 +1,59 @@
+{
+  "OrderID": "10670",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-16",
+    "ShippedDate": "2017-09-18",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 32,
+        "UnitPrice": 9.0,
+        "Total": 288.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 60,
+        "UnitPrice": 12.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Laughing Lumberjack Lager",
+        "Quantity": 25,
+        "UnitPrice": 14.0,
+        "Total": 350.0
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 50,
+        "UnitPrice": 15.0,
+        "Total": 750.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 25,
+        "UnitPrice": 7.75,
+        "Total": 193.75
+      }
+    ],
+    "TotalPrice": 2301.75
+  }
+}

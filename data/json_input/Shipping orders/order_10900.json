@@ -1,0 +1,35 @@
+{
+  "OrderID": "10900",
+  "ShippingDetails": {
+    "ShipName": "Wellington Importadora",
+    "ShipAddress": "Rua do Mercado, 12",
+    "ShipCity": "Resende",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "08737-363",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WELLI",
+    "CustomerName": "Wellington Importadora"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-20",
+    "ShippedDate": "2018-03-04",
+    "Products": [
+      {
+        "Product": "Outback Lager",
+        "Quantity": 3,
+        "UnitPrice": 15.0,
+        "Total": 45.0
+      }
+    ],
+    "TotalPrice": 45.0
+  }
+}

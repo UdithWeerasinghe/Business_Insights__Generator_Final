@@ -1,0 +1,26 @@
+{
+  "OrderID": "10379",
+  "OrderDate": "2016-12-11",
+  "CustomerID": "QUEDE",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 8,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 16,
+      "UnitPrice": 35.1
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 20,
+      "UnitPrice": 16.8
+    }
+  ]
+}

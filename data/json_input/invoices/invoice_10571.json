@@ -1,0 +1,28 @@
+{
+  "OrderID": "10571",
+  "OrderDate": "2017-06-17",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 11,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 28,
+      "UnitPrice": 14.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10255",
+  "OrderDate": "2016-07-12",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 35,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 25,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 44.0
+    }
+  ]
+}

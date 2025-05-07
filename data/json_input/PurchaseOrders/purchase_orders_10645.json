@@ -1,0 +1,19 @@
+{
+  "OrderID": "10645",
+  "OrderDate": "2017-08-26",
+  "CustomerName": "Mario Pontes",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 20,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 15,
+      "UnitPrice": 19.0
+    }
+  ]
+}

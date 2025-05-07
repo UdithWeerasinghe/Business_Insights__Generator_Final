@@ -1,0 +1,20 @@
+{
+  "OrderID": "10975",
+  "OrderDate": "2018-03-25",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 16,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 7.75
+    }
+  ]
+}

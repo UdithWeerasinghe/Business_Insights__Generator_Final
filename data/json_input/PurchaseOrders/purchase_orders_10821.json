@@ -1,0 +1,19 @@
+{
+  "OrderID": "10821",
+  "OrderDate": "2018-01-08",
+  "CustomerName": "Art Braunschweiger",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 6,
+      "UnitPrice": 53.0
+    }
+  ]
+}

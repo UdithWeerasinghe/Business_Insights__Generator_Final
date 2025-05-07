@@ -1,0 +1,22 @@
+{
+  "OrderID": "10427",
+  "OrderDate": "2017-01-27",
+  "CustomerID": "PICCO",
+  "CustomerDetails": {
+    "ContactName": "Georg Pipps",
+    "Address": "Geislweg 14",
+    "City": "Salzburg",
+    "PostalCode": "5020",
+    "Country": "Austria",
+    "Phone": "6562-9722",
+    "Fax": "6562-9723"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 35,
+      "UnitPrice": 18.6
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10943",
+  "OrderDate": "2018-03-11",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 15,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 21,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 15,
+      "UnitPrice": 12.0
+    }
+  ]
+}

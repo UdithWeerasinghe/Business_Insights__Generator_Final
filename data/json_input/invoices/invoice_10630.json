@@ -1,0 +1,28 @@
+{
+  "OrderID": "10630",
+  "OrderDate": "2017-08-13",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 12,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    }
+  ]
+}

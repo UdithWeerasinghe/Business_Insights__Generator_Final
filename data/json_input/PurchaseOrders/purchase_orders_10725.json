@@ -1,0 +1,25 @@
+{
+  "OrderID": "10725",
+  "OrderDate": "2017-10-31",
+  "CustomerName": "Aria Cruz",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 4,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 6,
+      "UnitPrice": 24.0
+    }
+  ]
+}

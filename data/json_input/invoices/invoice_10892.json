@@ -1,0 +1,14 @@
+{
+  "OrderID": "10892",
+  "OrderDate": "2018-02-17",
+  "CustomerID": "MAISD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 40,
+      "UnitPrice": 55.0
+    }
+  ]
+}

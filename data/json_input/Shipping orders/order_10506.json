@@ -1,0 +1,41 @@
+{
+  "OrderID": "10506",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-15",
+    "ShippedDate": "2017-05-02",
+    "Products": [
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 18,
+        "UnitPrice": 14.0,
+        "Total": 252.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 14,
+        "UnitPrice": 15.0,
+        "Total": 210.0
+      }
+    ],
+    "TotalPrice": 462.0
+  }
+}

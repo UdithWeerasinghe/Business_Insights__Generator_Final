@@ -1,0 +1,59 @@
+{
+  "OrderID": "10555",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-02",
+    "ShippedDate": "2017-06-04",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 30,
+        "UnitPrice": 23.25,
+        "Total": 697.5
+      },
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 35,
+        "UnitPrice": 9.2,
+        "Total": 322.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 18,
+        "UnitPrice": 4.5,
+        "Total": 81.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 20,
+        "UnitPrice": 53.0,
+        "Total": 1060.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 40,
+        "UnitPrice": 38.0,
+        "Total": 1520.0
+      }
+    ],
+    "TotalPrice": 3680.5
+  }
+}

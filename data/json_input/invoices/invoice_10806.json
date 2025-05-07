@@ -1,0 +1,34 @@
+{
+  "OrderID": "10806",
+  "OrderDate": "2017-12-31",
+  "CustomerID": "VICTE",
+  "CustomerDetails": {
+    "ContactName": "Mary Saveley",
+    "Address": "2, rue du Commerce",
+    "City": "Lyon",
+    "PostalCode": "69004",
+    "Country": "France",
+    "Phone": "78.32.54.86",
+    "Fax": "78.32.54.87"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 2,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "74",
+      "ProductName": "Longlife Tofu",
+      "Quantity": 15,
+      "UnitPrice": 10.0
+    }
+  ]
+}

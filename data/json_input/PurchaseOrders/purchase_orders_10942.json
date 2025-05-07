@@ -1,0 +1,13 @@
+{
+  "OrderID": "10942",
+  "OrderDate": "2018-03-11",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 28,
+      "UnitPrice": 20.0
+    }
+  ]
+}

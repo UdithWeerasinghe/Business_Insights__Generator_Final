@@ -1,0 +1,34 @@
+{
+  "OrderID": "10596",
+  "OrderDate": "2017-07-11",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 5,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 24,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 7.75
+    }
+  ]
+}

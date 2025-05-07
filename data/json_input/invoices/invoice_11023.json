@@ -1,0 +1,20 @@
+{
+  "OrderID": "11023",
+  "OrderDate": "2018-04-14",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 4,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 30,
+      "UnitPrice": 46.0
+    }
+  ]
+}

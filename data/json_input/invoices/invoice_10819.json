@@ -1,0 +1,28 @@
+{
+  "OrderID": "10819",
+  "OrderDate": "2018-01-07",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 7,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "11015",
+  "OrderDate": "2018-04-10",
+  "CustomerID": "SANTG",
+  "CustomerDetails": {
+    "ContactName": "Jonas Bergulfsen",
+    "Address": "Erling Skakkes gate 78",
+    "City": "Stavern",
+    "PostalCode": "4110",
+    "Country": "Norway",
+    "Phone": "07-98 92 35",
+    "Fax": "07-98 92 47"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 18,
+      "UnitPrice": 13.0
+    }
+  ]
+}

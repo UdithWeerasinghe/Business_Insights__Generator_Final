@@ -1,0 +1,13 @@
+{
+  "OrderID": "11037",
+  "OrderDate": "2018-04-21",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 4,
+      "UnitPrice": 15.0
+    }
+  ]
+}

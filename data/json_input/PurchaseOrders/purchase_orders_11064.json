@@ -1,0 +1,37 @@
+{
+  "OrderID": "11064",
+  "OrderDate": "2018-05-01",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 77,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 25,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 4,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 55,
+      "UnitPrice": 12.5
+    }
+  ]
+}

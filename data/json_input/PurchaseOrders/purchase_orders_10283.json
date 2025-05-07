@@ -1,0 +1,31 @@
+{
+  "OrderID": "10283",
+  "OrderDate": "2016-08-16",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "15",
+      "Product": "Genen Shouyu",
+      "Quantity": 20,
+      "UnitPrice": 12.4
+    },
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 18,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 35,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 3,
+      "UnitPrice": 27.8
+    }
+  ]
+}

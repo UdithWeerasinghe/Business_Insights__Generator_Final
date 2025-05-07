@@ -1,0 +1,40 @@
+{
+  "OrderID": "10986",
+  "OrderDate": "2018-03-30",
+  "CustomerID": "OCEAN",
+  "CustomerDetails": {
+    "ContactName": "Yvonne Moncada",
+    "Address": "Ing. Gustavo Moncada 8585 Piso 20-A",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5333",
+    "Fax": "(1) 135-5535"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 30,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 15,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10690",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-02",
+    "ShippedDate": "2017-10-03",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 38.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 30,
+        "UnitPrice": 13.0,
+        "Total": 390.0
+      }
+    ],
+    "TotalPrice": 1150.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "11000",
+  "OrderDate": "2018-04-06",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 25,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 30,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 30,
+      "UnitPrice": 13.0
+    }
+  ]
+}

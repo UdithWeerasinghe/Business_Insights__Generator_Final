@@ -1,0 +1,53 @@
+{
+  "OrderID": "10789",
+  "ShippingDetails": {
+    "ShipName": "Folies gourmandes",
+    "ShipAddress": "184, chaussée de Tournai",
+    "ShipCity": "Lille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "59000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLIG",
+    "CustomerName": "Folies gourmandes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-22",
+    "ShippedDate": "2017-12-31",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 30,
+        "UnitPrice": 62.5,
+        "Total": 1875.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 15,
+        "UnitPrice": 18.0,
+        "Total": 270.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 30,
+        "UnitPrice": 43.9,
+        "Total": 1317.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 18,
+        "UnitPrice": 12.5,
+        "Total": 225.0
+      }
+    ],
+    "TotalPrice": 3687.0
+  }
+}

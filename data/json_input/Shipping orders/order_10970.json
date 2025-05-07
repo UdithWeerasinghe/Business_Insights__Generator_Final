@@ -1,0 +1,35 @@
+{
+  "OrderID": "10970",
+  "ShippingDetails": {
+    "ShipName": "Bólido Comidas preparadas",
+    "ShipAddress": "C/ Araquil, 67",
+    "ShipCity": "Madrid",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "28023",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOLID",
+    "CustomerName": "Bólido Comidas preparadas"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-24",
+    "ShippedDate": "2018-04-24",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 40,
+        "UnitPrice": 7.0,
+        "Total": 280.0
+      }
+    ],
+    "TotalPrice": 280.0
+  }
+}

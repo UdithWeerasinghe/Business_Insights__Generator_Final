@@ -1,0 +1,34 @@
+{
+  "OrderID": "10964",
+  "OrderDate": "2018-03-20",
+  "CustomerID": "SPECD",
+  "CustomerDetails": {
+    "ContactName": "Dominique Perrier",
+    "Address": "25, rue Lauriston",
+    "City": "Paris",
+    "PostalCode": "75016",
+    "Country": "France",
+    "Phone": "(1) 47.55.60.10",
+    "Fax": "(1) 47.55.60.20"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 6,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 5,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 10,
+      "UnitPrice": 36.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10826",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-12",
+    "ShippedDate": "2018-02-06",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 35,
+        "UnitPrice": 12.5,
+        "Total": 437.5
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 15,
+        "UnitPrice": 19.5,
+        "Total": 292.5
+      }
+    ],
+    "TotalPrice": 730.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10626",
+  "OrderDate": "2017-08-11",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 12,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 20,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 20,
+      "UnitPrice": 21.5
+    }
+  ]
+}

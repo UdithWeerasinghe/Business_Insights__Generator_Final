@@ -1,0 +1,25 @@
+{
+  "OrderID": "10784",
+  "OrderDate": "2017-12-18",
+  "CustomerName": "Giovanni Rovelli",
+  "Products": [
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 2,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 30,
+      "UnitPrice": 34.8
+    }
+  ]
+}

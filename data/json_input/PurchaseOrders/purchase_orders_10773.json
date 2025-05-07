@@ -1,0 +1,25 @@
+{
+  "OrderID": "10773",
+  "OrderDate": "2017-12-11",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 33,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 70,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 7,
+      "UnitPrice": 7.75
+    }
+  ]
+}

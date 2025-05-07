@@ -1,0 +1,14 @@
+{
+  "OrderID": "10689",
+  "OrderDate": "2017-10-01",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 35,
+      "UnitPrice": 18.0
+    }
+  ]
+}

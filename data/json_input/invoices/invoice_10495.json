@@ -1,0 +1,26 @@
+{
+  "OrderID": "10495",
+  "OrderDate": "2017-04-03",
+  "CustomerID": "LAUGB",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 10,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 5,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10619",
+  "OrderDate": "2017-08-04",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 42,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 40,
+      "UnitPrice": 21.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10620",
+  "OrderDate": "2017-08-05",
+  "CustomerName": "Yoshi Tannamuri",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 5,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 5,
+      "UnitPrice": 7.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10519",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-28",
+    "ShippedDate": "2017-05-01",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 16,
+        "UnitPrice": 31.0,
+        "Total": 496.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 40,
+        "UnitPrice": 38.0,
+        "Total": 1520.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 10,
+        "UnitPrice": 34.0,
+        "Total": 340.0
+      }
+    ],
+    "TotalPrice": 2356.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10457",
+  "OrderDate": "2017-02-25",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 36,
+      "UnitPrice": 44.0
+    }
+  ]
+}

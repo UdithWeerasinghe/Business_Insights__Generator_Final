@@ -1,0 +1,25 @@
+{
+  "OrderID": "10624",
+  "OrderDate": "2017-08-07",
+  "CustomerName": "Liu Wong",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 10,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 6,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 10,
+      "UnitPrice": 19.45
+    }
+  ]
+}

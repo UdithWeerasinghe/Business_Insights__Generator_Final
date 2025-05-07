@@ -1,0 +1,28 @@
+{
+  "OrderID": "10825",
+  "OrderDate": "2018-01-09",
+  "CustomerID": "DRACD",
+  "CustomerDetails": {
+    "ContactName": "Sven Ottlieb",
+    "Address": "Walserweg 21",
+    "City": "Aachen",
+    "PostalCode": "52066",
+    "Country": "Germany",
+    "Phone": "0241-039123",
+    "Fax": "0241-059428"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 12,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 20,
+      "UnitPrice": 32.8
+    }
+  ]
+}

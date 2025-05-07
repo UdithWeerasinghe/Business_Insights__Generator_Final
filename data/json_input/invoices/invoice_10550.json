@@ -1,0 +1,40 @@
+{
+  "OrderID": "10550",
+  "OrderDate": "2017-05-28",
+  "CustomerID": "GODOS",
+  "CustomerDetails": {
+    "ContactName": "José Pedro Freyre",
+    "Address": "C/ Romero, 33",
+    "City": "Sevilla",
+    "PostalCode": "41101",
+    "Country": "Spain",
+    "Phone": "(95) 555 82 82",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 8,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 10,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 6,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 10,
+      "UnitPrice": 28.5
+    }
+  ]
+}

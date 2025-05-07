@@ -1,0 +1,52 @@
+{
+  "OrderID": "10657",
+  "OrderDate": "2017-09-04",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "15",
+      "ProductName": "Genen Shouyu",
+      "Quantity": 50,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 24,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 45,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 10,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 45,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 30,
+      "UnitPrice": 34.0
+    }
+  ]
+}

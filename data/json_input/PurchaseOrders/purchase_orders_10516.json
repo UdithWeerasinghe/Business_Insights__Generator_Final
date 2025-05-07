@@ -1,0 +1,25 @@
+{
+  "OrderID": "10516",
+  "OrderDate": "2017-04-24",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 25,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 80,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

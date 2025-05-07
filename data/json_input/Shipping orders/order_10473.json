@@ -1,0 +1,41 @@
+{
+  "OrderID": "10473",
+  "ShippingDetails": {
+    "ShipName": "Island Trading",
+    "ShipAddress": "Garden House Crowther Way",
+    "ShipCity": "Cowes",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "PO31 7PJ",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ISLAT",
+    "CustomerName": "Island Trading"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-13",
+    "ShippedDate": "2017-03-21",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 12,
+        "UnitPrice": 2.0,
+        "Total": 24.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 12,
+        "UnitPrice": 17.2,
+        "Total": 206.39999999999998
+      }
+    ],
+    "TotalPrice": 230.39999999999998
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10472",
+  "OrderDate": "2017-03-12",
+  "CustomerName": "Hari Kumar",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 80,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 18,
+      "UnitPrice": 42.4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10475",
+  "ShippingDetails": {
+    "ShipName": "Suprêmes délices",
+    "ShipAddress": "Boulevard Tirou, 255",
+    "ShipCity": "Charleroi",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-6000",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SUPRD",
+    "CustomerName": "Suprêmes délices"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-14",
+    "ShippedDate": "2017-04-04",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 35,
+        "UnitPrice": 10.0,
+        "Total": 350.0
+      },
+      {
+        "Product": "Louisiana Hot Spiced Okra",
+        "Quantity": 60,
+        "UnitPrice": 13.6,
+        "Total": 816.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 42,
+        "UnitPrice": 14.4,
+        "Total": 604.8000000000001
+      }
+    ],
+    "TotalPrice": 1770.8000000000002
+  }
+}

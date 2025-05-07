@@ -1,0 +1,34 @@
+{
+  "OrderID": "10635",
+  "OrderDate": "2017-08-18",
+  "CustomerID": "MAGAA",
+  "CustomerDetails": {
+    "ContactName": "Giovanni Rovelli",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 10,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 15,
+      "UnitPrice": 21.35
+    },
+    {
+      "ProductID": "22",
+      "ProductName": "Gustaf's Knäckebröd",
+      "Quantity": 40,
+      "UnitPrice": 21.0
+    }
+  ]
+}

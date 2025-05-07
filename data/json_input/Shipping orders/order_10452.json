@@ -1,0 +1,41 @@
+{
+  "OrderID": "10452",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-20",
+    "ShippedDate": "2017-02-26",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 15,
+        "UnitPrice": 36.4,
+        "Total": 546.0
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 100,
+        "UnitPrice": 15.5,
+        "Total": 1550.0
+      }
+    ],
+    "TotalPrice": 2096.0
+  }
+}

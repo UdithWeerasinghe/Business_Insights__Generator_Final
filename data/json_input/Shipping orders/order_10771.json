@@ -1,0 +1,35 @@
+{
+  "OrderID": "10771",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-10",
+    "ShippedDate": "2018-01-02",
+    "Products": [
+      {
+        "Product": "Flotemysost",
+        "Quantity": 16,
+        "UnitPrice": 21.5,
+        "Total": 344.0
+      }
+    ],
+    "TotalPrice": 344.0
+  }
+}

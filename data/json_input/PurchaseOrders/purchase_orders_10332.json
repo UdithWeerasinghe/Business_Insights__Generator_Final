@@ -1,0 +1,25 @@
+{
+  "OrderID": "10332",
+  "OrderDate": "2016-10-17",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 40,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 10,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 16,
+      "UnitPrice": 7.6
+    }
+  ]
+}

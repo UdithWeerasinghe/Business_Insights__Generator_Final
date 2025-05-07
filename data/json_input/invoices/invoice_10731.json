@@ -1,0 +1,28 @@
+{
+  "OrderID": "10731",
+  "OrderDate": "2017-11-06",
+  "CustomerID": "CHOPS",
+  "CustomerDetails": {
+    "ContactName": "Yang Wang",
+    "Address": "Hauptstr. 29",
+    "City": "Bern",
+    "PostalCode": "3012",
+    "Country": "Switzerland",
+    "Phone": "0452-076545",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 30,
+      "UnitPrice": 53.0
+    }
+  ]
+}

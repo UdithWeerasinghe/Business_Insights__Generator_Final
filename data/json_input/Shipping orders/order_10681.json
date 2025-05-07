@@ -1,0 +1,47 @@
+{
+  "OrderID": "10681",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-25",
+    "ShippedDate": "2017-09-30",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 30,
+        "UnitPrice": 9.2,
+        "Total": 276.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 12,
+        "UnitPrice": 10.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 28,
+        "UnitPrice": 33.25,
+        "Total": 931.0
+      }
+    ],
+    "TotalPrice": 1327.0
+  }
+}

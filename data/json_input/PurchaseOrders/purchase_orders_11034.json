@@ -1,0 +1,25 @@
+{
+  "OrderID": "11034",
+  "OrderDate": "2018-04-20",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 15,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 12,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 6,
+      "UnitPrice": 28.5
+    }
+  ]
+}

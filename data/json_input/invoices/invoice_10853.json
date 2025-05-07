@@ -1,0 +1,22 @@
+{
+  "OrderID": "10853",
+  "OrderDate": "2018-01-27",
+  "CustomerID": "BLAUS",
+  "CustomerDetails": {
+    "ContactName": "Hanna Moos",
+    "Address": "Forsterstr. 57",
+    "City": "Mannheim",
+    "PostalCode": "68306",
+    "Country": "Germany",
+    "Phone": "0621-08460",
+    "Fax": "0621-08924"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 10,
+      "UnitPrice": 62.5
+    }
+  ]
+}

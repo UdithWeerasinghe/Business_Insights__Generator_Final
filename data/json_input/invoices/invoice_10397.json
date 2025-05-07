@@ -1,0 +1,28 @@
+{
+  "OrderID": "10397",
+  "OrderDate": "2016-12-27",
+  "CustomerID": "PRINI",
+  "CustomerDetails": {
+    "ContactName": "Isabel de Castro",
+    "Address": "Estrada da saúde n. 58",
+    "City": "Lisboa",
+    "PostalCode": "1756",
+    "Country": "Portugal",
+    "Phone": "(1) 356-5634",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 10,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 18,
+      "UnitPrice": 42.4
+    }
+  ]
+}

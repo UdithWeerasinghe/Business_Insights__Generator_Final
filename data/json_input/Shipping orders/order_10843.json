@@ -1,0 +1,35 @@
+{
+  "OrderID": "10843",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-21",
+    "ShippedDate": "2018-01-26",
+    "Products": [
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 4,
+        "UnitPrice": 53.0,
+        "Total": 212.0
+      }
+    ],
+    "TotalPrice": 212.0
+  }
+}

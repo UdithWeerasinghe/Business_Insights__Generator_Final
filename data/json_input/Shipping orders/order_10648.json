@@ -1,0 +1,41 @@
+{
+  "OrderID": "10648",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-28",
+    "ShippedDate": "2017-09-09",
+    "Products": [
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 15,
+        "UnitPrice": 21.0,
+        "Total": 315.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 15,
+        "UnitPrice": 4.5,
+        "Total": 67.5
+      }
+    ],
+    "TotalPrice": 382.5
+  }
+}

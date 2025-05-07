@@ -1,0 +1,35 @@
+{
+  "OrderID": "10738",
+  "ShippingDetails": {
+    "ShipName": "Spécialités du monde",
+    "ShipAddress": "25, rue Lauriston",
+    "ShipCity": "Paris",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "75016",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPECD",
+    "CustomerName": "Spécialités du monde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-12",
+    "ShippedDate": "2017-11-18",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 3,
+        "UnitPrice": 17.45,
+        "Total": 52.349999999999994
+      }
+    ],
+    "TotalPrice": 52.349999999999994
+  }
+}

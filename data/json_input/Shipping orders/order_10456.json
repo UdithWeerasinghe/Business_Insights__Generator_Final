@@ -1,0 +1,41 @@
+{
+  "OrderID": "10456",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-25",
+    "ShippedDate": "2017-02-28",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 40,
+        "UnitPrice": 8.0,
+        "Total": 320.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 21,
+        "UnitPrice": 16.0,
+        "Total": 336.0
+      }
+    ],
+    "TotalPrice": 656.0
+  }
+}

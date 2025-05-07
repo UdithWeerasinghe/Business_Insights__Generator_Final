@@ -1,0 +1,47 @@
+{
+  "OrderID": "10477",
+  "ShippingDetails": {
+    "ShipName": "Princesa Isabel Vinhos",
+    "ShipAddress": "Estrada da saúde n. 58",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1756",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PRINI",
+    "CustomerName": "Princesa Isabel Vinhos"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-17",
+    "ShippedDate": "2017-03-25",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 15,
+        "UnitPrice": 14.4,
+        "Total": 216.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 21,
+        "UnitPrice": 8.0,
+        "Total": 168.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 20,
+        "UnitPrice": 14.4,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 672.0
+  }
+}

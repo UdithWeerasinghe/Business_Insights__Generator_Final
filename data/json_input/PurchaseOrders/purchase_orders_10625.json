@@ -1,0 +1,25 @@
+{
+  "OrderID": "10625",
+  "OrderDate": "2017-08-08",
+  "CustomerName": "Ana Trujillo",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 3,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 5,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 10,
+      "UnitPrice": 34.0
+    }
+  ]
+}

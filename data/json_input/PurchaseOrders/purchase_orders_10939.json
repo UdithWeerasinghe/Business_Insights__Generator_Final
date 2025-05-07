@@ -1,0 +1,19 @@
+{
+  "OrderID": "10939",
+  "OrderDate": "2018-03-10",
+  "CustomerName": "Giovanni Rovelli",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 10,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 40,
+      "UnitPrice": 14.0
+    }
+  ]
+}

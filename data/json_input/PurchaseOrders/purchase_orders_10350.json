@@ -1,0 +1,19 @@
+{
+  "OrderID": "10350",
+  "OrderDate": "2016-11-11",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 18,
+      "UnitPrice": 28.8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10394",
+  "OrderDate": "2016-12-25",
+  "CustomerName": "Yoshi Latimer",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 4.8
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 39.4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10679",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-23",
+    "ShippedDate": "2017-09-30",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 12,
+        "UnitPrice": 55.0,
+        "Total": 660.0
+      }
+    ],
+    "TotalPrice": 660.0
+  }
+}

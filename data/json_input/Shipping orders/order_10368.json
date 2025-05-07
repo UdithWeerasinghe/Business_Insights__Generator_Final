@@ -1,0 +1,53 @@
+{
+  "OrderID": "10368",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-29",
+    "ShippedDate": "2016-12-02",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 5,
+        "UnitPrice": 8.0,
+        "Total": 40.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 13,
+        "UnitPrice": 36.4,
+        "Total": 473.2
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 25,
+        "UnitPrice": 15.6,
+        "Total": 390.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 35,
+        "UnitPrice": 26.6,
+        "Total": 931.0
+      }
+    ],
+    "TotalPrice": 1834.2
+  }
+}

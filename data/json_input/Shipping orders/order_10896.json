@@ -1,0 +1,41 @@
+{
+  "OrderID": "10896",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-19",
+    "ShippedDate": "2018-02-27",
+    "Products": [
+      {
+        "Product": "Rogede sild",
+        "Quantity": 15,
+        "UnitPrice": 9.5,
+        "Total": 142.5
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 16,
+        "UnitPrice": 38.0,
+        "Total": 608.0
+      }
+    ],
+    "TotalPrice": 750.5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10686",
+  "OrderDate": "2017-09-30",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 30,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 15,
+      "UnitPrice": 31.23
+    }
+  ]
+}

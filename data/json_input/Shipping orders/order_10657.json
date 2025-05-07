@@ -1,0 +1,65 @@
+{
+  "OrderID": "10657",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-04",
+    "ShippedDate": "2017-09-15",
+    "Products": [
+      {
+        "Product": "Genen Shouyu",
+        "Quantity": 50,
+        "UnitPrice": 15.5,
+        "Total": 775.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 24,
+        "UnitPrice": 9.65,
+        "Total": 231.60000000000002
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 45,
+        "UnitPrice": 12.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 10,
+        "UnitPrice": 9.5,
+        "Total": 95.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 45,
+        "UnitPrice": 38.0,
+        "Total": 1710.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 30,
+        "UnitPrice": 34.0,
+        "Total": 1020.0
+      }
+    ],
+    "TotalPrice": 4371.6
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10351",
+  "OrderDate": "2016-11-11",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 20,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 13,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 77,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 10,
+      "UnitPrice": 16.8
+    }
+  ]
+}

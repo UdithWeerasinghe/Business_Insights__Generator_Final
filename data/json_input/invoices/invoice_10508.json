@@ -1,0 +1,28 @@
+{
+  "OrderID": "10508",
+  "OrderDate": "2017-04-16",
+  "CustomerID": "OTTIK",
+  "CustomerDetails": {
+    "ContactName": "Henriette Pfalzheim",
+    "Address": "Mehrheimerstr. 369",
+    "City": "Köln",
+    "PostalCode": "50739",
+    "Country": "Germany",
+    "Phone": "0221-0644327",
+    "Fax": "0221-0765721"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

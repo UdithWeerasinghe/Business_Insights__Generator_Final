@@ -1,0 +1,41 @@
+{
+  "OrderID": "10677",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-22",
+    "ShippedDate": "2017-09-26",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 30,
+        "UnitPrice": 31.23,
+        "Total": 936.9
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 8,
+        "UnitPrice": 2.5,
+        "Total": 20.0
+      }
+    ],
+    "TotalPrice": 956.9
+  }
+}

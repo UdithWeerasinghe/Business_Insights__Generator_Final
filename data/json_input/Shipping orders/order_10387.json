@@ -1,0 +1,53 @@
+{
+  "OrderID": "10387",
+  "ShippingDetails": {
+    "ShipName": "Santé Gourmet",
+    "ShipAddress": "Erling Skakkes gate 78",
+    "ShipCity": "Stavern",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "4110",
+    "ShipCountry": "Norway"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SANTG",
+    "CustomerName": "Santé Gourmet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-18",
+    "ShippedDate": "2016-12-20",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 15,
+        "UnitPrice": 3.6,
+        "Total": 54.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 6,
+        "UnitPrice": 36.4,
+        "Total": 218.39999999999998
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 12,
+        "UnitPrice": 44.0,
+        "Total": 528.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 15,
+        "UnitPrice": 17.2,
+        "Total": 258.0
+      }
+    ],
+    "TotalPrice": 1058.4
+  }
+}

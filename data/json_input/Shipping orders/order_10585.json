@@ -1,0 +1,35 @@
+{
+  "OrderID": "10585",
+  "ShippingDetails": {
+    "ShipName": "Wellington Importadora",
+    "ShipAddress": "Rua do Mercado, 12",
+    "ShipCity": "Resende",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "08737-363",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WELLI",
+    "CustomerName": "Wellington Importadora"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-01",
+    "ShippedDate": "2017-07-10",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 15,
+        "UnitPrice": 9.5,
+        "Total": 142.5
+      }
+    ],
+    "TotalPrice": 142.5
+  }
+}

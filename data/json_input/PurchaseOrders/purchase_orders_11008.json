@@ -1,0 +1,25 @@
+{
+  "OrderID": "11008",
+  "OrderDate": "2018-04-08",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 70,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 90,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 21,
+      "UnitPrice": 21.5
+    }
+  ]
+}

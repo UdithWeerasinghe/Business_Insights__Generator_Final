@@ -1,0 +1,47 @@
+{
+  "OrderID": "10328",
+  "ShippingDetails": {
+    "ShipName": "Furia Bacalhau e Frutos do Mar",
+    "ShipAddress": "Jardim das rosas n. 32",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1675",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FURIB",
+    "CustomerName": "Furia Bacalhau e Frutos do Mar"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-14",
+    "ShippedDate": "2016-10-17",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 9,
+        "UnitPrice": 44.0,
+        "Total": 396.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 40,
+        "UnitPrice": 16.8,
+        "Total": 672.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 10,
+        "UnitPrice": 10.0,
+        "Total": 100.0
+      }
+    ],
+    "TotalPrice": 1168.0
+  }
+}

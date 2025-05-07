@@ -1,0 +1,26 @@
+{
+  "OrderID": "10280",
+  "OrderDate": "2016-08-14",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 20,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 6.2
+    }
+  ]
+}

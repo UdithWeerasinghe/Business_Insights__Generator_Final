@@ -1,0 +1,53 @@
+{
+  "OrderID": "10678",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-23",
+    "ShippedDate": "2017-10-16",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 100,
+        "UnitPrice": 38.0,
+        "Total": 3800.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 30,
+        "UnitPrice": 2.5,
+        "Total": 75.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 120,
+        "UnitPrice": 9.65,
+        "Total": 1158.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 30,
+        "UnitPrice": 7.45,
+        "Total": 223.5
+      }
+    ],
+    "TotalPrice": 5256.5
+  }
+}

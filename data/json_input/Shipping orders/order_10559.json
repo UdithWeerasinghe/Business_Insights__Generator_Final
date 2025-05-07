@@ -1,0 +1,41 @@
+{
+  "OrderID": "10559",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-05",
+    "ShippedDate": "2017-06-13",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 9.65,
+        "Total": 115.80000000000001
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 18,
+        "UnitPrice": 24.0,
+        "Total": 432.0
+      }
+    ],
+    "TotalPrice": 547.8
+  }
+}

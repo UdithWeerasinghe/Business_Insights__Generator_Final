@@ -1,0 +1,46 @@
+{
+  "OrderID": "10893",
+  "OrderDate": "2018-02-18",
+  "CustomerID": "KOENE",
+  "CustomerDetails": {
+    "ContactName": "Philip Cramer",
+    "Address": "Maubelstr. 90",
+    "City": "Brandenburg",
+    "PostalCode": "14776",
+    "Country": "Germany",
+    "Phone": "0555-09876",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 30,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 24,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 35,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    }
+  ]
+}

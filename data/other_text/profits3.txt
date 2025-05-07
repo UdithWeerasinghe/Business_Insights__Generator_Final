@@ -1,0 +1,29 @@
+Section 2: Summary of Total Profits
+(Based on sample data from the Excel file)
+
+Camera: 58,144
+
+Tab: 55,850
+
+Laptop: 52,899
+
+Selfie Stick: 47,374
+Earbuds: 46,329
+Tempory Glass: 45,625
+Charger: 45,366
+Phone: 45,060
+Powerbank: 43,684
+Back Cover: 27,667
+
+Section 3: Brief Analysis (Textual Details)
+
+Trend Observation: The Camera category leads overall profits, closely followed by
+Tab and Laptop.
+
+Growth Patterns: Daily revenue shows consistent performance from high-
+performing categories, whereas products like Back Cover remain lower in overall
+contribution.
+
+Visual Insight: The combination of charts helps in quickly identifying both day-to-
+day and aggregate performance, making it easier for stakeholders to spot trends and
+outliers, [A(Ct) ~

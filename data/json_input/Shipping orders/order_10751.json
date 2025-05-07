@@ -1,0 +1,53 @@
+{
+  "OrderID": "10751",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-24",
+    "ShippedDate": "2017-12-03",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 12,
+        "UnitPrice": 31.23,
+        "Total": 374.76
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 30,
+        "UnitPrice": 25.89,
+        "Total": 776.7
+      },
+      {
+        "Product": "Valkoinen suklaa",
+        "Quantity": 20,
+        "UnitPrice": 16.25,
+        "Total": 325.0
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 15,
+        "UnitPrice": 15.0,
+        "Total": 225.0
+      }
+    ],
+    "TotalPrice": 1701.46
+  }
+}

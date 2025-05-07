@@ -1,0 +1,22 @@
+{
+  "OrderID": "10531",
+  "OrderDate": "2017-05-08",
+  "CustomerID": "OCEAN",
+  "CustomerDetails": {
+    "ContactName": "Yvonne Moncada",
+    "Address": "Ing. Gustavo Moncada 8585 Piso 20-A",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5333",
+    "Fax": "(1) 135-5535"
+  },
+  "Products": [
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 2,
+      "UnitPrice": 55.0
+    }
+  ]
+}

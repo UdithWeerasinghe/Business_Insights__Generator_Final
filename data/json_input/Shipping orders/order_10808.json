@@ -1,0 +1,41 @@
+{
+  "OrderID": "10808",
+  "ShippingDetails": {
+    "ShipName": "Old World Delicatessen",
+    "ShipAddress": "2743 Bering St.",
+    "ShipCity": "Anchorage",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99508",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OLDWO",
+    "CustomerName": "Old World Delicatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-01",
+    "ShippedDate": "2018-01-09",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 20,
+        "UnitPrice": 38.0,
+        "Total": 760.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 50,
+        "UnitPrice": 18.0,
+        "Total": 900.0
+      }
+    ],
+    "TotalPrice": 1660.0
+  }
+}

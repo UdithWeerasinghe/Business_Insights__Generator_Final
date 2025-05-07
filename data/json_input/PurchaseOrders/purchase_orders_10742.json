@@ -1,0 +1,25 @@
+{
+  "OrderID": "10742",
+  "OrderDate": "2017-11-14",
+  "CustomerName": "Elizabeth Lincoln",
+  "Products": [
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 50,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 35,
+      "UnitPrice": 34.8
+    }
+  ]
+}

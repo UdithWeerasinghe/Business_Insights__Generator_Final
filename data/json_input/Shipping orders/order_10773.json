@@ -1,0 +1,47 @@
+{
+  "OrderID": "10773",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-11",
+    "ShippedDate": "2017-12-16",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 33,
+        "UnitPrice": 39.0,
+        "Total": 1287.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 70,
+        "UnitPrice": 12.5,
+        "Total": 875.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 7,
+        "UnitPrice": 7.75,
+        "Total": 54.25
+      }
+    ],
+    "TotalPrice": 2216.25
+  }
+}

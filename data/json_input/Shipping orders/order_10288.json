@@ -1,0 +1,41 @@
+{
+  "OrderID": "10288",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-23",
+    "ShippedDate": "2016-09-03",
+    "Products": [
+      {
+        "Product": "Tourtière",
+        "Quantity": 10,
+        "UnitPrice": 5.9,
+        "Total": 59.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 3,
+        "UnitPrice": 10.0,
+        "Total": 30.0
+      }
+    ],
+    "TotalPrice": 89.0
+  }
+}

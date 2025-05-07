@@ -1,0 +1,19 @@
+{
+  "OrderID": "10710",
+  "OrderDate": "2017-10-20",
+  "CustomerName": "Paolo Accorti",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 5,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 5,
+      "UnitPrice": 9.5
+    }
+  ]
+}

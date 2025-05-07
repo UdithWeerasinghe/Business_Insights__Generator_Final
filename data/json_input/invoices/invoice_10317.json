@@ -1,0 +1,22 @@
+{
+  "OrderID": "10317",
+  "OrderDate": "2016-09-30",
+  "CustomerID": "LONEP",
+  "CustomerDetails": {
+    "ContactName": "Fran Wilson",
+    "Address": "89 Chiaroscuro Rd.",
+    "City": "Portland",
+    "PostalCode": "97219",
+    "Country": "USA",
+    "Phone": "(503) 555-9573",
+    "Fax": "(503) 555-9646"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

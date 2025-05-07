@@ -1,0 +1,53 @@
+{
+  "OrderID": "10837",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-16",
+    "ShippedDate": "2018-01-23",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 6,
+        "UnitPrice": 6.0,
+        "Total": 36.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 25,
+        "UnitPrice": 18.4,
+        "Total": 459.99999999999994
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 40,
+        "UnitPrice": 9.5,
+        "Total": 380.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 21,
+        "UnitPrice": 18.0,
+        "Total": 378.0
+      }
+    ],
+    "TotalPrice": 1254.0
+  }
+}

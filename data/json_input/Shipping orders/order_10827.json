@@ -1,0 +1,41 @@
+{
+  "OrderID": "10827",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-12",
+    "ShippedDate": "2018-02-06",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 15,
+        "UnitPrice": 31.0,
+        "Total": 465.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 21,
+        "UnitPrice": 18.0,
+        "Total": 378.0
+      }
+    ],
+    "TotalPrice": 843.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10375",
+  "ShippingDetails": {
+    "ShipName": "Hungry Coyote Import Store",
+    "ShipAddress": "City Center Plaza 516 Main St.",
+    "ShipCity": "Elgin",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97827",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGC",
+    "CustomerName": "Hungry Coyote Import Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-06",
+    "ShippedDate": "2016-12-09",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 15,
+        "UnitPrice": 18.6,
+        "Total": 279.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 10,
+        "UnitPrice": 5.9,
+        "Total": 59.0
+      }
+    ],
+    "TotalPrice": 338.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10357",
+  "OrderDate": "2016-11-19",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 30,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 16,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 8,
+      "UnitPrice": 27.2
+    }
+  ]
+}

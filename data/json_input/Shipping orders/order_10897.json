@@ -1,0 +1,41 @@
+{
+  "OrderID": "10897",
+  "ShippingDetails": {
+    "ShipName": "Hungry Owl All-Night Grocers",
+    "ShipAddress": "8 Johnstown Road",
+    "ShipCity": "Cork",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "None",
+    "ShipCountry": "Ireland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGO",
+    "CustomerName": "Hungry Owl All-Night Grocers"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-19",
+    "ShippedDate": "2018-02-25",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 80,
+        "UnitPrice": 123.79,
+        "Total": 9903.2
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 36,
+        "UnitPrice": 25.89,
+        "Total": 932.04
+      }
+    ],
+    "TotalPrice": 10835.240000000002
+  }
+}

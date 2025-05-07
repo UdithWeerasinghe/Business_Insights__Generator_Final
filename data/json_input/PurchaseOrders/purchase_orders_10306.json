@@ -1,0 +1,25 @@
+{
+  "OrderID": "10306",
+  "OrderDate": "2016-09-16",
+  "CustomerName": "Alejandra Camino",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 10,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 5,
+      "UnitPrice": 5.9
+    }
+  ]
+}

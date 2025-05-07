@@ -1,0 +1,47 @@
+{
+  "OrderID": "10487",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-26",
+    "ShippedDate": "2017-03-28",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 5,
+        "UnitPrice": 7.3,
+        "Total": 36.5
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 30,
+        "UnitPrice": 24.9,
+        "Total": 747.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 24,
+        "UnitPrice": 5.9,
+        "Total": 141.60000000000002
+      }
+    ],
+    "TotalPrice": 925.1
+  }
+}

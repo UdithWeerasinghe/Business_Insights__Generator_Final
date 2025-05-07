@@ -1,0 +1,34 @@
+{
+  "OrderID": "10656",
+  "OrderDate": "2017-09-04",
+  "CustomerID": "GREAL",
+  "CustomerDetails": {
+    "ContactName": "Howard Snyder",
+    "Address": "2732 Baker Blvd.",
+    "City": "Eugene",
+    "PostalCode": "97403",
+    "Country": "USA",
+    "Phone": "(503) 555-7555",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 3,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 28,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 6,
+      "UnitPrice": 9.5
+    }
+  ]
+}

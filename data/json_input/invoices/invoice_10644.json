@@ -1,0 +1,26 @@
+{
+  "OrderID": "10644",
+  "OrderDate": "2017-08-25",
+  "CustomerID": "WELLI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 4,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 20,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 21,
+      "UnitPrice": 12.0
+    }
+  ]
+}

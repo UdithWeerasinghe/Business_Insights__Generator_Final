@@ -1,0 +1,25 @@
+{
+  "OrderID": "10477",
+  "OrderDate": "2017-03-17",
+  "CustomerName": "Isabel de Castro",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 15,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 21,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

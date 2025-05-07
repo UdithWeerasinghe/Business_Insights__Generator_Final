@@ -1,0 +1,25 @@
+{
+  "OrderID": "10487",
+  "OrderDate": "2017-03-26",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 5,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 24,
+      "UnitPrice": 5.9
+    }
+  ]
+}

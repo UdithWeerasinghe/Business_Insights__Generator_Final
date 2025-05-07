@@ -1,0 +1,47 @@
+{
+  "OrderID": "10812",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-02",
+    "ShippedDate": "2018-01-12",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 16,
+        "UnitPrice": 12.5,
+        "Total": 200.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 40,
+        "UnitPrice": 34.8,
+        "Total": 1392.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 20,
+        "UnitPrice": 13.0,
+        "Total": 260.0
+      }
+    ],
+    "TotalPrice": 1852.0
+  }
+}

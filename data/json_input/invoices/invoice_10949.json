@@ -1,0 +1,32 @@
+{
+  "OrderID": "10949",
+  "OrderDate": "2018-03-13",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "6",
+      "ProductName": "Grandma's Boysenberry Spread",
+      "Quantity": 12,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 30,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 6,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 60,
+      "UnitPrice": 49.3
+    }
+  ]
+}

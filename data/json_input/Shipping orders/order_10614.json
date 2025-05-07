@@ -1,0 +1,47 @@
+{
+  "OrderID": "10614",
+  "ShippingDetails": {
+    "ShipName": "Blauer See Delikatessen",
+    "ShipAddress": "Forsterstr. 57",
+    "ShipCity": "Mannheim",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "68306",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLAUS",
+    "CustomerName": "Blauer See Delikatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-29",
+    "ShippedDate": "2017-08-01",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 14,
+        "UnitPrice": 21.0,
+        "Total": 294.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 8,
+        "UnitPrice": 10.0,
+        "Total": 80.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 5,
+        "UnitPrice": 18.0,
+        "Total": 90.0
+      }
+    ],
+    "TotalPrice": 464.0
+  }
+}

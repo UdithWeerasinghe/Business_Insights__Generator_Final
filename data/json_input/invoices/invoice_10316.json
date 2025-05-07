@@ -1,0 +1,28 @@
+{
+  "OrderID": "10316",
+  "OrderDate": "2016-09-27",
+  "CustomerID": "RATTC",
+  "CustomerDetails": {
+    "ContactName": "Paula Wilson",
+    "Address": "2817 Milton Dr.",
+    "City": "Albuquerque",
+    "PostalCode": "87110",
+    "Country": "USA",
+    "Phone": "(505) 555-5939",
+    "Fax": "(505) 555-3620"
+  },
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 10,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 70,
+      "UnitPrice": 39.4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10374",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-05",
+    "ShippedDate": "2016-12-09",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 30,
+        "UnitPrice": 10.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 15,
+        "UnitPrice": 10.6,
+        "Total": 159.0
+      }
+    ],
+    "TotalPrice": 459.0
+  }
+}

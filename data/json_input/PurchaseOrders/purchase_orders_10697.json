@@ -1,0 +1,31 @@
+{
+  "OrderID": "10697",
+  "OrderDate": "2017-10-08",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 7,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 9,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

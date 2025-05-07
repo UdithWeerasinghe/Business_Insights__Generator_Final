@@ -1,0 +1,22 @@
+{
+  "OrderID": "10699",
+  "OrderDate": "2017-10-09",
+  "CustomerID": "MORGK",
+  "CustomerDetails": {
+    "ContactName": "Alexander Feuer",
+    "Address": "Heerstr. 22",
+    "City": "Leipzig",
+    "PostalCode": "04179",
+    "Country": "Germany",
+    "Phone": "0342-023176",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 12,
+      "UnitPrice": 9.5
+    }
+  ]
+}

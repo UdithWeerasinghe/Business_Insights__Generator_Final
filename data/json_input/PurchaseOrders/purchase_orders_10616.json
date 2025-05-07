@@ -1,0 +1,31 @@
+{
+  "OrderID": "10616",
+  "OrderDate": "2017-07-31",
+  "CustomerName": "Howard Snyder",
+  "Products": [
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 15,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 14,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 21.5
+    }
+  ]
+}

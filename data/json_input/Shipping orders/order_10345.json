@@ -1,0 +1,47 @@
+{
+  "OrderID": "10345",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-04",
+    "ShippedDate": "2016-11-11",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 70,
+        "UnitPrice": 32.0,
+        "Total": 2240.0
+      },
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 80,
+        "UnitPrice": 7.3,
+        "Total": 584.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 9,
+        "UnitPrice": 11.2,
+        "Total": 100.8
+      }
+    ],
+    "TotalPrice": 2924.8
+  }
+}

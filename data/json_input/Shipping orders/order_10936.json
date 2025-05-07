@@ -1,0 +1,35 @@
+{
+  "OrderID": "10936",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-09",
+    "ShippedDate": "2018-03-18",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      }
+    ],
+    "TotalPrice": 570.0
+  }
+}

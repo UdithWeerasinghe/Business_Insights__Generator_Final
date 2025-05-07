@@ -1,0 +1,34 @@
+{
+  "OrderID": "10784",
+  "OrderDate": "2017-12-18",
+  "CustomerID": "MAGAA",
+  "CustomerDetails": {
+    "ContactName": "Giovanni Rovelli",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  "Products": [
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 2,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 30,
+      "UnitPrice": 34.8
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10556",
+  "OrderDate": "2017-06-03",
+  "CustomerID": "SIMOB",
+  "CustomerDetails": {
+    "ContactName": "Jytte Petersen",
+    "Address": "Vinbæltet 34",
+    "City": "Kobenhavn",
+    "PostalCode": "1734",
+    "Country": "Denmark",
+    "Phone": "31 12 34 56",
+    "Fax": "31 13 35 57"
+  },
+  "Products": [
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 24,
+      "UnitPrice": 34.8
+    }
+  ]
+}

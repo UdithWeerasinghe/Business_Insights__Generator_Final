@@ -1,0 +1,13 @@
+{
+  "OrderID": "10378",
+  "OrderDate": "2016-12-10",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 6,
+      "UnitPrice": 17.2
+    }
+  ]
+}

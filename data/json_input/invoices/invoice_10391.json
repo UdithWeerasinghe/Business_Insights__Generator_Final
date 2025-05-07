@@ -1,0 +1,22 @@
+{
+  "OrderID": "10391",
+  "OrderDate": "2016-12-23",
+  "CustomerID": "DRACD",
+  "CustomerDetails": {
+    "ContactName": "Sven Ottlieb",
+    "Address": "Walserweg 21",
+    "City": "Aachen",
+    "PostalCode": "52066",
+    "Country": "Germany",
+    "Phone": "0241-039123",
+    "Fax": "0241-059428"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 18,
+      "UnitPrice": 4.8
+    }
+  ]
+}

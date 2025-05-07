@@ -1,0 +1,25 @@
+{
+  "OrderID": "10706",
+  "OrderDate": "2017-10-16",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 20,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 8,
+      "UnitPrice": 55.0
+    }
+  ]
+}

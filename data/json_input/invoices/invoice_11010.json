@@ -1,0 +1,28 @@
+{
+  "OrderID": "11010",
+  "OrderDate": "2018-04-09",
+  "CustomerID": "REGGC",
+  "CustomerDetails": {
+    "ContactName": "Maurizio Moroni",
+    "Address": "Strada Provinciale 124",
+    "City": "Reggio Emilia",
+    "PostalCode": "42100",
+    "Country": "Italy",
+    "Phone": "0522-556721",
+    "Fax": "0522-556722"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 20,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    }
+  ]
+}

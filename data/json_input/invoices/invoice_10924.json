@@ -1,0 +1,26 @@
+{
+  "OrderID": "10924",
+  "OrderDate": "2018-03-04",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 20,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 30,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 6,
+      "UnitPrice": 7.75
+    }
+  ]
+}

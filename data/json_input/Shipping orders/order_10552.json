@@ -1,0 +1,41 @@
+{
+  "OrderID": "10552",
+  "ShippingDetails": {
+    "ShipName": "HILARION-Abastos",
+    "ShipAddress": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "ShipCity": "San Cristóbal",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "5022",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HILAA",
+    "CustomerName": "HILARION-Abastos"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-29",
+    "ShippedDate": "2017-06-05",
+    "Products": [
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 18,
+        "UnitPrice": 36.0,
+        "Total": 648.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 30,
+        "UnitPrice": 7.75,
+        "Total": 232.5
+      }
+    ],
+    "TotalPrice": 880.5
+  }
+}

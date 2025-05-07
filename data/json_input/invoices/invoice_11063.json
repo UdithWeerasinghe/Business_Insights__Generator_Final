@@ -1,0 +1,26 @@
+{
+  "OrderID": "11063",
+  "OrderDate": "2018-04-30",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 40,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 30,
+      "UnitPrice": 9.65
+    }
+  ]
+}

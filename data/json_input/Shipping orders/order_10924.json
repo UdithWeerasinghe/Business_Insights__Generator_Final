@@ -1,0 +1,47 @@
+{
+  "OrderID": "10924",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-04",
+    "ShippedDate": "2018-04-08",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 20,
+        "UnitPrice": 31.0,
+        "Total": 620.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 30,
+        "UnitPrice": 45.6,
+        "Total": 1368.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 6,
+        "UnitPrice": 7.75,
+        "Total": 46.5
+      }
+    ],
+    "TotalPrice": 2034.5
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10540",
+  "OrderDate": "2017-05-19",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 40,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 30,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 35,
+      "UnitPrice": 12.5
+    }
+  ]
+}

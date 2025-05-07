@@ -1,0 +1,47 @@
+{
+  "OrderID": "10502",
+  "ShippingDetails": {
+    "ShipName": "Pericles Comidas clásicas",
+    "ShipAddress": "Calle Dr. Jorge Cash 321",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5033",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PERIC",
+    "CustomerName": "Pericles Comidas clásicas"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-10",
+    "ShippedDate": "2017-04-29",
+    "Products": [
+      {
+        "Product": "Rogede sild",
+        "Quantity": 21,
+        "UnitPrice": 9.5,
+        "Total": 199.5
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 6,
+        "UnitPrice": 32.8,
+        "Total": 196.79999999999998
+      },
+      {
+        "Product": "Laughing Lumberjack Lager",
+        "Quantity": 30,
+        "UnitPrice": 14.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 816.3
+  }
+}

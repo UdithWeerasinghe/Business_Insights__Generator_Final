@@ -1,0 +1,46 @@
+{
+  "OrderID": "10337",
+  "OrderDate": "2016-10-24",
+  "CustomerID": "FRANK",
+  "CustomerDetails": {
+    "ContactName": "Peter Franken",
+    "Address": "Berliner Platz 43",
+    "City": "München",
+    "PostalCode": "80805",
+    "Country": "Germany",
+    "Phone": "089-0877310",
+    "Fax": "089-0877451"
+  },
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 40,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 24,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "37",
+      "ProductName": "Gravad lax",
+      "Quantity": 28,
+      "UnitPrice": 20.8
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 25,
+      "UnitPrice": 27.8
+    }
+  ]
+}

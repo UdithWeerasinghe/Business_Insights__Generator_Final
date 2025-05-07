@@ -1,0 +1,28 @@
+{
+  "OrderID": "10826",
+  "OrderDate": "2018-01-12",
+  "CustomerID": "BLONP",
+  "CustomerDetails": {
+    "ContactName": "Frédérique Citeaux",
+    "Address": "24, place Kléber",
+    "City": "Strasbourg",
+    "PostalCode": "67000",
+    "Country": "France",
+    "Phone": "88.60.15.31",
+    "Fax": "88.60.15.32"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 35,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 15,
+      "UnitPrice": 19.5
+    }
+  ]
+}

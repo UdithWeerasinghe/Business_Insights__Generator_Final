@@ -1,0 +1,41 @@
+{
+  "OrderID": "10491",
+  "ShippingDetails": {
+    "ShipName": "Furia Bacalhau e Frutos do Mar",
+    "ShipAddress": "Jardim das rosas n. 32",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1675",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FURIB",
+    "CustomerName": "Furia Bacalhau e Frutos do Mar"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-31",
+    "ShippedDate": "2017-04-08",
+    "Products": [
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 15,
+        "UnitPrice": 15.5,
+        "Total": 232.5
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 7,
+        "UnitPrice": 10.4,
+        "Total": 72.8
+      }
+    ],
+    "TotalPrice": 305.3
+  }
+}

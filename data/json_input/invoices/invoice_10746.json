@@ -1,0 +1,40 @@
+{
+  "OrderID": "10746",
+  "OrderDate": "2017-11-19",
+  "CustomerID": "CHOPS",
+  "CustomerDetails": {
+    "ContactName": "Yang Wang",
+    "Address": "Hauptstr. 29",
+    "City": "Bern",
+    "PostalCode": "3012",
+    "Country": "Switzerland",
+    "Phone": "0452-076545",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 6,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 28,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 9,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 40,
+      "UnitPrice": 36.0
+    }
+  ]
+}

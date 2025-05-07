@@ -1,0 +1,25 @@
+{
+  "OrderID": "10521",
+  "OrderDate": "2017-04-29",
+  "CustomerName": "Patricio Simpson",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 3,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 10,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 6,
+      "UnitPrice": 12.5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10311",
+  "ShippingDetails": {
+    "ShipName": "Du monde entier",
+    "ShipAddress": "67, rue des Cinquante Otages",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DUMON",
+    "CustomerName": "Du monde entier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-20",
+    "ShippedDate": "2016-09-26",
+    "Products": [
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 6,
+        "UnitPrice": 11.2,
+        "Total": 67.19999999999999
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 7,
+        "UnitPrice": 28.8,
+        "Total": 201.6
+      }
+    ],
+    "TotalPrice": 268.79999999999995
+  }
+}

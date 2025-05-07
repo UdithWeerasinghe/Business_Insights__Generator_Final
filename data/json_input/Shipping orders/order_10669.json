@@ -1,0 +1,35 @@
+{
+  "OrderID": "10669",
+  "ShippingDetails": {
+    "ShipName": "Simons bistro",
+    "ShipAddress": "Vinbæltet 34",
+    "ShipCity": "Kobenhavn",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "1734",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SIMOB",
+    "CustomerName": "Simons bistro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-15",
+    "ShippedDate": "2017-09-22",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      }
+    ],
+    "TotalPrice": 570.0
+  }
+}

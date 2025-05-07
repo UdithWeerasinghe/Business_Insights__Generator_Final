@@ -1,0 +1,25 @@
+{
+  "OrderID": "10663",
+  "OrderDate": "2017-09-10",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 30,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    }
+  ]
+}

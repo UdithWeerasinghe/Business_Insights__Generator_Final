@@ -1,0 +1,19 @@
+{
+  "OrderID": "10940",
+  "OrderDate": "2018-03-11",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 8,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10533",
+  "OrderDate": "2017-05-12",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 50,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 24,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 24,
+      "UnitPrice": 15.0
+    }
+  ]
+}

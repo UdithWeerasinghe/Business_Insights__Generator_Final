@@ -1,0 +1,47 @@
+{
+  "OrderID": "10469",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-10",
+    "ShippedDate": "2017-03-14",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 40,
+        "UnitPrice": 15.2,
+        "Total": 608.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 35,
+        "UnitPrice": 13.9,
+        "Total": 486.5
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 2,
+        "UnitPrice": 15.5,
+        "Total": 31.0
+      }
+    ],
+    "TotalPrice": 1125.5
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10925",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-04",
+    "ShippedDate": "2018-03-13",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 25,
+        "UnitPrice": 19.0,
+        "Total": 475.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 12,
+        "UnitPrice": 7.0,
+        "Total": 84.0
+      }
+    ],
+    "TotalPrice": 559.0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "OrderID": "10930",
+  "OrderDate": "2018-03-06",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 36,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "27",
+      "ProductName": "Schoggi Schokolade",
+      "Quantity": 25,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 25,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    }
+  ]
+}

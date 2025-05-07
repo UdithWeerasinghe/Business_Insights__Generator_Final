@@ -1,0 +1,34 @@
+{
+  "OrderID": "11003",
+  "OrderDate": "2018-04-06",
+  "CustomerID": "THECR",
+  "CustomerDetails": {
+    "ContactName": "Liu Wong",
+    "Address": "55 Grizzly Peak Rd.",
+    "City": "Butte",
+    "PostalCode": "59801",
+    "Country": "USA",
+    "Phone": "(406) 555-5834",
+    "Fax": "(406) 555-8083"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 4,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 10,
+      "UnitPrice": 7.0
+    }
+  ]
+}

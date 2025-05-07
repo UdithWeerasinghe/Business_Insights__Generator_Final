@@ -1,0 +1,41 @@
+{
+  "OrderID": "10856",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-28",
+    "ShippedDate": "2018-02-10",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 20,
+        "UnitPrice": 14.0,
+        "Total": 280.0
+      }
+    ],
+    "TotalPrice": 660.0
+  }
+}

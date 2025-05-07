@@ -1,0 +1,20 @@
+{
+  "OrderID": "10645",
+  "OrderDate": "2017-08-26",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 20,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 15,
+      "UnitPrice": 19.0
+    }
+  ]
+}

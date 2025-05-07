@@ -1,0 +1,25 @@
+{
+  "OrderID": "10326",
+  "OrderDate": "2016-10-10",
+  "CustomerName": "Martín Sommer",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 24,
+      "UnitPrice": 17.6
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 16,
+      "UnitPrice": 15.6
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 50,
+      "UnitPrice": 6.2
+    }
+  ]
+}

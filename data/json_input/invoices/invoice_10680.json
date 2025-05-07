@@ -1,0 +1,34 @@
+{
+  "OrderID": "10680",
+  "OrderDate": "2017-09-24",
+  "CustomerID": "OLDWO",
+  "CustomerDetails": {
+    "ContactName": "Rene Phillips",
+    "Address": "2743 Bering St.",
+    "City": "Anchorage",
+    "PostalCode": "99508",
+    "Country": "USA",
+    "Phone": "(907) 555-7584",
+    "Fax": "(907) 555-2880"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 50,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 40,
+      "UnitPrice": 14.0
+    }
+  ]
+}

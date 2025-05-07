@@ -1,0 +1,35 @@
+{
+  "OrderID": "10699",
+  "ShippingDetails": {
+    "ShipName": "Morgenstern Gesundkost",
+    "ShipAddress": "Heerstr. 22",
+    "ShipCity": "Leipzig",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "4179",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MORGK",
+    "CustomerName": "Morgenstern Gesundkost"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-09",
+    "ShippedDate": "2017-10-13",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 12,
+        "UnitPrice": 9.5,
+        "Total": 114.0
+      }
+    ],
+    "TotalPrice": 114.0
+  }
+}

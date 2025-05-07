@@ -1,0 +1,28 @@
+{
+  "OrderID": "11041",
+  "OrderDate": "2018-04-22",
+  "CustomerID": "CHOPS",
+  "CustomerDetails": {
+    "ContactName": "Yang Wang",
+    "Address": "Hauptstr. 29",
+    "City": "Bern",
+    "PostalCode": "3012",
+    "Country": "Switzerland",
+    "Phone": "0452-076545",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 30,
+      "UnitPrice": 43.9
+    }
+  ]
+}

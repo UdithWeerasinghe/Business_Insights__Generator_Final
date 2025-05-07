@@ -1,0 +1,25 @@
+{
+  "OrderID": "11046",
+  "OrderDate": "2018-04-23",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 15,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 18,
+      "UnitPrice": 18.0
+    }
+  ]
+}

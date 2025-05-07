@@ -1,0 +1,19 @@
+{
+  "OrderID": "10735",
+  "OrderDate": "2017-11-10",
+  "CustomerName": "Jaime Yorres",
+  "Products": [
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 2,
+      "UnitPrice": 13.0
+    }
+  ]
+}

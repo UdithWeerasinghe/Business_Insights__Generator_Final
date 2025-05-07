@@ -1,0 +1,41 @@
+{
+  "OrderID": "10988",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-31",
+    "ShippedDate": "2018-04-10",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 60,
+        "UnitPrice": 30.0,
+        "Total": 1800.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 40,
+        "UnitPrice": 49.3,
+        "Total": 1972.0
+      }
+    ],
+    "TotalPrice": 3772.0
+  }
+}

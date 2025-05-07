@@ -1,0 +1,41 @@
+{
+  "OrderID": "10653",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-02",
+    "ShippedDate": "2017-09-19",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 30,
+        "UnitPrice": 17.45,
+        "Total": 523.5
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 20,
+        "UnitPrice": 34.0,
+        "Total": 680.0
+      }
+    ],
+    "TotalPrice": 1203.5
+  }
+}

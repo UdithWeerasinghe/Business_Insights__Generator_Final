@@ -1,0 +1,47 @@
+{
+  "OrderID": "10251",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-08",
+    "ShippedDate": "2016-07-15",
+    "Products": [
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 6,
+        "UnitPrice": 16.8,
+        "Total": 100.80000000000001
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 15,
+        "UnitPrice": 15.6,
+        "Total": 234.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 20,
+        "UnitPrice": 16.8,
+        "Total": 336.0
+      }
+    ],
+    "TotalPrice": 670.8
+  }
+}

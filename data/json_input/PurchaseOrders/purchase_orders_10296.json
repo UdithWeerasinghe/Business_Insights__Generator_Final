@@ -1,0 +1,25 @@
+{
+  "OrderID": "10296",
+  "OrderDate": "2016-09-03",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 12,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 15,
+      "UnitPrice": 28.8
+    }
+  ]
+}

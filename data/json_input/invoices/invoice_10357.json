@@ -1,0 +1,34 @@
+{
+  "OrderID": "10357",
+  "OrderDate": "2016-11-19",
+  "CustomerID": "LILAS",
+  "CustomerDetails": {
+    "ContactName": "Carlos González",
+    "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "City": "Barquisimeto",
+    "PostalCode": "3508",
+    "Country": "Venezuela",
+    "Phone": "(9) 331-6954",
+    "Fax": "(9) 331-7256"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 30,
+      "UnitPrice": 24.8
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 16,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 8,
+      "UnitPrice": 27.2
+    }
+  ]
+}

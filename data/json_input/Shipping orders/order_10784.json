@@ -1,0 +1,47 @@
+{
+  "OrderID": "10784",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-18",
+    "ShippedDate": "2017-12-22",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 30,
+        "UnitPrice": 19.0,
+        "Total": 570.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 2,
+        "UnitPrice": 18.0,
+        "Total": 36.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 30,
+        "UnitPrice": 34.8,
+        "Total": 1044.0
+      }
+    ],
+    "TotalPrice": 1650.0
+  }
+}

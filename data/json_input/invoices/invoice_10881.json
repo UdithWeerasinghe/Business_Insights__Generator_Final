@@ -1,0 +1,22 @@
+{
+  "OrderID": "10881",
+  "OrderDate": "2018-02-11",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 10,
+      "UnitPrice": 15.0
+    }
+  ]
+}

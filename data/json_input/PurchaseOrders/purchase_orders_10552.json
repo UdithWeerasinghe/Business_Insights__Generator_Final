@@ -1,0 +1,19 @@
+{
+  "OrderID": "10552",
+  "OrderDate": "2017-05-29",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 18,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 7.75
+    }
+  ]
+}

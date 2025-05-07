@@ -1,0 +1,19 @@
+{
+  "OrderID": "10780",
+  "OrderDate": "2017-12-16",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 35,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    }
+  ]
+}

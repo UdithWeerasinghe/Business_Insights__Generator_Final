@@ -1,0 +1,31 @@
+{
+  "OrderID": "10574",
+  "OrderDate": "2017-06-19",
+  "CustomerName": "Helvetius Nagy",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 14,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 2,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 6,
+      "UnitPrice": 33.25
+    }
+  ]
+}

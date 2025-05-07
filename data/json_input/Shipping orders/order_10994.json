@@ -1,0 +1,35 @@
+{
+  "OrderID": "10994",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-02",
+    "ShippedDate": "2018-04-09",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 18,
+        "UnitPrice": 55.0,
+        "Total": 990.0
+      }
+    ],
+    "TotalPrice": 990.0
+  }
+}

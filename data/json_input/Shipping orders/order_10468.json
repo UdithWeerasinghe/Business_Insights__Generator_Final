@@ -1,0 +1,41 @@
+{
+  "OrderID": "10468",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-07",
+    "ShippedDate": "2017-03-12",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 8,
+        "UnitPrice": 20.7,
+        "Total": 165.6
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 15,
+        "UnitPrice": 36.8,
+        "Total": 552.0
+      }
+    ],
+    "TotalPrice": 717.6
+  }
+}

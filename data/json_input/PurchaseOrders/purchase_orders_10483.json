@@ -1,0 +1,19 @@
+{
+  "OrderID": "10483",
+  "OrderDate": "2017-03-24",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 35,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 30,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10348",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-07",
+    "ShippedDate": "2016-11-15",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 15,
+        "UnitPrice": 14.4,
+        "Total": 216.0
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 25,
+        "UnitPrice": 7.2,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 396.0
+  }
+}

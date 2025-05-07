@@ -1,0 +1,25 @@
+{
+  "OrderID": "10502",
+  "OrderDate": "2017-04-10",
+  "CustomerName": "Guillermo Fernández",
+  "Products": [
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 21,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 6,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 30,
+      "UnitPrice": 14.0
+    }
+  ]
+}

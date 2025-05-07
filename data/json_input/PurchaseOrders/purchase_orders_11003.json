@@ -1,0 +1,25 @@
+{
+  "OrderID": "11003",
+  "OrderDate": "2018-04-06",
+  "CustomerName": "Liu Wong",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 4,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 10,
+      "UnitPrice": 7.0
+    }
+  ]
+}

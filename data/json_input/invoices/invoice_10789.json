@@ -1,0 +1,40 @@
+{
+  "OrderID": "10789",
+  "OrderDate": "2017-12-22",
+  "CustomerID": "FOLIG",
+  "CustomerDetails": {
+    "ContactName": "Martine Rancé",
+    "Address": "184, chaussée de Tournai",
+    "City": "Lille",
+    "PostalCode": "59000",
+    "Country": "France",
+    "Phone": "20.16.10.16",
+    "Fax": "20.16.10.17"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 30,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 15,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 30,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 18,
+      "UnitPrice": 12.5
+    }
+  ]
+}

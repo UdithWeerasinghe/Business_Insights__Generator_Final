@@ -1,0 +1,59 @@
+{
+  "OrderID": "10337",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-24",
+    "ShippedDate": "2016-10-29",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 40,
+        "UnitPrice": 7.2,
+        "Total": 288.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 24,
+        "UnitPrice": 24.9,
+        "Total": 597.5999999999999
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 20,
+        "UnitPrice": 15.2,
+        "Total": 304.0
+      },
+      {
+        "Product": "Gravad lax",
+        "Quantity": 28,
+        "UnitPrice": 20.8,
+        "Total": 582.4
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 25,
+        "UnitPrice": 27.8,
+        "Total": 695.0
+      }
+    ],
+    "TotalPrice": 2467.0
+  }
+}

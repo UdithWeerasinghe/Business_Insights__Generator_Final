@@ -1,0 +1,53 @@
+{
+  "OrderID": "10417",
+  "ShippingDetails": {
+    "ShipName": "Simons bistro",
+    "ShipAddress": "Vinbæltet 34",
+    "ShipCity": "Kobenhavn",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "1734",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SIMOB",
+    "CustomerName": "Simons bistro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-16",
+    "ShippedDate": "2017-01-28",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 50,
+        "UnitPrice": 210.8,
+        "Total": 10540.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 2,
+        "UnitPrice": 9.6,
+        "Total": 19.2
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 36,
+        "UnitPrice": 10.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 35,
+        "UnitPrice": 10.4,
+        "Total": 364.0
+      }
+    ],
+    "TotalPrice": 11283.2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "10660",
+  "OrderDate": "2017-09-08",
+  "CustomerID": "HUNGC",
+  "CustomerDetails": {
+    "ContactName": "Yoshi Latimer",
+    "Address": "City Center Plaza 516 Main St.",
+    "City": "Elgin",
+    "PostalCode": "97827",
+    "Country": "USA",
+    "Phone": "(503) 555-6874",
+    "Fax": "(503) 555-2376"
+  },
+  "Products": [
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 21,
+      "UnitPrice": 81.0
+    }
+  ]
+}

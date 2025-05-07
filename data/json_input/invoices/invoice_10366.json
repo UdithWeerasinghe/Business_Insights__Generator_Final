@@ -1,0 +1,28 @@
+{
+  "OrderID": "10366",
+  "OrderDate": "2016-11-28",
+  "CustomerID": "GALED",
+  "CustomerDetails": {
+    "ContactName": "Eduardo Saavedra",
+    "Address": "Rambla de Cataluña, 23",
+    "City": "Barcelona",
+    "PostalCode": "08022",
+    "Country": "Spain",
+    "Phone": "(93) 203 4560",
+    "Fax": "(93) 203 4561"
+  },
+  "Products": [
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 5,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 5,
+      "UnitPrice": 10.4
+    }
+  ]
+}

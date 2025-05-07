@@ -1,0 +1,31 @@
+{
+  "OrderID": "10372",
+  "OrderDate": "2016-12-04",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 12,
+      "UnitPrice": 64.8
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 40,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 70,
+      "UnitPrice": 27.2
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 42,
+      "UnitPrice": 27.8
+    }
+  ]
+}

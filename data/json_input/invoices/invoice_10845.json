@@ -1,0 +1,46 @@
+{
+  "OrderID": "10845",
+  "OrderDate": "2018-01-21",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 70,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 25,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 42,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 60,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 48,
+      "UnitPrice": 33.25
+    }
+  ]
+}

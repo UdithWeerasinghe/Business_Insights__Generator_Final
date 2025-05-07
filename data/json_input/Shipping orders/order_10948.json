@@ -1,0 +1,47 @@
+{
+  "OrderID": "10948",
+  "ShippingDetails": {
+    "ShipName": "Godos Cocina Típica",
+    "ShipAddress": "C/ Romero, 33",
+    "ShipCity": "Sevilla",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "41101",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GODOS",
+    "CustomerName": "Godos Cocina Típica"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-13",
+    "ShippedDate": "2018-03-19",
+    "Products": [
+      {
+        "Product": "Valkoinen suklaa",
+        "Quantity": 9,
+        "UnitPrice": 16.25,
+        "Total": 146.25
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 40,
+        "UnitPrice": 53.0,
+        "Total": 2120.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 4,
+        "UnitPrice": 24.0,
+        "Total": 96.0
+      }
+    ],
+    "TotalPrice": 2362.25
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OrderID": "11014",
+  "OrderDate": "2018-04-10",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 28,
+      "UnitPrice": 9.65
+    }
+  ]
+}

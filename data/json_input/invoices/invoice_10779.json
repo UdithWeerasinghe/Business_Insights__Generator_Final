@@ -1,0 +1,28 @@
+{
+  "OrderID": "10779",
+  "OrderDate": "2017-12-16",
+  "CustomerID": "MORGK",
+  "CustomerDetails": {
+    "ContactName": "Alexander Feuer",
+    "Address": "Heerstr. 22",
+    "City": "Leipzig",
+    "PostalCode": "04179",
+    "Country": "Germany",
+    "Phone": "0342-023176",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 20,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    }
+  ]
+}

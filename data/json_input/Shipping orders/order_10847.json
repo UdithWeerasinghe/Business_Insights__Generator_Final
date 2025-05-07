@@ -1,0 +1,65 @@
+{
+  "OrderID": "10847",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-22",
+    "ShippedDate": "2018-02-10",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 80,
+        "UnitPrice": 18.0,
+        "Total": 1440.0
+      },
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 12,
+        "UnitPrice": 9.2,
+        "Total": 110.39999999999999
+      },
+      {
+        "Product": "Gravad lax",
+        "Quantity": 60,
+        "UnitPrice": 26.0,
+        "Total": 1560.0
+      },
+      {
+        "Product": "Rogede sild",
+        "Quantity": 36,
+        "UnitPrice": 9.5,
+        "Total": 342.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 45,
+        "UnitPrice": 34.0,
+        "Total": 1530.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 55,
+        "UnitPrice": 21.5,
+        "Total": 1182.5
+      }
+    ],
+    "TotalPrice": 6164.9
+  }
+}

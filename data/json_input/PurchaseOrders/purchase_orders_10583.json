@@ -1,0 +1,25 @@
+{
+  "OrderID": "10583",
+  "OrderDate": "2017-06-30",
+  "CustomerName": "Pirkko Koskitalo",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 24,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 10,
+      "UnitPrice": 36.0
+    }
+  ]
+}

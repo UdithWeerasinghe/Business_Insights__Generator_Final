@@ -1,0 +1,59 @@
+{
+  "OrderID": "10612",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-28",
+    "ShippedDate": "2017-08-01",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 70,
+        "UnitPrice": 31.0,
+        "Total": 2170.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 55,
+        "UnitPrice": 19.0,
+        "Total": 1045.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 18,
+        "UnitPrice": 20.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 40,
+        "UnitPrice": 34.0,
+        "Total": 1360.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 80,
+        "UnitPrice": 18.0,
+        "Total": 1440.0
+      }
+    ],
+    "TotalPrice": 6375.0
+  }
+}

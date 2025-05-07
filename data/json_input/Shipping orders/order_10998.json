@@ -1,0 +1,53 @@
+{
+  "OrderID": "10998",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-03",
+    "ShippedDate": "2018-04-17",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 12,
+        "UnitPrice": 4.5,
+        "Total": 54.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 7,
+        "UnitPrice": 28.5,
+        "Total": 199.5
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 30,
+        "UnitPrice": 7.75,
+        "Total": 232.5
+      }
+    ],
+    "TotalPrice": 686.0
+  }
+}

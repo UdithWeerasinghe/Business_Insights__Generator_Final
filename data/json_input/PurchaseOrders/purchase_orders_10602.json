@@ -1,0 +1,13 @@
+{
+  "OrderID": "10602",
+  "OrderDate": "2017-07-17",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 5,
+      "UnitPrice": 13.0
+    }
+  ]
+}

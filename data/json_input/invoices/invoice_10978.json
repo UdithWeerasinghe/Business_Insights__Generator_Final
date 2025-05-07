@@ -1,0 +1,32 @@
+{
+  "OrderID": "10978",
+  "OrderDate": "2018-03-26",
+  "CustomerID": "MAISD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 20,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "44",
+      "ProductName": "Gula Malacca",
+      "Quantity": 6,
+      "UnitPrice": 19.45
+    }
+  ]
+}

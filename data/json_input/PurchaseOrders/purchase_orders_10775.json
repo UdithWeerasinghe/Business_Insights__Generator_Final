@@ -1,0 +1,19 @@
+{
+  "OrderID": "10775",
+  "OrderDate": "2017-12-12",
+  "CustomerName": "Liu Wong",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 6,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 3,
+      "UnitPrice": 14.0
+    }
+  ]
+}

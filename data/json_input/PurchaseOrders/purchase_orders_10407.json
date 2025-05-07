@@ -1,0 +1,25 @@
+{
+  "OrderID": "10407",
+  "OrderDate": "2017-01-07",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 30,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 15,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 17.2
+    }
+  ]
+}

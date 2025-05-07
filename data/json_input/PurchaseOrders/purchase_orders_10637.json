@@ -1,0 +1,25 @@
+{
+  "OrderID": "10637",
+  "OrderDate": "2017-08-19",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 25,
+      "UnitPrice": 16.25
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 60,
+      "UnitPrice": 38.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10825",
+  "ShippingDetails": {
+    "ShipName": "Drachenblut Delikatessen",
+    "ShipAddress": "Walserweg 21",
+    "ShipCity": "Aachen",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "52066",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DRACD",
+    "CustomerName": "Drachenblut Delikatessen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-09",
+    "ShippedDate": "2018-01-14",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 12,
+        "UnitPrice": 31.23,
+        "Total": 374.76
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 20,
+        "UnitPrice": 32.8,
+        "Total": 656.0
+      }
+    ],
+    "TotalPrice": 1030.76
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10742",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-14",
+    "ShippedDate": "2017-11-18",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 50,
+        "UnitPrice": 34.0,
+        "Total": 1700.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 35,
+        "UnitPrice": 34.8,
+        "Total": 1218.0
+      }
+    ],
+    "TotalPrice": 3118.0
+  }
+}

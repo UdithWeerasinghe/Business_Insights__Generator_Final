@@ -1,0 +1,47 @@
+{
+  "OrderID": "10725",
+  "ShippingDetails": {
+    "ShipName": "Familia Arquibaldo",
+    "ShipAddress": "Rua Orós, 92",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05442-030",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FAMIA",
+    "CustomerName": "Familia Arquibaldo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-31",
+    "ShippedDate": "2017-11-05",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 9.65,
+        "Total": 115.80000000000001
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 4,
+        "UnitPrice": 7.0,
+        "Total": 28.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 6,
+        "UnitPrice": 24.0,
+        "Total": 144.0
+      }
+    ],
+    "TotalPrice": 287.8
+  }
+}

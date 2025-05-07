@@ -1,0 +1,47 @@
+{
+  "OrderID": "10984",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-30",
+    "ShippedDate": "2018-04-03",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 55,
+        "UnitPrice": 17.45,
+        "Total": 959.75
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 20,
+        "UnitPrice": 4.5,
+        "Total": 90.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 40,
+        "UnitPrice": 19.0,
+        "Total": 760.0
+      }
+    ],
+    "TotalPrice": 1809.75
+  }
+}

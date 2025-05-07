@@ -1,0 +1,34 @@
+{
+  "OrderID": "10580",
+  "OrderDate": "2017-06-26",
+  "CustomerID": "OTTIK",
+  "CustomerDetails": {
+    "ContactName": "Henriette Pfalzheim",
+    "Address": "Mehrheimerstr. 369",
+    "City": "Köln",
+    "PostalCode": "50739",
+    "Country": "Germany",
+    "Phone": "0221-0644327",
+    "Fax": "0221-0765721"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 15,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 9,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 30,
+      "UnitPrice": 21.05
+    }
+  ]
+}

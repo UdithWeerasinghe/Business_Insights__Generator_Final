@@ -1,0 +1,25 @@
+{
+  "OrderID": "11066",
+  "OrderDate": "2018-05-01",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 3,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 42,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 35,
+      "UnitPrice": 14.0
+    }
+  ]
+}

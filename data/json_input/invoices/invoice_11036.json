@@ -1,0 +1,28 @@
+{
+  "OrderID": "11036",
+  "OrderDate": "2018-04-20",
+  "CustomerID": "DRACD",
+  "CustomerDetails": {
+    "ContactName": "Sven Ottlieb",
+    "Address": "Walserweg 21",
+    "City": "Aachen",
+    "PostalCode": "52066",
+    "Country": "Germany",
+    "Phone": "0241-039123",
+    "Fax": "0241-059428"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 7,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 55.0
+    }
+  ]
+}

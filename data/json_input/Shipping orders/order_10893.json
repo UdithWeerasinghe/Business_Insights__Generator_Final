@@ -1,0 +1,59 @@
+{
+  "OrderID": "10893",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-18",
+    "ShippedDate": "2018-02-20",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 30,
+        "UnitPrice": 40.0,
+        "Total": 1200.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 10,
+        "UnitPrice": 4.5,
+        "Total": 45.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 24,
+        "UnitPrice": 123.79,
+        "Total": 2970.96
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 35,
+        "UnitPrice": 25.89,
+        "Total": 906.15
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      }
+    ],
+    "TotalPrice": 5502.11
+  }
+}

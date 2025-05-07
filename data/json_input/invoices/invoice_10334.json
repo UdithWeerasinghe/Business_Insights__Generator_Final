@@ -1,0 +1,28 @@
+{
+  "OrderID": "10334",
+  "OrderDate": "2016-10-21",
+  "CustomerID": "VICTE",
+  "CustomerDetails": {
+    "ContactName": "Mary Saveley",
+    "Address": "2, rue du Commerce",
+    "City": "Lyon",
+    "PostalCode": "69004",
+    "Country": "France",
+    "Phone": "78.32.54.86",
+    "Fax": "78.32.54.87"
+  },
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 8,
+      "UnitPrice": 5.6
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 10,
+      "UnitPrice": 10.0
+    }
+  ]
+}

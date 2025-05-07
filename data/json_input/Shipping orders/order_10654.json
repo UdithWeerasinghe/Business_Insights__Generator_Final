@@ -1,0 +1,47 @@
+{
+  "OrderID": "10654",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-02",
+    "ShippedDate": "2017-09-11",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 12,
+        "UnitPrice": 22.0,
+        "Total": 264.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 6,
+        "UnitPrice": 7.45,
+        "Total": 44.7
+      }
+    ],
+    "TotalPrice": 668.7
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10953",
+  "OrderDate": "2018-03-16",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 50,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 50,
+      "UnitPrice": 12.5
+    }
+  ]
+}

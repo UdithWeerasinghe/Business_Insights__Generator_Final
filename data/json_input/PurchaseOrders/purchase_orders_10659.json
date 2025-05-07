@@ -1,0 +1,25 @@
+{
+  "OrderID": "10659",
+  "OrderDate": "2017-09-05",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 24,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 40,
+      "UnitPrice": 15.0
+    }
+  ]
+}

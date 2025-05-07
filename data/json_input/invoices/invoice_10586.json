@@ -1,0 +1,22 @@
+{
+  "OrderID": "10586",
+  "OrderDate": "2017-07-02",
+  "CustomerID": "REGGC",
+  "CustomerDetails": {
+    "ContactName": "Maurizio Moroni",
+    "Address": "Strada Provinciale 124",
+    "City": "Reggio Emilia",
+    "PostalCode": "42100",
+    "Country": "Italy",
+    "Phone": "0522-556721",
+    "Fax": "0522-556722"
+  },
+  "Products": [
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 4,
+      "UnitPrice": 7.0
+    }
+  ]
+}

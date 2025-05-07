@@ -1,0 +1,32 @@
+{
+  "OrderID": "10523",
+  "OrderDate": "2017-05-01",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 25,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "20",
+      "ProductName": "Sir Rodney's Marmalade",
+      "Quantity": 15,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "37",
+      "ProductName": "Gravad lax",
+      "Quantity": 18,
+      "UnitPrice": 26.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 6,
+      "UnitPrice": 9.65
+    }
+  ]
+}

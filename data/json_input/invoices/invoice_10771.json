@@ -1,0 +1,22 @@
+{
+  "OrderID": "10771",
+  "OrderDate": "2017-12-10",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 16,
+      "UnitPrice": 21.5
+    }
+  ]
+}

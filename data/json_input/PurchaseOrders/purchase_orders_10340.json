@@ -1,0 +1,25 @@
+{
+  "OrderID": "10340",
+  "OrderDate": "2016-10-29",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 20,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 40,
+      "UnitPrice": 36.8
+    }
+  ]
+}

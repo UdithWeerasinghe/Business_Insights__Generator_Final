@@ -1,0 +1,20 @@
+{
+  "OrderID": "10481",
+  "OrderDate": "2017-03-20",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 24,
+      "UnitPrice": 16.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 40,
+      "UnitPrice": 27.2
+    }
+  ]
+}

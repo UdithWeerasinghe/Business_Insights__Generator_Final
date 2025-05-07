@@ -1,0 +1,31 @@
+{
+  "OrderID": "10572",
+  "OrderDate": "2017-06-18",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 12,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 10,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 50,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 15,
+      "UnitPrice": 7.75
+    }
+  ]
+}

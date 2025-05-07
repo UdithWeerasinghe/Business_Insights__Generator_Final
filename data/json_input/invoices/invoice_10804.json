@@ -1,0 +1,26 @@
+{
+  "OrderID": "10804",
+  "OrderDate": "2017-12-30",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 36,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 24,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 4,
+      "UnitPrice": 20.0
+    }
+  ]
+}

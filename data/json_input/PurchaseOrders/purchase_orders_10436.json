@@ -1,0 +1,31 @@
+{
+  "OrderID": "10436",
+  "OrderDate": "2017-02-05",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 5,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 40,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 26.6
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 24,
+      "UnitPrice": 6.2
+    }
+  ]
+}

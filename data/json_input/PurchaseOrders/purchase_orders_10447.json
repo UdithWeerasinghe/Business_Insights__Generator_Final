@@ -1,0 +1,25 @@
+{
+  "OrderID": "10447",
+  "OrderDate": "2017-02-14",
+  "CustomerName": "Janete Limeira",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 40,
+      "UnitPrice": 7.3
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 35,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 2,
+      "UnitPrice": 17.2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10642",
+  "OrderDate": "2017-08-22",
+  "CustomerName": "Jytte Petersen",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    }
+  ]
+}

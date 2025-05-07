@@ -1,0 +1,35 @@
+{
+  "OrderID": "10412",
+  "ShippingDetails": {
+    "ShipName": "Wartian Herkku",
+    "ShipAddress": "Torikatu 38",
+    "ShipCity": "Oulu",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "90110",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WARTH",
+    "CustomerName": "Wartian Herkku"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-13",
+    "ShippedDate": "2017-01-15",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 20,
+        "UnitPrice": 18.6,
+        "Total": 372.0
+      }
+    ],
+    "TotalPrice": 372.0
+  }
+}

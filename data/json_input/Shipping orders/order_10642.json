@@ -1,0 +1,41 @@
+{
+  "OrderID": "10642",
+  "ShippingDetails": {
+    "ShipName": "Simons bistro",
+    "ShipAddress": "Vinbæltet 34",
+    "ShipCity": "Kobenhavn",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "1734",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SIMOB",
+    "CustomerName": "Simons bistro"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-22",
+    "ShippedDate": "2017-09-05",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 30,
+        "UnitPrice": 10.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 20,
+        "UnitPrice": 28.5,
+        "Total": 570.0
+      }
+    ],
+    "TotalPrice": 870.0
+  }
+}

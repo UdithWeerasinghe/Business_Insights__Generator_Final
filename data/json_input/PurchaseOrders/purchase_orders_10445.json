@@ -1,0 +1,19 @@
+{
+  "OrderID": "10445",
+  "OrderDate": "2017-02-13",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 6,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 15,
+      "UnitPrice": 5.9
+    }
+  ]
+}

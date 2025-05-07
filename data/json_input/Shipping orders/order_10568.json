@@ -1,0 +1,35 @@
+{
+  "OrderID": "10568",
+  "ShippingDetails": {
+    "ShipName": "Galería del gastronómo",
+    "ShipAddress": "Rambla de Cataluña, 23",
+    "ShipCity": "Barcelona",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "8022",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GALED",
+    "CustomerName": "Galería del gastrónomo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-13",
+    "ShippedDate": "2017-07-09",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 5,
+        "UnitPrice": 31.0,
+        "Total": 155.0
+      }
+    ],
+    "TotalPrice": 155.0
+  }
+}

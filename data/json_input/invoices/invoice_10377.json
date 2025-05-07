@@ -1,0 +1,20 @@
+{
+  "OrderID": "10377",
+  "OrderDate": "2016-12-09",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

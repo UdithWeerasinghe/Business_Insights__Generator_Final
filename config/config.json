@@ -1,0 +1,16 @@
+
+  
+  
+  {
+    "input_folder":       "data/input",
+    "input_other_folder":  "data/input_other",
+    "intermediate_folder":"data/intermediate",
+    "output_folder":      "data/output",
+    "other_text_folder":  "data/other_text",
+    "insights_folder":     "data/insights",
+    "graphs_folder":      "data/graphs",
+    "other_results_folder":"data/other_results",
+    "model_name":         "llama3.2:3b",
+    "device":             "cuda"
+  }
+  

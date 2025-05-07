@@ -1,0 +1,31 @@
+{
+  "OrderID": "10658",
+  "OrderDate": "2017-09-05",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 70,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 55,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 70,
+      "UnitPrice": 13.0
+    }
+  ]
+}

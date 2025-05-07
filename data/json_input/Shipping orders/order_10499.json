@@ -1,0 +1,41 @@
+{
+  "OrderID": "10499",
+  "ShippingDetails": {
+    "ShipName": "LILA-Supermercado",
+    "ShipAddress": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "ShipCity": "Barquisimeto",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "3508",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LILAS",
+    "CustomerName": "LILA-Supermercado"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-08",
+    "ShippedDate": "2017-04-16",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 20,
+        "UnitPrice": 45.6,
+        "Total": 912.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 25,
+        "UnitPrice": 20.0,
+        "Total": 500.0
+      }
+    ],
+    "TotalPrice": 1412.0
+  }
+}

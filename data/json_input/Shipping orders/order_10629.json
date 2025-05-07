@@ -1,0 +1,41 @@
+{
+  "OrderID": "10629",
+  "ShippingDetails": {
+    "ShipName": "Godos Cocina Típica",
+    "ShipAddress": "C/ Romero, 33",
+    "ShipCity": "Sevilla",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "41101",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GODOS",
+    "CustomerName": "Godos Cocina Típica"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-12",
+    "ShippedDate": "2017-08-20",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 20,
+        "UnitPrice": 123.79,
+        "Total": 2475.8
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 9,
+        "UnitPrice": 33.25,
+        "Total": 299.25
+      }
+    ],
+    "TotalPrice": 2775.05
+  }
+}

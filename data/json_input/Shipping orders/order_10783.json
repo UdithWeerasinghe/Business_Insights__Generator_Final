@@ -1,0 +1,41 @@
+{
+  "OrderID": "10783",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-18",
+    "ShippedDate": "2017-12-19",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 10,
+        "UnitPrice": 12.5,
+        "Total": 125.0
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 5,
+        "UnitPrice": 263.5,
+        "Total": 1317.5
+      }
+    ],
+    "TotalPrice": 1442.5
+  }
+}

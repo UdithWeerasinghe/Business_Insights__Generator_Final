@@ -1,0 +1,19 @@
+{
+  "OrderID": "10931",
+  "OrderDate": "2018-03-06",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 42,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 30,
+      "UnitPrice": 19.5
+    }
+  ]
+}

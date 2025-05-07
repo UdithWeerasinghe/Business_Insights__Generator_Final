@@ -1,0 +1,13 @@
+{
+  "OrderID": "10496",
+  "OrderDate": "2017-04-04",
+  "CustomerName": "Anabela Domingues",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    }
+  ]
+}

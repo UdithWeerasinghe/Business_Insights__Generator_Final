@@ -1,0 +1,355 @@
+{
+  "ReportDate": "2017-03",
+  "Items": [
+    {
+      "Category": "Beverages",
+      "Product": "Chai",
+      "UnitsSold": 15,
+      "UnitsInStock": 39,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Chang",
+      "UnitsSold": 60,
+      "UnitsInStock": 17,
+      "UnitPrice": 19.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Chartreuse verte",
+      "UnitsSold": 20,
+      "UnitsInStock": 69,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Côte de Blaye",
+      "UnitsSold": 30,
+      "UnitsInStock": 17,
+      "UnitPrice": 263.5
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Guaraná Fantástica",
+      "UnitsSold": 133,
+      "UnitsInStock": 20,
+      "UnitPrice": 4.5
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Ipoh Coffee",
+      "UnitsSold": 18,
+      "UnitsInStock": 17,
+      "UnitPrice": 46.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Lakkalikööri",
+      "UnitsSold": 42,
+      "UnitsInStock": 57,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Outback Lager",
+      "UnitsSold": 72,
+      "UnitsInStock": 15,
+      "UnitPrice": 15.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Rhönbräu Klosterbier",
+      "UnitsSold": 46,
+      "UnitsInStock": 125,
+      "UnitPrice": 7.75
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Sasquatch Ale",
+      "UnitsSold": 35,
+      "UnitsInStock": 111,
+      "UnitPrice": 14.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Aniseed Syrup",
+      "UnitsSold": 20,
+      "UnitsInStock": 13,
+      "UnitPrice": 10.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Chef Anton's Cajun..",
+      "UnitsSold": 16,
+      "UnitsInStock": 53,
+      "UnitPrice": 22.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Gula Malacca",
+      "UnitsSold": 17,
+      "UnitsInStock": 27,
+      "UnitPrice": 19.45
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Louisiana Hot Spiced..",
+      "UnitsSold": 60,
+      "UnitsInStock": 4,
+      "UnitPrice": 17.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Original Frankfurter..",
+      "UnitsSold": 37,
+      "UnitsInStock": 32,
+      "UnitPrice": 13.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Gumbär Gummibärchen",
+      "UnitsSold": 30,
+      "UnitsInStock": 15,
+      "UnitPrice": 31.23
+    },
+    {
+      "Category": "Confections",
+      "Product": "Maxilaku",
+      "UnitsSold": 24,
+      "UnitsInStock": 10,
+      "UnitPrice": 20.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Pavlova",
+      "UnitsSold": 53,
+      "UnitsInStock": 29,
+      "UnitPrice": 17.45
+    },
+    {
+      "Category": "Confections",
+      "Product": "Scottish Longbreads",
+      "UnitsSold": 30,
+      "UnitsInStock": 6,
+      "UnitPrice": 12.5
+    },
+    {
+      "Category": "Confections",
+      "Product": "Sir Rodney's Scones",
+      "UnitsSold": 35,
+      "UnitsInStock": 3,
+      "UnitPrice": 10.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Teatime Chocolate..",
+      "UnitsSold": 26,
+      "UnitsInStock": 25,
+      "UnitPrice": 9.2
+    },
+    {
+      "Category": "Confections",
+      "Product": "Valkoinen suklaa",
+      "UnitsSold": 25,
+      "UnitsInStock": 65,
+      "UnitPrice": 16.25
+    },
+    {
+      "Category": "Confections",
+      "Product": "Zaanse koeken",
+      "UnitsSold": 30,
+      "UnitsInStock": 36,
+      "UnitPrice": 9.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Camembert Pierrot",
+      "UnitsSold": 60,
+      "UnitsInStock": 19,
+      "UnitPrice": 34.0
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Flotemysost",
+      "UnitsSold": 12,
+      "UnitsInStock": 26,
+      "UnitPrice": 21.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Geitost",
+      "UnitsSold": 12,
+      "UnitsInStock": 112,
+      "UnitPrice": 2.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Gorgonzola Telino",
+      "UnitsSold": 35,
+      "UnitsInStock": 0,
+      "UnitPrice": 12.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Queso Cabrales",
+      "UnitsSold": 30,
+      "UnitsInStock": 22,
+      "UnitPrice": 21.0
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Raclette Courdavault",
+      "UnitsSold": 162,
+      "UnitsInStock": 79,
+      "UnitPrice": 55.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Gnocchi di nonna Alice",
+      "UnitsSold": 50,
+      "UnitsInStock": 21,
+      "UnitPrice": 38.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Singaporean Hokkien..",
+      "UnitsSold": 50,
+      "UnitsInStock": 26,
+      "UnitPrice": 14.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Tunnbröd",
+      "UnitsSold": 36,
+      "UnitsInStock": 61,
+      "UnitPrice": 9.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Wimmers gute..",
+      "UnitsSold": 38,
+      "UnitsInStock": 22,
+      "UnitPrice": 33.25
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Perth Pasties",
+      "UnitsSold": 28,
+      "UnitsInStock": 0,
+      "UnitPrice": 32.8
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Pâté chinois",
+      "UnitsSold": 32,
+      "UnitsInStock": 115,
+      "UnitPrice": 24.0
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Thüringer Rostbratwurst",
+      "UnitsSold": 18,
+      "UnitsInStock": 0,
+      "UnitPrice": 123.79
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Tourtière",
+      "UnitsSold": 24,
+      "UnitsInStock": 21,
+      "UnitPrice": 7.45
+    },
+    {
+      "Category": "Produce",
+      "Product": "Longlife Tofu",
+      "UnitsSold": 16,
+      "UnitsInStock": 4,
+      "UnitPrice": 10.0
+    },
+    {
+      "Category": "Produce",
+      "Product": "Manjimup Dried Apples",
+      "UnitsSold": 46,
+      "UnitsInStock": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "Category": "Produce",
+      "Product": "Rössle Sauerkraut",
+      "UnitsSold": 18,
+      "UnitsInStock": 26,
+      "UnitPrice": 45.6
+    },
+    {
+      "Category": "Produce",
+      "Product": "Tofu",
+      "UnitsSold": 12,
+      "UnitsInStock": 35,
+      "UnitPrice": 23.25
+    },
+    {
+      "Category": "Produce",
+      "Product": "Uncle Bob's Organic..",
+      "UnitsSold": 30,
+      "UnitsInStock": 15,
+      "UnitPrice": 30.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Boston Crab Meat",
+      "UnitsSold": 61,
+      "UnitsInStock": 123,
+      "UnitPrice": 18.4
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Carnarvon Tigers",
+      "UnitsSold": 30,
+      "UnitsInStock": 42,
+      "UnitPrice": 62.5
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Ikura",
+      "UnitsSold": 20,
+      "UnitsInStock": 31,
+      "UnitPrice": 31.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Konbu",
+      "UnitsSold": 1,
+      "UnitsInStock": 24,
+      "UnitPrice": 6.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Nord-Ost Matjeshering",
+      "UnitsSold": 8,
+      "UnitsInStock": 10,
+      "UnitPrice": 25.89
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Rogede sild",
+      "UnitsSold": 30,
+      "UnitsInStock": 5,
+      "UnitPrice": 9.5
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Röd Kaviar",
+      "UnitsSold": 20,
+      "UnitsInStock": 101,
+      "UnitPrice": 15.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Spegesild",
+      "UnitsSold": 5,
+      "UnitsInStock": 95,
+      "UnitPrice": 12.0
+    }
+  ]
+}

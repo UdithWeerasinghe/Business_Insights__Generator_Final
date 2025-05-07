@@ -1,0 +1,34 @@
+{
+  "OrderID": "10526",
+  "OrderDate": "2017-05-05",
+  "CustomerID": "WARTH",
+  "CustomerDetails": {
+    "ContactName": "Pirkko Koskitalo",
+    "Address": "Torikatu 38",
+    "City": "Oulu",
+    "PostalCode": "90110",
+    "Country": "Finland",
+    "Phone": "981-443655",
+    "Fax": "981-443655"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 8,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    }
+  ]
+}

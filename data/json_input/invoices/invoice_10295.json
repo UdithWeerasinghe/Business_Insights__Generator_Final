@@ -1,0 +1,22 @@
+{
+  "OrderID": "10295",
+  "OrderDate": "2016-09-02",
+  "CustomerID": "VINET",
+  "CustomerDetails": {
+    "ContactName": "Paul Henriot",
+    "Address": "59 rue de l'Abbaye",
+    "City": "Reims",
+    "PostalCode": "51100",
+    "Country": "France",
+    "Phone": "26.47.15.10",
+    "Fax": "26.47.15.11"
+  },
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 4,
+      "UnitPrice": 30.4
+    }
+  ]
+}

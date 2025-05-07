@@ -1,0 +1,41 @@
+{
+  "OrderID": "10603",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-18",
+    "ShippedDate": "2017-08-08",
+    "Products": [
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 48,
+        "UnitPrice": 21.0,
+        "Total": 1008.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 25,
+        "UnitPrice": 20.0,
+        "Total": 500.0
+      }
+    ],
+    "TotalPrice": 1508.0
+  }
+}

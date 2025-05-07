@@ -1,0 +1,35 @@
+{
+  "OrderID": "10615",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-30",
+    "ShippedDate": "2017-08-06",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 5,
+        "UnitPrice": 24.0,
+        "Total": 120.0
+      }
+    ],
+    "TotalPrice": 120.0
+  }
+}

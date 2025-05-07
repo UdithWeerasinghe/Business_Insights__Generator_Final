@@ -1,0 +1,32 @@
+{
+  "OrderID": "10290",
+  "OrderDate": "2016-08-27",
+  "CustomerID": "COMMI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 20,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 15,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 15,
+      "UnitPrice": 16.0
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 10.4
+    }
+  ]
+}

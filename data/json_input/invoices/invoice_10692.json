@@ -1,0 +1,22 @@
+{
+  "OrderID": "10692",
+  "OrderDate": "2017-10-03",
+  "CustomerID": "ALFKI",
+  "CustomerDetails": {
+    "ContactName": "Maria Anders",
+    "Address": "Obere Str. 57",
+    "City": "Berlin",
+    "PostalCode": "12209",
+    "Country": "Germany",
+    "Phone": "030-0074321",
+    "Fax": "030-0076545"
+  },
+  "Products": [
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 20,
+      "UnitPrice": 43.9
+    }
+  ]
+}

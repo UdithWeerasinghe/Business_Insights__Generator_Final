@@ -1,0 +1,46 @@
+{
+  "OrderID": "10515",
+  "OrderDate": "2017-04-23",
+  "CustomerID": "QUICK",
+  "CustomerDetails": {
+    "ContactName": "Horst Kloss",
+    "Address": "Taucherstraße 10",
+    "City": "Cunewalde",
+    "PostalCode": "01307",
+    "Country": "Germany",
+    "Phone": "0372-035188",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "9",
+      "ProductName": "Mishi Kobe Niku",
+      "Quantity": 16,
+      "UnitPrice": 97.0
+    },
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 50,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "27",
+      "ProductName": "Schoggi Schokolade",
+      "Quantity": 120,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 16,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 84,
+      "UnitPrice": 34.0
+    }
+  ]
+}

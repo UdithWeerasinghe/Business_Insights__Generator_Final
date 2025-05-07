@@ -1,0 +1,46 @@
+{
+  "OrderID": "10465",
+  "OrderDate": "2017-03-05",
+  "CustomerID": "VAFFE",
+  "CustomerDetails": {
+    "ContactName": "Palle Ibsen",
+    "Address": "Smagsloget 45",
+    "City": "Århus",
+    "PostalCode": "8200",
+    "Country": "Denmark",
+    "Phone": "86 21 32 43",
+    "Fax": "86 22 33 44"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 25,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 18,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 20,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 30,
+      "UnitPrice": 7.6
+    },
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 25,
+      "UnitPrice": 13.0
+    }
+  ]
+}

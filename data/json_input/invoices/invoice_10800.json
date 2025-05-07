@@ -1,0 +1,26 @@
+{
+  "OrderID": "10800",
+  "OrderDate": "2017-12-26",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 50,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 10,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 7,
+      "UnitPrice": 7.45
+    }
+  ]
+}

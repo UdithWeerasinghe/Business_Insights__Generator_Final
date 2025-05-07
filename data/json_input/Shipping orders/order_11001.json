@@ -1,0 +1,53 @@
+{
+  "OrderID": "11001",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-06",
+    "ShippedDate": "2018-04-14",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 60,
+        "UnitPrice": 30.0,
+        "Total": 1800.0
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 25,
+        "UnitPrice": 21.0,
+        "Total": 525.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 25,
+        "UnitPrice": 12.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 6,
+        "UnitPrice": 24.0,
+        "Total": 144.0
+      }
+    ],
+    "TotalPrice": 2769.0
+  }
+}

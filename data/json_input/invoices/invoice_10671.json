@@ -1,0 +1,34 @@
+{
+  "OrderID": "10671",
+  "OrderDate": "2017-09-17",
+  "CustomerID": "FRANR",
+  "CustomerDetails": {
+    "ContactName": "Carine Schmitt",
+    "Address": "54, rue Royale",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.32.21.21",
+    "Fax": "40.32.21.20"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 10,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 12,
+      "UnitPrice": 21.05
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "ReportDate": "2016-11",
+  "Items": [
+    {
+      "Category": "Beverages",
+      "Product": "Chai",
+      "UnitsSold": 27,
+      "UnitsInStock": 39,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Chartreuse verte",
+      "UnitsSold": 104,
+      "UnitsInStock": 69,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Côte de Blaye",
+      "UnitsSold": 80,
+      "UnitsInStock": 17,
+      "UnitPrice": 263.5
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Guaraná Fantástica",
+      "UnitsSold": 45,
+      "UnitsInStock": 20,
+      "UnitPrice": 4.5
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Lakkalikööri",
+      "UnitsSold": 12,
+      "UnitsInStock": 57,
+      "UnitPrice": 18.0
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Rhönbräu Klosterbier",
+      "UnitsSold": 18,
+      "UnitsInStock": 125,
+      "UnitPrice": 7.75
+    },
+    {
+      "Category": "Beverages",
+      "Product": "Sasquatch Ale",
+      "UnitsSold": 46,
+      "UnitsInStock": 111,
+      "UnitPrice": 14.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Chef Anton's Cajun..",
+      "UnitsSold": 35,
+      "UnitsInStock": 53,
+      "UnitPrice": 22.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Gula Malacca",
+      "UnitsSold": 77,
+      "UnitsInStock": 27,
+      "UnitPrice": 19.45
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Louisiana Fiery Hot..",
+      "UnitsSold": 30,
+      "UnitsInStock": 76,
+      "UnitPrice": 21.05
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Northwoods Cranberry..",
+      "UnitsSold": 140,
+      "UnitsInStock": 6,
+      "UnitPrice": 40.0
+    },
+    {
+      "Category": "Condiments",
+      "Product": "Original Frankfurter..",
+      "UnitsSold": 12,
+      "UnitsInStock": 32,
+      "UnitPrice": 13.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Gumbär Gummibärchen",
+      "UnitsSold": 16,
+      "UnitsInStock": 15,
+      "UnitPrice": 31.23
+    },
+    {
+      "Category": "Confections",
+      "Product": "Maxilaku",
+      "UnitsSold": 35,
+      "UnitsInStock": 10,
+      "UnitPrice": 20.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Pavlova",
+      "UnitsSold": 56,
+      "UnitsInStock": 29,
+      "UnitPrice": 17.45
+    },
+    {
+      "Category": "Confections",
+      "Product": "Sir Rodney's Scones",
+      "UnitsSold": 5,
+      "UnitsInStock": 3,
+      "UnitPrice": 10.0
+    },
+    {
+      "Category": "Confections",
+      "Product": "Teatime Chocolate..",
+      "UnitsSold": 80,
+      "UnitsInStock": 25,
+      "UnitPrice": 9.2
+    },
+    {
+      "Category": "Confections",
+      "Product": "Valkoinen suklaa",
+      "UnitsSold": 15,
+      "UnitsInStock": 65,
+      "UnitPrice": 16.25
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Camembert Pierrot",
+      "UnitsSold": 143,
+      "UnitsInStock": 19,
+      "UnitPrice": 34.0
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Flotemysost",
+      "UnitsSold": 5,
+      "UnitsInStock": 26,
+      "UnitPrice": 21.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Gorgonzola Telino",
+      "UnitsSold": 120,
+      "UnitsInStock": 0,
+      "UnitPrice": 12.5
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Gudbrandsdalsost",
+      "UnitsSold": 68,
+      "UnitsInStock": 26,
+      "UnitPrice": 36.0
+    },
+    {
+      "Category": "Dairy",
+      "Product": "Products Queso Cabrales",
+      "UnitsSold": 36,
+      "UnitsInStock": 22,
+      "UnitPrice": 21.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Gnocchi di nonna Alice",
+      "UnitsSold": 20,
+      "UnitsInStock": 21,
+      "UnitPrice": 38.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Ravioli Angelo",
+      "UnitsSold": 50,
+      "UnitsInStock": 36,
+      "UnitPrice": 19.5
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Singaporean Hokkien..",
+      "UnitsSold": 9,
+      "UnitsInStock": 26,
+      "UnitPrice": 14.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Tunnbröd",
+      "UnitsSold": 25,
+      "UnitsInStock": 61,
+      "UnitPrice": 9.0
+    },
+    {
+      "Category": "Grains/Cereals",
+      "Product": "Wimmers gute..",
+      "UnitsSold": 35,
+      "UnitsInStock": 22,
+      "UnitPrice": 33.25
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Alice Mutton",
+      "UnitsSold": 36,
+      "UnitsInStock": 0,
+      "UnitPrice": 39.0
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Pâté chinois",
+      "UnitsSold": 12,
+      "UnitsInStock": 115,
+      "UnitPrice": 24.0
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Thüringer Rostbratwurst",
+      "UnitsSold": 39,
+      "UnitsInStock": 0,
+      "UnitPrice": 123.79
+    },
+    {
+      "Category": "Meat/Poultry",
+      "Product": "Tourtière",
+      "UnitsSold": 114,
+      "UnitsInStock": 21,
+      "UnitPrice": 7.45
+    },
+    {
+      "Category": "Produce",
+      "Product": "Manjimup Dried Apples",
+      "UnitsSold": 20,
+      "UnitsInStock": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "Category": "Produce",
+      "Product": "Rössle Sauerkraut",
+      "UnitsSold": 43,
+      "UnitsInStock": 26,
+      "UnitPrice": 45.6
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Boston Crab Meat",
+      "UnitsSold": 4,
+      "UnitsInStock": 123,
+      "UnitPrice": 18.4
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Ikura",
+      "UnitsSold": 30,
+      "UnitsInStock": 31,
+      "UnitPrice": 31.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Inlagd Sill",
+      "UnitsSold": 20,
+      "UnitsInStock": 112,
+      "UnitPrice": 19.0
+    },
+    {
+      "Category": "Seafood",
+      "Product": "Jack's New England..",
+      "UnitsSold": 13,
+      "UnitsInStock": 85,
+      "UnitPrice": 9.65
+    }
+  ]
+}

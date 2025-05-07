@@ -1,0 +1,47 @@
+{
+  "OrderID": "10370",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-03",
+    "ShippedDate": "2016-12-27",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 15,
+        "UnitPrice": 14.4,
+        "Total": 216.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 30,
+        "UnitPrice": 26.6,
+        "Total": 798.0
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 20,
+        "UnitPrice": 8.0,
+        "Total": 160.0
+      }
+    ],
+    "TotalPrice": 1174.0
+  }
+}

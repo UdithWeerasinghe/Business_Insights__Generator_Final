@@ -1,0 +1,19 @@
+{
+  "OrderID": "10268",
+  "OrderDate": "2016-07-30",
+  "CustomerName": "Manuel Pereira",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 4,
+      "UnitPrice": 27.8
+    }
+  ]
+}

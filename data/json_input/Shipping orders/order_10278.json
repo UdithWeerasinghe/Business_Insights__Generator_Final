@@ -1,0 +1,53 @@
+{
+  "OrderID": "10278",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-12",
+    "ShippedDate": "2016-08-16",
+    "Products": [
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 16,
+        "UnitPrice": 15.5,
+        "Total": 248.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 15,
+        "UnitPrice": 44.0,
+        "Total": 660.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 8,
+        "UnitPrice": 35.1,
+        "Total": 280.8
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 25,
+        "UnitPrice": 12.0,
+        "Total": 300.0
+      }
+    ],
+    "TotalPrice": 1488.8
+  }
+}

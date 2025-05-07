@@ -1,0 +1,41 @@
+{
+  "OrderID": "10983",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-27",
+    "ShippedDate": "2018-04-06",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 84,
+        "UnitPrice": 6.0,
+        "Total": 504.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 15,
+        "UnitPrice": 19.5,
+        "Total": 292.5
+      }
+    ],
+    "TotalPrice": 796.5
+  }
+}

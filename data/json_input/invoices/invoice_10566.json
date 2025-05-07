@@ -1,0 +1,34 @@
+{
+  "OrderID": "10566",
+  "OrderDate": "2017-06-12",
+  "CustomerID": "BLONP",
+  "CustomerDetails": {
+    "ContactName": "Frédérique Citeaux",
+    "Address": "24, place Kléber",
+    "City": "Strasbourg",
+    "PostalCode": "67000",
+    "Country": "France",
+    "Phone": "88.60.15.31",
+    "Fax": "88.60.15.32"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 35,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 18,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

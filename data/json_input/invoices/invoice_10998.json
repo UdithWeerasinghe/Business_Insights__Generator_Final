@@ -1,0 +1,32 @@
+{
+  "OrderID": "10998",
+  "OrderDate": "2018-04-03",
+  "CustomerID": "WOLZA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 7,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "74",
+      "ProductName": "Longlife Tofu",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 30,
+      "UnitPrice": 7.75
+    }
+  ]
+}

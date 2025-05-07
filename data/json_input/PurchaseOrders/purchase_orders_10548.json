@@ -1,0 +1,19 @@
+{
+  "OrderID": "10548",
+  "OrderDate": "2017-05-26",
+  "CustomerName": "Karin Josephs",
+  "Products": [
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 14,
+      "UnitPrice": 9.65
+    }
+  ]
+}

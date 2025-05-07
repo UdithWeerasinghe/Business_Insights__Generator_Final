@@ -1,0 +1,25 @@
+{
+  "OrderID": "10595",
+  "OrderDate": "2017-07-10",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 120,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 65,
+      "UnitPrice": 36.0
+    }
+  ]
+}

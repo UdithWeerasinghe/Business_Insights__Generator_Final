@@ -1,0 +1,25 @@
+{
+  "OrderID": "10576",
+  "OrderDate": "2017-06-23",
+  "CustomerName": "Miguel Angel Paolino",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 21,
+      "UnitPrice": 19.45
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10678",
+  "OrderDate": "2017-09-23",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 100,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 120,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 30,
+      "UnitPrice": 7.45
+    }
+  ]
+}

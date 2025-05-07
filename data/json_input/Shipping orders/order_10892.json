@@ -1,0 +1,35 @@
+{
+  "OrderID": "10892",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-17",
+    "ShippedDate": "2018-02-19",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 40,
+        "UnitPrice": 55.0,
+        "Total": 2200.0
+      }
+    ],
+    "TotalPrice": 2200.0
+  }
+}

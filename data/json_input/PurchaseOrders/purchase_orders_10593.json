@@ -1,0 +1,25 @@
+{
+  "OrderID": "10593",
+  "OrderDate": "2017-07-09",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 21,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 20,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 4,
+      "UnitPrice": 18.0
+    }
+  ]
+}

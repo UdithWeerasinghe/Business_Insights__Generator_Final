@@ -1,0 +1,41 @@
+{
+  "OrderID": "10462",
+  "ShippingDetails": {
+    "ShipName": "Consolidated Holdings",
+    "ShipAddress": "Berkeley Gardens 12 Brewery",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "WX1 6LT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CONSH",
+    "CustomerName": "Consolidated Holdings"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-03",
+    "ShippedDate": "2017-03-18",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 1,
+        "UnitPrice": 4.8,
+        "Total": 4.8
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 21,
+        "UnitPrice": 7.2,
+        "Total": 151.20000000000002
+      }
+    ],
+    "TotalPrice": 156.00000000000003
+  }
+}

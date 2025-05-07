@@ -1,0 +1,25 @@
+{
+  "OrderID": "10305",
+  "OrderDate": "2016-09-13",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 25,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 25,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 30,
+      "UnitPrice": 14.4
+    }
+  ]
+}

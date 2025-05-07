@@ -1,0 +1,14 @@
+{
+  "OrderID": "10767",
+  "OrderDate": "2017-12-05",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 2,
+      "UnitPrice": 14.0
+    }
+  ]
+}

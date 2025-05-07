@@ -1,0 +1,47 @@
+{
+  "OrderID": "10879",
+  "ShippingDetails": {
+    "ShipName": "Wilman Kala",
+    "ShipAddress": "Keskuskatu 45",
+    "ShipCity": "Helsinki",
+    "ShipRegion": "Scandinavia",
+    "ShipPostalCode": "21240",
+    "ShipCountry": "Finland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WILMK",
+    "CustomerName": "Wilman Kala"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-10",
+    "ShippedDate": "2018-02-12",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 12,
+        "UnitPrice": 18.4,
+        "Total": 220.79999999999998
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 10,
+        "UnitPrice": 21.05,
+        "Total": 210.5
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 611.3
+  }
+}

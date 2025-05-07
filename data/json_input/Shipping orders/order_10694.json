@@ -1,0 +1,47 @@
+{
+  "OrderID": "10694",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-06",
+    "ShippedDate": "2017-10-09",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 90,
+        "UnitPrice": 30.0,
+        "Total": 2700.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 25,
+        "UnitPrice": 55.0,
+        "Total": 1375.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 50,
+        "UnitPrice": 15.0,
+        "Total": 750.0
+      }
+    ],
+    "TotalPrice": 4825.0
+  }
+}

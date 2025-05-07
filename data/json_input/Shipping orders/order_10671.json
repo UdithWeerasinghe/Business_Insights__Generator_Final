@@ -1,0 +1,47 @@
+{
+  "OrderID": "10671",
+  "ShippingDetails": {
+    "ShipName": "France restauration",
+    "ShipAddress": "54, rue Royale",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANR",
+    "CustomerName": "France restauration"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-17",
+    "ShippedDate": "2017-09-24",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 10,
+        "UnitPrice": 17.45,
+        "Total": 174.5
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 10,
+        "UnitPrice": 49.3,
+        "Total": 493.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 12,
+        "UnitPrice": 21.05,
+        "Total": 252.60000000000002
+      }
+    ],
+    "TotalPrice": 920.1
+  }
+}

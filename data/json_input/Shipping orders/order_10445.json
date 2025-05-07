@@ -1,0 +1,41 @@
+{
+  "OrderID": "10445",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-13",
+    "ShippedDate": "2017-02-20",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 6,
+        "UnitPrice": 14.4,
+        "Total": 86.4
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 15,
+        "UnitPrice": 5.9,
+        "Total": 88.5
+      }
+    ],
+    "TotalPrice": 174.9
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10801",
+  "OrderDate": "2017-12-29",
+  "CustomerID": "BOLID",
+  "CustomerDetails": {
+    "ContactName": "Martín Sommer",
+    "Address": "C/ Araquil, 67",
+    "City": "Madrid",
+    "PostalCode": "28023",
+    "Country": "Spain",
+    "Phone": "(91) 555 22 82",
+    "Fax": "(91) 555 91 99"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 40,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 20,
+      "UnitPrice": 123.79
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "OrderID": "10512",
+  "OrderDate": "2017-04-21",
+  "CustomerID": "FAMIA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 9,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 6,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 12,
+      "UnitPrice": 34.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10545",
+  "ShippingDetails": {
+    "ShipName": "Lazy K Kountry Store",
+    "ShipAddress": "12 Orchestra Terrace",
+    "ShipCity": "Walla Walla",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "99362",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAZYK",
+    "CustomerName": "Lazy K Kountry Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-22",
+    "ShippedDate": "2017-06-26",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 10,
+        "UnitPrice": 21.0,
+        "Total": 210.0
+      }
+    ],
+    "TotalPrice": 210.0
+  }
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Business Insights Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <button id="toggle-theme" class="theme-toggle" title="Toggle dark/light mode">🌙</button>
+    <div class="container">
+        <h1>Business Insights Generator</h1>
+        <div id="mode-toggle-container">
+            <button id="mode-toggle" class="mode-toggle">Ask Mode</button>
+        </div>
+        <div id="result">
+            <div id="plot"></div>
+            <div id="insights-card">
+                <div id="insights"></div>
+            </div>
+        </div>
+    </div>
+    <form id="queryForm" class="input-area">
+        <input type="text" id="userQuery" placeholder="Type your question..." required>
+        <button type="submit">Send</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>

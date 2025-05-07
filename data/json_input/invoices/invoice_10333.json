@@ -1,0 +1,34 @@
+{
+  "OrderID": "10333",
+  "OrderDate": "2016-10-18",
+  "CustomerID": "WARTH",
+  "CustomerDetails": {
+    "ContactName": "Pirkko Koskitalo",
+    "Address": "Torikatu 38",
+    "City": "Oulu",
+    "PostalCode": "90110",
+    "Country": "Finland",
+    "Phone": "981-443655",
+    "Fax": "981-443655"
+  },
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 10,
+      "UnitPrice": 18.6
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 10,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 40,
+      "UnitPrice": 17.2
+    }
+  ]
+}

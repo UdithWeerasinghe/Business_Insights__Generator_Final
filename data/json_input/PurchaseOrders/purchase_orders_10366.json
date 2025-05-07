@@ -1,0 +1,19 @@
+{
+  "OrderID": "10366",
+  "OrderDate": "2016-11-28",
+  "CustomerName": "Eduardo Saavedra",
+  "Products": [
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 5,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 5,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10488",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-27",
+    "ShippedDate": "2017-04-02",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 30,
+        "UnitPrice": 44.0,
+        "Total": 1320.0
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 20,
+        "UnitPrice": 12.0,
+        "Total": 240.0
+      }
+    ],
+    "TotalPrice": 1560.0
+  }
+}

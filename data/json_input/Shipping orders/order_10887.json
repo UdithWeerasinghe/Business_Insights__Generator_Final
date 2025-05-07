@@ -1,0 +1,35 @@
+{
+  "OrderID": "10887",
+  "ShippingDetails": {
+    "ShipName": "Galería del gastronómo",
+    "ShipAddress": "Rambla de Cataluña, 23",
+    "ShipCity": "Barcelona",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "8022",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GALED",
+    "CustomerName": "Galería del gastrónomo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-13",
+    "ShippedDate": "2018-02-16",
+    "Products": [
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 5,
+        "UnitPrice": 14.0,
+        "Total": 70.0
+      }
+    ],
+    "TotalPrice": 70.0
+  }
+}

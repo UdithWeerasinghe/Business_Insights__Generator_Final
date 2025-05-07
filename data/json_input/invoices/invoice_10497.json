@@ -1,0 +1,34 @@
+{
+  "OrderID": "10497",
+  "OrderDate": "2017-04-04",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 14,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 25,
+      "UnitPrice": 27.8
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 25,
+      "UnitPrice": 10.4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10352",
+  "ShippingDetails": {
+    "ShipName": "Furia Bacalhau e Frutos do Mar",
+    "ShipAddress": "Jardim das rosas n. 32",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1675",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FURIB",
+    "CustomerName": "Furia Bacalhau e Frutos do Mar"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-12",
+    "ShippedDate": "2016-11-18",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 10,
+        "UnitPrice": 3.6,
+        "Total": 36.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 20,
+        "UnitPrice": 5.9,
+        "Total": 118.0
+      }
+    ],
+    "TotalPrice": 154.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10268",
+  "OrderDate": "2016-07-30",
+  "CustomerID": "GROSR",
+  "CustomerDetails": {
+    "ContactName": "Manuel Pereira",
+    "Address": "5ª Ave. Los Palos Grandes",
+    "City": "Caracas",
+    "PostalCode": "1081",
+    "Country": "Venezuela",
+    "Phone": "(2) 283-2951",
+    "Fax": "(2) 283-3397"
+  },
+  "Products": [
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 4,
+      "UnitPrice": 27.8
+    }
+  ]
+}

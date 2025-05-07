@@ -1,0 +1,19 @@
+{
+  "OrderID": "10590",
+  "OrderDate": "2017-07-07",
+  "CustomerName": "Jean Fresnière",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 60,
+      "UnitPrice": 13.0
+    }
+  ]
+}

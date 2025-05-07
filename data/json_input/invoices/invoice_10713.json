@@ -1,0 +1,40 @@
+{
+  "OrderID": "10713",
+  "OrderDate": "2017-10-22",
+  "CustomerID": "SAVEA",
+  "CustomerDetails": {
+    "ContactName": "Jose Pavarotti",
+    "Address": "187 Suffolk Ln.",
+    "City": "Boise",
+    "PostalCode": "83720",
+    "Country": "USA",
+    "Phone": "(208) 555-8097",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 18,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 110,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 24,
+      "UnitPrice": 12.0
+    }
+  ]
+}

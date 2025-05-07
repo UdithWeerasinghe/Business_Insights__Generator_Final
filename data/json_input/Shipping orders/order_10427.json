@@ -1,0 +1,35 @@
+{
+  "OrderID": "10427",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-27",
+    "ShippedDate": "2017-03-03",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 35,
+        "UnitPrice": 18.6,
+        "Total": 651.0
+      }
+    ],
+    "TotalPrice": 651.0
+  }
+}

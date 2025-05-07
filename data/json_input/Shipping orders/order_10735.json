@@ -1,0 +1,41 @@
+{
+  "OrderID": "10735",
+  "ShippingDetails": {
+    "ShipName": "Let-s Stop N Shop",
+    "ShipAddress": "87 Polk St. Suite 5",
+    "ShipCity": "San Francisco",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "94117",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LETSS",
+    "CustomerName": "Let's Stop N Shop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-10",
+    "ShippedDate": "2017-11-21",
+    "Products": [
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 20,
+        "UnitPrice": 28.5,
+        "Total": 570.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 2,
+        "UnitPrice": 13.0,
+        "Total": 26.0
+      }
+    ],
+    "TotalPrice": 596.0
+  }
+}

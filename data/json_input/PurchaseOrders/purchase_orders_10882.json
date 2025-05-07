@@ -1,0 +1,25 @@
+{
+  "OrderID": "10882",
+  "OrderDate": "2018-02-11",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 25,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 20,
+      "UnitPrice": 20.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 32,
+      "UnitPrice": 7.45
+    }
+  ]
+}

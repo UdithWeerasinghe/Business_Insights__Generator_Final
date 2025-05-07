@@ -1,0 +1,41 @@
+{
+  "OrderID": "10877",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-09",
+    "ShippedDate": "2018-02-19",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 30,
+        "UnitPrice": 17.45,
+        "Total": 523.5
+      },
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 25,
+        "UnitPrice": 62.5,
+        "Total": 1562.5
+      }
+    ],
+    "TotalPrice": 2086.0
+  }
+}

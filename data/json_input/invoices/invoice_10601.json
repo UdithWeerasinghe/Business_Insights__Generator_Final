@@ -1,0 +1,28 @@
+{
+  "OrderID": "10601",
+  "OrderDate": "2017-07-16",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 60,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 35,
+      "UnitPrice": 55.0
+    }
+  ]
+}

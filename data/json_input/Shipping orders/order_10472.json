@@ -1,0 +1,41 @@
+{
+  "OrderID": "10472",
+  "ShippingDetails": {
+    "ShipName": "Seven Seas Imports",
+    "ShipAddress": "90 Wadhurst Rd.",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "OX15 4NB",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SEVES",
+    "CustomerName": "Seven Seas Imports"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-12",
+    "ShippedDate": "2017-03-19",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 80,
+        "UnitPrice": 3.6,
+        "Total": 288.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 18,
+        "UnitPrice": 42.4,
+        "Total": 763.1999999999999
+      }
+    ],
+    "TotalPrice": 1051.1999999999998
+  }
+}

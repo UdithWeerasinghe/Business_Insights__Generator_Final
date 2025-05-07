@@ -1,0 +1,19 @@
+{
+  "OrderID": "10712",
+  "OrderDate": "2017-10-21",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 3,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    }
+  ]
+}

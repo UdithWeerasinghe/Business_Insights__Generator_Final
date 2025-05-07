@@ -1,0 +1,26 @@
+{
+  "OrderID": "10332",
+  "OrderDate": "2016-10-17",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 40,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 10,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 16,
+      "UnitPrice": 7.6
+    }
+  ]
+}

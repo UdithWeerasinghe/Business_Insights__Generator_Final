@@ -1,0 +1,41 @@
+{
+  "OrderID": "10922",
+  "ShippingDetails": {
+    "ShipName": "Hanari Carnes",
+    "ShipAddress": "Rua do Paço, 67",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05454-876",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HANAR",
+    "CustomerName": "Hanari Carnes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-03",
+    "ShippedDate": "2018-03-05",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 15,
+        "UnitPrice": 39.0,
+        "Total": 585.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 35,
+        "UnitPrice": 4.5,
+        "Total": 157.5
+      }
+    ],
+    "TotalPrice": 742.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10818",
+  "OrderDate": "2018-01-07",
+  "CustomerID": "MAGAA",
+  "CustomerDetails": {
+    "ContactName": "Giovanni Rovelli",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  "Products": [
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 20,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 9.65
+    }
+  ]
+}

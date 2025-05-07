@@ -1,0 +1,22 @@
+{
+  "OrderID": "10478",
+  "OrderDate": "2017-03-18",
+  "CustomerID": "VICTE",
+  "CustomerDetails": {
+    "ContactName": "Mary Saveley",
+    "Address": "2, rue du Commerce",
+    "City": "Lyon",
+    "PostalCode": "69004",
+    "Country": "France",
+    "Phone": "78.32.54.86",
+    "Fax": "78.32.54.87"
+  },
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 20,
+      "UnitPrice": 24.8
+    }
+  ]
+}

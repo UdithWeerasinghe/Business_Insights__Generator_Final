@@ -1,0 +1,13 @@
+{
+  "OrderID": "10639",
+  "OrderDate": "2017-08-20",
+  "CustomerName": "Jonas Bergulfsen",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 8,
+      "UnitPrice": 62.5
+    }
+  ]
+}

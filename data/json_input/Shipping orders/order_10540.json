@@ -1,0 +1,53 @@
+{
+  "OrderID": "10540",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-19",
+    "ShippedDate": "2017-06-13",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 60,
+        "UnitPrice": 10.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 40,
+        "UnitPrice": 31.23,
+        "Total": 1249.2
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 30,
+        "UnitPrice": 263.5,
+        "Total": 7905.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 35,
+        "UnitPrice": 12.5,
+        "Total": 437.5
+      }
+    ],
+    "TotalPrice": 10191.7
+  }
+}

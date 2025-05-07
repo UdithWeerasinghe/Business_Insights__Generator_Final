@@ -1,0 +1,47 @@
+{
+  "OrderID": "10332",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-17",
+    "ShippedDate": "2016-10-21",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 40,
+        "UnitPrice": 50.0,
+        "Total": 2000.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 10,
+        "UnitPrice": 11.2,
+        "Total": 112.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 16,
+        "UnitPrice": 7.6,
+        "Total": 121.6
+      }
+    ],
+    "TotalPrice": 2233.6
+  }
+}

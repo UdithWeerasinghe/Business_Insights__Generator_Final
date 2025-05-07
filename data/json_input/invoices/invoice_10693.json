@@ -1,0 +1,40 @@
+{
+  "OrderID": "10693",
+  "OrderDate": "2017-10-06",
+  "CustomerID": "WHITC",
+  "CustomerDetails": {
+    "ContactName": "Karl Jablonski",
+    "Address": "305 - 14th Ave. S. Suite 3B",
+    "City": "Seattle",
+    "PostalCode": "98128",
+    "Country": "USA",
+    "Phone": "(206) 555-4112",
+    "Fax": "(206) 555-4115"
+  },
+  "Products": [
+    {
+      "ProductID": "9",
+      "ProductName": "Mishi Kobe Niku",
+      "Quantity": 6,
+      "UnitPrice": 97.0
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 60,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10822",
+  "OrderDate": "2018-01-08",
+  "CustomerName": "Helvetius Nagy",
+  "Products": [
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 6,
+      "UnitPrice": 15.0
+    }
+  ]
+}

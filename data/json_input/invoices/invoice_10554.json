@@ -1,0 +1,40 @@
+{
+  "OrderID": "10554",
+  "OrderDate": "2017-05-30",
+  "CustomerID": "OTTIK",
+  "CustomerDetails": {
+    "ContactName": "Henriette Pfalzheim",
+    "Address": "Mehrheimerstr. 369",
+    "City": "Köln",
+    "PostalCode": "50739",
+    "Country": "Germany",
+    "Phone": "0221-0644327",
+    "Fax": "0221-0765721"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 20,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 13.0
+    }
+  ]
+}

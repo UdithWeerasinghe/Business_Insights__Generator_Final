@@ -1,0 +1,41 @@
+{
+  "OrderID": "10604",
+  "ShippingDetails": {
+    "ShipName": "Furia Bacalhau e Frutos do Mar",
+    "ShipAddress": "Jardim das rosas n. 32",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1675",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FURIB",
+    "CustomerName": "Furia Bacalhau e Frutos do Mar"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-18",
+    "ShippedDate": "2017-07-29",
+    "Products": [
+      {
+        "Product": "Chocolade",
+        "Quantity": 6,
+        "UnitPrice": 12.75,
+        "Total": 76.5
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 256.5
+  }
+}

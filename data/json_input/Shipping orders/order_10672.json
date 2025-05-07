@@ -1,0 +1,41 @@
+{
+  "OrderID": "10672",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-17",
+    "ShippedDate": "2017-09-26",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 15,
+        "UnitPrice": 263.5,
+        "Total": 3952.5
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 12,
+        "UnitPrice": 21.5,
+        "Total": 258.0
+      }
+    ],
+    "TotalPrice": 4210.5
+  }
+}

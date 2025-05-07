@@ -1,0 +1,22 @@
+{
+  "OrderID": "10907",
+  "OrderDate": "2018-02-25",
+  "CustomerID": "SPECD",
+  "CustomerDetails": {
+    "ContactName": "Dominique Perrier",
+    "Address": "25, rue Lauriston",
+    "City": "Paris",
+    "PostalCode": "75016",
+    "Country": "France",
+    "Phone": "(1) 47.55.60.10",
+    "Fax": "(1) 47.55.60.20"
+  },
+  "Products": [
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 14,
+      "UnitPrice": 7.75
+    }
+  ]
+}

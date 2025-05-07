@@ -1,0 +1,22 @@
+{
+  "OrderID": "10336",
+  "OrderDate": "2016-10-23",
+  "CustomerID": "PRINI",
+  "CustomerDetails": {
+    "ContactName": "Isabel de Castro",
+    "Address": "Estrada da saúde n. 58",
+    "City": "Lisboa",
+    "PostalCode": "1756",
+    "Country": "Portugal",
+    "Phone": "(1) 356-5634",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 18,
+      "UnitPrice": 17.6
+    }
+  ]
+}

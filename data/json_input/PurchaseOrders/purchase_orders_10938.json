@@ -1,0 +1,31 @@
+{
+  "OrderID": "10938",
+  "OrderDate": "2018-03-10",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 20,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 24,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 49,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 35,
+      "UnitPrice": 21.5
+    }
+  ]
+}

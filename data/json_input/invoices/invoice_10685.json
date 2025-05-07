@@ -1,0 +1,26 @@
+{
+  "OrderID": "10685",
+  "OrderDate": "2017-09-29",
+  "CustomerID": "GOURL",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 20,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 4,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 15,
+      "UnitPrice": 9.5
+    }
+  ]
+}

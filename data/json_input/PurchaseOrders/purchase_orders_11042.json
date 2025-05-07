@@ -1,0 +1,19 @@
+{
+  "OrderID": "11042",
+  "OrderDate": "2018-04-22",
+  "CustomerName": "Pedro Afonso",
+  "Products": [
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 15,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 4,
+      "UnitPrice": 28.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10991",
+  "OrderDate": "2018-04-01",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 50,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 20,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 90,
+      "UnitPrice": 18.0
+    }
+  ]
+}

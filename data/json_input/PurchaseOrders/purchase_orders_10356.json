@@ -1,0 +1,25 @@
+{
+  "OrderID": "10356",
+  "OrderDate": "2016-11-18",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 12,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 20,
+      "UnitPrice": 28.8
+    }
+  ]
+}

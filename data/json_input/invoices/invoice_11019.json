@@ -1,0 +1,28 @@
+{
+  "OrderID": "11019",
+  "OrderDate": "2018-04-13",
+  "CustomerID": "RANCH",
+  "CustomerDetails": {
+    "ContactName": "Sergio Gutiérrez",
+    "Address": "Av. del Libertador 900",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 123-5555",
+    "Fax": "(1) 123-5556"
+  },
+  "Products": [
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 3,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 2,
+      "UnitPrice": 20.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "OrderID": "10522",
+  "OrderDate": "2017-04-30",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 40,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 24,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 20,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 25,
+      "UnitPrice": 18.4
+    }
+  ]
+}

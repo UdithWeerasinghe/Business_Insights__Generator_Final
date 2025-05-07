@@ -1,0 +1,19 @@
+{
+  "OrderID": "10627",
+  "OrderDate": "2017-08-11",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 35,
+      "UnitPrice": 15.0
+    }
+  ]
+}

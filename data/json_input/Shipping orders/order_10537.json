@@ -1,0 +1,59 @@
+{
+  "OrderID": "10537",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-14",
+    "ShippedDate": "2017-05-19",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 30,
+        "UnitPrice": 12.5,
+        "Total": 375.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 6,
+        "UnitPrice": 53.0,
+        "Total": 318.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 20,
+        "UnitPrice": 13.25,
+        "Total": 265.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 21,
+        "UnitPrice": 34.8,
+        "Total": 730.8
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 9,
+        "UnitPrice": 15.0,
+        "Total": 135.0
+      }
+    ],
+    "TotalPrice": 1823.8
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10758",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-28",
+    "ShippedDate": "2017-12-04",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 20,
+        "UnitPrice": 31.23,
+        "Total": 624.6
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 60,
+        "UnitPrice": 7.0,
+        "Total": 420.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 40,
+        "UnitPrice": 15.0,
+        "Total": 600.0
+      }
+    ],
+    "TotalPrice": 1644.6
+  }
+}

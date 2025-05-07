@@ -1,0 +1,20 @@
+{
+  "OrderID": "10473",
+  "OrderDate": "2017-03-13",
+  "CustomerID": "ISLAT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 12,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 12,
+      "UnitPrice": 17.2
+    }
+  ]
+}

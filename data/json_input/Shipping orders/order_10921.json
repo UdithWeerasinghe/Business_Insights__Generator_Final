@@ -1,0 +1,41 @@
+{
+  "OrderID": "10921",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-03",
+    "ShippedDate": "2018-03-09",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 40,
+        "UnitPrice": 43.9,
+        "Total": 1756.0
+      }
+    ],
+    "TotalPrice": 1936.0
+  }
+}

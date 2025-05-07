@@ -1,0 +1,25 @@
+{
+  "OrderID": "10948",
+  "OrderDate": "2018-03-13",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "50",
+      "Product": "Valkoinen suklaa",
+      "Quantity": 9,
+      "UnitPrice": 16.25
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 40,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 4,
+      "UnitPrice": 24.0
+    }
+  ]
+}

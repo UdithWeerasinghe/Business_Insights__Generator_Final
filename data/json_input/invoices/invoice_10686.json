@@ -1,0 +1,28 @@
+{
+  "OrderID": "10686",
+  "OrderDate": "2017-09-30",
+  "CustomerID": "PICCO",
+  "CustomerDetails": {
+    "ContactName": "Georg Pipps",
+    "Address": "Geislweg 14",
+    "City": "Salzburg",
+    "PostalCode": "5020",
+    "Country": "Austria",
+    "Phone": "6562-9722",
+    "Fax": "6562-9723"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 30,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 15,
+      "UnitPrice": 31.23
+    }
+  ]
+}

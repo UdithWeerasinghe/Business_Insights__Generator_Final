@@ -1,0 +1,25 @@
+{
+  "OrderID": "10811",
+  "OrderDate": "2018-01-02",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 15,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 18,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 30,
+      "UnitPrice": 18.4
+    }
+  ]
+}

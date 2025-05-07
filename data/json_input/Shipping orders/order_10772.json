@@ -1,0 +1,41 @@
+{
+  "OrderID": "10772",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-10",
+    "ShippedDate": "2017-12-19",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 18,
+        "UnitPrice": 123.79,
+        "Total": 2228.2200000000003
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 25,
+        "UnitPrice": 55.0,
+        "Total": 1375.0
+      }
+    ],
+    "TotalPrice": 3603.2200000000003
+  }
+}

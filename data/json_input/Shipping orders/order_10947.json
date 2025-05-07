@@ -1,0 +1,35 @@
+{
+  "OrderID": "10947",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-13",
+    "ShippedDate": "2018-03-16",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 4,
+        "UnitPrice": 55.0,
+        "Total": 220.0
+      }
+    ],
+    "TotalPrice": 220.0
+  }
+}

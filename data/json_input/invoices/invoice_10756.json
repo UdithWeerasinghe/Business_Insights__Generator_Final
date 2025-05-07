@@ -1,0 +1,40 @@
+{
+  "OrderID": "10756",
+  "OrderDate": "2017-11-27",
+  "CustomerID": "SPLIR",
+  "CustomerDetails": {
+    "ContactName": "Art Braunschweiger",
+    "Address": "P.O. Box 555",
+    "City": "Lander",
+    "PostalCode": "82520",
+    "Country": "USA",
+    "Phone": "(307) 555-4680",
+    "Fax": "(307) 555-6525"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 21,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 6,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 20,
+      "UnitPrice": 36.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10404",
+  "OrderDate": "2017-01-03",
+  "CustomerID": "MAGAA",
+  "CustomerDetails": {
+    "ContactName": "Giovanni Rovelli",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  "Products": [
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 40,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 30,
+      "UnitPrice": 16.0
+    }
+  ]
+}

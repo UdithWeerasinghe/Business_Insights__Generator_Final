@@ -1,0 +1,41 @@
+{
+  "OrderID": "10403",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-03",
+    "ShippedDate": "2017-01-09",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 21,
+        "UnitPrice": 13.9,
+        "Total": 291.90000000000003
+      },
+      {
+        "Product": "Chocolade",
+        "Quantity": 70,
+        "UnitPrice": 10.2,
+        "Total": 714.0
+      }
+    ],
+    "TotalPrice": 1005.9000000000001
+  }
+}

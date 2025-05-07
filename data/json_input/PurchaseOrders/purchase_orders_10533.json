@@ -1,0 +1,25 @@
+{
+  "OrderID": "10533",
+  "OrderDate": "2017-05-12",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 50,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 24,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 24,
+      "UnitPrice": 15.0
+    }
+  ]
+}

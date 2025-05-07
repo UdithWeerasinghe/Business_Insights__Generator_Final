@@ -1,0 +1,25 @@
+{
+  "OrderID": "10694",
+  "OrderDate": "2017-10-06",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 90,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 25,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 50,
+      "UnitPrice": 15.0
+    }
+  ]
+}

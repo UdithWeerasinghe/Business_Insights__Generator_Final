@@ -1,0 +1,26 @@
+{
+  "OrderID": "10424",
+  "OrderDate": "2017-01-23",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 60,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 49,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 30,
+      "UnitPrice": 10.0
+    }
+  ]
+}

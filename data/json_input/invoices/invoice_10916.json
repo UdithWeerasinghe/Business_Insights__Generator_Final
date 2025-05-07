@@ -1,0 +1,34 @@
+{
+  "OrderID": "10916",
+  "OrderDate": "2018-02-27",
+  "CustomerID": "RANCH",
+  "CustomerDetails": {
+    "ContactName": "Sergio Gutiérrez",
+    "Address": "Av. del Libertador 900",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 123-5555",
+    "Fax": "(1) 123-5556"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 6,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 6,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 20,
+      "UnitPrice": 19.5
+    }
+  ]
+}

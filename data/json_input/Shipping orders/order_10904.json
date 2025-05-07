@@ -1,0 +1,41 @@
+{
+  "OrderID": "10904",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-24",
+    "ShippedDate": "2018-02-27",
+    "Products": [
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 15,
+        "UnitPrice": 13.25,
+        "Total": 198.75
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 35,
+        "UnitPrice": 49.3,
+        "Total": 1725.5
+      }
+    ],
+    "TotalPrice": 1924.25
+  }
+}

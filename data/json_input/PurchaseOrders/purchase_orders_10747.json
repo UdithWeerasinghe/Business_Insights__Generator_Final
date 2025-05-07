@@ -1,0 +1,31 @@
+{
+  "OrderID": "10747",
+  "OrderDate": "2017-11-19",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 8,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 35,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 9,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 36.0
+    }
+  ]
+}

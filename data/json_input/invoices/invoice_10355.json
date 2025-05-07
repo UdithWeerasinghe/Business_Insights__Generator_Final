@@ -1,0 +1,20 @@
+{
+  "OrderID": "10355",
+  "OrderDate": "2016-11-15",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 25,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 25,
+      "UnitPrice": 15.6
+    }
+  ]
+}

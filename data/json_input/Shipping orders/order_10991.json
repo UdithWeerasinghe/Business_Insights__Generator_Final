@@ -1,0 +1,47 @@
+{
+  "OrderID": "10991",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-01",
+    "ShippedDate": "2018-04-07",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 50,
+        "UnitPrice": 19.0,
+        "Total": 950.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 20,
+        "UnitPrice": 15.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 90,
+        "UnitPrice": 18.0,
+        "Total": 1620.0
+      }
+    ],
+    "TotalPrice": 2870.0
+  }
+}

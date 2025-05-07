@@ -1,0 +1,28 @@
+{
+  "OrderID": "10937",
+  "OrderDate": "2018-03-10",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 8,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

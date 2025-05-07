@@ -1,0 +1,52 @@
+{
+  "OrderID": "10979",
+  "OrderDate": "2018-03-26",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 18,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "12",
+      "ProductName": "Queso Manchego La Pastora",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 80,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "27",
+      "ProductName": "Schoggi Schokolade",
+      "Quantity": 30,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 24,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 35,
+      "UnitPrice": 43.9
+    }
+  ]
+}

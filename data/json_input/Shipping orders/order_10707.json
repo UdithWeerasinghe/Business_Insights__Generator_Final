@@ -1,0 +1,47 @@
+{
+  "OrderID": "10707",
+  "ShippingDetails": {
+    "ShipName": "Around the Horn",
+    "ShipAddress": "Brook Farm Stratford St. Mary",
+    "ShipCity": "Colchester",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "CO7 6JX",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "AROUT",
+    "CustomerName": "Around the Horn"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-16",
+    "ShippedDate": "2017-10-23",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 21,
+        "UnitPrice": 24.0,
+        "Total": 504.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 40,
+        "UnitPrice": 19.5,
+        "Total": 780.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 28,
+        "UnitPrice": 15.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 1704.0
+  }
+}

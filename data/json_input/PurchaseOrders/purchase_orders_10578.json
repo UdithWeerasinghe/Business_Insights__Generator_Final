@@ -1,0 +1,19 @@
+{
+  "OrderID": "10578",
+  "OrderDate": "2017-06-24",
+  "CustomerName": "Victoria Ashworth",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 6,
+      "UnitPrice": 19.5
+    }
+  ]
+}

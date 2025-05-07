@@ -1,0 +1,28 @@
+{
+  "OrderID": "10308",
+  "OrderDate": "2016-09-18",
+  "CustomerID": "ANATR",
+  "CustomerDetails": {
+    "ContactName": "Ana Trujillo",
+    "Address": "Avda. de la Constitución 2222",
+    "City": "México D.F.",
+    "PostalCode": "05021",
+    "Country": "Mexico",
+    "Phone": "(5) 555-4729",
+    "Fax": "(5) 555-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 1,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 5,
+      "UnitPrice": 12.0
+    }
+  ]
+}

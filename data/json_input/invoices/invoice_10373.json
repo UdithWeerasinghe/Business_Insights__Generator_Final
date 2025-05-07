@@ -1,0 +1,20 @@
+{
+  "OrderID": "10373",
+  "OrderDate": "2016-12-05",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 80,
+      "UnitPrice": 10.6
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 50,
+      "UnitPrice": 17.2
+    }
+  ]
+}

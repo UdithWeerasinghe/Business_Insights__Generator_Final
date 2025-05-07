@@ -1,0 +1,25 @@
+{
+  "OrderID": "10343",
+  "OrderDate": "2016-10-31",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 50,
+      "UnitPrice": 26.6
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 4,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 15,
+      "UnitPrice": 14.4
+    }
+  ]
+}

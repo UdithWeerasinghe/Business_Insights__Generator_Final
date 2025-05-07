@@ -1,0 +1,37 @@
+{
+  "OrderID": "10360",
+  "OrderDate": "2016-11-22",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 30,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 35,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 10,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 35,
+      "UnitPrice": 16.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 28,
+      "UnitPrice": 5.9
+    }
+  ]
+}

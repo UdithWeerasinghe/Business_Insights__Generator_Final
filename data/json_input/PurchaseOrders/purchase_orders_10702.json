@@ -1,0 +1,19 @@
+{
+  "OrderID": "10702",
+  "OrderDate": "2017-10-13",
+  "CustomerName": "Maria Anders",
+  "Products": [
+    {
+      "ProductID": "3",
+      "Product": "Aniseed Syrup",
+      "Quantity": 6,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 15,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10822",
+  "OrderDate": "2018-01-08",
+  "CustomerID": "TRAIH",
+  "CustomerDetails": {
+    "ContactName": "Helvetius Nagy",
+    "Address": "722 DaVinci Blvd.",
+    "City": "Kirkland",
+    "PostalCode": "98034",
+    "Country": "USA",
+    "Phone": "(206) 555-8257",
+    "Fax": "(206) 555-2174"
+  },
+  "Products": [
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 6,
+      "UnitPrice": 15.0
+    }
+  ]
+}

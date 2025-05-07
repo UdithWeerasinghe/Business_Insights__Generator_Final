@@ -1,0 +1,28 @@
+{
+  "OrderID": "10856",
+  "OrderDate": "2018-01-28",
+  "CustomerID": "ANTON",
+  "CustomerDetails": {
+    "ContactName": "Antonio Moreno",
+    "Address": "Mataderos 2312",
+    "City": "México D.F.",
+    "PostalCode": "05023",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

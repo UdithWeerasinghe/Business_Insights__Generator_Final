@@ -1,0 +1,31 @@
+{
+  "OrderID": "10278",
+  "OrderDate": "2016-08-12",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 16,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 15,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 8,
+      "UnitPrice": 35.1
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 25,
+      "UnitPrice": 12.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10377",
+  "ShippingDetails": {
+    "ShipName": "Seven Seas Imports",
+    "ShipAddress": "90 Wadhurst Rd.",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "OX15 4NB",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SEVES",
+    "CustomerName": "Seven Seas Imports"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-09",
+    "ShippedDate": "2016-12-13",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 20,
+        "UnitPrice": 36.4,
+        "Total": 728.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 20,
+        "UnitPrice": 14.4,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 1016.0
+  }
+}

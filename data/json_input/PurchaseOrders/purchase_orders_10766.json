@@ -1,0 +1,25 @@
+{
+  "OrderID": "10766",
+  "OrderDate": "2017-12-05",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 40,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 35,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 40,
+      "UnitPrice": 12.5
+    }
+  ]
+}

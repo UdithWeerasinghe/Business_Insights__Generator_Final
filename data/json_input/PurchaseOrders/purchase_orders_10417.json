@@ -1,0 +1,31 @@
+{
+  "OrderID": "10417",
+  "OrderDate": "2017-01-16",
+  "CustomerName": "Jytte Petersen",
+  "Products": [
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 50,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 2,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 36,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 35,
+      "UnitPrice": 10.4
+    }
+  ]
+}

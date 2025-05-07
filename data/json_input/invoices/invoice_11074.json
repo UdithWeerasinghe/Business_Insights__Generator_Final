@@ -1,0 +1,22 @@
+{
+  "OrderID": "11074",
+  "OrderDate": "2018-05-06",
+  "CustomerID": "SIMOB",
+  "CustomerDetails": {
+    "ContactName": "Jytte Petersen",
+    "Address": "Vinbæltet 34",
+    "City": "Kobenhavn",
+    "PostalCode": "1734",
+    "Country": "Denmark",
+    "Phone": "31 12 34 56",
+    "Fax": "31 13 35 57"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 14,
+      "UnitPrice": 17.45
+    }
+  ]
+}

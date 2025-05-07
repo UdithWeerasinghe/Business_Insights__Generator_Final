@@ -1,0 +1,47 @@
+{
+  "OrderID": "10343",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-31",
+    "ShippedDate": "2016-11-06",
+    "Products": [
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 50,
+        "UnitPrice": 26.6,
+        "Total": 1330.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 4,
+        "UnitPrice": 10.0,
+        "Total": 40.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 15,
+        "UnitPrice": 14.4,
+        "Total": 216.0
+      }
+    ],
+    "TotalPrice": 1586.0
+  }
+}

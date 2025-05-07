@@ -1,0 +1,19 @@
+{
+  "OrderID": "10826",
+  "OrderDate": "2018-01-12",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 35,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 15,
+      "UnitPrice": 19.5
+    }
+  ]
+}

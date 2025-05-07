@@ -1,0 +1,53 @@
+{
+  "OrderID": "10539",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-16",
+    "ShippedDate": "2017-05-23",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 8,
+        "UnitPrice": 6.0,
+        "Total": 48.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 15,
+        "UnitPrice": 10.0,
+        "Total": 150.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 15,
+        "UnitPrice": 2.5,
+        "Total": 37.5
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 6,
+        "UnitPrice": 20.0,
+        "Total": 120.0
+      }
+    ],
+    "TotalPrice": 355.5
+  }
+}

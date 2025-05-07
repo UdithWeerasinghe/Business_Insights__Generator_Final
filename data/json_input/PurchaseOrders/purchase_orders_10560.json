@@ -1,0 +1,19 @@
+{
+  "OrderID": "10560",
+  "OrderDate": "2017-06-06",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 20,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 49.3
+    }
+  ]
+}

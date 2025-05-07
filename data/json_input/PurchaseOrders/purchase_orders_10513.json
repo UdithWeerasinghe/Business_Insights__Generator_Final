@@ -1,0 +1,25 @@
+{
+  "OrderID": "10513",
+  "OrderDate": "2017-04-22",
+  "CustomerName": "Rita Müller",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 50,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 15,
+      "UnitPrice": 28.5
+    }
+  ]
+}

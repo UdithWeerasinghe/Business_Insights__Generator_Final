@@ -1,0 +1,28 @@
+{
+  "OrderID": "10931",
+  "OrderDate": "2018-03-06",
+  "CustomerID": "RICSU",
+  "CustomerDetails": {
+    "ContactName": "Michael Holz",
+    "Address": "Grenzacherweg 237",
+    "City": "Genève",
+    "PostalCode": "1203",
+    "Country": "Switzerland",
+    "Phone": "0897-034214",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 42,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 30,
+      "UnitPrice": 19.5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10620",
+  "ShippingDetails": {
+    "ShipName": "Laughing Bacchus Wine Cellars",
+    "ShipAddress": "2319 Elm St.",
+    "ShipCity": "Vancouver",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "V3F 2K1",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAUGB",
+    "CustomerName": "Laughing Bacchus Wine Cellars"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-05",
+    "ShippedDate": "2017-08-14",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 5,
+        "UnitPrice": 4.5,
+        "Total": 22.5
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 5,
+        "UnitPrice": 7.0,
+        "Total": 35.0
+      }
+    ],
+    "TotalPrice": 57.5
+  }
+}

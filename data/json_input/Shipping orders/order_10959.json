@@ -1,0 +1,35 @@
+{
+  "OrderID": "10959",
+  "ShippingDetails": {
+    "ShipName": "Gourmet Lanchonetes",
+    "ShipAddress": "Av. Brasil, 442",
+    "ShipCity": "Campinas",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "04876-786",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GOURL",
+    "CustomerName": "Gourmet Lanchonetes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-18",
+    "ShippedDate": "2018-03-23",
+    "Products": [
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 20,
+        "UnitPrice": 7.75,
+        "Total": 155.0
+      }
+    ],
+    "TotalPrice": 155.0
+  }
+}

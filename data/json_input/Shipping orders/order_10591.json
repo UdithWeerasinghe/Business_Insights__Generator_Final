@@ -1,0 +1,47 @@
+{
+  "OrderID": "10591",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-07",
+    "ShippedDate": "2017-07-16",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 14,
+        "UnitPrice": 10.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 10,
+        "UnitPrice": 30.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 50,
+        "UnitPrice": 7.45,
+        "Total": 372.5
+      }
+    ],
+    "TotalPrice": 812.5
+  }
+}

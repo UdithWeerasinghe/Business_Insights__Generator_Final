@@ -1,0 +1,34 @@
+{
+  "OrderID": "10665",
+  "OrderDate": "2017-09-11",
+  "CustomerID": "LONEP",
+  "CustomerDetails": {
+    "ContactName": "Fran Wilson",
+    "Address": "89 Chiaroscuro Rd.",
+    "City": "Portland",
+    "PostalCode": "97219",
+    "Country": "USA",
+    "Phone": "(503) 555-9573",
+    "Fax": "(503) 555-9646"
+  },
+  "Products": [
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 1,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

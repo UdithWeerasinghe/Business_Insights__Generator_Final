@@ -1,0 +1,14 @@
+{
+  "OrderID": "10674",
+  "OrderDate": "2017-09-18",
+  "CustomerID": "ISLAT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 5,
+      "UnitPrice": 9.0
+    }
+  ]
+}

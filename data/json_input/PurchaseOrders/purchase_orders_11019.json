@@ -1,0 +1,19 @@
+{
+  "OrderID": "11019",
+  "OrderDate": "2018-04-13",
+  "CustomerName": "Sergio Gutiérrez",
+  "Products": [
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 3,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "49",
+      "Product": "Maxilaku",
+      "Quantity": 2,
+      "UnitPrice": 20.0
+    }
+  ]
+}

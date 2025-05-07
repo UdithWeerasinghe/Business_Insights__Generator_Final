@@ -1,0 +1,31 @@
+{
+  "OrderID": "10693",
+  "OrderDate": "2017-10-06",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "9",
+      "Product": "Mishi Kobe Niku",
+      "Quantity": 6,
+      "UnitPrice": 97.0
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 60,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 15,
+      "UnitPrice": 15.0
+    }
+  ]
+}

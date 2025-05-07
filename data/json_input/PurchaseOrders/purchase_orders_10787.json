@@ -1,0 +1,19 @@
+{
+  "OrderID": "10787",
+  "OrderDate": "2017-12-19",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 15,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 20,
+      "UnitPrice": 123.79
+    }
+  ]
+}

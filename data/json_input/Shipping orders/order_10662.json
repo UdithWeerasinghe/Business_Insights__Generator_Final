@@ -1,0 +1,35 @@
+{
+  "OrderID": "10662",
+  "ShippingDetails": {
+    "ShipName": "Lonesome Pine Restaurant",
+    "ShipAddress": "89 Chiaroscuro Rd.",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97219",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LONEP",
+    "CustomerName": "Lonesome Pine Restaurant"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-09",
+    "ShippedDate": "2017-09-18",
+    "Products": [
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 10,
+        "UnitPrice": 12.5,
+        "Total": 125.0
+      }
+    ],
+    "TotalPrice": 125.0
+  }
+}

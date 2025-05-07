@@ -1,0 +1,20 @@
+{
+  "OrderID": "10547",
+  "OrderDate": "2017-05-23",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "32",
+      "ProductName": "Mascarpone Fabioli",
+      "Quantity": 24,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 60,
+      "UnitPrice": 19.0
+    }
+  ]
+}

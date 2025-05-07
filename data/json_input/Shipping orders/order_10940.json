@@ -1,0 +1,41 @@
+{
+  "OrderID": "10940",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-11",
+    "ShippedDate": "2018-03-23",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 8,
+        "UnitPrice": 30.0,
+        "Total": 240.0
+      },
+      {
+        "Product": "Konbu",
+        "Quantity": 20,
+        "UnitPrice": 6.0,
+        "Total": 120.0
+      }
+    ],
+    "TotalPrice": 360.0
+  }
+}

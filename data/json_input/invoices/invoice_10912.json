@@ -1,0 +1,20 @@
+{
+  "OrderID": "10912",
+  "OrderDate": "2018-02-26",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 40,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 60,
+      "UnitPrice": 123.79
+    }
+  ]
+}

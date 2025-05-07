@@ -1,0 +1,31 @@
+{
+  "OrderID": "11070",
+  "OrderDate": "2018-05-05",
+  "CustomerName": "Renate Messner",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 40,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 20,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    }
+  ]
+}

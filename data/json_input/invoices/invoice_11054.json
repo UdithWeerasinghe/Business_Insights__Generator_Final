@@ -1,0 +1,28 @@
+{
+  "OrderID": "11054",
+  "OrderDate": "2018-04-28",
+  "CustomerID": "CACTU",
+  "CustomerDetails": {
+    "ContactName": "Patricio Simpson",
+    "Address": "Cerrito 333",
+    "City": "Buenos Aires",
+    "PostalCode": "1010",
+    "Country": "Argentina",
+    "Phone": "(1) 135-5555",
+    "Fax": "(1) 135-4892"
+  },
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 10,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "67",
+      "ProductName": "Laughing Lumberjack Lager",
+      "Quantity": 20,
+      "UnitPrice": 14.0
+    }
+  ]
+}

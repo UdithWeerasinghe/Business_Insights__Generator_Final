@@ -1,0 +1,34 @@
+{
+  "OrderID": "10673",
+  "OrderDate": "2017-09-18",
+  "CustomerID": "WILMK",
+  "CustomerDetails": {
+    "ContactName": "Matti Karttunen",
+    "Address": "Keskuskatu 45",
+    "City": "Helsinki",
+    "PostalCode": "21240",
+    "Country": "Finland",
+    "Phone": "90-224 8858",
+    "Fax": "90-224 8858"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 3,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 6,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 6,
+      "UnitPrice": 46.0
+    }
+  ]
+}

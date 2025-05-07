@@ -1,0 +1,41 @@
+{
+  "OrderID": "10483",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-24",
+    "ShippedDate": "2017-04-25",
+    "Products": [
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 35,
+        "UnitPrice": 11.2,
+        "Total": 392.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 30,
+        "UnitPrice": 10.4,
+        "Total": 312.0
+      }
+    ],
+    "TotalPrice": 704.0
+  }
+}

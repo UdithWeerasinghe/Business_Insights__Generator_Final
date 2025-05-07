@@ -1,0 +1,28 @@
+{
+  "OrderID": "10274",
+  "OrderDate": "2016-08-06",
+  "CustomerID": "VINET",
+  "CustomerDetails": {
+    "ContactName": "Paul Henriot",
+    "Address": "59 rue de l'Abbaye",
+    "City": "Reims",
+    "PostalCode": "51100",
+    "Country": "France",
+    "Phone": "26.47.15.10",
+    "Fax": "26.47.15.11"
+  },
+  "Products": [
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 20,
+      "UnitPrice": 17.2
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 7,
+      "UnitPrice": 27.8
+    }
+  ]
+}

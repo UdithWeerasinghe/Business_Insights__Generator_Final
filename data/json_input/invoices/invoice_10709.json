@@ -1,0 +1,26 @@
+{
+  "OrderID": "10709",
+  "OrderDate": "2017-10-17",
+  "CustomerID": "GOURL",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 40,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 28,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 10,
+      "UnitPrice": 34.0
+    }
+  ]
+}

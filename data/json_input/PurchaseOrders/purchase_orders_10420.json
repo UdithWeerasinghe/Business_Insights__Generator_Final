@@ -1,0 +1,31 @@
+{
+  "OrderID": "10420",
+  "OrderDate": "2017-01-21",
+  "CustomerName": "Paula Parente",
+  "Products": [
+    {
+      "ProductID": "9",
+      "Product": "Mishi Kobe Niku",
+      "Quantity": 20,
+      "UnitPrice": 77.6
+    },
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 2,
+      "UnitPrice": 4.8
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 8,
+      "UnitPrice": 12.0
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 20,
+      "UnitPrice": 12.0
+    }
+  ]
+}

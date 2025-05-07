@@ -1,0 +1,25 @@
+{
+  "OrderID": "11058",
+  "OrderDate": "2018-04-29",
+  "CustomerName": "Hanna Moos",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 3,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 21,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 4,
+      "UnitPrice": 28.5
+    }
+  ]
+}

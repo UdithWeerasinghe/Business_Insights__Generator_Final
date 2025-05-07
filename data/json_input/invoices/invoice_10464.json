@@ -1,0 +1,40 @@
+{
+  "OrderID": "10464",
+  "OrderDate": "2017-03-04",
+  "CustomerID": "FURIB",
+  "CustomerDetails": {
+    "ContactName": "Lino Rodriguez",
+    "Address": "Jardim das rosas n. 32",
+    "City": "Lisboa",
+    "PostalCode": "1675",
+    "Country": "Portugal",
+    "Phone": "(1) 354-2534",
+    "Fax": "(1) 354-2535"
+  },
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 16,
+      "UnitPrice": 17.6
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 3,
+      "UnitPrice": 36.8
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 20,
+      "UnitPrice": 27.2
+    }
+  ]
+}

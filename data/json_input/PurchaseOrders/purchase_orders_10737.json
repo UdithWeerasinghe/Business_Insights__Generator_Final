@@ -1,0 +1,19 @@
+{
+  "OrderID": "10737",
+  "OrderDate": "2017-11-11",
+  "CustomerName": "Paul Henriot",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 4,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    }
+  ]
+}

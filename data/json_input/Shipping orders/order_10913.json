@@ -1,0 +1,47 @@
+{
+  "OrderID": "10913",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-26",
+    "ShippedDate": "2018-03-04",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 30,
+        "UnitPrice": 22.0,
+        "Total": 660.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 40,
+        "UnitPrice": 2.5,
+        "Total": 100.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 15,
+        "UnitPrice": 13.25,
+        "Total": 198.75
+      }
+    ],
+    "TotalPrice": 958.75
+  }
+}

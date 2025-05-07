@@ -1,0 +1,40 @@
+{
+  "OrderID": "10954",
+  "OrderDate": "2018-03-17",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 28,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 25,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 30,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 24,
+      "UnitPrice": 34.0
+    }
+  ]
+}

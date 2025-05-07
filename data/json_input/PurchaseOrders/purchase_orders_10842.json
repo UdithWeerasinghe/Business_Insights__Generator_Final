@@ -1,0 +1,31 @@
+{
+  "OrderID": "10842",
+  "OrderDate": "2018-01-20",
+  "CustomerName": "Miguel Angel Paolino",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 5,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 12,
+      "UnitPrice": 15.0
+    }
+  ]
+}

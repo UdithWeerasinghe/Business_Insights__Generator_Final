@@ -1,0 +1,47 @@
+{
+  "OrderID": "10719",
+  "ShippingDetails": {
+    "ShipName": "Let-s Stop N Shop",
+    "ShipAddress": "87 Polk St. Suite 5",
+    "ShipCity": "San Francisco",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "94117",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LETSS",
+    "CustomerName": "Let's Stop N Shop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-27",
+    "ShippedDate": "2017-11-05",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 12,
+        "UnitPrice": 62.5,
+        "Total": 750.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 3,
+        "UnitPrice": 25.89,
+        "Total": 77.67
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 40,
+        "UnitPrice": 7.45,
+        "Total": 298.0
+      }
+    ],
+    "TotalPrice": 1125.67
+  }
+}

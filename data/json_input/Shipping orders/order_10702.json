@@ -1,0 +1,41 @@
+{
+  "OrderID": "10702",
+  "ShippingDetails": {
+    "ShipName": "Alfred-s Futterkiste",
+    "ShipAddress": "Obere Str. 57",
+    "ShipCity": "Berlin",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "12209",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ALFKI",
+    "CustomerName": "Alfreds Futterkiste"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-13",
+    "ShippedDate": "2017-10-21",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 6,
+        "UnitPrice": 10.0,
+        "Total": 60.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 15,
+        "UnitPrice": 18.0,
+        "Total": 270.0
+      }
+    ],
+    "TotalPrice": 330.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10362",
+  "OrderDate": "2016-11-25",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 50,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 42.4
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 24,
+      "UnitPrice": 5.9
+    }
+  ]
+}

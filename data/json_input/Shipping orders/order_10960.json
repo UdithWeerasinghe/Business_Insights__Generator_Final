@@ -1,0 +1,41 @@
+{
+  "OrderID": "10960",
+  "ShippingDetails": {
+    "ShipName": "HILARION-Abastos",
+    "ShipAddress": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "ShipCity": "San Cristóbal",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "5022",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HILAA",
+    "CustomerName": "HILARION-Abastos"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-19",
+    "ShippedDate": "2018-04-08",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 10,
+        "UnitPrice": 4.5,
+        "Total": 45.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 24,
+        "UnitPrice": 9.65,
+        "Total": 231.60000000000002
+      }
+    ],
+    "TotalPrice": 276.6
+  }
+}

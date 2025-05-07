@@ -1,0 +1,13 @@
+{
+  "OrderID": "10392",
+  "OrderDate": "2016-12-24",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 50,
+      "UnitPrice": 28.8
+    }
+  ]
+}

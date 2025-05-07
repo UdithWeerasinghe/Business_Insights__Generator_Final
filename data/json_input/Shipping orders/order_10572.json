@@ -1,0 +1,53 @@
+{
+  "OrderID": "10572",
+  "ShippingDetails": {
+    "ShipName": "Berglunds snabbköp",
+    "ShipAddress": "Berguvsvägen 8",
+    "ShipCity": "Luleå",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-958 22",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BERGS",
+    "CustomerName": "Berglunds snabbköp"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-18",
+    "ShippedDate": "2017-06-25",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 12,
+        "UnitPrice": 17.45,
+        "Total": 209.39999999999998
+      },
+      {
+        "Product": "Mascarpone Fabioli",
+        "Quantity": 10,
+        "UnitPrice": 32.0,
+        "Total": 320.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 50,
+        "UnitPrice": 18.4,
+        "Total": 919.9999999999999
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 15,
+        "UnitPrice": 7.75,
+        "Total": 116.25
+      }
+    ],
+    "TotalPrice": 1565.6499999999999
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10794",
+  "OrderDate": "2017-12-24",
+  "CustomerID": "QUEDE",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 15,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 6,
+      "UnitPrice": 7.45
+    }
+  ]
+}

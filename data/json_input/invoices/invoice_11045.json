@@ -1,0 +1,20 @@
+{
+  "OrderID": "11045",
+  "OrderDate": "2018-04-23",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 15,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 24,
+      "UnitPrice": 53.0
+    }
+  ]
+}

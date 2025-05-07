@@ -1,0 +1,53 @@
+{
+  "OrderID": "10977",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-26",
+    "ShippedDate": "2018-04-10",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 30,
+        "UnitPrice": 9.5,
+        "Total": 285.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 10,
+        "UnitPrice": 53.0,
+        "Total": 530.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 20,
+        "UnitPrice": 43.9,
+        "Total": 878.0
+      }
+    ],
+    "TotalPrice": 2233.0
+  }
+}

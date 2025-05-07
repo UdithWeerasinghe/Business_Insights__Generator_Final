@@ -1,0 +1,28 @@
+{
+  "OrderID": "10500",
+  "OrderDate": "2017-04-09",
+  "CustomerID": "LAMAI",
+  "CustomerDetails": {
+    "ContactName": "Annette Roulet",
+    "Address": "1 rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "PostalCode": "31000",
+    "Country": "France",
+    "Phone": "61.77.61.10",
+    "Fax": "61.77.61.11"
+  },
+  "Products": [
+    {
+      "ProductID": "15",
+      "ProductName": "Genen Shouyu",
+      "Quantity": 12,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 8,
+      "UnitPrice": 45.6
+    }
+  ]
+}

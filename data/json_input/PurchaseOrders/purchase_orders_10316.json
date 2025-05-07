@@ -1,0 +1,19 @@
+{
+  "OrderID": "10316",
+  "OrderDate": "2016-09-27",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 10,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 70,
+      "UnitPrice": 39.4
+    }
+  ]
+}

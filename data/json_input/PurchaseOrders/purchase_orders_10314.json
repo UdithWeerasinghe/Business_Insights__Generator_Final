@@ -1,0 +1,25 @@
+{
+  "OrderID": "10314",
+  "OrderDate": "2016-09-25",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 40,
+      "UnitPrice": 25.6
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 10.6
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 25,
+      "UnitPrice": 39.4
+    }
+  ]
+}

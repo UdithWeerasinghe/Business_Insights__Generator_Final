@@ -1,0 +1,40 @@
+{
+  "OrderID": "10530",
+  "OrderDate": "2017-05-08",
+  "CustomerID": "PICCO",
+  "CustomerDetails": {
+    "ContactName": "Georg Pipps",
+    "Address": "Geislweg 14",
+    "City": "Salzburg",
+    "PostalCode": "5020",
+    "Country": "Austria",
+    "Phone": "6562-9722",
+    "Fax": "6562-9723"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 40,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 25,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 50,
+      "UnitPrice": 18.0
+    }
+  ]
+}

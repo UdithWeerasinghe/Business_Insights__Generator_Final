@@ -1,0 +1,41 @@
+{
+  "OrderID": "10366",
+  "ShippingDetails": {
+    "ShipName": "Galería del gastronómo",
+    "ShipAddress": "Rambla de Cataluña, 23",
+    "ShipCity": "Barcelona",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "8022",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GALED",
+    "CustomerName": "Galería del gastrónomo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-28",
+    "ShippedDate": "2016-12-30",
+    "Products": [
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 5,
+        "UnitPrice": 16.8,
+        "Total": 84.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 5,
+        "UnitPrice": 10.4,
+        "Total": 52.0
+      }
+    ],
+    "TotalPrice": 136.0
+  }
+}

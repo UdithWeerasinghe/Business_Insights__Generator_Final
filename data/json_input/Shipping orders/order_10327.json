@@ -1,0 +1,53 @@
+{
+  "OrderID": "10327",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-11",
+    "ShippedDate": "2016-10-14",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 25,
+        "UnitPrice": 15.2,
+        "Total": 380.0
+      },
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 50,
+        "UnitPrice": 16.8,
+        "Total": 840.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 35,
+        "UnitPrice": 20.7,
+        "Total": 724.5
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 30,
+        "UnitPrice": 10.6,
+        "Total": 318.0
+      }
+    ],
+    "TotalPrice": 2262.5
+  }
+}

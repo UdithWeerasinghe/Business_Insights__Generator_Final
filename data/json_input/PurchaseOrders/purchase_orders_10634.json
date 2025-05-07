@@ -1,0 +1,31 @@
+{
+  "OrderID": "10634",
+  "OrderDate": "2017-08-15",
+  "CustomerName": "Martine Rancé",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 35,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 50,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 15,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 2,
+      "UnitPrice": 7.75
+    }
+  ]
+}

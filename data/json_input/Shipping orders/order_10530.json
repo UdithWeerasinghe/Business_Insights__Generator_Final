@@ -1,0 +1,53 @@
+{
+  "OrderID": "10530",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-08",
+    "ShippedDate": "2017-05-12",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 40,
+        "UnitPrice": 39.0,
+        "Total": 1560.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 25,
+        "UnitPrice": 46.0,
+        "Total": 1150.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 20,
+        "UnitPrice": 28.5,
+        "Total": 570.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 50,
+        "UnitPrice": 18.0,
+        "Total": 900.0
+      }
+    ],
+    "TotalPrice": 4180.0
+  }
+}

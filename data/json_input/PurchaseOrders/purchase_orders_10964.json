@@ -1,0 +1,25 @@
+{
+  "OrderID": "10964",
+  "OrderDate": "2018-03-20",
+  "CustomerName": "Dominique Perrier",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 6,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 5,
+      "UnitPrice": 263.5
+    },
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 10,
+      "UnitPrice": 36.0
+    }
+  ]
+}

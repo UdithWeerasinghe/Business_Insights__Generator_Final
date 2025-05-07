@@ -1,0 +1,41 @@
+{
+  "OrderID": "10686",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-30",
+    "ShippedDate": "2017-10-08",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 30,
+        "UnitPrice": 39.0,
+        "Total": 1170.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 15,
+        "UnitPrice": 31.23,
+        "Total": 468.45
+      }
+    ],
+    "TotalPrice": 1638.45
+  }
+}

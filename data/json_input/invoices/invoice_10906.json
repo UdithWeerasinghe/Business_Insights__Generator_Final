@@ -1,0 +1,14 @@
+{
+  "OrderID": "10906",
+  "OrderDate": "2018-02-25",
+  "CustomerID": "WOLZA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 15,
+      "UnitPrice": 28.5
+    }
+  ]
+}

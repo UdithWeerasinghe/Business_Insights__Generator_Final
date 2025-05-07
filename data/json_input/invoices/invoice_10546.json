@@ -1,0 +1,34 @@
+{
+  "OrderID": "10546",
+  "OrderDate": "2017-05-23",
+  "CustomerID": "VICTE",
+  "CustomerDetails": {
+    "ContactName": "Mary Saveley",
+    "Address": "2, rue du Commerce",
+    "City": "Lyon",
+    "PostalCode": "69004",
+    "Country": "France",
+    "Phone": "78.32.54.86",
+    "Fax": "78.32.54.87"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 10,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 40,
+      "UnitPrice": 49.3
+    }
+  ]
+}

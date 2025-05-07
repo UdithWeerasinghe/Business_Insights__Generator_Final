@@ -1,0 +1,14 @@
+{
+  "OrderID": "10494",
+  "OrderDate": "2017-04-02",
+  "CustomerID": "COMMI",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 30.4
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "OrderID": "10376",
+  "OrderDate": "2016-12-09",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 42,
+      "UnitPrice": 10.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10292",
+  "ShippingDetails": {
+    "ShipName": "Tradiçao Hipermercados",
+    "ShipAddress": "Av. Inês de Castro, 414",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05634-030",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TRADH",
+    "CustomerName": "Tradição Hipermercados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-28",
+    "ShippedDate": "2016-09-02",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 20,
+        "UnitPrice": 64.8,
+        "Total": 1296.0
+      }
+    ],
+    "TotalPrice": 1296.0
+  }
+}

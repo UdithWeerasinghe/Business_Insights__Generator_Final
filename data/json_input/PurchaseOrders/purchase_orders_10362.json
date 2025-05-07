@@ -1,0 +1,25 @@
+{
+  "OrderID": "10362",
+  "OrderDate": "2016-11-25",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 50,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 20,
+      "UnitPrice": 42.4
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 24,
+      "UnitPrice": 5.9
+    }
+  ]
+}

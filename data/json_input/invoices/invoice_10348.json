@@ -1,0 +1,28 @@
+{
+  "OrderID": "10348",
+  "OrderDate": "2016-11-07",
+  "CustomerID": "WANDK",
+  "CustomerDetails": {
+    "ContactName": "Rita Müller",
+    "Address": "Adenauerallee 900",
+    "City": "Stuttgart",
+    "PostalCode": "70563",
+    "Country": "Germany",
+    "Phone": "0711-020361",
+    "Fax": "0711-035428"
+  },
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 15,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 25,
+      "UnitPrice": 7.2
+    }
+  ]
+}

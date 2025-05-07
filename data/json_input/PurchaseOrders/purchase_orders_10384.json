@@ -1,0 +1,19 @@
+{
+  "OrderID": "10384",
+  "OrderDate": "2016-12-16",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 28,
+      "UnitPrice": 64.8
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 15,
+      "UnitPrice": 27.2
+    }
+  ]
+}

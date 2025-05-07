@@ -1,0 +1,41 @@
+{
+  "OrderID": "10865",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-02",
+    "ShippedDate": "2018-02-12",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 60,
+        "UnitPrice": 263.5,
+        "Total": 15810.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 80,
+        "UnitPrice": 18.0,
+        "Total": 1440.0
+      }
+    ],
+    "TotalPrice": 17250.0
+  }
+}

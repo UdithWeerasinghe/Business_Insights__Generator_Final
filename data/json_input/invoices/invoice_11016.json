@@ -1,0 +1,20 @@
+{
+  "OrderID": "11016",
+  "OrderDate": "2018-04-10",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 16,
+      "UnitPrice": 19.0
+    }
+  ]
+}

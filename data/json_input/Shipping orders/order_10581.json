@@ -1,0 +1,35 @@
+{
+  "OrderID": "10581",
+  "ShippingDetails": {
+    "ShipName": "Familia Arquibaldo",
+    "ShipAddress": "Rua Orós, 92",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05442-030",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FAMIA",
+    "CustomerName": "Familia Arquibaldo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-26",
+    "ShippedDate": "2017-07-02",
+    "Products": [
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 50,
+        "UnitPrice": 7.75,
+        "Total": 387.5
+      }
+    ],
+    "TotalPrice": 387.5
+  }
+}

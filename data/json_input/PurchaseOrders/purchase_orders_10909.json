@@ -1,0 +1,25 @@
+{
+  "OrderID": "10909",
+  "OrderDate": "2018-02-26",
+  "CustomerName": "Jonas Bergulfsen",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 12,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 15,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 5,
+      "UnitPrice": 9.65
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10425",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-24",
+    "ShippedDate": "2017-02-14",
+    "Products": [
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 10,
+        "UnitPrice": 19.2,
+        "Total": 192.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 20,
+        "UnitPrice": 14.4,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 480.0
+  }
+}

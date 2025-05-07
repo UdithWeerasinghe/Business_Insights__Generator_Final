@@ -1,0 +1,13 @@
+{
+  "OrderID": "10628",
+  "OrderDate": "2017-08-12",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 25,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "OrderID": "10337",
+  "OrderDate": "2016-10-24",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 40,
+      "UnitPrice": 7.2
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 24,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 20,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "37",
+      "Product": "Gravad lax",
+      "Quantity": 28,
+      "UnitPrice": 20.8
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 25,
+      "UnitPrice": 27.8
+    }
+  ]
+}

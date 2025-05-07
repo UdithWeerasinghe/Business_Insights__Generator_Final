@@ -1,0 +1,34 @@
+{
+  "OrderID": "10852",
+  "OrderDate": "2018-01-26",
+  "CustomerID": "RATTC",
+  "CustomerDetails": {
+    "ContactName": "Paula Wilson",
+    "Address": "2817 Milton Dr.",
+    "City": "Albuquerque",
+    "PostalCode": "87110",
+    "Country": "USA",
+    "Phone": "(505) 555-5939",
+    "Fax": "(505) 555-3620"
+  },
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 15,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 6,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 50,
+      "UnitPrice": 49.3
+    }
+  ]
+}

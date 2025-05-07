@@ -1,0 +1,26 @@
+{
+  "OrderID": "10703",
+  "OrderDate": "2017-10-14",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 5,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 35,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 35,
+      "UnitPrice": 15.0
+    }
+  ]
+}

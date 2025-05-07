@@ -1,0 +1,41 @@
+{
+  "OrderID": "10344",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-01",
+    "ShippedDate": "2016-11-05",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 35,
+        "UnitPrice": 17.6,
+        "Total": 616.0
+      },
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 70,
+        "UnitPrice": 32.0,
+        "Total": 2240.0
+      }
+    ],
+    "TotalPrice": 2856.0
+  }
+}

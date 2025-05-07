@@ -1,0 +1,41 @@
+{
+  "OrderID": "10622",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-06",
+    "ShippedDate": "2017-08-11",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 18,
+        "UnitPrice": 12.5,
+        "Total": 225.0
+      }
+    ],
+    "TotalPrice": 605.0
+  }
+}

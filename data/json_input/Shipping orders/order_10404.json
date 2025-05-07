@@ -1,0 +1,47 @@
+{
+  "OrderID": "10404",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-03",
+    "ShippedDate": "2017-01-08",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 30,
+        "UnitPrice": 24.9,
+        "Total": 747.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 40,
+        "UnitPrice": 11.2,
+        "Total": 448.0
+      },
+      {
+        "Product": "Maxilaku",
+        "Quantity": 30,
+        "UnitPrice": 16.0,
+        "Total": 480.0
+      }
+    ],
+    "TotalPrice": 1675.0
+  }
+}

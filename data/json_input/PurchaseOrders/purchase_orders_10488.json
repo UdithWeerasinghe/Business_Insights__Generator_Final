@@ -1,0 +1,19 @@
+{
+  "OrderID": "10488",
+  "OrderDate": "2017-03-27",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 30,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 20,
+      "UnitPrice": 12.0
+    }
+  ]
+}

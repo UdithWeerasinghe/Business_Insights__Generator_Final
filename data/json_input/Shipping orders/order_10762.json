@@ -1,0 +1,53 @@
+{
+  "OrderID": "10762",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-02",
+    "ShippedDate": "2017-12-09",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 16,
+        "UnitPrice": 18.0,
+        "Total": 288.0
+      },
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 30,
+        "UnitPrice": 9.5,
+        "Total": 285.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 28,
+        "UnitPrice": 53.0,
+        "Total": 1484.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 60,
+        "UnitPrice": 38.0,
+        "Total": 2280.0
+      }
+    ],
+    "TotalPrice": 4337.0
+  }
+}

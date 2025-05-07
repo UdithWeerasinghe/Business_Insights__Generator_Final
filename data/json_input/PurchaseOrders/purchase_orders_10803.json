@@ -1,0 +1,25 @@
+{
+  "OrderID": "10803",
+  "OrderDate": "2017-12-30",
+  "CustomerName": "Paula Parente",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 24,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 15,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 15,
+      "UnitPrice": 55.0
+    }
+  ]
+}

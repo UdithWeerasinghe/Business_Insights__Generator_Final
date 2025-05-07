@@ -1,0 +1,19 @@
+{
+  "OrderID": "10604",
+  "OrderDate": "2017-07-18",
+  "CustomerName": "Lino Rodriguez",
+  "Products": [
+    {
+      "ProductID": "48",
+      "Product": "Chocolade",
+      "Quantity": 6,
+      "UnitPrice": 12.75
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10575",
+  "ShippingDetails": {
+    "ShipName": "Morgenstern Gesundkost",
+    "ShipAddress": "Heerstr. 22",
+    "ShipCity": "Leipzig",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "4179",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MORGK",
+    "CustomerName": "Morgenstern Gesundkost"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-20",
+    "ShippedDate": "2017-06-30",
+    "Products": [
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 12,
+        "UnitPrice": 55.0,
+        "Total": 660.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 6,
+        "UnitPrice": 43.9,
+        "Total": 263.4
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 30,
+        "UnitPrice": 34.8,
+        "Total": 1044.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 10,
+        "UnitPrice": 18.0,
+        "Total": 180.0
+      }
+    ],
+    "TotalPrice": 2147.4
+  }
+}

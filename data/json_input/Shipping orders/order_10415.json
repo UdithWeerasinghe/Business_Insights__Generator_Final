@@ -1,0 +1,41 @@
+{
+  "OrderID": "10415",
+  "ShippingDetails": {
+    "ShipName": "Hungry Coyote Import Store",
+    "ShipAddress": "City Center Plaza 516 Main St.",
+    "ShipCity": "Elgin",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97827",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "HUNGC",
+    "CustomerName": "Hungry Coyote Import Store"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-15",
+    "ShippedDate": "2017-01-24",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 2,
+        "UnitPrice": 31.2,
+        "Total": 62.4
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 20,
+        "UnitPrice": 2.0,
+        "Total": 40.0
+      }
+    ],
+    "TotalPrice": 102.4
+  }
+}

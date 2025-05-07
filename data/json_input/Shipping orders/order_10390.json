@@ -1,0 +1,53 @@
+{
+  "OrderID": "10390",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-23",
+    "ShippedDate": "2016-12-26",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 60,
+        "UnitPrice": 10.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 40,
+        "UnitPrice": 14.4,
+        "Total": 576.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 45,
+        "UnitPrice": 9.6,
+        "Total": 432.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 24,
+        "UnitPrice": 27.8,
+        "Total": 667.2
+      }
+    ],
+    "TotalPrice": 2275.2
+  }
+}

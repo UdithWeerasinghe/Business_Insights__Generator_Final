@@ -1,0 +1,41 @@
+{
+  "OrderID": "10805",
+  "ShippingDetails": {
+    "ShipName": "The Big Cheese",
+    "ShipAddress": "89 Jefferson Way Suite 2",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97201",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "THEBI",
+    "CustomerName": "The Big Cheese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-30",
+    "ShippedDate": "2018-01-09",
+    "Products": [
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 10,
+        "UnitPrice": 14.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 10,
+        "UnitPrice": 263.5,
+        "Total": 2635.0
+      }
+    ],
+    "TotalPrice": 2775.0
+  }
+}

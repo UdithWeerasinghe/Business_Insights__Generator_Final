@@ -1,0 +1,31 @@
+{
+  "OrderID": "10342",
+  "OrderDate": "2016-10-30",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "2",
+      "Product": "Chang",
+      "Quantity": 24,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 56,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 40,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 40,
+      "UnitPrice": 19.2
+    }
+  ]
+}

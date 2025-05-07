@@ -1,0 +1,34 @@
+{
+  "OrderID": "10719",
+  "OrderDate": "2017-10-27",
+  "CustomerID": "LETSS",
+  "CustomerDetails": {
+    "ContactName": "Jaime Yorres",
+    "Address": "87 Polk St. Suite 5",
+    "City": "San Francisco",
+    "PostalCode": "94117",
+    "Country": "USA",
+    "Phone": "(415) 555-5938",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 12,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 3,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 40,
+      "UnitPrice": 7.45
+    }
+  ]
+}

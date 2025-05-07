@@ -1,0 +1,37 @@
+{
+  "OrderID": "10382",
+  "OrderDate": "2016-12-13",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "5",
+      "Product": "Chef Anton's Gumbo Mix",
+      "Quantity": 32,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 9,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 14,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 60,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 50,
+      "UnitPrice": 8.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10546",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-23",
+    "ShippedDate": "2017-05-27",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 10,
+        "UnitPrice": 30.0,
+        "Total": 300.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 40,
+        "UnitPrice": 49.3,
+        "Total": 1972.0
+      }
+    ],
+    "TotalPrice": 2812.0
+  }
+}

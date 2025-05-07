@@ -1,0 +1,20 @@
+{
+  "OrderID": "10813",
+  "OrderDate": "2018-01-05",
+  "CustomerID": "RICAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 12,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 35,
+      "UnitPrice": 12.0
+    }
+  ]
+}

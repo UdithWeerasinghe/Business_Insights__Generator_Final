@@ -1,0 +1,41 @@
+{
+  "OrderID": "10510",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-18",
+    "ShippedDate": "2017-04-28",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 36,
+        "UnitPrice": 123.79,
+        "Total": 4456.4400000000005
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 36,
+        "UnitPrice": 7.75,
+        "Total": 279.0
+      }
+    ],
+    "TotalPrice": 4735.4400000000005
+  }
+}

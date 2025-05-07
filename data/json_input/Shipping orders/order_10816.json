@@ -1,0 +1,41 @@
+{
+  "OrderID": "10816",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-06",
+    "ShippedDate": "2018-02-04",
+    "Products": [
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 30,
+        "UnitPrice": 263.5,
+        "Total": 7905.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 20,
+        "UnitPrice": 49.3,
+        "Total": 986.0
+      }
+    ],
+    "TotalPrice": 8891.0
+  }
+}

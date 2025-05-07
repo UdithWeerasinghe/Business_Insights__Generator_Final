@@ -1,0 +1,41 @@
+{
+  "OrderID": "10619",
+  "ShippingDetails": {
+    "ShipName": "Mère Paillarde",
+    "ShipAddress": "43 rue St. Laurent",
+    "ShipCity": "Montréal",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "H1J 1C3",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MEREP",
+    "CustomerName": "Mère Paillarde"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-04",
+    "ShippedDate": "2017-08-07",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 42,
+        "UnitPrice": 10.0,
+        "Total": 420.0
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 40,
+        "UnitPrice": 21.0,
+        "Total": 840.0
+      }
+    ],
+    "TotalPrice": 1260.0
+  }
+}

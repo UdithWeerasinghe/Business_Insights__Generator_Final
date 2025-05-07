@@ -1,0 +1,22 @@
+{
+  "OrderID": "10883",
+  "OrderDate": "2018-02-12",
+  "CustomerID": "LONEP",
+  "CustomerDetails": {
+    "ContactName": "Fran Wilson",
+    "Address": "89 Chiaroscuro Rd.",
+    "City": "Portland",
+    "PostalCode": "97219",
+    "Country": "USA",
+    "Phone": "(503) 555-9573",
+    "Fax": "(503) 555-9646"
+  },
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 8,
+      "UnitPrice": 4.5
+    }
+  ]
+}

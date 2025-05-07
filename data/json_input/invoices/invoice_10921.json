@@ -1,0 +1,28 @@
+{
+  "OrderID": "10921",
+  "OrderDate": "2018-03-03",
+  "CustomerID": "VAFFE",
+  "CustomerDetails": {
+    "ContactName": "Palle Ibsen",
+    "Address": "Smagsloget 45",
+    "City": "Århus",
+    "PostalCode": "8200",
+    "Country": "Denmark",
+    "Phone": "86 21 32 43",
+    "Fax": "86 22 33 44"
+  },
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 40,
+      "UnitPrice": 43.9
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10609",
+  "ShippingDetails": {
+    "ShipName": "Du monde entier",
+    "ShipAddress": "67, rue des Cinquante Otages",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "DUMON",
+    "CustomerName": "Du monde entier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-24",
+    "ShippedDate": "2017-07-30",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 3,
+        "UnitPrice": 18.0,
+        "Total": 54.0
+      },
+      {
+        "Product": "Ikura",
+        "Quantity": 10,
+        "UnitPrice": 31.0,
+        "Total": 310.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 6,
+        "UnitPrice": 10.0,
+        "Total": 60.0
+      }
+    ],
+    "TotalPrice": 424.0
+  }
+}

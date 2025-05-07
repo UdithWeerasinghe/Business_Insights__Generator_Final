@@ -1,0 +1,19 @@
+{
+  "OrderID": "10860",
+  "OrderDate": "2018-01-29",
+  "CustomerName": "Carine Schmitt",
+  "Products": [
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 3,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10313",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-24",
+    "ShippedDate": "2016-10-04",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 12,
+        "UnitPrice": 15.2,
+        "Total": 182.39999999999998
+      }
+    ],
+    "TotalPrice": 182.39999999999998
+  }
+}

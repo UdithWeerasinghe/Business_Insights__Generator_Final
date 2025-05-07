@@ -1,0 +1,53 @@
+{
+  "OrderID": "10747",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-19",
+    "ShippedDate": "2017-11-26",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 8,
+        "UnitPrice": 12.5,
+        "Total": 100.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 35,
+        "UnitPrice": 9.65,
+        "Total": 337.75
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 9,
+        "UnitPrice": 43.9,
+        "Total": 395.09999999999997
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 30,
+        "UnitPrice": 36.0,
+        "Total": 1080.0
+      }
+    ],
+    "TotalPrice": 1912.85
+  }
+}

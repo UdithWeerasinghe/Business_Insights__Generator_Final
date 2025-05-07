@@ -1,0 +1,19 @@
+{
+  "OrderID": "10666",
+  "OrderDate": "2017-09-12",
+  "CustomerName": "Michael Holz",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 36,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 10,
+      "UnitPrice": 21.05
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10342",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-30",
+    "ShippedDate": "2016-11-04",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 24,
+        "UnitPrice": 15.2,
+        "Total": 364.79999999999995
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 56,
+        "UnitPrice": 10.0,
+        "Total": 560.0
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 40,
+        "UnitPrice": 15.2,
+        "Total": 608.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 40,
+        "UnitPrice": 19.2,
+        "Total": 768.0
+      }
+    ],
+    "TotalPrice": 2300.8
+  }
+}

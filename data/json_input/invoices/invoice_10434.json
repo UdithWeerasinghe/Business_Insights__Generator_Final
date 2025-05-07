@@ -1,0 +1,20 @@
+{
+  "OrderID": "10434",
+  "OrderDate": "2017-02-03",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 6,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 18,
+      "UnitPrice": 14.4
+    }
+  ]
+}

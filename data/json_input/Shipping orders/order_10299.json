@@ -1,0 +1,41 @@
+{
+  "OrderID": "10299",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-06",
+    "ShippedDate": "2016-09-13",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 15,
+        "UnitPrice": 7.3,
+        "Total": 109.5
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 20,
+        "UnitPrice": 12.0,
+        "Total": 240.0
+      }
+    ],
+    "TotalPrice": 349.5
+  }
+}

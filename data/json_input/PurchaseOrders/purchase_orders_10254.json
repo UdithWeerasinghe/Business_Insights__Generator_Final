@@ -1,0 +1,25 @@
+{
+  "OrderID": "10254",
+  "OrderDate": "2016-07-11",
+  "CustomerName": "Yang Wang",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 15,
+      "UnitPrice": 3.6
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 21,
+      "UnitPrice": 19.2
+    },
+    {
+      "ProductID": "74",
+      "Product": "Longlife Tofu",
+      "Quantity": 21,
+      "UnitPrice": 8.0
+    }
+  ]
+}

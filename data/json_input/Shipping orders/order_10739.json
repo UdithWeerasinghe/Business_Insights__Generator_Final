@@ -1,0 +1,41 @@
+{
+  "OrderID": "10739",
+  "ShippingDetails": {
+    "ShipName": "Vins et alcools Chevalier",
+    "ShipAddress": "59 rue de l-Abbaye",
+    "ShipCity": "Reims",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "51100",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VINET",
+    "CustomerName": "Vins et alcools Chevalier"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-12",
+    "ShippedDate": "2017-11-17",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 6,
+        "UnitPrice": 19.0,
+        "Total": 114.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 18,
+        "UnitPrice": 7.0,
+        "Total": 126.0
+      }
+    ],
+    "TotalPrice": 240.0
+  }
+}

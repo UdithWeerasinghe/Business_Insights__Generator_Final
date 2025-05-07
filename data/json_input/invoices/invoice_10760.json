@@ -1,0 +1,26 @@
+{
+  "OrderID": "10760",
+  "OrderDate": "2017-12-01",
+  "CustomerID": "MAISD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "25",
+      "ProductName": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 12,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "27",
+      "ProductName": "Schoggi Schokolade",
+      "Quantity": 40,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 30,
+      "UnitPrice": 46.0
+    }
+  ]
+}

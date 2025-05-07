@@ -1,0 +1,35 @@
+{
+  "OrderID": "10496",
+  "ShippingDetails": {
+    "ShipName": "Tradiçao Hipermercados",
+    "ShipAddress": "Av. Inês de Castro, 414",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05634-030",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "TRADH",
+    "CustomerName": "Tradição Hipermercados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-04",
+    "ShippedDate": "2017-04-07",
+    "Products": [
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 20,
+        "UnitPrice": 10.0,
+        "Total": 200.0
+      }
+    ],
+    "TotalPrice": 200.0
+  }
+}

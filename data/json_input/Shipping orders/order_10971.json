@@ -1,0 +1,35 @@
+{
+  "OrderID": "10971",
+  "ShippingDetails": {
+    "ShipName": "France restauration",
+    "ShipAddress": "54, rue Royale",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANR",
+    "CustomerName": "France restauration"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-24",
+    "ShippedDate": "2018-04-02",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 14,
+        "UnitPrice": 123.79,
+        "Total": 1733.0600000000002
+      }
+    ],
+    "TotalPrice": 1733.0600000000002
+  }
+}

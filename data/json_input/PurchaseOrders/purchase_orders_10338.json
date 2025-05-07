@@ -1,0 +1,19 @@
+{
+  "OrderID": "10338",
+  "OrderDate": "2016-10-25",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 20,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 20.7
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10746",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-19",
+    "ShippedDate": "2017-11-21",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 6,
+        "UnitPrice": 6.0,
+        "Total": 36.0
+      },
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 28,
+        "UnitPrice": 14.0,
+        "Total": 392.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 9,
+        "UnitPrice": 49.3,
+        "Total": 443.7
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 40,
+        "UnitPrice": 36.0,
+        "Total": 1440.0
+      }
+    ],
+    "TotalPrice": 2311.7
+  }
+}

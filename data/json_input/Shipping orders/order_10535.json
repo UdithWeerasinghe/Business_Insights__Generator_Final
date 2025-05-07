@@ -1,0 +1,53 @@
+{
+  "OrderID": "10535",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-13",
+    "ShippedDate": "2017-05-21",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 50,
+        "UnitPrice": 21.0,
+        "Total": 1050.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 10,
+        "UnitPrice": 18.4,
+        "Total": 184.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 5,
+        "UnitPrice": 19.5,
+        "Total": 97.5
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 15,
+        "UnitPrice": 55.0,
+        "Total": 825.0
+      }
+    ],
+    "TotalPrice": 2156.5
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10917",
+  "OrderDate": "2018-03-02",
+  "CustomerID": "ROMEY",
+  "CustomerDetails": {
+    "ContactName": "Alejandra Camino",
+    "Address": "Gran Vía, 1",
+    "City": "Madrid",
+    "PostalCode": "28001",
+    "Country": "Spain",
+    "Phone": "(91) 745 6200",
+    "Fax": "(91) 745 6210"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 1,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 10,
+      "UnitPrice": 34.0
+    }
+  ]
+}

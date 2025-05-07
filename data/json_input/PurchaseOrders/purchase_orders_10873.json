@@ -1,0 +1,19 @@
+{
+  "OrderID": "10873",
+  "OrderDate": "2018-02-06",
+  "CustomerName": "Matti Karttunen",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 3,
+      "UnitPrice": 45.6
+    }
+  ]
+}

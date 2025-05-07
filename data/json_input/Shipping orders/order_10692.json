@@ -1,0 +1,35 @@
+{
+  "OrderID": "10692",
+  "ShippingDetails": {
+    "ShipName": "Alfred-s Futterkiste",
+    "ShipAddress": "Obere Str. 57",
+    "ShipCity": "Berlin",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "12209",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ALFKI",
+    "CustomerName": "Alfreds Futterkiste"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-03",
+    "ShippedDate": "2017-10-13",
+    "Products": [
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 20,
+        "UnitPrice": 43.9,
+        "Total": 878.0
+      }
+    ],
+    "TotalPrice": 878.0
+  }
+}

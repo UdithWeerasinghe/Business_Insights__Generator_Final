@@ -1,0 +1,35 @@
+{
+  "OrderID": "10963",
+  "ShippingDetails": {
+    "ShipName": "Furia Bacalhau e Frutos do Mar",
+    "ShipAddress": "Jardim das rosas n. 32",
+    "ShipCity": "Lisboa",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "1675",
+    "ShipCountry": "Portugal"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FURIB",
+    "CustomerName": "Furia Bacalhau e Frutos do Mar"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-19",
+    "ShippedDate": "2018-03-26",
+    "Products": [
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 2,
+        "UnitPrice": 34.0,
+        "Total": 68.0
+      }
+    ],
+    "TotalPrice": 68.0
+  }
+}

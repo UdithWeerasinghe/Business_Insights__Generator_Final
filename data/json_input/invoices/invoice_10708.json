@@ -1,0 +1,28 @@
+{
+  "OrderID": "10708",
+  "OrderDate": "2017-10-17",
+  "CustomerID": "THEBI",
+  "CustomerDetails": {
+    "ContactName": "Liz Nixon",
+    "Address": "89 Jefferson Way Suite 2",
+    "City": "Portland",
+    "PostalCode": "97201",
+    "Country": "USA",
+    "Phone": "(503) 555-3612",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 4,
+      "UnitPrice": 21.35
+    },
+    {
+      "ProductID": "36",
+      "ProductName": "Inlagd Sill",
+      "Quantity": 5,
+      "UnitPrice": 19.0
+    }
+  ]
+}

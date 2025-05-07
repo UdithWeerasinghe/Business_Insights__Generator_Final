@@ -1,0 +1,25 @@
+{
+  "OrderID": "10587",
+  "OrderDate": "2017-07-02",
+  "CustomerName": "Bernardo Batista",
+  "Products": [
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 6,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 20,
+      "UnitPrice": 13.0
+    }
+  ]
+}

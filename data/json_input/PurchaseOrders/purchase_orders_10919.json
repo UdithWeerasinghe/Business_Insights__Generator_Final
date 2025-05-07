@@ -1,0 +1,25 @@
+{
+  "OrderID": "10919",
+  "OrderDate": "2018-03-02",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 24,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 24,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 20,
+      "UnitPrice": 18.4
+    }
+  ]
+}

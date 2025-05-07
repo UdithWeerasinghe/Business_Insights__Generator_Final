@@ -1,0 +1,19 @@
+{
+  "OrderID": "10265",
+  "OrderDate": "2016-07-25",
+  "CustomerName": "Frédérique Citeaux",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 30,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 20,
+      "UnitPrice": 12.0
+    }
+  ]
+}

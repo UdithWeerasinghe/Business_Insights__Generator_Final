@@ -1,0 +1,41 @@
+{
+  "OrderID": "10779",
+  "ShippingDetails": {
+    "ShipName": "Morgenstern Gesundkost",
+    "ShipAddress": "Heerstr. 22",
+    "ShipCity": "Leipzig",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "4179",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MORGK",
+    "CustomerName": "Morgenstern Gesundkost"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-16",
+    "ShippedDate": "2018-01-14",
+    "Products": [
+      {
+        "Product": "Pavlova",
+        "Quantity": 20,
+        "UnitPrice": 17.45,
+        "Total": 349.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 20,
+        "UnitPrice": 49.3,
+        "Total": 986.0
+      }
+    ],
+    "TotalPrice": 1335.0
+  }
+}

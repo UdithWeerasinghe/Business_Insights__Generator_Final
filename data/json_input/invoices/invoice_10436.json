@@ -1,0 +1,40 @@
+{
+  "OrderID": "10436",
+  "OrderDate": "2017-02-05",
+  "CustomerID": "BLONP",
+  "CustomerDetails": {
+    "ContactName": "Frédérique Citeaux",
+    "Address": "24, place Kléber",
+    "City": "Strasbourg",
+    "PostalCode": "67000",
+    "Country": "France",
+    "Phone": "88.60.15.31",
+    "Fax": "88.60.15.32"
+  },
+  "Products": [
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 5,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 40,
+      "UnitPrice": 30.4
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 26.6
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 24,
+      "UnitPrice": 6.2
+    }
+  ]
+}

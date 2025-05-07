@@ -1,0 +1,34 @@
+{
+  "OrderID": "10638",
+  "OrderDate": "2017-08-20",
+  "CustomerID": "LINOD",
+  "CustomerDetails": {
+    "ContactName": "Felipe Izquierdo",
+    "Address": "Ave. 5 de Mayo Porlamar",
+    "City": "I. de Margarita",
+    "PostalCode": "4980",
+    "Country": "Venezuela",
+    "Phone": "(8) 34-56-12",
+    "Fax": "(8) 34-93-93"
+  },
+  "Products": [
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 20,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 21,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 60,
+      "UnitPrice": 34.8
+    }
+  ]
+}

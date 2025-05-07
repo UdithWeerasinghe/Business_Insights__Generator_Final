@@ -1,0 +1,35 @@
+{
+  "OrderID": "10628",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-12",
+    "ShippedDate": "2017-08-20",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 25,
+        "UnitPrice": 18.0,
+        "Total": 450.0
+      }
+    ],
+    "TotalPrice": 450.0
+  }
+}

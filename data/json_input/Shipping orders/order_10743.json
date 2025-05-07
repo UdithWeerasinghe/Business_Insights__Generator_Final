@@ -1,0 +1,35 @@
+{
+  "OrderID": "10743",
+  "ShippingDetails": {
+    "ShipName": "Around the Horn",
+    "ShipAddress": "Brook Farm Stratford St. Mary",
+    "ShipCity": "Colchester",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "CO7 6JX",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "AROUT",
+    "CustomerName": "Around the Horn"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-17",
+    "ShippedDate": "2017-11-21",
+    "Products": [
+      {
+        "Product": "Spegesild",
+        "Quantity": 28,
+        "UnitPrice": 12.0,
+        "Total": 336.0
+      }
+    ],
+    "TotalPrice": 336.0
+  }
+}

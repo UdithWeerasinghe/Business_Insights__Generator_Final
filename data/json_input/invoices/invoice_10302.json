@@ -1,0 +1,26 @@
+{
+  "OrderID": "10302",
+  "OrderDate": "2016-09-10",
+  "CustomerID": "SUPRD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 40,
+      "UnitPrice": 31.2
+    },
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 28,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 12,
+      "UnitPrice": 36.8
+    }
+  ]
+}

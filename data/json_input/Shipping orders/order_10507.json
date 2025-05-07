@@ -1,0 +1,41 @@
+{
+  "OrderID": "10507",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-15",
+    "ShippedDate": "2017-04-22",
+    "Products": [
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 15,
+        "UnitPrice": 46.0,
+        "Total": 690.0
+      },
+      {
+        "Product": "Chocolade",
+        "Quantity": 15,
+        "UnitPrice": 12.75,
+        "Total": 191.25
+      }
+    ],
+    "TotalPrice": 881.25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10786",
+  "OrderDate": "2017-12-19",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "8",
+      "ProductName": "Northwoods Cranberry Sauce",
+      "Quantity": 30,
+      "UnitPrice": 40.0
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 42,
+      "UnitPrice": 7.75
+    }
+  ]
+}

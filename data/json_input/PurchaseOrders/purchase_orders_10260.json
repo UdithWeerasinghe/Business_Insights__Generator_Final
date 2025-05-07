@@ -1,0 +1,31 @@
+{
+  "OrderID": "10260",
+  "OrderDate": "2016-07-19",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 16,
+      "UnitPrice": 7.7
+    },
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 50,
+      "UnitPrice": 15.6
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 39.4
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 21,
+      "UnitPrice": 12.0
+    }
+  ]
+}

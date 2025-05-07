@@ -1,0 +1,25 @@
+{
+  "OrderID": "10638",
+  "OrderDate": "2017-08-20",
+  "CustomerName": "Felipe Izquierdo",
+  "Products": [
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 20,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "65",
+      "Product": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 21,
+      "UnitPrice": 21.05
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 60,
+      "UnitPrice": 34.8
+    }
+  ]
+}

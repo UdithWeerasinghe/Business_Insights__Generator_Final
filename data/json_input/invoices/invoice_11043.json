@@ -1,0 +1,22 @@
+{
+  "OrderID": "11043",
+  "OrderDate": "2018-04-22",
+  "CustomerID": "SPECD",
+  "CustomerDetails": {
+    "ContactName": "Dominique Perrier",
+    "Address": "25, rue Lauriston",
+    "City": "Paris",
+    "PostalCode": "75016",
+    "Country": "France",
+    "Phone": "(1) 47.55.60.10",
+    "Fax": "(1) 47.55.60.20"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    }
+  ]
+}

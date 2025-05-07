@@ -1,0 +1,19 @@
+{
+  "OrderID": "10448",
+  "OrderDate": "2017-02-17",
+  "CustomerName": "Sergio Gutiérrez",
+  "Products": [
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 6,
+      "UnitPrice": 24.9
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 20,
+      "UnitPrice": 14.7
+    }
+  ]
+}

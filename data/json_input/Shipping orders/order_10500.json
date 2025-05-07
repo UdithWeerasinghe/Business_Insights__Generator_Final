@@ -1,0 +1,41 @@
+{
+  "OrderID": "10500",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-09",
+    "ShippedDate": "2017-04-17",
+    "Products": [
+      {
+        "Product": "Genen Shouyu",
+        "Quantity": 12,
+        "UnitPrice": 15.5,
+        "Total": 186.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 8,
+        "UnitPrice": 45.6,
+        "Total": 364.8
+      }
+    ],
+    "TotalPrice": 550.8
+  }
+}

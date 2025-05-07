@@ -1,0 +1,41 @@
+{
+  "OrderID": "10640",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-21",
+    "ShippedDate": "2017-08-28",
+    "Products": [
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 20,
+        "UnitPrice": 36.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 15,
+        "UnitPrice": 15.0,
+        "Total": 225.0
+      }
+    ],
+    "TotalPrice": 945.0
+  }
+}

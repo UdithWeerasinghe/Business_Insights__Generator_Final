@@ -1,0 +1,40 @@
+{
+  "OrderID": "10842",
+  "OrderDate": "2018-01-20",
+  "CustomerID": "TORTU",
+  "CustomerDetails": {
+    "ContactName": "Miguel Angel Paolino",
+    "Address": "Avda. Azteca 123",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 555-2933",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 15,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "43",
+      "ProductName": "Ipoh Coffee",
+      "Quantity": 5,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 12,
+      "UnitPrice": 15.0
+    }
+  ]
+}

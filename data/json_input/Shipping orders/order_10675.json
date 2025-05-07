@@ -1,0 +1,47 @@
+{
+  "OrderID": "10675",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-19",
+    "ShippedDate": "2017-09-23",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 30,
+        "UnitPrice": 23.25,
+        "Total": 697.5
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 10,
+        "UnitPrice": 32.8,
+        "Total": 328.0
+      },
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 30,
+        "UnitPrice": 13.25,
+        "Total": 397.5
+      }
+    ],
+    "TotalPrice": 1423.0
+  }
+}

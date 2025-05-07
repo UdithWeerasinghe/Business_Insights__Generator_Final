@@ -1,0 +1,35 @@
+{
+  "OrderID": "10392",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-24",
+    "ShippedDate": "2017-01-01",
+    "Products": [
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 50,
+        "UnitPrice": 28.8,
+        "Total": 1440.0
+      }
+    ],
+    "TotalPrice": 1440.0
+  }
+}

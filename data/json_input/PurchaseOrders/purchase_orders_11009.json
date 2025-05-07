@@ -1,0 +1,25 @@
+{
+  "OrderID": "11009",
+  "OrderDate": "2018-04-08",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 12,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 18,
+      "UnitPrice": 19.0
+    },
+    {
+      "ProductID": "60",
+      "Product": "Camembert Pierrot",
+      "Quantity": 9,
+      "UnitPrice": 34.0
+    }
+  ]
+}

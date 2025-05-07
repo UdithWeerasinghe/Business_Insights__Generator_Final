@@ -1,0 +1,32 @@
+{
+  "OrderID": "10977",
+  "OrderDate": "2018-03-26",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "47",
+      "ProductName": "Zaanse koeken",
+      "Quantity": 30,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 10,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 20,
+      "UnitPrice": 43.9
+    }
+  ]
+}

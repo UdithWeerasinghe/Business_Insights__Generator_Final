@@ -1,0 +1,41 @@
+{
+  "OrderID": "10945",
+  "ShippingDetails": {
+    "ShipName": "Morgenstern Gesundkost",
+    "ShipAddress": "Heerstr. 22",
+    "ShipCity": "Leipzig",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "4179",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MORGK",
+    "CustomerName": "Morgenstern Gesundkost"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-12",
+    "ShippedDate": "2018-03-18",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 20,
+        "UnitPrice": 6.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Gorgonzola Telino",
+        "Quantity": 10,
+        "UnitPrice": 12.5,
+        "Total": 125.0
+      }
+    ],
+    "TotalPrice": 245.0
+  }
+}

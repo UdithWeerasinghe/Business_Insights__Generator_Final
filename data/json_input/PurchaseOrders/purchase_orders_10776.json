@@ -1,0 +1,31 @@
+{
+  "OrderID": "10776",
+  "OrderDate": "2017-12-15",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 16,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 12,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 27,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 120,
+      "UnitPrice": 53.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10755",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-26",
+    "ShippedDate": "2017-11-28",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 30,
+        "UnitPrice": 9.5,
+        "Total": 285.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 30,
+        "UnitPrice": 38.0,
+        "Total": 1140.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 14,
+        "UnitPrice": 19.5,
+        "Total": 273.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 25,
+        "UnitPrice": 36.0,
+        "Total": 900.0
+      }
+    ],
+    "TotalPrice": 2598.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "11022",
+  "OrderDate": "2018-04-14",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 35,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 30,
+      "UnitPrice": 36.0
+    }
+  ]
+}

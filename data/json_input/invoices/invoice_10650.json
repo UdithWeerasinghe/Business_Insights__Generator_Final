@@ -1,0 +1,26 @@
+{
+  "OrderID": "10650",
+  "OrderDate": "2017-08-29",
+  "CustomerID": "FAMIA",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 30,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 25,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 30,
+      "UnitPrice": 7.45
+    }
+  ]
+}

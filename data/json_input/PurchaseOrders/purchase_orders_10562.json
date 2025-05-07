@@ -1,0 +1,19 @@
+{
+  "OrderID": "10562",
+  "OrderDate": "2017-06-09",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 20,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 49.3
+    }
+  ]
+}

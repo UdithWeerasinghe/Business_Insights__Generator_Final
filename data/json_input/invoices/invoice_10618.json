@@ -1,0 +1,26 @@
+{
+  "OrderID": "10618",
+  "OrderDate": "2017-08-01",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "6",
+      "ProductName": "Grandma's Boysenberry Spread",
+      "Quantity": 70,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "56",
+      "ProductName": "Gnocchi di nonna Alice",
+      "Quantity": 20,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10858",
+  "OrderDate": "2018-01-29",
+  "CustomerName": "Daniel Tonini",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 5,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "27",
+      "Product": "Schoggi Schokolade",
+      "Quantity": 10,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 4,
+      "UnitPrice": 15.0
+    }
+  ]
+}

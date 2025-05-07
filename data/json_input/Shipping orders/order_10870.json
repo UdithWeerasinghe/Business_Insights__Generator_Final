@@ -1,0 +1,41 @@
+{
+  "OrderID": "10870",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-04",
+    "ShippedDate": "2018-02-13",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 3,
+        "UnitPrice": 18.0,
+        "Total": 54.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 2,
+        "UnitPrice": 53.0,
+        "Total": 106.0
+      }
+    ],
+    "TotalPrice": 160.0
+  }
+}

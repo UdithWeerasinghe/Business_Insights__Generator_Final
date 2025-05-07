@@ -1,0 +1,41 @@
+{
+  "OrderID": "10434",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-03",
+    "ShippedDate": "2017-02-13",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 6,
+        "UnitPrice": 16.8,
+        "Total": 100.80000000000001
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 18,
+        "UnitPrice": 14.4,
+        "Total": 259.2
+      }
+    ],
+    "TotalPrice": 360.0
+  }
+}

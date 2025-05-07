@@ -1,0 +1,25 @@
+{
+  "OrderID": "10567",
+  "OrderDate": "2017-06-12",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 60,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 3,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 40,
+      "UnitPrice": 55.0
+    }
+  ]
+}

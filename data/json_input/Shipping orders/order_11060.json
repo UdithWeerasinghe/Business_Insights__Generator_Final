@@ -1,0 +1,41 @@
+{
+  "OrderID": "11060",
+  "ShippingDetails": {
+    "ShipName": "Franchi S.p.A.",
+    "ShipAddress": "Via Monte Bianco 34",
+    "ShipCity": "Torino",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "10100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANS",
+    "CustomerName": "Franchi S.p.A."
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-30",
+    "ShippedDate": "2018-05-04",
+    "Products": [
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 4,
+        "UnitPrice": 34.0,
+        "Total": 136.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 10,
+        "UnitPrice": 13.0,
+        "Total": 130.0
+      }
+    ],
+    "TotalPrice": 266.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10563",
+  "ShippingDetails": {
+    "ShipName": "Ricardo Adocicados",
+    "ShipAddress": "Av. Copacabana, 267",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-890",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICAR",
+    "CustomerName": "Ricardo Adocicados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-10",
+    "ShippedDate": "2017-06-24",
+    "Products": [
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 25,
+        "UnitPrice": 19.0,
+        "Total": 475.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 70,
+        "UnitPrice": 7.0,
+        "Total": 490.0
+      }
+    ],
+    "TotalPrice": 965.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10806",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-31",
+    "ShippedDate": "2018-01-05",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 19.0,
+        "Total": 380.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 2,
+        "UnitPrice": 21.05,
+        "Total": 42.1
+      },
+      {
+        "Product": "Longlife Tofu",
+        "Quantity": 15,
+        "UnitPrice": 10.0,
+        "Total": 150.0
+      }
+    ],
+    "TotalPrice": 572.1
+  }
+}

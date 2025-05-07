@@ -1,0 +1,28 @@
+{
+  "OrderID": "10636",
+  "OrderDate": "2017-08-19",
+  "CustomerID": "WARTH",
+  "CustomerDetails": {
+    "ContactName": "Pirkko Koskitalo",
+    "Address": "Torikatu 38",
+    "City": "Oulu",
+    "PostalCode": "90110",
+    "Country": "Finland",
+    "Phone": "981-443655",
+    "Fax": "981-443655"
+  },
+  "Products": [
+    {
+      "ProductID": "4",
+      "ProductName": "Chef Anton's Cajun Seasoning",
+      "Quantity": 25,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 6,
+      "UnitPrice": 13.25
+    }
+  ]
+}

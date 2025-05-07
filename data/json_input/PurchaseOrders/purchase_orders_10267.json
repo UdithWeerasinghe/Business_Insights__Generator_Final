@@ -1,0 +1,25 @@
+{
+  "OrderID": "10267",
+  "OrderDate": "2016-07-29",
+  "CustomerName": "Peter Franken",
+  "Products": [
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 50,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 70,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 15,
+      "UnitPrice": 14.4
+    }
+  ]
+}

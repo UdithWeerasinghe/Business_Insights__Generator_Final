@@ -1,0 +1,19 @@
+{
+  "OrderID": "10508",
+  "OrderDate": "2017-04-16",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 10,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

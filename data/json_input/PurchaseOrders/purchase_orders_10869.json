@@ -1,0 +1,31 @@
+{
+  "OrderID": "10869",
+  "OrderDate": "2018-02-04",
+  "CustomerName": "Hari Kumar",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 40,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 50,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "68",
+      "Product": "Scottish Longbreads",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    }
+  ]
+}

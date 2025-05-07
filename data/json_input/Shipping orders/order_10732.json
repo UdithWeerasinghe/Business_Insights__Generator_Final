@@ -1,0 +1,35 @@
+{
+  "OrderID": "10732",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-06",
+    "ShippedDate": "2017-11-07",
+    "Products": [
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 360.0
+  }
+}

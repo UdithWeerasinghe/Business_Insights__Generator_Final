@@ -1,0 +1,13 @@
+{
+  "OrderID": "10295",
+  "OrderDate": "2016-09-02",
+  "CustomerName": "Paul Henriot",
+  "Products": [
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 4,
+      "UnitPrice": 30.4
+    }
+  ]
+}

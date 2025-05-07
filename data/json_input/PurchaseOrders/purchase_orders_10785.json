@@ -1,0 +1,19 @@
+{
+  "OrderID": "10785",
+  "OrderDate": "2017-12-18",
+  "CustomerName": "Manuel Pereira",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 10,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 10,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10860",
+  "ShippingDetails": {
+    "ShipName": "France restauration",
+    "ShipAddress": "54, rue Royale",
+    "ShipCity": "Nantes",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "44000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANR",
+    "CustomerName": "France restauration"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-29",
+    "ShippedDate": "2018-02-04",
+    "Products": [
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 3,
+        "UnitPrice": 53.0,
+        "Total": 159.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 519.0
+  }
+}

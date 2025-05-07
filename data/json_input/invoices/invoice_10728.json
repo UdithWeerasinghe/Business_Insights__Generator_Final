@@ -1,0 +1,32 @@
+{
+  "OrderID": "10728",
+  "OrderDate": "2017-11-04",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 15,
+      "UnitPrice": 25.89
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 6,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 12,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 15,
+      "UnitPrice": 34.0
+    }
+  ]
+}

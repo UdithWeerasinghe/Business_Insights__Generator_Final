@@ -1,0 +1,40 @@
+{
+  "OrderID": "10367",
+  "OrderDate": "2016-11-28",
+  "CustomerID": "VAFFE",
+  "CustomerDetails": {
+    "ContactName": "Palle Ibsen",
+    "Address": "Smagsloget 45",
+    "City": "Århus",
+    "PostalCode": "8200",
+    "Country": "Denmark",
+    "Phone": "86 21 32 43",
+    "Fax": "86 22 33 44"
+  },
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 36,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 18,
+      "UnitPrice": 5.9
+    },
+    {
+      "ProductID": "65",
+      "ProductName": "Louisiana Fiery Hot Pepper Sauce",
+      "Quantity": 15,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 7,
+      "UnitPrice": 10.4
+    }
+  ]
+}

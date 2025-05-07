@@ -1,0 +1,41 @@
+{
+  "OrderID": "10419",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-20",
+    "ShippedDate": "2017-01-30",
+    "Products": [
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 60,
+        "UnitPrice": 27.2,
+        "Total": 1632.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 20,
+        "UnitPrice": 28.8,
+        "Total": 576.0
+      }
+    ],
+    "TotalPrice": 2208.0
+  }
+}

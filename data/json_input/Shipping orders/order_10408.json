@@ -1,0 +1,47 @@
+{
+  "OrderID": "10408",
+  "ShippingDetails": {
+    "ShipName": "Folies gourmandes",
+    "ShipAddress": "184, chaussée de Tournai",
+    "ShipCity": "Lille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "59000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLIG",
+    "CustomerName": "Folies gourmandes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-08",
+    "ShippedDate": "2017-01-14",
+    "Products": [
+      {
+        "Product": "Gravad lax",
+        "Quantity": 10,
+        "UnitPrice": 20.8,
+        "Total": 208.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 6,
+        "UnitPrice": 5.9,
+        "Total": 35.400000000000006
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 35,
+        "UnitPrice": 39.4,
+        "Total": 1379.0
+      }
+    ],
+    "TotalPrice": 1622.4
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "11050",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-27",
+    "ShippedDate": "2018-05-05",
+    "Products": [
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 50,
+        "UnitPrice": 18.0,
+        "Total": 900.0
+      }
+    ],
+    "TotalPrice": 900.0
+  }
+}

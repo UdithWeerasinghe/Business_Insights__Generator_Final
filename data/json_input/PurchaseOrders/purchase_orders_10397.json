@@ -1,0 +1,19 @@
+{
+  "OrderID": "10397",
+  "OrderDate": "2016-12-27",
+  "CustomerName": "Isabel de Castro",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 10,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 18,
+      "UnitPrice": 42.4
+    }
+  ]
+}

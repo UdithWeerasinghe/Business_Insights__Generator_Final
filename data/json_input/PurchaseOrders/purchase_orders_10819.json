@@ -1,0 +1,19 @@
+{
+  "OrderID": "10819",
+  "OrderDate": "2018-01-07",
+  "CustomerName": "Patricio Simpson",
+  "Products": [
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 7,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    }
+  ]
+}

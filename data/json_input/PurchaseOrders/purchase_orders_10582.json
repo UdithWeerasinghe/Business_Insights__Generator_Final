@@ -1,0 +1,19 @@
+{
+  "OrderID": "10582",
+  "OrderDate": "2017-06-27",
+  "CustomerName": "Hanna Moos",
+  "Products": [
+    {
+      "ProductID": "57",
+      "Product": "Ravioli Angelo",
+      "Quantity": 4,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 14,
+      "UnitPrice": 18.0
+    }
+  ]
+}

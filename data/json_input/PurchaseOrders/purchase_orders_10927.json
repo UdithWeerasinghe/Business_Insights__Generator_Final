@@ -1,0 +1,25 @@
+{
+  "OrderID": "10927",
+  "OrderDate": "2018-03-05",
+  "CustomerName": "Daniel Tonini",
+  "Products": [
+    {
+      "ProductID": "20",
+      "Product": "Sir Rodney's Marmalade",
+      "Quantity": 5,
+      "UnitPrice": 81.0
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 5,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

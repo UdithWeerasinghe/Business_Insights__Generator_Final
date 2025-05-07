@@ -1,0 +1,35 @@
+{
+  "OrderID": "10586",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-02",
+    "ShippedDate": "2017-07-09",
+    "Products": [
+      {
+        "Product": "Filo Mix",
+        "Quantity": 4,
+        "UnitPrice": 7.0,
+        "Total": 28.0
+      }
+    ],
+    "TotalPrice": 28.0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10837",
+  "OrderDate": "2018-01-16",
+  "CustomerName": "Christina Berglund",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 6,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 25,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 40,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    }
+  ]
+}

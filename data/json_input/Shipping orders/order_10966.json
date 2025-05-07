@@ -1,0 +1,47 @@
+{
+  "OrderID": "10966",
+  "ShippingDetails": {
+    "ShipName": "Chop-suey Chinese",
+    "ShipAddress": "Hauptstr. 31",
+    "ShipCity": "Bern",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "3012",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "CHOPS",
+    "CustomerName": "Chop-suey Chinese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-20",
+    "ShippedDate": "2018-04-08",
+    "Products": [
+      {
+        "Product": "Gravad lax",
+        "Quantity": 8,
+        "UnitPrice": 26.0,
+        "Total": 208.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 12,
+        "UnitPrice": 38.0,
+        "Total": 456.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 12,
+        "UnitPrice": 49.3,
+        "Total": 591.5999999999999
+      }
+    ],
+    "TotalPrice": 1255.6
+  }
+}

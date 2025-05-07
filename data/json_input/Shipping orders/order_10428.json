@@ -1,0 +1,35 @@
+{
+  "OrderID": "10428",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-28",
+    "ShippedDate": "2017-02-04",
+    "Products": [
+      {
+        "Product": "Spegesild",
+        "Quantity": 20,
+        "UnitPrice": 9.6,
+        "Total": 192.0
+      }
+    ],
+    "TotalPrice": 192.0
+  }
+}

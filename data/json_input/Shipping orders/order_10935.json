@@ -1,0 +1,47 @@
+{
+  "OrderID": "10935",
+  "ShippingDetails": {
+    "ShipName": "Wellington Importadora",
+    "ShipAddress": "Rua do Mercado, 12",
+    "ShipCity": "Resende",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "08737-363",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WELLI",
+    "CustomerName": "Wellington Importadora"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-09",
+    "ShippedDate": "2018-03-18",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 21,
+        "UnitPrice": 18.0,
+        "Total": 378.0
+      },
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 4,
+        "UnitPrice": 62.5,
+        "Total": 250.0
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 8,
+        "UnitPrice": 9.0,
+        "Total": 72.0
+      }
+    ],
+    "TotalPrice": 700.0
+  }
+}

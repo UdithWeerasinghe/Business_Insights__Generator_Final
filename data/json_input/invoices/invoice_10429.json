@@ -1,0 +1,20 @@
+{
+  "OrderID": "10429",
+  "OrderDate": "2017-01-29",
+  "CustomerID": "HUNGO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 40,
+      "UnitPrice": 13.0
+    },
+    {
+      "ProductID": "63",
+      "ProductName": "Vegie-spread",
+      "Quantity": 35,
+      "UnitPrice": 35.1
+    }
+  ]
+}

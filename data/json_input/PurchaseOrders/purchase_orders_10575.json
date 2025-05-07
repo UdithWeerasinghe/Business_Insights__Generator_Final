@@ -1,0 +1,31 @@
+{
+  "OrderID": "10575",
+  "OrderDate": "2017-06-20",
+  "CustomerName": "Alexander Feuer",
+  "Products": [
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 12,
+      "UnitPrice": 55.0
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 6,
+      "UnitPrice": 43.9
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 30,
+      "UnitPrice": 34.8
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

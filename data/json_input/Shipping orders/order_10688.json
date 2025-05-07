@@ -1,0 +1,47 @@
+{
+  "OrderID": "10688",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-01",
+    "ShippedDate": "2017-10-07",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 18,
+        "UnitPrice": 31.0,
+        "Total": 558.0
+      },
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 60,
+        "UnitPrice": 45.6,
+        "Total": 2736.0
+      },
+      {
+        "Product": "Sasquatch Ale",
+        "Quantity": 14,
+        "UnitPrice": 14.0,
+        "Total": 196.0
+      }
+    ],
+    "TotalPrice": 3490.0
+  }
+}

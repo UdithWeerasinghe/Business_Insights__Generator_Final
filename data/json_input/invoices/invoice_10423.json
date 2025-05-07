@@ -1,0 +1,20 @@
+{
+  "OrderID": "10423",
+  "OrderDate": "2017-01-23",
+  "CustomerID": "GOURL",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 14,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 20,
+      "UnitPrice": 44.0
+    }
+  ]
+}

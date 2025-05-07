@@ -1,0 +1,19 @@
+{
+  "OrderID": "10579",
+  "OrderDate": "2017-06-25",
+  "CustomerName": "Jaime Yorres",
+  "Products": [
+    {
+      "ProductID": "15",
+      "Product": "Genen Shouyu",
+      "Quantity": 10,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 21,
+      "UnitPrice": 7.75
+    }
+  ]
+}

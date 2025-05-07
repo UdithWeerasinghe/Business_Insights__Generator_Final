@@ -1,0 +1,34 @@
+{
+  "OrderID": "10407",
+  "OrderDate": "2017-01-07",
+  "CustomerID": "OTTIK",
+  "CustomerDetails": {
+    "ContactName": "Henriette Pfalzheim",
+    "Address": "Mehrheimerstr. 369",
+    "City": "Köln",
+    "PostalCode": "50739",
+    "Country": "Germany",
+    "Phone": "0221-0644327",
+    "Fax": "0221-0765721"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 30,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 15,
+      "UnitPrice": 28.8
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 15,
+      "UnitPrice": 17.2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10832",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-14",
+    "ShippedDate": "2018-01-19",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 3,
+        "UnitPrice": 6.0,
+        "Total": 18.0
+      },
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 10,
+        "UnitPrice": 14.0,
+        "Total": 140.0
+      },
+      {
+        "Product": "Gula Malacca",
+        "Quantity": 16,
+        "UnitPrice": 19.45,
+        "Total": 311.2
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 3,
+        "UnitPrice": 33.25,
+        "Total": 99.75
+      }
+    ],
+    "TotalPrice": 568.95
+  }
+}

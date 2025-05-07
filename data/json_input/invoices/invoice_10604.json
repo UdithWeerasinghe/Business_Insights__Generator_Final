@@ -1,0 +1,28 @@
+{
+  "OrderID": "10604",
+  "OrderDate": "2017-07-18",
+  "CustomerID": "FURIB",
+  "CustomerDetails": {
+    "ContactName": "Lino Rodriguez",
+    "Address": "Jardim das rosas n. 32",
+    "City": "Lisboa",
+    "PostalCode": "1675",
+    "Country": "Portugal",
+    "Phone": "(1) 354-2534",
+    "Fax": "(1) 354-2535"
+  },
+  "Products": [
+    {
+      "ProductID": "48",
+      "ProductName": "Chocolade",
+      "Quantity": 6,
+      "UnitPrice": 12.75
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10363",
+  "OrderDate": "2016-11-26",
+  "CustomerID": "DRACD",
+  "CustomerDetails": {
+    "ContactName": "Sven Ottlieb",
+    "Address": "Walserweg 21",
+    "City": "Aachen",
+    "PostalCode": "52066",
+    "Country": "Germany",
+    "Phone": "0241-039123",
+    "Fax": "0241-059428"
+  },
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 12,
+      "UnitPrice": 6.2
+    },
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 12,
+      "UnitPrice": 14.4
+    }
+  ]
+}

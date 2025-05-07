@@ -1,0 +1,19 @@
+{
+  "OrderID": "10864",
+  "OrderDate": "2018-02-02",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 4,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "67",
+      "Product": "Laughing Lumberjack Lager",
+      "Quantity": 15,
+      "UnitPrice": 14.0
+    }
+  ]
+}

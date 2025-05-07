@@ -1,0 +1,47 @@
+{
+  "OrderID": "10596",
+  "ShippingDetails": {
+    "ShipName": "White Clover Markets",
+    "ShipAddress": "1029 - 12th Ave. S.",
+    "ShipCity": "Seattle",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "98124",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WHITC",
+    "CustomerName": "White Clover Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-11",
+    "ShippedDate": "2017-08-12",
+    "Products": [
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 5,
+        "UnitPrice": 38.0,
+        "Total": 190.0
+      },
+      {
+        "Product": "Vegie-spread",
+        "Quantity": 24,
+        "UnitPrice": 43.9,
+        "Total": 1053.6
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 30,
+        "UnitPrice": 7.75,
+        "Total": 232.5
+      }
+    ],
+    "TotalPrice": 1476.1
+  }
+}

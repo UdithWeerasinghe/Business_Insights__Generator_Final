@@ -1,0 +1,35 @@
+{
+  "OrderID": "10992",
+  "ShippingDetails": {
+    "ShipName": "The Big Cheese",
+    "ShipAddress": "89 Jefferson Way Suite 2",
+    "ShipCity": "Portland",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97201",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "THEBI",
+    "CustomerName": "The Big Cheese"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-01",
+    "ShippedDate": "2018-04-03",
+    "Products": [
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 2,
+        "UnitPrice": 34.8,
+        "Total": 69.6
+      }
+    ],
+    "TotalPrice": 69.6
+  }
+}

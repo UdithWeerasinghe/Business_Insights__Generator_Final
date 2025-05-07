@@ -1,0 +1,31 @@
+{
+  "OrderID": "10646",
+  "OrderDate": "2017-08-27",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 15,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 18,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 30,
+      "UnitPrice": 21.5
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 35,
+      "UnitPrice": 13.0
+    }
+  ]
+}

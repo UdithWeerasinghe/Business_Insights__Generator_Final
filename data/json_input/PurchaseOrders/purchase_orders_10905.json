@@ -1,0 +1,13 @@
+{
+  "OrderID": "10905",
+  "OrderDate": "2018-02-24",
+  "CustomerName": "Paula Parente",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 20,
+      "UnitPrice": 18.0
+    }
+  ]
+}

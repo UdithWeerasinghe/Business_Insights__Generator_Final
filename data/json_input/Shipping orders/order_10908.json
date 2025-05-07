@@ -1,0 +1,41 @@
+{
+  "OrderID": "10908",
+  "ShippingDetails": {
+    "ShipName": "Reggiani Caseifici",
+    "ShipAddress": "Strada Provinciale 124",
+    "ShipCity": "Reggio Emilia",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "42100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "REGGC",
+    "CustomerName": "Reggiani Caseifici"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-26",
+    "ShippedDate": "2018-03-06",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 20,
+        "UnitPrice": 30.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Filo Mix",
+        "Quantity": 14,
+        "UnitPrice": 7.0,
+        "Total": 98.0
+      }
+    ],
+    "TotalPrice": 698.0
+  }
+}

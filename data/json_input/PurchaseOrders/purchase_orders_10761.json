@@ -1,0 +1,19 @@
+{
+  "OrderID": "10761",
+  "OrderDate": "2017-12-02",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "25",
+      "Product": "NuNuCa Nuß-Nougat-Creme",
+      "Quantity": 35,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 18,
+      "UnitPrice": 7.75
+    }
+  ]
+}

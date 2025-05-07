@@ -1,0 +1,47 @@
+{
+  "OrderID": "10534",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-12",
+    "ShippedDate": "2017-05-14",
+    "Products": [
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 10,
+        "UnitPrice": 25.89,
+        "Total": 258.9
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 10,
+        "UnitPrice": 18.4,
+        "Total": 184.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 10,
+        "UnitPrice": 7.45,
+        "Total": 74.5
+      }
+    ],
+    "TotalPrice": 517.4
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10752",
+  "ShippingDetails": {
+    "ShipName": "North/South",
+    "ShipAddress": "South House 300 Queensbridge",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "SW7 1RZ",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "NORTS",
+    "CustomerName": "North/South"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-24",
+    "ShippedDate": "2017-11-28",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 8,
+        "UnitPrice": 18.0,
+        "Total": 144.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 3,
+        "UnitPrice": 36.0,
+        "Total": 108.0
+      }
+    ],
+    "TotalPrice": 252.0
+  }
+}

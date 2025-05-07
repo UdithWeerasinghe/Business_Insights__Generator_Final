@@ -1,0 +1,25 @@
+{
+  "OrderID": "11053",
+  "OrderDate": "2018-04-27",
+  "CustomerName": "Georg Pipps",
+  "Products": [
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 35,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "32",
+      "Product": "Mascarpone Fabioli",
+      "Quantity": 20,
+      "UnitPrice": 32.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 25,
+      "UnitPrice": 33.25
+    }
+  ]
+}

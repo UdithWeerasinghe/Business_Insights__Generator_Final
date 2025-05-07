@@ -1,0 +1,41 @@
+{
+  "OrderID": "11004",
+  "ShippingDetails": {
+    "ShipName": "Maison Dewey",
+    "ShipAddress": "Rue Joseph-Bens 532",
+    "ShipCity": "Bruxelles",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-1180",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAISD",
+    "CustomerName": "Maison Dewey"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-07",
+    "ShippedDate": "2018-04-20",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 6,
+        "UnitPrice": 31.23,
+        "Total": 187.38
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 6,
+        "UnitPrice": 18.0,
+        "Total": 108.0
+      }
+    ],
+    "TotalPrice": 295.38
+  }
+}

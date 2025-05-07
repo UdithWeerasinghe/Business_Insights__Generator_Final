@@ -1,0 +1,41 @@
+{
+  "OrderID": "10261",
+  "ShippingDetails": {
+    "ShipName": "Que Delícia",
+    "ShipAddress": "Rua da Panificadora, 12",
+    "ShipCity": "Rio de Janeiro",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "02389-673",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEDE",
+    "CustomerName": "Que Delícia"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-19",
+    "ShippedDate": "2016-07-30",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 20,
+        "UnitPrice": 8.0,
+        "Total": 160.0
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 20,
+        "UnitPrice": 14.4,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 448.0
+  }
+}

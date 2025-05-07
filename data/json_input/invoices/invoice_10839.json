@@ -1,0 +1,20 @@
+{
+  "OrderID": "10839",
+  "OrderDate": "2018-01-19",
+  "CustomerID": "TRADH",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 15,
+      "UnitPrice": 34.8
+    }
+  ]
+}

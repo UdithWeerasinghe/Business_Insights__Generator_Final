@@ -1,0 +1,25 @@
+{
+  "OrderID": "10748",
+  "OrderDate": "2017-11-20",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 44,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 40,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 28,
+      "UnitPrice": 38.0
+    }
+  ]
+}

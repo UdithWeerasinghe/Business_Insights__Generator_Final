@@ -1,0 +1,34 @@
+{
+  "OrderID": "10306",
+  "OrderDate": "2016-09-16",
+  "CustomerID": "ROMEY",
+  "CustomerDetails": {
+    "ContactName": "Alejandra Camino",
+    "Address": "Gran Vía, 1",
+    "City": "Madrid",
+    "PostalCode": "28001",
+    "Country": "Spain",
+    "Phone": "(91) 745 6200",
+    "Fax": "(91) 745 6210"
+  },
+  "Products": [
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 10,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 10,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 5,
+      "UnitPrice": 5.9
+    }
+  ]
+}

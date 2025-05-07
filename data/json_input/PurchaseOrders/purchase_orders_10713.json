@@ -1,0 +1,31 @@
+{
+  "OrderID": "10713",
+  "OrderDate": "2017-10-22",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 18,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "26",
+      "Product": "Gumbär Gummibärchen",
+      "Quantity": 30,
+      "UnitPrice": 31.23
+    },
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 110,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 24,
+      "UnitPrice": 12.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10289",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-08-26",
+    "ShippedDate": "2016-08-28",
+    "Products": [
+      {
+        "Product": "Aniseed Syrup",
+        "Quantity": 30,
+        "UnitPrice": 8.0,
+        "Total": 240.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 9,
+        "UnitPrice": 26.6,
+        "Total": 239.4
+      }
+    ],
+    "TotalPrice": 479.4
+  }
+}

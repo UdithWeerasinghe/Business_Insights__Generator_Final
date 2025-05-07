@@ -1,0 +1,31 @@
+{
+  "OrderID": "10990",
+  "OrderDate": "2018-04-01",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 65,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 60,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 65,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 66,
+      "UnitPrice": 28.5
+    }
+  ]
+}

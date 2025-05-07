@@ -1,0 +1,19 @@
+{
+  "OrderID": "11010",
+  "OrderDate": "2018-04-09",
+  "CustomerName": "Maurizio Moroni",
+  "Products": [
+    {
+      "ProductID": "7",
+      "Product": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 20,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 10,
+      "UnitPrice": 4.5
+    }
+  ]
+}

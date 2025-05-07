@@ -1,0 +1,20 @@
+{
+  "OrderID": "10922",
+  "OrderDate": "2018-03-03",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 15,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 35,
+      "UnitPrice": 4.5
+    }
+  ]
+}

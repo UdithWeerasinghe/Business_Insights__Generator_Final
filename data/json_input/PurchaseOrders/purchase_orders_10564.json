@@ -1,0 +1,25 @@
+{
+  "OrderID": "10564",
+  "OrderDate": "2017-06-10",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 16,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 6,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 25,
+      "UnitPrice": 24.0
+    }
+  ]
+}

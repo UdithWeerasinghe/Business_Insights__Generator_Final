@@ -1,0 +1,25 @@
+{
+  "OrderID": "10968",
+  "OrderDate": "2018-03-23",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "12",
+      "Product": "Queso Manchego La Pastora",
+      "Quantity": 30,
+      "UnitPrice": 38.0
+    },
+    {
+      "ProductID": "24",
+      "Product": "Guaraná Fantástica",
+      "Quantity": 30,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 4,
+      "UnitPrice": 33.25
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "OrderID": "10495",
+  "ShippingDetails": {
+    "ShipName": "Laughing Bacchus Wine Cellars",
+    "ShipAddress": "2319 Elm St.",
+    "ShipCity": "Vancouver",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "V3F 2K1",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAUGB",
+    "CustomerName": "Laughing Bacchus Wine Cellars"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-03",
+    "ShippedDate": "2017-04-11",
+    "Products": [
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 10,
+        "UnitPrice": 7.2,
+        "Total": 72.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 20,
+        "UnitPrice": 7.7,
+        "Total": 154.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 5,
+        "UnitPrice": 10.4,
+        "Total": 52.0
+      }
+    ],
+    "TotalPrice": 278.0
+  }
+}

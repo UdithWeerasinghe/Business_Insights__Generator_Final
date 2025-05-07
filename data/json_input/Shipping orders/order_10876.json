@@ -1,0 +1,41 @@
+{
+  "OrderID": "10876",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-09",
+    "ShippedDate": "2018-02-12",
+    "Products": [
+      {
+        "Product": "Spegesild",
+        "Quantity": 21,
+        "UnitPrice": 12.0,
+        "Total": 252.0
+      },
+      {
+        "Product": "Wimmers gute Semmelknödel",
+        "Quantity": 20,
+        "UnitPrice": 33.25,
+        "Total": 665.0
+      }
+    ],
+    "TotalPrice": 917.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "OrderID": "10815",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-05",
+    "ShippedDate": "2018-01-14",
+    "Products": [
+      {
+        "Product": "Geitost",
+        "Quantity": 16,
+        "UnitPrice": 2.5,
+        "Total": 40.0
+      }
+    ],
+    "TotalPrice": 40.0
+  }
+}

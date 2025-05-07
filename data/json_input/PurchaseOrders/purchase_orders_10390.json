@@ -1,0 +1,31 @@
+{
+  "OrderID": "10390",
+  "OrderDate": "2016-12-23",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 60,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 40,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 45,
+      "UnitPrice": 9.6
+    },
+    {
+      "ProductID": "72",
+      "Product": "Mozzarella di Giovanni",
+      "Quantity": 24,
+      "UnitPrice": 27.8
+    }
+  ]
+}

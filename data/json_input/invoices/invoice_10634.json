@@ -1,0 +1,40 @@
+{
+  "OrderID": "10634",
+  "OrderDate": "2017-08-15",
+  "CustomerID": "FOLIG",
+  "CustomerDetails": {
+    "ContactName": "Martine Rancé",
+    "Address": "184, chaussée de Tournai",
+    "City": "Lille",
+    "PostalCode": "59000",
+    "Country": "France",
+    "Phone": "20.16.10.16",
+    "Fax": "20.16.10.17"
+  },
+  "Products": [
+    {
+      "ProductID": "7",
+      "ProductName": "Uncle Bob's Organic Dried Pears",
+      "Quantity": 35,
+      "UnitPrice": 30.0
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 50,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 15,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 2,
+      "UnitPrice": 7.75
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10307",
+  "OrderDate": "2016-09-17",
+  "CustomerID": "LONEP",
+  "CustomerDetails": {
+    "ContactName": "Fran Wilson",
+    "Address": "89 Chiaroscuro Rd.",
+    "City": "Portland",
+    "PostalCode": "97219",
+    "Country": "USA",
+    "Phone": "(503) 555-9573",
+    "Fax": "(503) 555-9646"
+  },
+  "Products": [
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 39.4
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 3,
+      "UnitPrice": 10.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10353",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-13",
+    "ShippedDate": "2016-11-25",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 12,
+        "UnitPrice": 16.8,
+        "Total": 201.60000000000002
+      },
+      {
+        "Product": "Côte de Blaye",
+        "Quantity": 50,
+        "UnitPrice": 210.8,
+        "Total": 10540.0
+      }
+    ],
+    "TotalPrice": 10741.6
+  }
+}

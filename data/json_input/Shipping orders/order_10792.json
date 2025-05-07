@@ -1,0 +1,47 @@
+{
+  "OrderID": "10792",
+  "ShippingDetails": {
+    "ShipName": "Wolski Zajazd",
+    "ShipAddress": "ul. Filtrowa 68",
+    "ShipCity": "Warszawa",
+    "ShipRegion": "Eastern Europe",
+    "ShipPostalCode": "01-012",
+    "ShipCountry": "Poland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WOLZA",
+    "CustomerName": "Wolski Zajazd"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-23",
+    "ShippedDate": "2017-12-31",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 10,
+        "UnitPrice": 19.0,
+        "Total": 190.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 3,
+        "UnitPrice": 7.45,
+        "Total": 22.35
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 15,
+        "UnitPrice": 12.5,
+        "Total": 187.5
+      }
+    ],
+    "TotalPrice": 399.85
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "OrderID": "10505",
+  "OrderDate": "2017-04-14",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10827",
+  "OrderDate": "2018-01-12",
+  "CustomerName": "Laurence Lebihan",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 15,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 21,
+      "UnitPrice": 18.0
+    }
+  ]
+}

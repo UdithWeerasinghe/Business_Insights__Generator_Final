@@ -1,0 +1,19 @@
+{
+  "OrderID": "10961",
+  "OrderDate": "2018-03-19",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 6,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 60,
+      "UnitPrice": 18.0
+    }
+  ]
+}

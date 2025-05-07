@@ -1,0 +1,28 @@
+{
+  "OrderID": "10499",
+  "OrderDate": "2017-04-08",
+  "CustomerID": "LILAS",
+  "CustomerDetails": {
+    "ContactName": "Carlos González",
+    "Address": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "City": "Barquisimeto",
+    "PostalCode": "3508",
+    "Country": "Venezuela",
+    "Phone": "(9) 331-6954",
+    "Fax": "(9) 331-7256"
+  },
+  "Products": [
+    {
+      "ProductID": "28",
+      "ProductName": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 25,
+      "UnitPrice": 20.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "OrderID": "10769",
+  "OrderDate": "2017-12-08",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 30,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 15,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 20,
+      "UnitPrice": 28.5
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 15,
+      "UnitPrice": 49.3
+    }
+  ]
+}

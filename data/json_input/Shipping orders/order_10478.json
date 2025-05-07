@@ -1,0 +1,35 @@
+{
+  "OrderID": "10478",
+  "ShippingDetails": {
+    "ShipName": "Victuailles en stock",
+    "ShipAddress": "2, rue du Commerce",
+    "ShipCity": "Lyon",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "69004",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VICTE",
+    "CustomerName": "Victuailles en stock"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-18",
+    "ShippedDate": "2017-03-26",
+    "Products": [
+      {
+        "Product": "Ikura",
+        "Quantity": 20,
+        "UnitPrice": 24.8,
+        "Total": 496.0
+      }
+    ],
+    "TotalPrice": 496.0
+  }
+}

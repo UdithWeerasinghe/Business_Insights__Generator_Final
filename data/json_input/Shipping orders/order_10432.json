@@ -1,0 +1,41 @@
+{
+  "OrderID": "10432",
+  "ShippingDetails": {
+    "ShipName": "Split Rail Beer & Ale",
+    "ShipAddress": "P.O. Box 555",
+    "ShipCity": "Lander",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "82520",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPLIR",
+    "CustomerName": "Split Rail Beer & Ale"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-31",
+    "ShippedDate": "2017-02-07",
+    "Products": [
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 10,
+        "UnitPrice": 24.9,
+        "Total": 249.0
+      },
+      {
+        "Product": "Tourtière",
+        "Quantity": 40,
+        "UnitPrice": 5.9,
+        "Total": 236.0
+      }
+    ],
+    "TotalPrice": 485.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "11076",
+  "OrderDate": "2018-05-06",
+  "CustomerID": "BONAP",
+  "CustomerDetails": {
+    "ContactName": "Laurence Lebihan",
+    "Address": "12, rue des Bouchers",
+    "City": "Marseille",
+    "PostalCode": "13008",
+    "Country": "France",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41"
+  },
+  "Products": [
+    {
+      "ProductID": "6",
+      "ProductName": "Grandma's Boysenberry Spread",
+      "Quantity": 20,
+      "UnitPrice": 25.0
+    },
+    {
+      "ProductID": "14",
+      "ProductName": "Tofu",
+      "Quantity": 20,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 10,
+      "UnitPrice": 9.2
+    }
+  ]
+}

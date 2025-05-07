@@ -1,0 +1,20 @@
+{
+  "OrderID": "10824",
+  "OrderDate": "2018-01-09",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 12,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 9,
+      "UnitPrice": 15.0
+    }
+  ]
+}

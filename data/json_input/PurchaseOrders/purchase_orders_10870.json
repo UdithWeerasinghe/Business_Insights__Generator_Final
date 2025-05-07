@@ -1,0 +1,19 @@
+{
+  "OrderID": "10870",
+  "OrderDate": "2018-02-04",
+  "CustomerName": "Zbyszek Piestrzeniewicz",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 3,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 2,
+      "UnitPrice": 53.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "OrderID": "10260",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-19",
+    "ShippedDate": "2016-07-29",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 16,
+        "UnitPrice": 7.7,
+        "Total": 123.2
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 50,
+        "UnitPrice": 15.6,
+        "Total": 780.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 15,
+        "UnitPrice": 39.4,
+        "Total": 591.0
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 21,
+        "UnitPrice": 12.0,
+        "Total": 252.0
+      }
+    ],
+    "TotalPrice": 1746.2
+  }
+}

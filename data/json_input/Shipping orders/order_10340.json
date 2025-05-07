@@ -1,0 +1,47 @@
+{
+  "OrderID": "10340",
+  "ShippingDetails": {
+    "ShipName": "Bon app-",
+    "ShipAddress": "12, rue des Bouchers",
+    "ShipCity": "Marseille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "13008",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BONAP",
+    "CustomerName": "Bon app'"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-29",
+    "ShippedDate": "2016-11-08",
+    "Products": [
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 20,
+        "UnitPrice": 50.0,
+        "Total": 1000.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 7.7,
+        "Total": 92.4
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 40,
+        "UnitPrice": 36.8,
+        "Total": 1472.0
+      }
+    ],
+    "TotalPrice": 2564.4
+  }
+}

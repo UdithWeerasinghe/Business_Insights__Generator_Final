@@ -1,0 +1,13 @@
+{
+  "OrderID": "10881",
+  "OrderDate": "2018-02-11",
+  "CustomerName": "Patricio Simpson",
+  "Products": [
+    {
+      "ProductID": "73",
+      "Product": "Röd Kaviar",
+      "Quantity": 10,
+      "UnitPrice": 15.0
+    }
+  ]
+}

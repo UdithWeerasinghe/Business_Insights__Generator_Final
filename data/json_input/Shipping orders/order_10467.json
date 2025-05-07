@@ -1,0 +1,41 @@
+{
+  "OrderID": "10467",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-06",
+    "ShippedDate": "2017-03-11",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 28,
+        "UnitPrice": 3.6,
+        "Total": 100.8
+      },
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 12,
+        "UnitPrice": 11.2,
+        "Total": 134.39999999999998
+      }
+    ],
+    "TotalPrice": 235.2
+  }
+}

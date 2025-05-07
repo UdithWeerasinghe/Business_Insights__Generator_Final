@@ -1,0 +1,53 @@
+{
+  "OrderID": "10399",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-31",
+    "ShippedDate": "2017-01-08",
+    "Products": [
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 60,
+        "UnitPrice": 10.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 30,
+        "UnitPrice": 17.2,
+        "Total": 516.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 35,
+        "UnitPrice": 14.4,
+        "Total": 504.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 14,
+        "UnitPrice": 10.4,
+        "Total": 145.6
+      }
+    ],
+    "TotalPrice": 1765.6
+  }
+}

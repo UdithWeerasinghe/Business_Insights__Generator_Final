@@ -1,0 +1,47 @@
+{
+  "OrderID": "10716",
+  "ShippingDetails": {
+    "ShipName": "Rancho grande",
+    "ShipAddress": "Av. del Libertador 900",
+    "ShipCity": "Buenos Aires",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "1010",
+    "ShipCountry": "Argentina"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RANCH",
+    "CustomerName": "Rancho grande"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-24",
+    "ShippedDate": "2017-10-27",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 5,
+        "UnitPrice": 10.0,
+        "Total": 50.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 7,
+        "UnitPrice": 53.0,
+        "Total": 371.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 10,
+        "UnitPrice": 28.5,
+        "Total": 285.0
+      }
+    ],
+    "TotalPrice": 706.0
+  }
+}

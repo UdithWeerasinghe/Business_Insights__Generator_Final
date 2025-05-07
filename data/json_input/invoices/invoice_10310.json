@@ -1,0 +1,28 @@
+{
+  "OrderID": "10310",
+  "OrderDate": "2016-09-20",
+  "CustomerID": "THEBI",
+  "CustomerDetails": {
+    "ContactName": "Liz Nixon",
+    "Address": "89 Jefferson Way Suite 2",
+    "City": "Portland",
+    "PostalCode": "97201",
+    "Country": "USA",
+    "Phone": "(503) 555-3612",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "16",
+      "ProductName": "Pavlova",
+      "Quantity": 10,
+      "UnitPrice": 13.9
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 5,
+      "UnitPrice": 39.4
+    }
+  ]
+}

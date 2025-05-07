@@ -1,0 +1,32 @@
+{
+  "OrderID": "10327",
+  "OrderDate": "2016-10-11",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "2",
+      "ProductName": "Chang",
+      "Quantity": 25,
+      "UnitPrice": 15.2
+    },
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 50,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "30",
+      "ProductName": "Nord-Ost Matjeshering",
+      "Quantity": 35,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "58",
+      "ProductName": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 10.6
+    }
+  ]
+}

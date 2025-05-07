@@ -1,0 +1,25 @@
+{
+  "OrderID": "10363",
+  "OrderDate": "2016-11-26",
+  "CustomerName": "Sven Ottlieb",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 12,
+      "UnitPrice": 6.2
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 12,
+      "UnitPrice": 14.4
+    }
+  ]
+}

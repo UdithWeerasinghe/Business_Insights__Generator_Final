@@ -1,0 +1,41 @@
+{
+  "OrderID": "10480",
+  "ShippingDetails": {
+    "ShipName": "Folies gourmandes",
+    "ShipAddress": "184, chaussée de Tournai",
+    "ShipCity": "Lille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "59000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLIG",
+    "CustomerName": "Folies gourmandes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-20",
+    "ShippedDate": "2017-03-24",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 30,
+        "UnitPrice": 7.6,
+        "Total": 228.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 12,
+        "UnitPrice": 44.0,
+        "Total": 528.0
+      }
+    ],
+    "TotalPrice": 756.0
+  }
+}

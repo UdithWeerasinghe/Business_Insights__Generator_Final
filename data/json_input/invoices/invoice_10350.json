@@ -1,0 +1,28 @@
+{
+  "OrderID": "10350",
+  "OrderDate": "2016-11-11",
+  "CustomerID": "LAMAI",
+  "CustomerDetails": {
+    "ContactName": "Annette Roulet",
+    "Address": "1 rue Alsace-Lorraine",
+    "City": "Toulouse",
+    "PostalCode": "31000",
+    "Country": "France",
+    "Phone": "61.77.61.10",
+    "Fax": "61.77.61.11"
+  },
+  "Products": [
+    {
+      "ProductID": "50",
+      "ProductName": "Valkoinen suklaa",
+      "Quantity": 15,
+      "UnitPrice": 13.0
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 18,
+      "UnitPrice": 28.8
+    }
+  ]
+}

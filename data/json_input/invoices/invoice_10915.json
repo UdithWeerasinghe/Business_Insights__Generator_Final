@@ -1,0 +1,34 @@
+{
+  "OrderID": "10915",
+  "OrderDate": "2018-02-27",
+  "CustomerID": "TORTU",
+  "CustomerDetails": {
+    "ContactName": "Miguel Angel Paolino",
+    "Address": "Avda. Azteca 123",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 555-2933",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "17",
+      "ProductName": "Alice Mutton",
+      "Quantity": 10,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 30,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 10,
+      "UnitPrice": 7.45
+    }
+  ]
+}

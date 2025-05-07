@@ -1,0 +1,35 @@
+{
+  "OrderID": "10378",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-10",
+    "ShippedDate": "2016-12-19",
+    "Products": [
+      {
+        "Product": "Flotemysost",
+        "Quantity": 6,
+        "UnitPrice": 17.2,
+        "Total": 103.19999999999999
+      }
+    ],
+    "TotalPrice": 103.19999999999999
+  }
+}

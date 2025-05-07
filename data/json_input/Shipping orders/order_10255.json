@@ -1,0 +1,53 @@
+{
+  "OrderID": "10255",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-07-12",
+    "ShippedDate": "2016-07-15",
+    "Products": [
+      {
+        "Product": "Chang",
+        "Quantity": 20,
+        "UnitPrice": 15.2,
+        "Total": 304.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 35,
+        "UnitPrice": 13.9,
+        "Total": 486.5
+      },
+      {
+        "Product": "Inlagd Sill",
+        "Quantity": 25,
+        "UnitPrice": 15.2,
+        "Total": 380.0
+      },
+      {
+        "Product": "Raclette Courdavault",
+        "Quantity": 30,
+        "UnitPrice": 44.0,
+        "Total": 1320.0
+      }
+    ],
+    "TotalPrice": 2490.5
+  }
+}

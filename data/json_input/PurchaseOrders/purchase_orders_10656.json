@@ -1,0 +1,25 @@
+{
+  "OrderID": "10656",
+  "OrderDate": "2017-09-04",
+  "CustomerName": "Howard Snyder",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 3,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "44",
+      "Product": "Gula Malacca",
+      "Quantity": 28,
+      "UnitPrice": 19.45
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 6,
+      "UnitPrice": 9.5
+    }
+  ]
+}

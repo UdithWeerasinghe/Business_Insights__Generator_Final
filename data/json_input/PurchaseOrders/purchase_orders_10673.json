@@ -1,0 +1,25 @@
+{
+  "OrderID": "10673",
+  "OrderDate": "2017-09-18",
+  "CustomerName": "Matti Karttunen",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 3,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "42",
+      "Product": "Singaporean Hokkien Fried Mee",
+      "Quantity": 6,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 6,
+      "UnitPrice": 46.0
+    }
+  ]
+}

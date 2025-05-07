@@ -1,0 +1,25 @@
+{
+  "OrderID": "10681",
+  "OrderDate": "2017-09-25",
+  "CustomerName": "Howard Snyder",
+  "Products": [
+    {
+      "ProductID": "19",
+      "Product": "Teatime Chocolate Biscuits",
+      "Quantity": 30,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 12,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 28,
+      "UnitPrice": 33.25
+    }
+  ]
+}

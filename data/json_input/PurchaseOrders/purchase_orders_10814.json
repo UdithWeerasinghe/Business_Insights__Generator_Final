@@ -1,0 +1,31 @@
+{
+  "OrderID": "10814",
+  "OrderDate": "2018-01-05",
+  "CustomerName": "Mary Saveley",
+  "Products": [
+    {
+      "ProductID": "41",
+      "Product": "Jack's New England Clam Chowder",
+      "Quantity": 20,
+      "UnitPrice": 9.65
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 20,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "48",
+      "Product": "Chocolade",
+      "Quantity": 8,
+      "UnitPrice": 12.75
+    },
+    {
+      "ProductID": "61",
+      "Product": "Sirop d'érable",
+      "Quantity": 30,
+      "UnitPrice": 28.5
+    }
+  ]
+}

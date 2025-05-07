@@ -1,0 +1,53 @@
+{
+  "OrderID": "10658",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-05",
+    "ShippedDate": "2017-09-08",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 60,
+        "UnitPrice": 10.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 70,
+        "UnitPrice": 18.4,
+        "Total": 1288.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 55,
+        "UnitPrice": 34.0,
+        "Total": 1870.0
+      },
+      {
+        "Product": "Original Frankfurter grüne Soße",
+        "Quantity": 70,
+        "UnitPrice": 13.0,
+        "Total": 910.0
+      }
+    ],
+    "TotalPrice": 4668.0
+  }
+}

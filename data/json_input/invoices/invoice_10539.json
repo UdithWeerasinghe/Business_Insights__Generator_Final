@@ -1,0 +1,32 @@
+{
+  "OrderID": "10539",
+  "OrderDate": "2017-05-16",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 8,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 15,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 15,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 6,
+      "UnitPrice": 20.0
+    }
+  ]
+}

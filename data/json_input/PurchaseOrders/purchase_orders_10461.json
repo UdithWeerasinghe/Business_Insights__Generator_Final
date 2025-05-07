@@ -1,0 +1,25 @@
+{
+  "OrderID": "10461",
+  "OrderDate": "2017-02-28",
+  "CustomerName": "Carlos González",
+  "Products": [
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "30",
+      "Product": "Nord-Ost Matjeshering",
+      "Quantity": 28,
+      "UnitPrice": 20.7
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 60,
+      "UnitPrice": 19.2
+    }
+  ]
+}

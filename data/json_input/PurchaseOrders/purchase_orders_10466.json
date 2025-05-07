@@ -1,0 +1,19 @@
+{
+  "OrderID": "10466",
+  "OrderDate": "2017-03-06",
+  "CustomerName": "Pedro Afonso",
+  "Products": [
+    {
+      "ProductID": "11",
+      "Product": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 5,
+      "UnitPrice": 9.6
+    }
+  ]
+}

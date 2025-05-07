@@ -1,0 +1,19 @@
+{
+  "OrderID": "10794",
+  "OrderDate": "2017-12-24",
+  "CustomerName": "Bernardo Batista",
+  "Products": [
+    {
+      "ProductID": "14",
+      "Product": "Tofu",
+      "Quantity": 15,
+      "UnitPrice": 23.25
+    },
+    {
+      "ProductID": "54",
+      "Product": "Tourtière",
+      "Quantity": 6,
+      "UnitPrice": 7.45
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10579",
+  "ShippingDetails": {
+    "ShipName": "Let-s Stop N Shop",
+    "ShipAddress": "87 Polk St. Suite 5",
+    "ShipCity": "San Francisco",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "94117",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LETSS",
+    "CustomerName": "Let's Stop N Shop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-06-25",
+    "ShippedDate": "2017-07-04",
+    "Products": [
+      {
+        "Product": "Genen Shouyu",
+        "Quantity": 10,
+        "UnitPrice": 15.5,
+        "Total": 155.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 21,
+        "UnitPrice": 7.75,
+        "Total": 162.75
+      }
+    ],
+    "TotalPrice": 317.75
+  }
+}

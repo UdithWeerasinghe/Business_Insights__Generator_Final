@@ -1,0 +1,47 @@
+{
+  "OrderID": "10595",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-10",
+    "ShippedDate": "2017-07-14",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      },
+      {
+        "Product": "Sirop d'érable",
+        "Quantity": 120,
+        "UnitPrice": 28.5,
+        "Total": 3420.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 65,
+        "UnitPrice": 36.0,
+        "Total": 2340.0
+      }
+    ],
+    "TotalPrice": 6300.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10982",
+  "ShippingDetails": {
+    "ShipName": "Bottom-Dollar Markets",
+    "ShipAddress": "23 Tsawassen Blvd.",
+    "ShipCity": "Tsawassen",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "T2F 8M4",
+    "ShipCountry": "Canada"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BOTTM",
+    "CustomerName": "Bottom-Dollar Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-27",
+    "ShippedDate": "2018-04-08",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 20,
+        "UnitPrice": 30.0,
+        "Total": 600.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 9,
+        "UnitPrice": 46.0,
+        "Total": 414.0
+      }
+    ],
+    "TotalPrice": 1014.0
+  }
+}

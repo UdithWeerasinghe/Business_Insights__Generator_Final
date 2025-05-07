@@ -1,0 +1,41 @@
+{
+  "OrderID": "10398",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-30",
+    "ShippedDate": "2017-01-09",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 30,
+        "UnitPrice": 14.4,
+        "Total": 432.0
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 120,
+        "UnitPrice": 19.2,
+        "Total": 2304.0
+      }
+    ],
+    "TotalPrice": 2736.0
+  }
+}

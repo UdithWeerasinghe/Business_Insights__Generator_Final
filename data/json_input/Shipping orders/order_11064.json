@@ -1,0 +1,59 @@
+{
+  "OrderID": "11064",
+  "ShippingDetails": {
+    "ShipName": "Save-a-lot Markets",
+    "ShipAddress": "187 Suffolk Ln.",
+    "ShipCity": "Boise",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "83720",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SAVEA",
+    "CustomerName": "Save-a-lot Markets"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-05-01",
+    "ShippedDate": "2018-05-04",
+    "Products": [
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 77,
+        "UnitPrice": 39.0,
+        "Total": 3003.0
+      },
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 12,
+        "UnitPrice": 9.65,
+        "Total": 115.80000000000001
+      },
+      {
+        "Product": "Perth Pasties",
+        "Quantity": 25,
+        "UnitPrice": 32.8,
+        "Total": 819.9999999999999
+      },
+      {
+        "Product": "Pâté chinois",
+        "Quantity": 4,
+        "UnitPrice": 24.0,
+        "Total": 96.0
+      },
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 55,
+        "UnitPrice": 12.5,
+        "Total": 687.5
+      }
+    ],
+    "TotalPrice": 4722.3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10369",
+  "ShippingDetails": {
+    "ShipName": "Split Rail Beer & Ale",
+    "ShipAddress": "P.O. Box 555",
+    "ShipCity": "Lander",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "82520",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPLIR",
+    "CustomerName": "Split Rail Beer & Ale"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-12-02",
+    "ShippedDate": "2016-12-09",
+    "Products": [
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 20,
+        "UnitPrice": 99.0,
+        "Total": 1980.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 18,
+        "UnitPrice": 30.4,
+        "Total": 547.1999999999999
+      }
+    ],
+    "TotalPrice": 2527.2
+  }
+}

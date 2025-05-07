@@ -1,0 +1,59 @@
+{
+  "OrderID": "10698",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-10-09",
+    "ShippedDate": "2017-10-17",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 15,
+        "UnitPrice": 21.0,
+        "Total": 315.0
+      },
+      {
+        "Product": "Alice Mutton",
+        "Quantity": 8,
+        "UnitPrice": 39.0,
+        "Total": 312.0
+      },
+      {
+        "Product": "Thüringer Rostbratwurst",
+        "Quantity": 12,
+        "UnitPrice": 123.79,
+        "Total": 1485.48
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 65,
+        "UnitPrice": 21.05,
+        "Total": 1368.25
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 8,
+        "UnitPrice": 15.0,
+        "Total": 120.0
+      }
+    ],
+    "TotalPrice": 3600.73
+  }
+}

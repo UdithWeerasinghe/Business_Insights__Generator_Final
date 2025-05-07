@@ -1,0 +1,20 @@
+{
+  "OrderID": "10538",
+  "OrderDate": "2017-05-15",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 7,
+      "UnitPrice": 15.0
+    },
+    {
+      "ProductID": "72",
+      "ProductName": "Mozzarella di Giovanni",
+      "Quantity": 1,
+      "UnitPrice": 34.8
+    }
+  ]
+}

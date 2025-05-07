@@ -1,0 +1,25 @@
+{
+  "OrderID": "11068",
+  "OrderDate": "2018-05-04",
+  "CustomerName": "Lúcia Carvalho",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 8,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "43",
+      "Product": "Ipoh Coffee",
+      "Quantity": 36,
+      "UnitPrice": 46.0
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 28,
+      "UnitPrice": 13.0
+    }
+  ]
+}

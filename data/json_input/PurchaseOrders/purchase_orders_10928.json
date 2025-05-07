@@ -1,0 +1,19 @@
+{
+  "OrderID": "10928",
+  "OrderDate": "2018-03-05",
+  "CustomerName": "Eduardo Saavedra",
+  "Products": [
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 5,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 5,
+      "UnitPrice": 18.0
+    }
+  ]
+}

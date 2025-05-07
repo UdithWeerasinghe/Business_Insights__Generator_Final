@@ -1,0 +1,53 @@
+{
+  "OrderID": "10895",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-18",
+    "ShippedDate": "2018-02-23",
+    "Products": [
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 110,
+        "UnitPrice": 4.5,
+        "Total": 495.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 45,
+        "UnitPrice": 18.0,
+        "Total": 810.0
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 91,
+        "UnitPrice": 18.4,
+        "Total": 1674.3999999999999
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 100,
+        "UnitPrice": 34.0,
+        "Total": 3400.0
+      }
+    ],
+    "TotalPrice": 6379.4
+  }
+}

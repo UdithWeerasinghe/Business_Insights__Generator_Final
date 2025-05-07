@@ -1,0 +1,34 @@
+{
+  "OrderID": "10486",
+  "OrderDate": "2017-03-26",
+  "CustomerID": "HILAA",
+  "CustomerDetails": {
+    "ContactName": "Carlos Hernández",
+    "Address": "Carrera 22 con Ave. Carlos Soublette #8-35",
+    "City": "San Cristóbal",
+    "PostalCode": "5022",
+    "Country": "Venezuela",
+    "Phone": "(5) 555-1340",
+    "Fax": "(5) 555-1948"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 5,
+      "UnitPrice": 16.8
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 25,
+      "UnitPrice": 42.4
+    },
+    {
+      "ProductID": "74",
+      "ProductName": "Longlife Tofu",
+      "Quantity": 16,
+      "UnitPrice": 8.0
+    }
+  ]
+}

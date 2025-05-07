@@ -1,0 +1,41 @@
+{
+  "OrderID": "10308",
+  "ShippingDetails": {
+    "ShipName": "Ana Trujillo Emparedados y helados",
+    "ShipAddress": "Avda. de la Constitución 2222",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5021",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANATR",
+    "CustomerName": "Ana Trujillo Emparedados y helados"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-18",
+    "ShippedDate": "2016-09-24",
+    "Products": [
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 1,
+        "UnitPrice": 28.8,
+        "Total": 28.8
+      },
+      {
+        "Product": "Outback Lager",
+        "Quantity": 5,
+        "UnitPrice": 12.0,
+        "Total": 60.0
+      }
+    ],
+    "TotalPrice": 88.8
+  }
+}

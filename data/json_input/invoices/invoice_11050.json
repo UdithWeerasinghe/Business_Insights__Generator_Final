@@ -1,0 +1,14 @@
+{
+  "OrderID": "11050",
+  "OrderDate": "2018-04-27",
+  "CustomerID": "FOLKO",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "76",
+      "ProductName": "Lakkalikööri",
+      "Quantity": 50,
+      "UnitPrice": 18.0
+    }
+  ]
+}

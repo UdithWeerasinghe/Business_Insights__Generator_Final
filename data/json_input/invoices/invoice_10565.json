@@ -1,0 +1,20 @@
+{
+  "OrderID": "10565",
+  "OrderDate": "2017-06-11",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 25,
+      "UnitPrice": 4.5
+    },
+    {
+      "ProductID": "64",
+      "ProductName": "Wimmers gute Semmelknödel",
+      "Quantity": 18,
+      "UnitPrice": 33.25
+    }
+  ]
+}

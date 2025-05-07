@@ -1,0 +1,14 @@
+{
+  "OrderID": "10981",
+  "OrderDate": "2018-03-27",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 60,
+      "UnitPrice": 263.5
+    }
+  ]
+}

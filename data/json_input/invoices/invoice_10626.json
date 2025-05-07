@@ -1,0 +1,26 @@
+{
+  "OrderID": "10626",
+  "OrderDate": "2017-08-11",
+  "CustomerID": "BERGS",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 12,
+      "UnitPrice": 32.8
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 20,
+      "UnitPrice": 34.0
+    },
+    {
+      "ProductID": "71",
+      "ProductName": "Flotemysost",
+      "Quantity": 20,
+      "UnitPrice": 21.5
+    }
+  ]
+}

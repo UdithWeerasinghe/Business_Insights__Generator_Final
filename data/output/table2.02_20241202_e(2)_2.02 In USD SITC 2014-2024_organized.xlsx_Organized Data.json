@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "file_name": "table2.02_20241202_e(2)_2.02 In USD SITC 2014-2024_organized.xlsx",
+        "sheet_name": "Organized Data"
+    },
+    "data": {
+        "2.02: Export Performance based on Standard International Trade Classification (SITC ) Monthly 2014-2024 (a)": [],
+        "Table 2.02.3: Exports (US$ Million)": [],
+        "Total Exports": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 992.6326904928701
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 902.8373773847654
+            }
+        ],
+        "\u2026": [
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 0.03696461701636872
+            }
+        ],
+        "(a)  The latest version of SITC Revision 4 published in 2006": [],
+        "(b) Provisional": [],
+        "\u2026 Negligible": [],
+        "Sources: Ceylon Petroleum Corporation and Other Exporters of Petroleum": [],
+        "                National Gem and Jewellery Authority": [],
+        "               Sri Lanka Customs": [],
+        "               Central Bank of Sri Lanka": [],
+        "Food and Live Animals": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 235.3792732691444
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 223.2946205641771
+            }
+        ],
+        "Beverages and Tobacco": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 10.18464696958641
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 8.901670383577523
+            }
+        ],
+        "Crude Materials, Inedible, except Fuels": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 31.03062616897806
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 27.52607592478149
+            }
+        ],
+        "Mineral Fuels, Lubricants and Related Materials": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 25.32062115693115
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 19.42587938803256
+            }
+        ],
+        "Animal and Vegetable Oils, Fats and Waxes": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 5.569477396236994
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 6.956747479089977
+            }
+        ],
+        "Chemicals and Related Products, n.e.s.": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 11.75785783690572
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 15.000797179498
+            }
+        ],
+        "Manufactured Goods Classified Chiefly by Material": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 141.9523617841056
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 124.846004093476
+            }
+        ],
+        "Machinery and  Transport Equipment": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 64.04295261870288
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 34.08103519485952
+            }
+        ],
+        "Miscellaneous Manufactured Articles": [
+            {
+                "Date": "2023-01-01T00:00:00",
+                "value": 467.3948732922789
+            },
+            {
+                "Date": "2024-01-01T00:00:00",
+                "value": 442.8045471772732
+            }
+        ]
+    }
+}

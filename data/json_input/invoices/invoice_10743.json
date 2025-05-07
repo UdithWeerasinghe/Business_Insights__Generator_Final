@@ -1,0 +1,14 @@
+{
+  "OrderID": "10743",
+  "OrderDate": "2017-11-17",
+  "CustomerID": "AROUT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "46",
+      "ProductName": "Spegesild",
+      "Quantity": 28,
+      "UnitPrice": 12.0
+    }
+  ]
+}

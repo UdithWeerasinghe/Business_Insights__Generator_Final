@@ -1,0 +1,20 @@
+{
+  "OrderID": "10462",
+  "OrderDate": "2017-03-03",
+  "CustomerID": "CONSH",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "13",
+      "ProductName": "Konbu",
+      "Quantity": 1,
+      "UnitPrice": 4.8
+    },
+    {
+      "ProductID": "23",
+      "ProductName": "Tunnbröd",
+      "Quantity": 21,
+      "UnitPrice": 7.2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "OrderID": "10388",
+  "OrderDate": "2016-12-19",
+  "CustomerID": "SEVES",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "45",
+      "ProductName": "Rogede sild",
+      "Quantity": 15,
+      "UnitPrice": 7.6
+    },
+    {
+      "ProductID": "52",
+      "ProductName": "Filo Mix",
+      "Quantity": 20,
+      "UnitPrice": 5.6
+    },
+    {
+      "ProductID": "53",
+      "ProductName": "Perth Pasties",
+      "Quantity": 40,
+      "UnitPrice": 26.2
+    }
+  ]
+}

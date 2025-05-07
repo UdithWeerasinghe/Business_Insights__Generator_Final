@@ -1,0 +1,19 @@
+{
+  "OrderID": "10667",
+  "OrderDate": "2017-09-12",
+  "CustomerName": "Roland Mendel",
+  "Products": [
+    {
+      "ProductID": "69",
+      "Product": "Gudbrandsdalsost",
+      "Quantity": 45,
+      "UnitPrice": 36.0
+    },
+    {
+      "ProductID": "71",
+      "Product": "Flotemysost",
+      "Quantity": 14,
+      "UnitPrice": 21.5
+    }
+  ]
+}

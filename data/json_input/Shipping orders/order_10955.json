@@ -1,0 +1,35 @@
+{
+  "OrderID": "10955",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-17",
+    "ShippedDate": "2018-03-20",
+    "Products": [
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 12,
+        "UnitPrice": 7.75,
+        "Total": 93.0
+      }
+    ],
+    "TotalPrice": 93.0
+  }
+}

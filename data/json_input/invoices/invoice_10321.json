@@ -1,0 +1,14 @@
+{
+  "OrderID": "10321",
+  "OrderDate": "2016-10-03",
+  "CustomerID": "ISLAT",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "35",
+      "ProductName": "Steeleye Stout",
+      "Quantity": 10,
+      "UnitPrice": 14.4
+    }
+  ]
+}

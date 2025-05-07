@@ -1,0 +1,28 @@
+{
+  "OrderID": "10967",
+  "OrderDate": "2018-03-23",
+  "CustomerID": "TOMSP",
+  "CustomerDetails": {
+    "ContactName": "Karin Josephs",
+    "Address": "Luisenstr. 48",
+    "City": "Münster",
+    "PostalCode": "44087",
+    "Country": "Germany",
+    "Phone": "0251-031259",
+    "Fax": "0251-035695"
+  },
+  "Products": [
+    {
+      "ProductID": "19",
+      "ProductName": "Teatime Chocolate Biscuits",
+      "Quantity": 12,
+      "UnitPrice": 9.2
+    },
+    {
+      "ProductID": "49",
+      "ProductName": "Maxilaku",
+      "Quantity": 40,
+      "UnitPrice": 20.0
+    }
+  ]
+}

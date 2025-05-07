@@ -1,0 +1,53 @@
+{
+  "OrderID": "10634",
+  "ShippingDetails": {
+    "ShipName": "Folies gourmandes",
+    "ShipAddress": "184, chaussée de Tournai",
+    "ShipCity": "Lille",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "59000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLIG",
+    "CustomerName": "Folies gourmandes"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-15",
+    "ShippedDate": "2017-08-21",
+    "Products": [
+      {
+        "Product": "Uncle Bob's Organic Dried Pears",
+        "Quantity": 35,
+        "UnitPrice": 30.0,
+        "Total": 1050.0
+      },
+      {
+        "Product": "Carnarvon Tigers",
+        "Quantity": 50,
+        "UnitPrice": 62.5,
+        "Total": 3125.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 15,
+        "UnitPrice": 53.0,
+        "Total": 795.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 2,
+        "UnitPrice": 7.75,
+        "Total": 15.5
+      }
+    ],
+    "TotalPrice": 4985.5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "OrderID": "10783",
+  "OrderDate": "2017-12-18",
+  "CustomerID": "HANAR",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 10,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "38",
+      "ProductName": "Côte de Blaye",
+      "Quantity": 5,
+      "UnitPrice": 263.5
+    }
+  ]
+}

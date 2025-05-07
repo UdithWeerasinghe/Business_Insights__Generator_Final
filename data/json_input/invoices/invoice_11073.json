@@ -1,0 +1,28 @@
+{
+  "OrderID": "11073",
+  "OrderDate": "2018-05-05",
+  "CustomerID": "PERIC",
+  "CustomerDetails": {
+    "ContactName": "Guillermo Fernández",
+    "Address": "Calle Dr. Jorge Cash 321",
+    "City": "México D.F.",
+    "PostalCode": "05033",
+    "Country": "Mexico",
+    "Phone": "(5) 552-3745",
+    "Fax": "(5) 545-3745"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 10,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "24",
+      "ProductName": "Guaraná Fantástica",
+      "Quantity": 20,
+      "UnitPrice": 4.5
+    }
+  ]
+}

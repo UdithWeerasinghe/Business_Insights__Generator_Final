@@ -1,0 +1,31 @@
+{
+  "OrderID": "10479",
+  "OrderDate": "2017-03-19",
+  "CustomerName": "Paula Wilson",
+  "Products": [
+    {
+      "ProductID": "38",
+      "Product": "Côte de Blaye",
+      "Quantity": 30,
+      "UnitPrice": 210.8
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 28,
+      "UnitPrice": 26.2
+    },
+    {
+      "ProductID": "59",
+      "Product": "Raclette Courdavault",
+      "Quantity": 60,
+      "UnitPrice": 44.0
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 30,
+      "UnitPrice": 26.6
+    }
+  ]
+}

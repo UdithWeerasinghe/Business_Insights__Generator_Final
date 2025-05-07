@@ -1,0 +1,35 @@
+{
+  "OrderID": "10365",
+  "ShippingDetails": {
+    "ShipName": "Antonio Moreno Taquería",
+    "ShipAddress": "Mataderos 2312",
+    "ShipCity": "México D.F.",
+    "ShipRegion": "Central America",
+    "ShipPostalCode": "5023",
+    "ShipCountry": "Mexico"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ANTON",
+    "CustomerName": "Antonio Moreno Taquería"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-11-27",
+    "ShippedDate": "2016-12-02",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 24,
+        "UnitPrice": 16.8,
+        "Total": 403.20000000000005
+      }
+    ],
+    "TotalPrice": 403.20000000000005
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10848",
+  "OrderDate": "2018-01-23",
+  "CustomerName": "Elizabeth Brown",
+  "Products": [
+    {
+      "ProductID": "5",
+      "Product": "Chef Anton's Gumbo Mix",
+      "Quantity": 30,
+      "UnitPrice": 21.35
+    },
+    {
+      "ProductID": "9",
+      "Product": "Mishi Kobe Niku",
+      "Quantity": 3,
+      "UnitPrice": 97.0
+    }
+  ]
+}

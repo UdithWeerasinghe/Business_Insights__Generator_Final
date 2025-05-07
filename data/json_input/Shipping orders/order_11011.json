@@ -1,0 +1,41 @@
+{
+  "OrderID": "11011",
+  "ShippingDetails": {
+    "ShipName": "Alfred-s Futterkiste",
+    "ShipAddress": "Obere Str. 57",
+    "ShipCity": "Berlin",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "12209",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ALFKI",
+    "CustomerName": "Alfreds Futterkiste"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-04-09",
+    "ShippedDate": "2018-04-13",
+    "Products": [
+      {
+        "Product": "Escargots de Bourgogne",
+        "Quantity": 40,
+        "UnitPrice": 13.25,
+        "Total": 530.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 20,
+        "UnitPrice": 21.5,
+        "Total": 430.0
+      }
+    ],
+    "TotalPrice": 960.0
+  }
+}

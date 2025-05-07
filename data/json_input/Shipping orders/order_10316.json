@@ -1,0 +1,41 @@
+{
+  "OrderID": "10316",
+  "ShippingDetails": {
+    "ShipName": "Rattlesnake Canyon Grocery",
+    "ShipAddress": "2817 Milton Dr.",
+    "ShipCity": "Albuquerque",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "87110",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RATTC",
+    "CustomerName": "Rattlesnake Canyon Grocery"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-27",
+    "ShippedDate": "2016-10-08",
+    "Products": [
+      {
+        "Product": "Jack's New England Clam Chowder",
+        "Quantity": 10,
+        "UnitPrice": 7.7,
+        "Total": 77.0
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 70,
+        "UnitPrice": 39.4,
+        "Total": 2758.0
+      }
+    ],
+    "TotalPrice": 2835.0
+  }
+}

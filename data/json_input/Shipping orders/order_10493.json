@@ -1,0 +1,47 @@
+{
+  "OrderID": "10493",
+  "ShippingDetails": {
+    "ShipName": "La maison d-Asie",
+    "ShipAddress": "1 rue Alsace-Lorraine",
+    "ShipCity": "Toulouse",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "31000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LAMAI",
+    "CustomerName": "La maison d'Asie"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-02",
+    "ShippedDate": "2017-04-10",
+    "Products": [
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 15,
+        "UnitPrice": 16.8,
+        "Total": 252.0
+      },
+      {
+        "Product": "Louisiana Hot Spiced Okra",
+        "Quantity": 10,
+        "UnitPrice": 13.6,
+        "Total": 136.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 10,
+        "UnitPrice": 28.8,
+        "Total": 288.0
+      }
+    ],
+    "TotalPrice": 676.0
+  }
+}

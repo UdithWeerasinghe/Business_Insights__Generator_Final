@@ -1,0 +1,19 @@
+{
+  "OrderID": "10527",
+  "OrderDate": "2017-05-05",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 50,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 30,
+      "UnitPrice": 19.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "OrderID": "10311",
+  "OrderDate": "2016-09-20",
+  "CustomerID": "DUMON",
+  "CustomerDetails": {
+    "ContactName": "Janine Labrune",
+    "Address": "67, rue des Cinquante Otages",
+    "City": "Nantes",
+    "PostalCode": "44000",
+    "Country": "France",
+    "Phone": "40.67.88.88",
+    "Fax": "40.67.89.89"
+  },
+  "Products": [
+    {
+      "ProductID": "42",
+      "ProductName": "Singaporean Hokkien Fried Mee",
+      "Quantity": 6,
+      "UnitPrice": 11.2
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 7,
+      "UnitPrice": 28.8
+    }
+  ]
+}

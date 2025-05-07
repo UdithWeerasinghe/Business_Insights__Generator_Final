@@ -1,0 +1,26 @@
+{
+  "OrderID": "10484",
+  "OrderDate": "2017-03-24",
+  "CustomerID": "BSBEV",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "21",
+      "ProductName": "Sir Rodney's Scones",
+      "Quantity": 14,
+      "UnitPrice": 8.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "51",
+      "ProductName": "Manjimup Dried Apples",
+      "Quantity": 3,
+      "UnitPrice": 42.4
+    }
+  ]
+}

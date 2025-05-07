@@ -1,0 +1,47 @@
+{
+  "OrderID": "10528",
+  "ShippingDetails": {
+    "ShipName": "Great Lakes Food Market",
+    "ShipAddress": "2732 Baker Blvd.",
+    "ShipCity": "Eugene",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "97403",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GREAL",
+    "CustomerName": "Great Lakes Food Market"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-06",
+    "ShippedDate": "2017-05-09",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 3,
+        "UnitPrice": 21.0,
+        "Total": 63.0
+      },
+      {
+        "Product": "Geitost",
+        "Quantity": 8,
+        "UnitPrice": 2.5,
+        "Total": 20.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 9,
+        "UnitPrice": 34.8,
+        "Total": 313.2
+      }
+    ],
+    "TotalPrice": 396.2
+  }
+}

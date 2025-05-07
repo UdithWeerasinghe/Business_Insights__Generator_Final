@@ -1,0 +1,47 @@
+{
+  "OrderID": "10884",
+  "ShippingDetails": {
+    "ShipName": "Let-s Stop N Shop",
+    "ShipAddress": "87 Polk St. Suite 5",
+    "ShipCity": "San Francisco",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "94117",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LETSS",
+    "CustomerName": "Let's Stop N Shop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-02-12",
+    "ShippedDate": "2018-02-13",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 40,
+        "UnitPrice": 10.0,
+        "Total": 400.0
+      },
+      {
+        "Product": "Gnocchi di nonna Alice",
+        "Quantity": 21,
+        "UnitPrice": 38.0,
+        "Total": 798.0
+      },
+      {
+        "Product": "Louisiana Fiery Hot Pepper Sauce",
+        "Quantity": 12,
+        "UnitPrice": 21.05,
+        "Total": 252.60000000000002
+      }
+    ],
+    "TotalPrice": 1450.6
+  }
+}

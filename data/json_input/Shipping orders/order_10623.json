@@ -1,0 +1,59 @@
+{
+  "OrderID": "10623",
+  "ShippingDetails": {
+    "ShipName": "Frankenversand",
+    "ShipAddress": "Berliner Platz 43",
+    "ShipCity": "München",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "80805",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FRANK",
+    "CustomerName": "Frankenversand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-07",
+    "ShippedDate": "2017-08-12",
+    "Products": [
+      {
+        "Product": "Tofu",
+        "Quantity": 21,
+        "UnitPrice": 23.25,
+        "Total": 488.25
+      },
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 15,
+        "UnitPrice": 9.2,
+        "Total": 138.0
+      },
+      {
+        "Product": "Sir Rodney's Scones",
+        "Quantity": 25,
+        "UnitPrice": 10.0,
+        "Total": 250.0
+      },
+      {
+        "Product": "Guaraná Fantástica",
+        "Quantity": 3,
+        "UnitPrice": 4.5,
+        "Total": 13.5
+      },
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 30,
+        "UnitPrice": 18.0,
+        "Total": 540.0
+      }
+    ],
+    "TotalPrice": 1429.75
+  }
+}

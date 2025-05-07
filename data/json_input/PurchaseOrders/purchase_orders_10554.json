@@ -1,0 +1,31 @@
+{
+  "OrderID": "10554",
+  "OrderDate": "2017-05-30",
+  "CustomerName": "Henriette Pfalzheim",
+  "Products": [
+    {
+      "ProductID": "16",
+      "Product": "Pavlova",
+      "Quantity": 30,
+      "UnitPrice": 17.45
+    },
+    {
+      "ProductID": "23",
+      "Product": "Tunnbröd",
+      "Quantity": 20,
+      "UnitPrice": 9.0
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 20,
+      "UnitPrice": 49.3
+    },
+    {
+      "ProductID": "77",
+      "Product": "Original Frankfurter grüne Soße",
+      "Quantity": 10,
+      "UnitPrice": 13.0
+    }
+  ]
+}

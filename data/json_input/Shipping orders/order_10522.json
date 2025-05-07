@@ -1,0 +1,53 @@
+{
+  "OrderID": "10522",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-04-30",
+    "ShippedDate": "2017-05-06",
+    "Products": [
+      {
+        "Product": "Chai",
+        "Quantity": 40,
+        "UnitPrice": 18.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 24,
+        "UnitPrice": 40.0,
+        "Total": 960.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 20,
+        "UnitPrice": 25.89,
+        "Total": 517.8
+      },
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 25,
+        "UnitPrice": 18.4,
+        "Total": 459.99999999999994
+      }
+    ],
+    "TotalPrice": 2657.7999999999997
+  }
+}

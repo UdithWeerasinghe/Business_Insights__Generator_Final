@@ -1,0 +1,26 @@
+{
+  "OrderID": "10529",
+  "OrderDate": "2017-05-07",
+  "CustomerID": "MAISD",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "55",
+      "ProductName": "Pâté chinois",
+      "Quantity": 14,
+      "UnitPrice": 24.0
+    },
+    {
+      "ProductID": "68",
+      "ProductName": "Scottish Longbreads",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "69",
+      "ProductName": "Gudbrandsdalsost",
+      "Quantity": 10,
+      "UnitPrice": 36.0
+    }
+  ]
+}

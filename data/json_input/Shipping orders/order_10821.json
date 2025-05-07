@@ -1,0 +1,41 @@
+{
+  "OrderID": "10821",
+  "ShippingDetails": {
+    "ShipName": "Split Rail Beer & Ale",
+    "ShipAddress": "P.O. Box 555",
+    "ShipCity": "Lander",
+    "ShipRegion": "North America",
+    "ShipPostalCode": "82520",
+    "ShipCountry": "USA"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SPLIR",
+    "CustomerName": "Split Rail Beer & Ale"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-01-08",
+    "ShippedDate": "2018-01-15",
+    "Products": [
+      {
+        "Product": "Steeleye Stout",
+        "Quantity": 20,
+        "UnitPrice": 18.0,
+        "Total": 360.0
+      },
+      {
+        "Product": "Manjimup Dried Apples",
+        "Quantity": 6,
+        "UnitPrice": 53.0,
+        "Total": 318.0
+      }
+    ],
+    "TotalPrice": 678.0
+  }
+}

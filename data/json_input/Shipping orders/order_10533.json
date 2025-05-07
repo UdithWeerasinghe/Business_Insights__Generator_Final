@@ -1,0 +1,47 @@
+{
+  "OrderID": "10533",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-12",
+    "ShippedDate": "2017-05-22",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 50,
+        "UnitPrice": 22.0,
+        "Total": 1100.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 24,
+        "UnitPrice": 34.8,
+        "Total": 835.1999999999999
+      },
+      {
+        "Product": "Röd Kaviar",
+        "Quantity": 24,
+        "UnitPrice": 15.0,
+        "Total": 360.0
+      }
+    ],
+    "TotalPrice": 2295.2
+  }
+}

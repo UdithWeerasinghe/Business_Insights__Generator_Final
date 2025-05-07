@@ -1,0 +1,47 @@
+{
+  "OrderID": "10786",
+  "ShippingDetails": {
+    "ShipName": "Queen Cozinha",
+    "ShipAddress": "Alameda dos Canàrios, 891",
+    "ShipCity": "Sao Paulo",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "05487-020",
+    "ShipCountry": "Brazil"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUEEN",
+    "CustomerName": "Queen Cozinha"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-19",
+    "ShippedDate": "2017-12-23",
+    "Products": [
+      {
+        "Product": "Northwoods Cranberry Sauce",
+        "Quantity": 30,
+        "UnitPrice": 40.0,
+        "Total": 1200.0
+      },
+      {
+        "Product": "Nord-Ost Matjeshering",
+        "Quantity": 15,
+        "UnitPrice": 25.89,
+        "Total": 388.35
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 42,
+        "UnitPrice": 7.75,
+        "Total": 325.5
+      }
+    ],
+    "TotalPrice": 1913.85
+  }
+}

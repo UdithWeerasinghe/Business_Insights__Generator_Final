@@ -1,0 +1,19 @@
+{
+  "OrderID": "11016",
+  "OrderDate": "2018-04-10",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "31",
+      "Product": "Gorgonzola Telino",
+      "Quantity": 15,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 16,
+      "UnitPrice": 19.0
+    }
+  ]
+}

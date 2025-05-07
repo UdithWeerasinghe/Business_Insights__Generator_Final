@@ -1,0 +1,31 @@
+{
+  "OrderID": "10977",
+  "OrderDate": "2018-03-26",
+  "CustomerName": "Maria Larsson",
+  "Products": [
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 30,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "47",
+      "Product": "Zaanse koeken",
+      "Quantity": 30,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "51",
+      "Product": "Manjimup Dried Apples",
+      "Quantity": 10,
+      "UnitPrice": 53.0
+    },
+    {
+      "ProductID": "63",
+      "Product": "Vegie-spread",
+      "Quantity": 20,
+      "UnitPrice": 43.9
+    }
+  ]
+}

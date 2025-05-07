@@ -1,0 +1,19 @@
+{
+  "OrderID": "10594",
+  "OrderDate": "2017-07-09",
+  "CustomerName": "Rene Phillips",
+  "Products": [
+    {
+      "ProductID": "52",
+      "Product": "Filo Mix",
+      "Quantity": 24,
+      "UnitPrice": 7.0
+    },
+    {
+      "ProductID": "58",
+      "Product": "Escargots de Bourgogne",
+      "Quantity": 30,
+      "UnitPrice": 13.25
+    }
+  ]
+}

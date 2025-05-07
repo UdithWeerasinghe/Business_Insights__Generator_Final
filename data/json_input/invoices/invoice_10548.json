@@ -1,0 +1,28 @@
+{
+  "OrderID": "10548",
+  "OrderDate": "2017-05-26",
+  "CustomerID": "TOMSP",
+  "CustomerDetails": {
+    "ContactName": "Karin Josephs",
+    "Address": "Luisenstr. 48",
+    "City": "Münster",
+    "PostalCode": "44087",
+    "Country": "Germany",
+    "Phone": "0251-031259",
+    "Fax": "0251-035695"
+  },
+  "Products": [
+    {
+      "ProductID": "34",
+      "ProductName": "Sasquatch Ale",
+      "Quantity": 10,
+      "UnitPrice": 14.0
+    },
+    {
+      "ProductID": "41",
+      "ProductName": "Jack's New England Clam Chowder",
+      "Quantity": 14,
+      "UnitPrice": 9.65
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10543",
+  "ShippingDetails": {
+    "ShipName": "LILA-Supermercado",
+    "ShipAddress": "Carrera 52 con Ave. Bolívar #65-98 Llano Largo",
+    "ShipCity": "Barquisimeto",
+    "ShipRegion": "South America",
+    "ShipPostalCode": "3508",
+    "ShipCountry": "Venezuela"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LILAS",
+    "CustomerName": "LILA-Supermercado"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-21",
+    "ShippedDate": "2017-05-23",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 30,
+        "UnitPrice": 38.0,
+        "Total": 1140.0
+      },
+      {
+        "Product": "Tunnbröd",
+        "Quantity": 70,
+        "UnitPrice": 9.0,
+        "Total": 630.0
+      }
+    ],
+    "TotalPrice": 1770.0
+  }
+}

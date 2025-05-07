@@ -1,0 +1,41 @@
+{
+  "OrderID": "10928",
+  "ShippingDetails": {
+    "ShipName": "Galería del gastronómo",
+    "ShipAddress": "Rambla de Cataluña, 23",
+    "ShipCity": "Barcelona",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "8022",
+    "ShipCountry": "Spain"
+  },
+  "CustomerDetails": {
+    "CustomerID": "GALED",
+    "CustomerName": "Galería del gastrónomo"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Nancy Davolio"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-05",
+    "ShippedDate": "2018-03-18",
+    "Products": [
+      {
+        "Product": "Zaanse koeken",
+        "Quantity": 5,
+        "UnitPrice": 9.5,
+        "Total": 47.5
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 5,
+        "UnitPrice": 18.0,
+        "Total": 90.0
+      }
+    ],
+    "TotalPrice": 137.5
+  }
+}

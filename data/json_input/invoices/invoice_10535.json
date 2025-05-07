@@ -1,0 +1,40 @@
+{
+  "OrderID": "10535",
+  "OrderDate": "2017-05-13",
+  "CustomerID": "ANTON",
+  "CustomerDetails": {
+    "ContactName": "Antonio Moreno",
+    "Address": "Mataderos 2312",
+    "City": "México D.F.",
+    "PostalCode": "05023",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3932",
+    "Fax": "None"
+  },
+  "Products": [
+    {
+      "ProductID": "11",
+      "ProductName": "Queso Cabrales",
+      "Quantity": 50,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 10,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "57",
+      "ProductName": "Ravioli Angelo",
+      "Quantity": 5,
+      "UnitPrice": 19.5
+    },
+    {
+      "ProductID": "59",
+      "ProductName": "Raclette Courdavault",
+      "Quantity": 15,
+      "UnitPrice": 55.0
+    }
+  ]
+}

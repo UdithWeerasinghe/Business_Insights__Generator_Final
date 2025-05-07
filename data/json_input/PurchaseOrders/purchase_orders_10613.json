@@ -1,0 +1,19 @@
+{
+  "OrderID": "10613",
+  "OrderDate": "2017-07-29",
+  "CustomerName": "Carlos Hernández",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 8,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "75",
+      "Product": "Rhönbräu Klosterbier",
+      "Quantity": 40,
+      "UnitPrice": 7.75
+    }
+  ]
+}

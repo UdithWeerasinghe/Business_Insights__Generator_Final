@@ -1,0 +1,25 @@
+{
+  "OrderID": "10285",
+  "OrderDate": "2016-08-20",
+  "CustomerName": "Horst Kloss",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 45,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "40",
+      "Product": "Boston Crab Meat",
+      "Quantity": 40,
+      "UnitPrice": 14.7
+    },
+    {
+      "ProductID": "53",
+      "Product": "Perth Pasties",
+      "Quantity": 36,
+      "UnitPrice": 26.2
+    }
+  ]
+}

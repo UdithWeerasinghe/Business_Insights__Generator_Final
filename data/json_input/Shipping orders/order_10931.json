@@ -1,0 +1,41 @@
+{
+  "OrderID": "10931",
+  "ShippingDetails": {
+    "ShipName": "Richter Supermarkt",
+    "ShipAddress": "Starenweg 5",
+    "ShipCity": "Genève",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1204",
+    "ShipCountry": "Switzerland"
+  },
+  "CustomerDetails": {
+    "CustomerID": "RICSU",
+    "CustomerName": "Richter Supermarkt"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-06",
+    "ShippedDate": "2018-03-19",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 42,
+        "UnitPrice": 6.0,
+        "Total": 252.0
+      },
+      {
+        "Product": "Ravioli Angelo",
+        "Quantity": 30,
+        "UnitPrice": 19.5,
+        "Total": 585.0
+      }
+    ],
+    "TotalPrice": 837.0
+  }
+}

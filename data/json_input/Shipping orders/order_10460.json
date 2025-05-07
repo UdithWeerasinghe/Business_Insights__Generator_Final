@@ -1,0 +1,41 @@
+{
+  "OrderID": "10460",
+  "ShippingDetails": {
+    "ShipName": "Folk och fä HB",
+    "ShipAddress": "Åkergatan 24",
+    "ShipCity": "Bräcke",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "S-844 67",
+    "ShipCountry": "Sweden"
+  },
+  "CustomerDetails": {
+    "CustomerID": "FOLKO",
+    "CustomerName": "Folk och fä HB"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-02-28",
+    "ShippedDate": "2017-03-03",
+    "Products": [
+      {
+        "Product": "Scottish Longbreads",
+        "Quantity": 21,
+        "UnitPrice": 10.0,
+        "Total": 210.0
+      },
+      {
+        "Product": "Rhönbräu Klosterbier",
+        "Quantity": 4,
+        "UnitPrice": 6.2,
+        "Total": 24.8
+      }
+    ],
+    "TotalPrice": 234.8
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10489",
+  "ShippingDetails": {
+    "ShipName": "Piccolo und mehr",
+    "ShipAddress": "Geislweg 14",
+    "ShipCity": "Salzburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "5020",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "PICCO",
+    "CustomerName": "Piccolo und mehr"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-03-28",
+    "ShippedDate": "2017-04-09",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 15,
+        "UnitPrice": 16.8,
+        "Total": 252.0
+      },
+      {
+        "Product": "Pavlova",
+        "Quantity": 18,
+        "UnitPrice": 13.9,
+        "Total": 250.20000000000002
+      }
+    ],
+    "TotalPrice": 502.20000000000005
+  }
+}

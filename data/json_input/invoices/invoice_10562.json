@@ -1,0 +1,28 @@
+{
+  "OrderID": "10562",
+  "OrderDate": "2017-06-09",
+  "CustomerID": "REGGC",
+  "CustomerDetails": {
+    "ContactName": "Maurizio Moroni",
+    "Address": "Strada Provinciale 124",
+    "City": "Reggio Emilia",
+    "PostalCode": "42100",
+    "Country": "Italy",
+    "Phone": "0522-556721",
+    "Fax": "0522-556722"
+  },
+  "Products": [
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 20,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "62",
+      "ProductName": "Tarte au sucre",
+      "Quantity": 10,
+      "UnitPrice": 49.3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "OrderID": "10577",
+  "OrderDate": "2017-06-23",
+  "CustomerID": "TRAIH",
+  "CustomerDetails": {
+    "ContactName": "Helvetius Nagy",
+    "Address": "722 DaVinci Blvd.",
+    "City": "Kirkland",
+    "PostalCode": "98034",
+    "Country": "USA",
+    "Phone": "(206) 555-8257",
+    "Fax": "(206) 555-2174"
+  },
+  "Products": [
+    {
+      "ProductID": "39",
+      "ProductName": "Chartreuse verte",
+      "Quantity": 10,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "75",
+      "ProductName": "Rhönbräu Klosterbier",
+      "Quantity": 20,
+      "UnitPrice": 7.75
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "Original Frankfurter grüne Soße",
+      "Quantity": 18,
+      "UnitPrice": 13.0
+    }
+  ]
+}

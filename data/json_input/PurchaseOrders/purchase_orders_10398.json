@@ -1,0 +1,19 @@
+{
+  "OrderID": "10398",
+  "OrderDate": "2016-12-30",
+  "CustomerName": "Jose Pavarotti",
+  "Products": [
+    {
+      "ProductID": "35",
+      "Product": "Steeleye Stout",
+      "Quantity": 30,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "55",
+      "Product": "Pâté chinois",
+      "Quantity": 120,
+      "UnitPrice": 19.2
+    }
+  ]
+}

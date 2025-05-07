@@ -1,0 +1,13 @@
+{
+  "OrderID": "10336",
+  "OrderDate": "2016-10-23",
+  "CustomerName": "Isabel de Castro",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 18,
+      "UnitPrice": 17.6
+    }
+  ]
+}

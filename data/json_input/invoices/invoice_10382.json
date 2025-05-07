@@ -1,0 +1,46 @@
+{
+  "OrderID": "10382",
+  "OrderDate": "2016-12-13",
+  "CustomerID": "ERNSH",
+  "CustomerDetails": {
+    "ContactName": "Roland Mendel",
+    "Address": "Kirchgasse 6",
+    "City": "Graz",
+    "PostalCode": "8010",
+    "Country": "Austria",
+    "Phone": "7675-3425",
+    "Fax": "7675-3426"
+  },
+  "Products": [
+    {
+      "ProductID": "5",
+      "ProductName": "Chef Anton's Gumbo Mix",
+      "Quantity": 32,
+      "UnitPrice": 17.0
+    },
+    {
+      "ProductID": "18",
+      "ProductName": "Carnarvon Tigers",
+      "Quantity": 9,
+      "UnitPrice": 50.0
+    },
+    {
+      "ProductID": "29",
+      "ProductName": "Thüringer Rostbratwurst",
+      "Quantity": 14,
+      "UnitPrice": 99.0
+    },
+    {
+      "ProductID": "33",
+      "ProductName": "Geitost",
+      "Quantity": 60,
+      "UnitPrice": 2.0
+    },
+    {
+      "ProductID": "74",
+      "ProductName": "Longlife Tofu",
+      "Quantity": 50,
+      "UnitPrice": 8.0
+    }
+  ]
+}

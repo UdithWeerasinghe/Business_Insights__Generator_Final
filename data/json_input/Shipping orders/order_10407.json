@@ -1,0 +1,47 @@
+{
+  "OrderID": "10407",
+  "ShippingDetails": {
+    "ShipName": "Ottilies Käseladen",
+    "ShipAddress": "Mehrheimerstr. 369",
+    "ShipCity": "Köln",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "50739",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "OTTIK",
+    "CustomerName": "Ottilies Käseladen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Andrew Fuller"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-01-07",
+    "ShippedDate": "2017-01-30",
+    "Products": [
+      {
+        "Product": "Queso Cabrales",
+        "Quantity": 30,
+        "UnitPrice": 16.8,
+        "Total": 504.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 15,
+        "UnitPrice": 28.8,
+        "Total": 432.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 15,
+        "UnitPrice": 17.2,
+        "Total": 258.0
+      }
+    ],
+    "TotalPrice": 1194.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "OrderID": "10377",
+  "OrderDate": "2016-12-09",
+  "CustomerName": "Hari Kumar",
+  "Products": [
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 20,
+      "UnitPrice": 36.4
+    },
+    {
+      "ProductID": "39",
+      "Product": "Chartreuse verte",
+      "Quantity": 20,
+      "UnitPrice": 14.4
+    }
+  ]
+}

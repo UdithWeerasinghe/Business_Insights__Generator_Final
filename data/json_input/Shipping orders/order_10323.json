@@ -1,0 +1,47 @@
+{
+  "OrderID": "10323",
+  "ShippingDetails": {
+    "ShipName": "Königlich Essen",
+    "ShipAddress": "Maubelstr. 90",
+    "ShipCity": "Brandenburg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "14776",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "KOENE",
+    "CustomerName": "Königlich Essen"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-10-07",
+    "ShippedDate": "2016-10-14",
+    "Products": [
+      {
+        "Product": "Genen Shouyu",
+        "Quantity": 5,
+        "UnitPrice": 12.4,
+        "Total": 62.0
+      },
+      {
+        "Product": "NuNuCa Nuß-Nougat-Creme",
+        "Quantity": 4,
+        "UnitPrice": 11.2,
+        "Total": 44.8
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 4,
+        "UnitPrice": 14.4,
+        "Total": 57.6
+      }
+    ],
+    "TotalPrice": 164.4
+  }
+}

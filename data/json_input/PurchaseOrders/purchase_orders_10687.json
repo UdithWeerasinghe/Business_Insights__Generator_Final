@@ -1,0 +1,25 @@
+{
+  "OrderID": "10687",
+  "OrderDate": "2017-09-30",
+  "CustomerName": "Patricia McKenna",
+  "Products": [
+    {
+      "ProductID": "9",
+      "Product": "Mishi Kobe Niku",
+      "Quantity": 50,
+      "UnitPrice": 97.0
+    },
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 10,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "36",
+      "Product": "Inlagd Sill",
+      "Quantity": 6,
+      "UnitPrice": 19.0
+    }
+  ]
+}

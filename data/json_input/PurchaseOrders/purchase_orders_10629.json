@@ -1,0 +1,19 @@
+{
+  "OrderID": "10629",
+  "OrderDate": "2017-08-12",
+  "CustomerName": "José Pedro Freyre",
+  "Products": [
+    {
+      "ProductID": "29",
+      "Product": "Thüringer Rostbratwurst",
+      "Quantity": 20,
+      "UnitPrice": 123.79
+    },
+    {
+      "ProductID": "64",
+      "Product": "Wimmers gute Semmelknödel",
+      "Quantity": 9,
+      "UnitPrice": 33.25
+    }
+  ]
+}

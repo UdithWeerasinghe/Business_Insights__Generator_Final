@@ -1,0 +1,35 @@
+{
+  "OrderID": "10767",
+  "ShippingDetails": {
+    "ShipName": "Suprêmes délices",
+    "ShipAddress": "Boulevard Tirou, 255",
+    "ShipCity": "Charleroi",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "B-6000",
+    "ShipCountry": "Belgium"
+  },
+  "CustomerDetails": {
+    "CustomerID": "SUPRD",
+    "CustomerName": "Suprêmes délices"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Margaret Peacock"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-12-05",
+    "ShippedDate": "2017-12-15",
+    "Products": [
+      {
+        "Product": "Singaporean Hokkien Fried Mee",
+        "Quantity": 2,
+        "UnitPrice": 14.0,
+        "Total": 28.0
+      }
+    ],
+    "TotalPrice": 28.0
+  }
+}

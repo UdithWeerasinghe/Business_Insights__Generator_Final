@@ -1,0 +1,20 @@
+{
+  "OrderID": "10918",
+  "OrderDate": "2018-03-02",
+  "CustomerID": "BOTTM",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "1",
+      "ProductName": "Chai",
+      "Quantity": 60,
+      "UnitPrice": 18.0
+    },
+    {
+      "ProductID": "60",
+      "ProductName": "Camembert Pierrot",
+      "Quantity": 25,
+      "UnitPrice": 34.0
+    }
+  ]
+}

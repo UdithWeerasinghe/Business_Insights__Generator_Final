@@ -1,0 +1,53 @@
+{
+  "OrderID": "10938",
+  "ShippingDetails": {
+    "ShipName": "QUICK-Stop",
+    "ShipAddress": "Taucherstraße 10",
+    "ShipCity": "Cunewalde",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "1307",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "QUICK",
+    "CustomerName": "QUICK-Stop"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Janet Leverling"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2018-03-10",
+    "ShippedDate": "2018-03-16",
+    "Products": [
+      {
+        "Product": "Konbu",
+        "Quantity": 20,
+        "UnitPrice": 6.0,
+        "Total": 120.0
+      },
+      {
+        "Product": "Ipoh Coffee",
+        "Quantity": 24,
+        "UnitPrice": 46.0,
+        "Total": 1104.0
+      },
+      {
+        "Product": "Camembert Pierrot",
+        "Quantity": 49,
+        "UnitPrice": 34.0,
+        "Total": 1666.0
+      },
+      {
+        "Product": "Flotemysost",
+        "Quantity": 35,
+        "UnitPrice": 21.5,
+        "Total": 752.5
+      }
+    ],
+    "TotalPrice": 3642.5
+  }
+}

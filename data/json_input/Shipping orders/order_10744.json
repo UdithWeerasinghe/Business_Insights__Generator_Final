@@ -1,0 +1,35 @@
+{
+  "OrderID": "10744",
+  "ShippingDetails": {
+    "ShipName": "Vaffeljernet",
+    "ShipAddress": "Smagsloget 45",
+    "ShipCity": "Århus",
+    "ShipRegion": "Northern Europe",
+    "ShipPostalCode": "8200",
+    "ShipCountry": "Denmark"
+  },
+  "CustomerDetails": {
+    "CustomerID": "VAFFE",
+    "CustomerName": "Vaffeljernet"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-11-17",
+    "ShippedDate": "2017-11-24",
+    "Products": [
+      {
+        "Product": "Boston Crab Meat",
+        "Quantity": 50,
+        "UnitPrice": 18.4,
+        "Total": 919.9999999999999
+      }
+    ],
+    "TotalPrice": 919.9999999999999
+  }
+}

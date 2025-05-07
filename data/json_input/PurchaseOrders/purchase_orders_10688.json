@@ -1,0 +1,25 @@
+{
+  "OrderID": "10688",
+  "OrderDate": "2017-10-01",
+  "CustomerName": "Palle Ibsen",
+  "Products": [
+    {
+      "ProductID": "10",
+      "Product": "Ikura",
+      "Quantity": 18,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "28",
+      "Product": "Rössle Sauerkraut",
+      "Quantity": 60,
+      "UnitPrice": 45.6
+    },
+    {
+      "ProductID": "34",
+      "Product": "Sasquatch Ale",
+      "Quantity": 14,
+      "UnitPrice": 14.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10538",
+  "ShippingDetails": {
+    "ShipName": "B-s Beverages",
+    "ShipAddress": "Fauntleroy Circus",
+    "ShipCity": "London",
+    "ShipRegion": "British Isles",
+    "ShipPostalCode": "EC2 5NT",
+    "ShipCountry": "UK"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BSBEV",
+    "CustomerName": "B's Beverages"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Anne Dodsworth"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-05-15",
+    "ShippedDate": "2017-05-16",
+    "Products": [
+      {
+        "Product": "Outback Lager",
+        "Quantity": 7,
+        "UnitPrice": 15.0,
+        "Total": 105.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 1,
+        "UnitPrice": 34.8,
+        "Total": 34.8
+      }
+    ],
+    "TotalPrice": 139.8
+  }
+}

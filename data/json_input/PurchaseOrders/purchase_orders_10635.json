@@ -1,0 +1,25 @@
+{
+  "OrderID": "10635",
+  "OrderDate": "2017-08-18",
+  "CustomerName": "Giovanni Rovelli",
+  "Products": [
+    {
+      "ProductID": "4",
+      "Product": "Chef Anton's Cajun Seasoning",
+      "Quantity": 10,
+      "UnitPrice": 22.0
+    },
+    {
+      "ProductID": "5",
+      "Product": "Chef Anton's Gumbo Mix",
+      "Quantity": 15,
+      "UnitPrice": 21.35
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 40,
+      "UnitPrice": 21.0
+    }
+  ]
+}

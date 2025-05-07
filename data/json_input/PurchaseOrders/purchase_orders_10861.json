@@ -1,0 +1,37 @@
+{
+  "OrderID": "10861",
+  "OrderDate": "2018-01-30",
+  "CustomerName": "Karl Jablonski",
+  "Products": [
+    {
+      "ProductID": "17",
+      "Product": "Alice Mutton",
+      "Quantity": 42,
+      "UnitPrice": 39.0
+    },
+    {
+      "ProductID": "18",
+      "Product": "Carnarvon Tigers",
+      "Quantity": 20,
+      "UnitPrice": 62.5
+    },
+    {
+      "ProductID": "21",
+      "Product": "Sir Rodney's Scones",
+      "Quantity": 40,
+      "UnitPrice": 10.0
+    },
+    {
+      "ProductID": "33",
+      "Product": "Geitost",
+      "Quantity": 35,
+      "UnitPrice": 2.5
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 3,
+      "UnitPrice": 49.3
+    }
+  ]
+}

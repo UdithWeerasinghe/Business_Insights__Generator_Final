@@ -1,0 +1,13 @@
+{
+  "OrderID": "10494",
+  "OrderDate": "2017-04-02",
+  "CustomerName": "Pedro Afonso",
+  "Products": [
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 30,
+      "UnitPrice": 30.4
+    }
+  ]
+}

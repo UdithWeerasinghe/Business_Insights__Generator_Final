@@ -1,0 +1,28 @@
+{
+  "OrderID": "10592",
+  "OrderDate": "2017-07-08",
+  "CustomerID": "LEHMS",
+  "CustomerDetails": {
+    "ContactName": "Renate Messner",
+    "Address": "Magazinweg 7",
+    "City": "Frankfurt a.M.",
+    "PostalCode": "60528",
+    "Country": "Germany",
+    "Phone": "069-0245984",
+    "Fax": "069-0245874"
+  },
+  "Products": [
+    {
+      "ProductID": "15",
+      "ProductName": "Genen Shouyu",
+      "Quantity": 25,
+      "UnitPrice": 15.5
+    },
+    {
+      "ProductID": "26",
+      "ProductName": "Gumbär Gummibärchen",
+      "Quantity": 5,
+      "UnitPrice": 31.23
+    }
+  ]
+}

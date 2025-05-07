@@ -1,0 +1,26 @@
+{
+  "OrderID": "10659",
+  "OrderDate": "2017-09-05",
+  "CustomerID": "QUEEN",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "31",
+      "ProductName": "Gorgonzola Telino",
+      "Quantity": 20,
+      "UnitPrice": 12.5
+    },
+    {
+      "ProductID": "40",
+      "ProductName": "Boston Crab Meat",
+      "Quantity": 24,
+      "UnitPrice": 18.4
+    },
+    {
+      "ProductID": "70",
+      "ProductName": "Outback Lager",
+      "Quantity": 40,
+      "UnitPrice": 15.0
+    }
+  ]
+}

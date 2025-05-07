@@ -1,0 +1,47 @@
+{
+  "OrderID": "10635",
+  "ShippingDetails": {
+    "ShipName": "Magazzini Alimentari Riuniti",
+    "ShipAddress": "Via Ludovico il Moro 22",
+    "ShipCity": "Bergamo",
+    "ShipRegion": "Southern Europe",
+    "ShipPostalCode": "24100",
+    "ShipCountry": "Italy"
+  },
+  "CustomerDetails": {
+    "CustomerID": "MAGAA",
+    "CustomerName": "Magazzini Alimentari Riuniti"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-18",
+    "ShippedDate": "2017-08-21",
+    "Products": [
+      {
+        "Product": "Chef Anton's Cajun Seasoning",
+        "Quantity": 10,
+        "UnitPrice": 22.0,
+        "Total": 220.0
+      },
+      {
+        "Product": "Chef Anton's Gumbo Mix",
+        "Quantity": 15,
+        "UnitPrice": 21.35,
+        "Total": 320.25
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 40,
+        "UnitPrice": 21.0,
+        "Total": 840.0
+      }
+    ],
+    "TotalPrice": 1380.25
+  }
+}

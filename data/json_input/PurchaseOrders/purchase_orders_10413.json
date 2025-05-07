@@ -1,0 +1,25 @@
+{
+  "OrderID": "10413",
+  "OrderDate": "2017-01-14",
+  "CustomerName": "Annette Roulet",
+  "Products": [
+    {
+      "ProductID": "1",
+      "Product": "Chai",
+      "Quantity": 24,
+      "UnitPrice": 14.4
+    },
+    {
+      "ProductID": "62",
+      "Product": "Tarte au sucre",
+      "Quantity": 40,
+      "UnitPrice": 39.4
+    },
+    {
+      "ProductID": "76",
+      "Product": "Lakkalikööri",
+      "Quantity": 14,
+      "UnitPrice": 14.4
+    }
+  ]
+}

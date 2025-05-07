@@ -1,0 +1,19 @@
+{
+  "OrderID": "10896",
+  "OrderDate": "2018-02-19",
+  "CustomerName": "Catherine Dewey",
+  "Products": [
+    {
+      "ProductID": "45",
+      "Product": "Rogede sild",
+      "Quantity": 15,
+      "UnitPrice": 9.5
+    },
+    {
+      "ProductID": "56",
+      "Product": "Gnocchi di nonna Alice",
+      "Quantity": 16,
+      "UnitPrice": 38.0
+    }
+  ]
+}

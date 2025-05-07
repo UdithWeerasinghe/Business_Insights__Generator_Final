@@ -1,0 +1,28 @@
+{
+  "OrderID": "10600",
+  "OrderDate": "2017-07-16",
+  "CustomerID": "HUNGC",
+  "CustomerDetails": {
+    "ContactName": "Yoshi Latimer",
+    "Address": "City Center Plaza 516 Main St.",
+    "City": "Elgin",
+    "PostalCode": "97827",
+    "Country": "USA",
+    "Phone": "(503) 555-6874",
+    "Fax": "(503) 555-2376"
+  },
+  "Products": [
+    {
+      "ProductID": "54",
+      "ProductName": "Tourtière",
+      "Quantity": 4,
+      "UnitPrice": 7.45
+    },
+    {
+      "ProductID": "73",
+      "ProductName": "Röd Kaviar",
+      "Quantity": 30,
+      "UnitPrice": 15.0
+    }
+  ]
+}

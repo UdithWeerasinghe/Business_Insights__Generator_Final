@@ -1,0 +1,20 @@
+{
+  "OrderID": "10724",
+  "OrderDate": "2017-10-30",
+  "CustomerID": "MEREP",
+  "CustomerDetails": {},
+  "Products": [
+    {
+      "ProductID": "10",
+      "ProductName": "Ikura",
+      "Quantity": 16,
+      "UnitPrice": 31.0
+    },
+    {
+      "ProductID": "61",
+      "ProductName": "Sirop d'érable",
+      "Quantity": 5,
+      "UnitPrice": 28.5
+    }
+  ]
+}

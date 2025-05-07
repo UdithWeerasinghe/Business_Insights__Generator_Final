@@ -1,0 +1,53 @@
+{
+  "OrderID": "10633",
+  "ShippingDetails": {
+    "ShipName": "Ernst Handel",
+    "ShipAddress": "Kirchgasse 6",
+    "ShipCity": "Graz",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "8010",
+    "ShipCountry": "Austria"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ERNSH",
+    "CustomerName": "Ernst Handel"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "3",
+    "ShipperName": "Federal Shipping"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-15",
+    "ShippedDate": "2017-08-18",
+    "Products": [
+      {
+        "Product": "Queso Manchego La Pastora",
+        "Quantity": 36,
+        "UnitPrice": 38.0,
+        "Total": 1368.0
+      },
+      {
+        "Product": "Konbu",
+        "Quantity": 13,
+        "UnitPrice": 6.0,
+        "Total": 78.0
+      },
+      {
+        "Product": "Gumbär Gummibärchen",
+        "Quantity": 35,
+        "UnitPrice": 31.23,
+        "Total": 1093.05
+      },
+      {
+        "Product": "Tarte au sucre",
+        "Quantity": 80,
+        "UnitPrice": 49.3,
+        "Total": 3944.0
+      }
+    ],
+    "TotalPrice": 6483.05
+  }
+}

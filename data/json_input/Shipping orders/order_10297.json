@@ -1,0 +1,41 @@
+{
+  "OrderID": "10297",
+  "ShippingDetails": {
+    "ShipName": "Blondel père et fils",
+    "ShipAddress": "24, place Kléber",
+    "ShipCity": "Strasbourg",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "67000",
+    "ShipCountry": "France"
+  },
+  "CustomerDetails": {
+    "CustomerID": "BLONP",
+    "CustomerName": "Blondesddsl père et fils"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Steven Buchanan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2016-09-04",
+    "ShippedDate": "2016-09-10",
+    "Products": [
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 60,
+        "UnitPrice": 14.4,
+        "Total": 864.0
+      },
+      {
+        "Product": "Mozzarella di Giovanni",
+        "Quantity": 20,
+        "UnitPrice": 27.8,
+        "Total": 556.0
+      }
+    ],
+    "TotalPrice": 1420.0
+  }
+}

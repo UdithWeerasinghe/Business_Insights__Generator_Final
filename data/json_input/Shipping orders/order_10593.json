@@ -1,0 +1,47 @@
+{
+  "OrderID": "10593",
+  "ShippingDetails": {
+    "ShipName": "Lehmanns Marktstand",
+    "ShipAddress": "Magazinweg 7",
+    "ShipCity": "Frankfurt a.M.",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "60528",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "LEHMS",
+    "CustomerName": "Lehmanns Marktstand"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Robert King"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-07-09",
+    "ShippedDate": "2017-08-13",
+    "Products": [
+      {
+        "Product": "Sir Rodney's Marmalade",
+        "Quantity": 21,
+        "UnitPrice": 81.0,
+        "Total": 1701.0
+      },
+      {
+        "Product": "Gudbrandsdalsost",
+        "Quantity": 20,
+        "UnitPrice": 36.0,
+        "Total": 720.0
+      },
+      {
+        "Product": "Lakkalikööri",
+        "Quantity": 4,
+        "UnitPrice": 18.0,
+        "Total": 72.0
+      }
+    ],
+    "TotalPrice": 2493.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "OrderID": "10651",
+  "ShippingDetails": {
+    "ShipName": "Die Wandernde Kuh",
+    "ShipAddress": "Adenauerallee 900",
+    "ShipCity": "Stuttgart",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "70563",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "WANDK",
+    "CustomerName": "Die Wandernde Kuh"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Laura Callahan"
+  },
+  "ShipperDetails": {
+    "ShipperID": "2",
+    "ShipperName": "United Package"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-09-01",
+    "ShippedDate": "2017-09-11",
+    "Products": [
+      {
+        "Product": "Teatime Chocolate Biscuits",
+        "Quantity": 12,
+        "UnitPrice": 9.2,
+        "Total": 110.39999999999999
+      },
+      {
+        "Product": "Gustaf's Knäckebröd",
+        "Quantity": 20,
+        "UnitPrice": 21.0,
+        "Total": 420.0
+      }
+    ],
+    "TotalPrice": 530.4
+  }
+}

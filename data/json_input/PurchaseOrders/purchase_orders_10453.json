@@ -1,0 +1,19 @@
+{
+  "OrderID": "10453",
+  "OrderDate": "2017-02-21",
+  "CustomerName": "Thomas Hardy",
+  "Products": [
+    {
+      "ProductID": "48",
+      "Product": "Chocolade",
+      "Quantity": 15,
+      "UnitPrice": 10.2
+    },
+    {
+      "ProductID": "70",
+      "Product": "Outback Lager",
+      "Quantity": 25,
+      "UnitPrice": 12.0
+    }
+  ]
+}

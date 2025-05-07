@@ -1,0 +1,47 @@
+{
+  "OrderID": "10643",
+  "ShippingDetails": {
+    "ShipName": "Alfreds Futterkiste",
+    "ShipAddress": "Obere Str. 57",
+    "ShipCity": "Berlin",
+    "ShipRegion": "Western Europe",
+    "ShipPostalCode": "12209",
+    "ShipCountry": "Germany"
+  },
+  "CustomerDetails": {
+    "CustomerID": "ALFKI",
+    "CustomerName": "Alfreds Futterkiste"
+  },
+  "EmployeeDetails": {
+    "EmployeeName": "Michael Suyama"
+  },
+  "ShipperDetails": {
+    "ShipperID": "1",
+    "ShipperName": "Speedy Express"
+  },
+  "OrderDetails": {
+    "OrderDate": "2017-08-25",
+    "ShippedDate": "2017-09-02",
+    "Products": [
+      {
+        "Product": "Rössle Sauerkraut",
+        "Quantity": 15,
+        "UnitPrice": 45.6,
+        "Total": 684.0
+      },
+      {
+        "Product": "Chartreuse verte",
+        "Quantity": 21,
+        "UnitPrice": 18.0,
+        "Total": 378.0
+      },
+      {
+        "Product": "Spegesild",
+        "Quantity": 2,
+        "UnitPrice": 12.0,
+        "Total": 24.0
+      }
+    ],
+    "TotalPrice": 1086.0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "OrderID": "10943",
+  "OrderDate": "2018-03-11",
+  "CustomerName": "Victoria Ashworth",
+  "Products": [
+    {
+      "ProductID": "13",
+      "Product": "Konbu",
+      "Quantity": 15,
+      "UnitPrice": 6.0
+    },
+    {
+      "ProductID": "22",
+      "Product": "Gustaf's Knäckebröd",
+      "Quantity": 21,
+      "UnitPrice": 21.0
+    },
+    {
+      "ProductID": "46",
+      "Product": "Spegesild",
+      "Quantity": 15,
+      "UnitPrice": 12.0
+    }
+  ]
+}
