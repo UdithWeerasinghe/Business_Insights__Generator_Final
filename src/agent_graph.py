@@ -21,11 +21,24 @@ llm_client = OllamaLLM(
 # --- Node 1: Search ---
 def search_node(state):
     query = state["query"]
+    # If the query is short or just a brand, ask the LLM to expand it
+    if len(query.split()) < 3:
+        clarification_prompt = (
+            f"The user asked: '{query}'. "
+            "If this is a brand name or ambiguous, expand it to a full product query (e.g., 'sales of the beverage <brand>' or 'sales of <brand> across all categories'). "
+            "Otherwise, return the query as is."
+        )
+        try:
+            expanded_query = llm_client.invoke(clarification_prompt)
+            if expanded_query and isinstance(expanded_query, str):
+                query = expanded_query.strip()
+        except Exception:
+            pass  # fallback to original query if LLM fails
+
+    # Now use the expanded query for vector retrieval
     docs = analysis.retrieve_relevant_docs(query, index, documents, embedder, top_k=5)
-    # Pick the best time series doc for forecasting
     ts_docs = [d for d in docs if d["type"] == "timeseries" and len(d["series"]) >= 2]
     best_ts = ts_docs[0] if ts_docs else None
-    # Gather text docs for insights
     text_docs = {d["file"]: d["text"] for d in docs if d["type"] == "text"}
     return {**state, "best_ts": best_ts, "text_docs": text_docs}
 
